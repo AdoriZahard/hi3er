@@ -460,3 +460,12 @@ If you are a melee valk, take the melee damage: Senti, BKE, SpA/RA, FR, DA, SN, 
 If you spam weapon skill, take weapon skill: MA, PV, VG, SW, AkA, MPE, RC, and BKE no AF
 
 If you can crit (which means you are physical), take that modifer: all physical valks
+
+If you spam time fracture, take the time slow buff: HoS, HoR, Mobius, FK, PE, SN, BKE, Nyx, SW, and PV
+
+If you are good at fighting HoD, take HoD.
+
+Max Sp plus is always great if you are going to use eden.
+
+## Builds
+Please check our builds in rentry.co/hi3er
