@@ -91,13 +91,17 @@ No = Don't get this
 > For more information on ER like how to signet build or known bugs, click [here](https://rentry.co/thebuttererguide). Pretty useful if  say so myself
 **Table of Contents (In alphebetical order):**
 [TOC]
+
 # Argent Knight: Artemis
+
 Time | Support 1 | Support 2
 :------: | :------: | :------:
 Early | AE | LE
 Mid | AE | LE/HB/BR
 Late | AE | HB/BR
+
 ### ->Elysia - Signet of ■■<-
+
 Signet | Priority
 ------|:----:
 **Blessing of Frost Scythe**: Tap [ATK] after evasion to hurl Frost Guisarmier which spins for 5s, gathers enemies nearby, and deal 5400% ATK of Ice DMG. CD: 10s | 1st
@@ -105,7 +109,9 @@ Signet | Priority
 **Blessing of Winter Harvest**: Enemies recovering from Ice Cell are inflicted with 1 stack of Hypothermia | 3rd
 **Blessing of Cold Moon**: Inflicting Ice Cell also creates a self-centered Frost Ring lasting 6s which deals 180% ATK of Ice DMG per 0.3s to enemies nearby | 3rd
 **Blessing of Uranian Mirror**: Burst mode consumes 100% more SP and Valkyrie deals 90% bonus Total DMG in burst mode | Filler
+
 ### ->Mobius - Signet of Infinity (1st Core) <-
+
 Signets | Priority
 ------ | :------:
 **Lip Poison [E]:** Total DMG from summoned entities, ELFs, and Support Valkyries increases by 60%. ELFs | 1st
@@ -114,14 +120,18 @@ Signets | Priority
 **Nexus Signet 1: Infinite [X]** |
 **Dead [X]**: For every second in Mind Sync, Valkyrie herself, summoned entities, ELFs, and Support Valkyries deal 10% bonus Total DMG. 5 stacks max. 9 stacks max with any summoned entity present. Reset on exiting Mind Sync | **YES**
 **Newborn [X]:** Triggering Mind Sync again during Mind Sync no longer resets the duration but extends the duration by 4.0s instead. With any summoned entity present, the duration is extended by 5s additionally | Filler
+
 ### -> Kevin - Signet of Deliverance (2nd Core)<-
+
 Signet | Priority
 ------|:----:
 **Artifact of the Inhibitor**: Ultimate boosts Elemental Breach by 25% for 5s | 1st
 **Brand of the Undead**: Ultimate boosts Elemental DMG by 30% for 5s | 2nd
 **Goblet of the Giver**: Ultimate boosts Total DMG by 35% for 5s | 3rd
 **Nexus Signet 2: Shadow of the Deliverer** |
+
 ### ->Eden - Signet of Gold (2nd Core)<-
+
 Signet | Priority
 ---- | :----:
 **Recitatif of Creeks**: Every 10 SP left boosts Physical & Elemental DMG by 2.5% | 1st
@@ -131,12 +141,14 @@ Signet | Priority
 **Echo of Silent Night**: After lasting over 7s, reduce ATK, DEF, ele resists of enemies nearby | 1st
 **Echo of Withered Soil**: After lasting over 7s, boost SP cap and restore SP/s till it ends | Filler
 ### ->Su - Signet of Bodhi (2nd Core)<-
+
 Signet | Priority
 ---- | :----:
 **Motto of Dibba-Cakkhu**: Combo hits are reset at to boost Total DMG taken by all enemies by 35% for 10s | 1st
 **Motto of Asavakkhaya**: Attacks grant 25 bonus combo hits on hit. CD: 5s | 2nd
 **Motto of Iddhi-Vidha**: Combo hits are increased to 60 when below 60. CD: 10s | 3rd
 **Nexus Signet 2: Dictum of Bodhi** |
+
 ***
 # Bright Knight: Excelsis
 Time | Support 1 | Support 2
