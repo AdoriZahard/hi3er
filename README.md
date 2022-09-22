@@ -1,1 +1,1 @@
-Please change the branch to gb-pages if you want to edit or view index.md
+Please edit docs/index.md, do not touch gh-pages or your changes may be overwritten
