@@ -43,59 +43,9 @@ Please note that this is only true for there reward scores, and not the actual p
 
 **Table of Contents (In alphebetical order):**
 
-- Valkyrie Builds:
-	1. [Argent Knight: Artemis](#argent-knight-artemis)
-	2. [Bright Knight: Excelsis](#bright-knight-excelsis)
-	3. [Dea Anchora](#dea-anchora)
-	4. [Disciplinary Perdition](#disciplinary-perdition)
-		- [Auto Atk Spam](#auto-atk-spam)
-	5. [Fallen Rosemary (6D/7D Husk)](#fallen-rosemary-6d7d-husk)
-    6. [Fervent Tempo: Delta](#fervent-tempo-delta)
-	7. [Golden Diva](#golden-diva)
-		- [Combo Spam](#combo-spam)
-	8. [Herrscher of Flamescion (6D/7D HoDom)](#herrscher-of-flamescion-6d7d-hodom)
-    9. [Herrscher of Humanity](#herrscher-of-humanity)
-        - [Ultimate Build](#ultimate-build)
-        - [Ballista Build](#ballista-build)
-	9. [Herrscher of Reason](#herrscher-of-reason)
-		- [Evade Build](#evade)
-		- [Ult Build](#ult)
-	10. [Herrscher of Sentience (6D/7D Husk)](#herrscher-of-sentience-6d7d-husk)
-		- [General Build](#HoS-General-Build-7D)
-		- [Ego (Summoned Entities) Build](#HoS-Ego-Mobius-Build-7D)
-        - [Kosma Build](#S0-HoS-Kosma-Build-7D)
-    11. [Herrscher of Thunder](#herrscher-of-thunder)
-        - [4-5 Auto Spam](#4-5)
-        - [Burst Build](#burst)
-    12. [Herrscher of Void](#herrscher-of-void)
-        - [Thanos Snap Build 7D](#Thanos-Snap-Mobius-Build-7D)
-    13. [Infinite Ouroboros (6D/7D HoDom)](#infinite-ouroboros-6d7d-hodom)
-    13. [Luna Kindred](#luna-kindred)
-    14. [Midnight Absinthe (7D HoDom)](#midnight-absinthe-7d-hodom)
-        - [5-core build](#5-core-build)
-    15. [Miss Pink Elf](#miss-pink-elf)
-    16. [Palatinus Equinox](#palatinus-equinox)
-    17. [Prinzessin der Verurteilung](#prinzessin-der-verurteilung)
-    18. [Reverist Calico (6D/7D HoDom)](#reverist-calico-6d7d-hodom)
-        - [Weapon Spam Build](#weapon-spam-build)
-        - [Ult Build](#ult-build)
-        - [Phyllis Build](#phyllis-build)
-    19. [Ritual Imayoh](#ritual-imayoh)
-    20. [Silverwing N-EX](#silverwing-n-ex)
-    21. [Spina Astera](#spina-astera)
-    22. [Starchasm Nyx](#starchasm-nyx)
-    23. [Starry Impression](#starry-impression)
-    24. [Striker Fulminata](#striker-fulminata)
-    25. [Stygian Nymph](#stygian-nymph)
-    26. [Sweet 'n' Spicy (4D/5D HoDom)](#sweet-n-spicy-4d5d-hodom)
-    27. [Twilight Paladin](#twilight-paladin)
-    28. [Valkyrie Gloria](#valkyrie-gloria)
-- [Difference between Kalpas core 1 & 2 and Su core 1 & 2](#difference-between-kalpas1-and-kalpas2)
-- [Credits](#creditors-and-what-they-did)
+[TOC]
 
-
-
-# Argent Knight: Artemis
+## Argent Knight: Artemis
 
 ![omg jojo stand user](https://cdn.discordapp.com/attachments/967717692465365133/982328480106708992/rita_rossweisse_and_rita_rossweisse_honkai_and_1_more_drawn_by_kei_soundcross__sample-237aafeedb2d70329926c59547ea5313.jpg)
 
@@ -111,7 +61,7 @@ Early | Forbidden Seed/Burden | AE | LE
 Mid | Golden Goblet/Light as a Leaf | AE | LE/HB
 Late | Home Lost/ | AE | HB
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -121,7 +71,7 @@ Signet | Priority
 **Blessing of Cold Moon**: Inflicting Ice Cell also creates a self-centered Frost Ring lasting 6s which deals 180% ATK of Ice DMG per 0.3s to enemies nearby | Optional
 **Blessing of Uranian Mirror**: Burst mode consumes 100% more SP and Valkyrie deals 90% bonus Total DMG in burst mode | Filler
 
-###<p align="center">Mobius - Signet of Infinity (1st Core)</p>
+####<p align="center">Mobius - Signet of Infinity (1st Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -132,7 +82,7 @@ Signet | Priority
 **Dead [X]**: For every second in Mind Sync, Valkyrie herself, summoned entities, ELFs, and Support Valkyries deal 10% bonus Total DMG. 5 stacks max. 9 stacks max with any summoned entity present. Reset on exiting Mind Sync | **YES**
 **Newborn [X]:** Triggering Mind Sync again during Mind Sync no longer resets the duration but extends the duration by 4.0s instead. With any summoned entity present, the duration is extended by 5s additionally | Filler
 
-###<p align="center">Kevin - Signet of Deliverance (2nd Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (2nd Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -143,7 +93,7 @@ Signet | Priority
 **Nexus Signet 2: Shadow of the Deliverer** |
 **Dream of the Deliverer**: While War of the Deliverer is active increase normal signets of Deliverance effects by 50% | **YES** 
 
-###<p align="center">Eden - Signet of Gold (2nd Core)</p>
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -154,7 +104,7 @@ Signet | Priority
 **Echo of Silent Night**: After lasting over 7s in Final Note, reduce ATK, DEF, ele resists of enemies nearby | 1st
 **Echo of Withered Soil**: After lasting over 7s in Final Note, boost SP cap and restore SP/s till it ends | Filler
 
-###<p align="center">Su - Signet of Bodhi (2nd Core)</p>
+####<p align="center">Su - Signet of Bodhi (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -166,7 +116,7 @@ Signet | Priority
 
 ***
 
-# Bright Knight: Excelsis
+## Bright Knight: Excelsis
 
 ![shes a cutiepie](https://elysian-realm.vercel.app/images/bright-knight-excelsis.png)
 
@@ -182,7 +132,7 @@ Early | Forget-Me-Not/Mad King's Mask | VC | LE
 Mid | Forget-Me-Not/Grey-scale Rainbow | SS | LE/BR 
 Late | Stained Sakura/Home Lost | SS | BR 
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -192,7 +142,7 @@ Signet | Priority
 **Blessing of Holy Lance**: During Basic ATK SEQ 4, tap [ATK] repeatedly to thrust the lance at enemies in an increasingly violent manner to deal a total of 6000% ATK of Physical DMG, and Valkyrie is immune to frontal and flank attacks. When Valkyrie's SEQ 4 attack reaches its peak, Basic ATK SEQ 5 will be enhanced to deal 3500% ATK of bonus Physical DMG to enemies in a large area | No
 **Blessing of Formation**: Basic ATK SEQ 5 creates a 3-sec Grav Singularity that pulls in surrounding enemies and deals 2100% ATK of Physical DMG to them. Basic ATK SEQ 4 & 5 and the explosion of the Grav Singularity boost Valkyrie's Total DMG by 3% for 40s (15 stacks max) | No
 
-###<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -203,7 +153,7 @@ Signet | Priority
 **Echo of the Deliverer**:  Duration of Final Battle and all buffs provided by Normal Signets of Deliverance are extended to 8s | **YES**
 **Crusade of the Deliverer**:After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | 1st
 
-###<p align="center">Sakura - Signet of Setsuna (1st Core)</p>
+####<p align="center">Sakura - Signet of Setsuna (1st Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -213,7 +163,7 @@ Signet | Priority
 **Nexus Signet 1: Setsuna Blade: Sakura ni Maku**: |
 **Setsuna Blade: Ame-Shiko**: Activating Sakura Screen resets Ultimate CD and weapon active CD | **YES**
 
-###<p align="center">Griseo - Signet of Stars (1st Core)</p>
+####<p align="center">Griseo - Signet of Stars (1st Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -224,7 +174,7 @@ Signet | Priority
 **Nexus Signet 1: Shine like Stars** |
 **Blooming like Flowers**: When enemies of countering types are tainted with both blue and red paints, Valkyries deal 50% bonus Total DMG to them (cannot stack) | **YES**
 
-###<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -236,7 +186,7 @@ Signet | Priority
 
 ***
 
-# Dea Anchora
+## Dea Anchora
 Quick search: DA, dudu
 
 ![leg bow is the meta in ER indeed, i mean look at em thig- ahem.](https://embed.pixiv.net/artwork.php?illust_id=90947488)
@@ -253,7 +203,7 @@ Early | Burden | AE | LE
 Mid | Gold Goblet/Light as a Bodhi Leaf | AE | LE/BR
 Late | It Will Be Written/Home Lost | AE | MA/BR
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -263,7 +213,7 @@ Signet | Priority
 **Blessing of Brilliance**: Voidstar Anchor and Astral Flares EX cost no SP and restore 3 SP. Every 30 SP restored deals 800% ATK of Fire DMG to enemies within 10 meters. CD: 6s | **1st**
 **Blessing of Gale**: In Astral Hamess, all attacks ignite enemies hit and ignited enemies take 25% bonus Total DMG for 10s | Filler
 
-###<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -274,7 +224,7 @@ Signet | Priority
 **Nexus Signet 1: Blade of the Deliverer**: |
 **Crusade of the Deliverer**: After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | 1st
 
-###<p align="center">Eden - Signet of Gold (2nd Core)</p>
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -284,7 +234,7 @@ Signet | Priority
 **Nexus Signet 2: Echo of Gold** |
 **Echo of Silent Night**: After lasting over 7s, reduce ATK, DEF, ele resists of enemies nearby | YES
 
-###<p align="center">Griseo - Signet of Stars (1st Core)</p>
+####<p align="center">Griseo - Signet of Stars (1st Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -294,7 +244,7 @@ Signet | Priority
 **Grey & Empty**: Enemies stay tainted for 5s longer | 3rd
 **Nexus Signet 1: Shine like Stars** | 
 
-###<p align="center">Su - Signet of Bodhi (2nd Core)</p>
+####<p align="center">Su - Signet of Bodhi (2nd Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -307,7 +257,7 @@ Signet | Priority
 
 ***
 
-# Disciplinary Perdition
+## Disciplinary Perdition
 Search Tags: DPe, DiP, Nun, Aponia
 
 ![Nunny mommy purify me](https://elysian-realm.vercel.app/images/disciplinary-perdition.jpg)
@@ -327,8 +277,8 @@ Late | Resolve/Hometown | AE | BR
 !!! warning
     Aponia Disciplinary Perdition can use almost every single signet so her builds are very flexible
 
-## --  Auto Atk Spam 
-###<p align="center">Elysia - Signet of ■■</p>
+### --  Auto Atk Spam 
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -339,7 +289,7 @@ Signet | Priority
 **Blessing of Rescue**: Illusory Summoned Entity will deal Paralyse Trauma alongside DMG. DMG dealt by your Ultimate Evasion Skill increases 120%. Lightning DMG dealt by you or your illusion increases 70% | Filler
 
 
-###<p align="center">Aponia - Signet of Discipline (1st Core)</p>
+####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -349,7 +299,7 @@ Signet | Priority
 **Nexus Signet Core 1: You Shall Be Subject to Numerous Disciplines** |
 **You Shall Be Bound by Thy Body**: In Mortification, Basic ATK has 30% Physical Breach and Elemental Breach but Ultimate deals 20% less Total DMG | 1st
 
-###<p align="center">Eden - Signet of Gold (2nd Core)</p>
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -360,7 +310,7 @@ Signet | Priority
 **Echo of Silent Night**: After lasting over 7s, reduce ATK, DEF, ele resists of enemies nearby | 1st
 **Echo of Withered Soil**: After lasting over 7s, boost SP cap and restore SP/s till it ends | Filler
 
-###<p align="center">Su - Signet of Bodhi (2nd Core)</p>
+####<p align="center">Su - Signet of Bodhi (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -369,7 +319,7 @@ Signet | Priority
 **Motto of Asavakkhaya**: Attacks grant 25 bonus combo hits on hit. CD: 5s | 3rd
 **Nexus Signet 2: Dictum of Bodhi** |
 
-###<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -381,8 +331,8 @@ Signet | Priority
 **Crusade of the Deliverer**:After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | **YES**
 
 
-## --  Ult and Golden spam 
-###<p align="center">Elysia - Signet of ■■</p>
+### --  Ult and Golden spam 
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -392,7 +342,7 @@ Signet | Priority
 **Blessing of Atonement**: Aponia illusory Summoned Entity wherever she does, dealing 385% Lightning DMG every second to surrounding enemies. The illusion's Total DMG increases 100% and restores 12 SP after leaving Predictor's Sentence form | 2nd
 **Blessing of Rescue**: Illusory Summoned Entity will deal Paralyse Trauma alongside DMG. DMG dealt by your Ultimate Evasion Skill increases 120%. Lightning DMG dealt by you or your illusion increases 70% | Filler
 
-###<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -403,7 +353,7 @@ Signet | Priority
 **Echo of the Deliverer**:  Duration of Final Battle and all buffs provided by Normal Signets of Deliverance are extended to 8s | **YES**
 **Crusade of the Deliverer**:After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | **YES**
 
-###<p align="center">Eden - Signet of Gold (2nd Core)</p>
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -414,7 +364,7 @@ Signet | Priority
 **Echo of Silent Night**: After lasting over 7s, reduce ATK, DEF, ele resists of enemies nearby | 1st
 **Echo of Withered Soil**: After lasting over 7s, boost SP cap and restore SP/s till it ends | Filler
 
-###<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -424,7 +374,7 @@ Signet | Priority
 **Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter**: HP cannot exceed 18% of max HP. Healing HP charges [Bloodboil Garment] |
 **Death, Life, Oblivion, and Existence**:  If [Bloodboil Garment] exceeds 1500, when taking damage, reduces damage taken by 1% of [Bloodboil Garment] | **YES**
 
-###<p align="center">Su - Signet of Bodhi (2nd Core)</p>
+####<p align="center">Su - Signet of Bodhi (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -436,7 +386,7 @@ Signet | Priority
 
 ***
 
-# Fallen Rosemary (6D/7D Husk)
+## Fallen Rosemary (6D/7D Husk)
 Quick Search: FR, Rita, Maid
 
 ![she has so many animals, maybe i can be one too?](https://cdn.discordapp.com/attachments/967717692465365133/982328522628550666/rita_rossweisse_and_rita_rossweisse_honkai_and_1_more_drawn_by_vierzeck__sample-628bb95fce62fa2a79cb00ec837513b8.jpg)
@@ -453,7 +403,7 @@ Early | Burden | AE | LE
 Mid | Light as a Bodhi Leaf/Gold Goblet | AE | LE/BR
 Late | Dreamful Gold/Home Lost | AE | BR
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -465,7 +415,7 @@ Signet | Priority
 !!! note
     The loop-able combo from Soul Siphon drops from being used 6 times to 3 times at ss2
 
-###<p align="center">Su - Signet of Bodhi (2nd Core)</p>
+####<p align="center">Su - Signet of Bodhi (2nd Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -475,7 +425,7 @@ Signet | Priority
 **Nexus Signet 2: Dictum of Bodhi** |
 **Dictum of Anatman**: The Bodhi: Eyes Open lasts for 3s longer. For every debuff on the target enemy, it takes 5% bonus Total DMG | Filler
 
-###<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -488,7 +438,7 @@ Signet | Priority
 **Echo of the Deliverer**: Duration of Final Battle and all buffs provided by Normal Signets of Deliverance are extended to 8s | 1st
 
 
-###<p align="center">Eden - Signet of Gold (2nd Core)</p>
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -500,7 +450,7 @@ Signet | Priority
 
 ***
 
-# Fervent Tempo: Delta
+## Fervent Tempo: Delta
 Quick Search: FT, Roza, Lili, Lily, Vodka Girls
 
 ![She is horny cause she has horns. Its a fact.](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2021/10/05/23/34/50/93250091_p0_master1200.jpg)
@@ -517,7 +467,7 @@ Early | It Will Be Written | SA | SS
 Mid | Dreamful Gold | BR | SS
 Late | Dreamful Gold | SA/BR | SS
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -527,7 +477,7 @@ Signet | Priority
 **Signet 2**: When in Fervent Mode, nearby enemies take 20/25% more Physical DMG (independent effect), juice bar consumption rate increased by 50%. | 3rd
 **Signet 4**: When using Charged ATK or ult, pulls enemies in a large radius in front of the Valkyrie and increases their Total DMG taken by 30/40% for 8s, can be refreshed. | Filler
 
-###<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -539,7 +489,7 @@ Signet | Priority
 **Echo of the Deliverer**:  Duration of Final Battle and all buffs provided by Normal Signets of Deliverance are extended to 8s | 1st
 **Crusade of the Deliverer**:After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | 2nd
 
-###<p align="center">Eden - Signet of Gold (2nd Core)</p>
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -549,7 +499,7 @@ Signet | Priority
 **Recitatif of Good Wine**: Restore 1.5 SP per second | 4th
 **Nexus Signet 2: Echo of Gold**|
 
-###<p align="center">Griseo - Signet of Stars (2nd Core)</p>
+####<p align="center">Griseo - Signet of Stars (2nd Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -561,7 +511,7 @@ Signet | Priority
 
 ***
 
-# Golden Diva
+## Golden Diva
 Quick search: Eden, GD
 
 ![Vercel GD](https://elysian-realm.vercel.app/images/golden-diva.jpg)
@@ -578,8 +528,8 @@ Early | Gold Goblet/Hometown | AE | LE
 Mid | Light as a Bodhi Leaf/Because of You(5F) | AE | LE/BR
 Late | Resolve/Hometown | AE | BR
 
-## --  Combo Spam 
-###<p align="center">Elysia - Signet of ■■</p>
+### --  Combo Spam 
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -589,7 +539,7 @@ Signet | Priority
 **Blessing of Cadenza**: Chord and Variation launch sound waves dealing 550% Lightning DMG. Each wave increases Total DMG reduction by 30% and slightly raises Ignore Interrupt for 10s while restoring 2 or 4 SP respectively. Triggering it again resets the duration | Filler
 **Blessing of Symphony**: Hurl pistols when using Ensemble Playing for 12 SP and dealing 350% Lightning DMG | No
 
-###<p align="center">Eden - Signet of Gold (1st Core)</p>
+####<p align="center">Eden - Signet of Gold (1st Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -599,7 +549,7 @@ Signet | Priority
 **Nexus Signet 1: Aria of Gold**: |
 **Aria of Soil**: Intoxicated enemies take only 10% bonus Total DMG but it can stack up to 3 times | 1st
 
-###<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -609,7 +559,7 @@ Signet | Priority
 **Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter**: HP cannot exceed 18% of max HP. Healing HP charges [Bloodboil Garment] |
 **Hometown, Homeland, Friends, and Acquaintances**:  The cap of Bloodboil Armor charges increases by 500. At over 1500 charges, Bloodboil Armor grants 25% Physical and Elemental Breach | **YES**
 
-###<p align="center">Aponia - Signet of Discipline (1st Core)</p>
+####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -621,7 +571,7 @@ Signet | Priority
 
 !!! note
     Griseo2 is optional
-###<p align="center">Griseo - Signet of Stars (1st Core)</p>
+####<p align="center">Griseo - Signet of Stars (1st Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -632,7 +582,7 @@ Signet | Priority
 
 ***
 
-# Herrscher of Flamescion (6D/7D HoDom)
+## Herrscher of Flamescion (6D/7D HoDom)
 Quick Search: HoFS, HoF, FK, KFC, Burnt Tuna, Flying Fish
 
 ![literally hot](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2021/07/17/00/00/04/91289343_p0_master1200.jpg)
@@ -649,7 +599,7 @@ Early | Mad King's Mask | AE | BR
 Mid | Memory/Because of You(5F) | AE | BR
 Late | 	Stained Sakura/Home Lost | AE | BR
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -659,7 +609,7 @@ Signet | Priority
 **Blessing of Starfire** When a black hole created by the Herrscher of Flamescion ends, a smaller black hole lasting 5s is generated to deal 300% ATK of Fire DMG per second. CD: 3s | Filler(If low gear level, 1st)
 **Blessing of Flamescion** For every black hole created by the Herrscher of Flamescion, Valkyrie restores 25 HP per second and deals 30% bonus Total DMG | Filler
 
-###<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -671,7 +621,7 @@ Signet | Priority
 **Hometown, Homeland, Friends, and Acquaintances**: If [Bloodboil Garment] exceeds 1500, gain 25% physical and elemental breach | **YES**
 **Body, Bones, Heart, and Soul**:  The Bloodboil Armor charges cap increases by 500. When its charges exceed 1500, if it gains HP recovery, when it next deals DMG to enemies, it will have a bonus 800% ATK of adaptive DMG. CD: 5s. | Filler
 
-###<p align="center">Sakura - Signet of Setsuna (1st Core)</p>
+####<p align="center">Sakura - Signet of Setsuna (1st Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -681,7 +631,7 @@ Signet | Priority
 **Nexus Signet 1: Setsuna Blade: Sakura-ni-Maku** | 
 **Setsuna Blade: Ino-Shika-Cho:** When Sakura Screen is active, moving around can pause its duration countdown for up to 3.0s. | Filler
 
-###<p align="center">Su - Signet of Bodhi (2nd Core)</p>
+####<p align="center">Su - Signet of Bodhi (2nd Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -692,10 +642,10 @@ Signet | Priority
 **Dictum of Santam**: Bodhi: Eyes Open inflicts 3 random debuffs lasting 3s on hit. | 1st
 **Dictum of Anatman**: The Bodhi: Eyes Open lasts for 3s longer. For every debuff on the target enemy, it takes 5% bonus Total DMG | 2nd
 
-!!! note
+!!! info
     Optional (Choose one or none):
 
-###<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
+####<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
 
 Signet | Priority
 ----| :----:
@@ -705,7 +655,7 @@ Signet | Priority
 **Nexus Signet 2: Suffering Mass** |
 **Broken Dream**: When possessing Soldier's Remembrance., increase the maximum stack of normal Vicissitude signets by 20 | **YES**
 
-###<p align="center">Eden - Signet of Gold (1st Core)</p>
+####<p align="center">Eden - Signet of Gold (1st Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -714,7 +664,7 @@ Signet | Priority
 **Recitatif of Fine Jade**: Initial SP and max SP increase by 30. | 3rd
 **Nexus Signet 1: Aria of Gold**: |
 
-###<p align="center">Eden - Signet of Gold (2nd Core)</p>
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -725,7 +675,7 @@ Signet | Priority
 **Echo of Silent Night**: After lasting over 7s, reduce ATK, DEF, ele resists of enemies nearby | 1st
 **Echo of Withered Soil**: After lasting over 7s, boost SP cap and restore SP/s till it ends | Filler
 
-###<p align="center">Griseo - Signet of Stars (1st Core)</p>
+####<p align="center">Griseo - Signet of Stars (1st Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -737,24 +687,24 @@ Signet | Priority
 
 ***
 
-# Herrscher of Humanity
+## Herrscher of Humanity
 Quick Search: Elysia, HoH, HoHe, Manta Ray, H2O, Water
 
 ![Elysia HoH](https://preview.redd.it/qwubup6nwhg91.png?width=960&crop=smart&auto=webp&s=0dd53c493400a6de4906d49faa7c9779af67be1b)
 
-###<p align="center">Ultimate Build</p>
+####<p align="center">Ultimate Build</p>
 
 !!! note
     Information pending to be submitted. Complete run of the build here: https://youtu.be/Fgkcml9kPLw
 
-## -- Ballista build
+### -- Ballista build
 
 !!! note
     Information pending to be submitted. Complete run of the build here: https://youtu.be/OdJ-aHcehW0
 
 ***
 
-# Herrscher of Reason
+## Herrscher of Reason
 Quick Search: HoR, Bronya
 
 ![cuteness beyond reason](https://elysian-realm.vercel.app/images/herrscher-of-reason.jpg)
@@ -762,7 +712,7 @@ Quick Search: HoR, Bronya
 !!! note
     5.8 build
 
-## -- Evade
+### -- Evade
 
 >   Boss to be chosen: Aponia
 
@@ -773,7 +723,7 @@ Early | Memory | AE | HB/BR
 Mid | Forget-Me-Not/Because of You | AE | HB/BR
 Late | Stained Sakura/Home Lost | AE | HB/BR
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -783,7 +733,7 @@ Signet | Priority
 **Blessing of Wisdom**: In bike mode, Charged ATK inflicts a Structural Impact on enemies hit and deals 2250% ATK of Ice DMG | 2nd
 **Blessing of Creation**: In non-bike mode, Charged ATKs create 4 hover guns to attack, each dealing 160% ATK of Ice DMG on hit | Filler
 
-###<p align="center">Sakura - Signet of Setsuna (2nd Core)</p>
+####<p align="center">Sakura - Signet of Setsuna (2nd Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -793,7 +743,7 @@ Signet | Priority
 **Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s | 3rd
 **Nexus Signet 2: Setsuna blade: Yasha** |
 
-###<p align="center">Griseo - Signet of Stars (1st Core)</p>
+####<p align="center">Griseo - Signet of Stars (1st Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -804,7 +754,7 @@ Signet | Priority
 **Nexus Signet 1: Shine like Stars** |
 **Blooming like Flowers**: When enemies of countering types are tainted with both blue and red paints, Valkyries deal 50% bonus Total DMG to them (cannot stack) | **YES**
 
-###<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
+####<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
 
 Signet | Priority
 ----| :----:
@@ -815,7 +765,7 @@ Signet | Priority
 **Worldly Troubles**: With Soldier's Remembrance, gain TDM equal to 50% of total damage reduction from signets | 1st
 **Broken Dream**: When possessing Soldier's Remembrance., increase the maximum stack of normal Vicissitude signets by 20 | 2nd
 
-###<p align="center">Su - Signet of Bodhi (2nd Core)</p>
+####<p align="center">Su - Signet of Bodhi (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -826,7 +776,7 @@ Signet | Priority
 
 ***
 
-## -- Ult
+### -- Ult
 
 !!! note
     5.8 build
@@ -839,7 +789,7 @@ Early | AE | LE
 Mid | AE | LE/HB/BR
 Late | AE | HB/BR
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -849,7 +799,7 @@ Signet | Priority
 **Blessing of Reason**: Every hit from hover guns reduces weapon active CD by 0.7s | 3rd
 **Blessing of Creation**: In non-bike mode, Charged ATKs create 4 hover guns to attack, each dealing 160% ATK of Ice DMG on hit | No
 
-###<p align="center">Griseo - Signet of Stars (1st Core)</p>
+####<p align="center">Griseo - Signet of Stars (1st Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -860,7 +810,7 @@ Signet | Priority
 **Nexus Signet 1: Shine like Stars** |
 **Blooming like Flowers**: When enemies of countering types are tainted with both blue and red paints, Valkyries deal 50% bonus Total DMG to them (cannot stack) | **YES**
 
-###<p align="center">Kevin - Signet of Deliverance (2nd Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (2nd Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -869,7 +819,7 @@ Signet | Priority
 **Goblet of the Giver**: Ultimate boosts Total DMG by 35% for 5s | 3rd 
 **Nexus Signet 2: Shadow of the Deliverer** |
 
-###<p align="center">Eden - Signet of Gold (2nd Core)</p>
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -880,7 +830,7 @@ Signet | Priority
 **Echo of Silent Night**: After lasting over 7s, reduce ATK, DEF, ele resists of enemies nearby | 1st
 **Echo of Withered Soil**: After lasting over 7s, boost SP cap and restore SP/s till it ends | Filler
 
-###<p align="center">Sakura - Signet of Setsuna (1st Core)</p>
+####<p align="center">Sakura - Signet of Setsuna (1st Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -892,19 +842,19 @@ Signet | Priority
 
 ***
 
-# Herrscher of Sentience (6D/7D Husk)
+## Herrscher of Sentience (6D/7D Husk)
 Quick Search: HoS, Senti, Hua, Fuhua, Bonk
 
 ![Vercel Senti](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2021/03/05/19/07/59/88230961_p0_master1200.jpg)
 
-###<p align="center">HoS - *General Build* 7D</p>
+####<p align="center">HoS - *General Build* 7D</p>
 
 !!! note
     Updated 6.0.
 
 > Boss to be Chosen: Husk, then Elysia or Vill-V (easiest)
 
-###<p align="center">Setup</p>
+####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
@@ -934,7 +884,7 @@ Early | SS | BR
 Mid | SS | BR
 Late | SS | BR
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 
 Signet | Priority
@@ -948,7 +898,7 @@ Signet | Priority
 !!! note
     This build only requires 2, Victory and Dark Plumes. Rerolling for double start with Dark Plumes is essential as you otherwise will have to deal with SP regen problems without it. If you get a 3rd Ego door during your run, you can take Supremacy for an even smoother run.
 
-###<p align="center">Aponia - Signet of Discipline (1st Core)</p>
+####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
 
 !!! note
     Ideal Order from F1-F7: Double Reroll into Apo2 Core by F4, then 1 Griseo door before F7, then finish Griseo by F7 double
@@ -967,7 +917,7 @@ Signet | Priority
 !!! note
     After Apo2 core, Griseo core is the best one to go after next. 
 
-###<p align="center">Griseo - Signet of Stars (2nd Core)</p>
+####<p align="center">Griseo - Signet of Stars (2nd Core)</p>
 
 
 Signet | Priority
@@ -985,7 +935,7 @@ Signet | Priority
 !!! note
     The moment you get any of the basic paints of Griseo, the gameplay changes. It's essential to save the weapon active and UE skill to time them together with her Ultimate, having all 3 paints. Taint Extension is also very crucial for this, as the +0 alone will increase the duration from 8s to 13s, making up for an entire ult duration of 2 complete series of Victory Slashes.
 
-###<p align="center">Eden - Signet of Gold (3rd Core)</p>
+####<p align="center">Eden - Signet of Gold (3rd Core)</p>
 
 
 Signet | Priority
@@ -1000,7 +950,7 @@ Signet | Priority
 !!! note
     It's not necessary to go for Silent Night, but it's still good to get nevertheless.
 
-###<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
 
 Signet | Priority
 - | :----:
@@ -1010,14 +960,14 @@ Signet | Priority
 **Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
 **Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
 
-###<p align="center">HoS - *Ego Mobius Build* 7D</p>
+####<p align="center">HoS - *Ego Mobius Build* 7D</p>
 
 !!! note
     Adjusted and up to date for 6.0.
 
 > Boss to be Chosen: Vill-V
 
-###<p align="center">Setup</p>
+####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
@@ -1049,7 +999,7 @@ Early | SS | BR
 Mid | SS | BR
 Late | SS | BR
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -1062,7 +1012,7 @@ Signet | Priority
 !!! note
     This build only requires 2, Victory and Ego. Double start is strictly necessary as Ego and Mobius are the main core of this build. You can also take Dark Plumes as 3rd but no more, which will massively help with the SP regen and make the build smoother, especially before F7 as it will be lacking.
 
-###<p align="center">Mobius - Signet of Infinity (1st Core)</p>
+####<p align="center">Mobius - Signet of Infinity (1st Core)</p>
 
 Signet | Priority
 - | :----:
@@ -1077,7 +1027,7 @@ Signet | Priority
 !!! note
     Lip Poison start is the most meaningful, as it has more noticeable damage increase. Also, Lodging is far more valuable than Rodent for finishing 1st core, allowing you to use SN for F7 on Smelter Zombie making it easier to get the double on time. Regarding Newborn, it's only considered if you want to upgrade Dead [X].
 
-###<p align="center">Aponia - Signet of Discipline (2nd Core)</p>
+####<p align="center">Aponia - Signet of Discipline (2nd Core)</p>
 
 Signet | Priority
 - | :----:
@@ -1092,7 +1042,7 @@ Signet | Priority
 !!! note
     SP Regen takes the priority here for this build as start, as without Dark Plumes, Senti will have noticeable SP problems by F7.
 
-###<p align="center">Griseo - Signet of Stars (3rd Core)</p>
+####<p align="center">Griseo - Signet of Stars (3rd Core)</p>
 
 
 Signet | Priority
@@ -1110,7 +1060,7 @@ Signet | Priority
 !!! note
     The moment you get any of the basic paints of Griseo, the gameplay changes. It's essential to save the weapon active and UE skill to time them together with her Ultimate, having all 3 paints. Taint Extension is also very crucial for this, as the +0 alone will increase the duration from 8s to 13s, making up for an entire ult duration of 2 complete series of Victory Slashes.
 
-###<p align="center">Eden - Signet of Gold (4th Core)</p>
+####<p align="center">Eden - Signet of Gold (4th Core)</p>
 
 
 Signet | Priority
@@ -1122,14 +1072,14 @@ Signet | Priority
 **Nexus Signet 2: Echo of Gold** |
 **Echo of Silent Night**: After lasting over 1s, Final Echo reduces the ATK, DEF. and Elemental Resists of enemies nearby by 2% per second (40% max) until it ends. | Optional
 
-## -- S0 HoS - *Kosma Build 7D*
+### -- S0 HoS - *Kosma Build 7D*
 
 !!! note
     Build due to update for 6.0 soon.
 
 > Boss to be Chosen: Husk, then Elysia or Vill-V (easiest)
 
-###<p align="center">Setup</p>
+####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
@@ -1159,7 +1109,7 @@ Early | SS | BR
 Mid | SS | BR
 Late | SS | BR
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -1172,7 +1122,7 @@ Signet | Priority
 !!! note
     This build only requires 2, Victory and Dark Plumes. Rerolling for double start with Dark Plumes is essential as you otherwise will have to deal with SP regen problems without it. If you get a 3rd Ego door during your run, you can take Supremacy for an even smoother run.
 
-###<p align="center">Aponia - Signet of Discipline (1st Core)</p>
+####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
 
 Signet | Priority
 - | :----:
@@ -1187,7 +1137,7 @@ Signet | Priority
 !!! note
     After Apo2 core, what follows is Eden and Kosma's cores. Explanation in their respective sections.
 
-###<p align="center">Eden - Signet of Gold (2nd Core)</p>
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
 Signet | Priority
 - | :----:
@@ -1201,7 +1151,7 @@ Signet | Priority
 !!! note
     Eden takes the priority here due to a much stronger and effective setup together with Aponia 2. It will also remain solid throughout mech land, and Eden's Silent Night is also really strong to try and take.
 
-###<p align="center">Kosma - Signet of Daybreak (3rd Core)</p>
+####<p align="center">Kosma - Signet of Daybreak (3rd Core)</p>
 
 Signet | Priority
 - | :----:
@@ -1217,7 +1167,7 @@ Signet | Priority
 !!! note
     Ensuing Regret takes priority only and only if you get Kalpas2 and you're going to get his Enhanceds, mainly his breach or the adaptive dmg. Otherwise Perpetual Wait is always the choice over this as it'll be more consistent and Kalpas2 is usually left for later floors.
 
-###<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
 
 Signet | Priority
 - | :----:
@@ -1234,12 +1184,12 @@ Signet | Priority
 
 ***
 
-# Herrscher of Thunder
+## Herrscher of Thunder
 Quick search: HoT, Mei, hot mei, dragon
 
 ![Vercel HoT](https://elysian-realm.vercel.app/images/herrscher-of-thunder.jpg)
 
-## --  4-5 
+### --  4-5 
 
 !!! note
     5.8 build
@@ -1252,7 +1202,7 @@ Early | AE | BR
 Mid | AE | BR
 Late | AE | BR
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -1262,7 +1212,7 @@ Signet | Priority
 **Blessing of Mitama**: Max Herrscher Charge doubles and entering burst mode fully restores it. In burst mode, 75 Herrscher Charge is restored per second. Basic ATK Sequence 5 restores 100 bonus Herrscher Charge | No
 **Blessing of Narukami**: Finisher unleashes 8 bolts of Thundering Sanction, each dealing 900% ATK of Lightning DMG on hit | No
 
-###<p align="center">Eden - Signet of Gold (1st Core)</p>
+####<p align="center">Eden - Signet of Gold (1st Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -1274,7 +1224,7 @@ Signet | Priority
 
 !!! note
     Phyllis1 will be replaced by Aponia1 when Aponia1 is released
-###<p align="center">Pardofelis - Signet of Reverie (1st core)</p>
+####<p align="center">Pardofelis - Signet of Reverie (1st core)</p>
 
 Signet | Priority
 ------|:----:
@@ -1285,7 +1235,7 @@ Signet | Priority
 **Nexus Signet 1: Empty Dreams, Self, Set, and Joy** |
 **This Is Not Where We Die**: Valkyries enters with a Good Luck shield. While the shield holds, every 100 Shiny Silvers owned grant 1% Physical and Elemental Breach. The shield can block incoming MG twice before it breaks, and every 500 Shiny Silvers owned grant one more block | Optional 
 
-###<p align="center">Su - Signet of Bodhi (2nd Core)</p>
+####<p align="center">Su - Signet of Bodhi (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -1294,7 +1244,7 @@ Signet | Priority
 **Motto of Iddhi-Vidha**: Combo hits are increased to 60 when below 60. CD: 10s | 3rd
 **Nexus Signet 2: Dictum of Bodhi** |
 
-###<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
+####<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
 
 Signet | Priority
 ----| :----:
@@ -1308,7 +1258,7 @@ Signet | Priority
 
 ***
 
-## --  Burst 
+### --  Burst 
 
 !!! note
     5.8 build
@@ -1321,7 +1271,7 @@ Early | AE | LE
 Mid | AE | LE/BR
 Late | AE | BR
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -1331,7 +1281,7 @@ Signet | Priority
 **Blessing of Hazy Moon**: Basic ATK Sequence 5 unleashes 3 bolts of thundering sanction each dealing 900% ATK Of Lightning DMG on hit | No
 **Blessing of Tsukuyomi**: Tap [ATK] after evasion to connect into Basic ATK Sequence 4. Basic ATK Sequence 4 boosts Total DMG by 40% for 5s | No
 
-###<p align="center">Kevin - Signet of Deliverance (2nd Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (2nd Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -1340,7 +1290,7 @@ Signet | Priority
 **Goblet of the Giver**: Ultimate boosts Total DMG by 35% for 5s | 3rd 
 **Nexus Signet 2: Shadow of the Deliverer** |
 
-###<p align="center">Eden - Signet of Gold (2nd Core)</p>
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -1351,7 +1301,7 @@ Signet | Priority
 **Echo of Silent Night**: After lasting over 7s, reduce ATK, DEF, ele resists of enemies nearby | 1st
 **Echo of Withered Soil**: After lasting over 7s, boost SP cap and restore SP/s till it ends | Filler
 
-###<p align="center">Su - Signet of Bodhi (2nd Core)</p>
+####<p align="center">Su - Signet of Bodhi (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -1362,7 +1312,7 @@ Signet | Priority
 
 !!! note
     Optional (Choose one or none:)
-###<p align="center">Pardofelis - Signet of Reverie (1st core)</p>
+####<p align="center">Pardofelis - Signet of Reverie (1st core)</p>
 
 Signet | Priority
 ------|:----:
@@ -1374,19 +1324,19 @@ Signet | Priority
 **This Is Not Where We Die**: Valkyries enters with a Good Luck shield. While the shield holds, every 100 Shiny Silvers owned grant 1% Physical and Elemental Breach. The shield can block incoming MG twice before it breaks, and every 500 Shiny Silvers owned grant one more block | Optional 
 
 ***
-# Herrscher of Void
+## Herrscher of Void
 Quick Search: HoV, Salty Tuna, Sirin
 
 ![The void demands ramen noodles](https://cdn.discordapp.com/attachments/976155579565367296/1021183218365501500/anime-girls-honkai-impact-3rd-kiana-kaslana-herrscher-of-the-void-tometoku-thighs-hd-wallpaper-preview.jpg)
 
-## -- Thanos Snap - *Mobius Build 7D*
+### -- Thanos Snap - *Mobius Build 7D*
 
 !!! note
     Updated for 6.0. Strength has been lowered a bit, but otherwise she can still clear.
 
 > Boss to be Chosen: Husk, then Elysia or Aponia
 
-###<p align="center">Setup</p>
+####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
@@ -1425,7 +1375,7 @@ Late | VC | BR or SS
 !!! note
     You can instead take SS if you don't like low HP gameplay & want to play safe as HoV can die without Hua shield. This also impacts into the choice of cores, further explained below.
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 
 Signet | Priority
@@ -1439,7 +1389,7 @@ Signet | Priority
 !!! note
     Innateness is a must, Coleus is needed, so double Ely start is the best. Regarding Virtuality and Annihilation, if you get a 3rd Ego Door, go ahead and grab it unless you'd otherwise get an essential core. Mobius is not essential to rush and complete. There's no winner over Virtuality or Annihilation, as both are strong in their own with almost no noticeable difference whatsoever, however, if you don't like Virtuality's downsides (can make mobs have delayed spawn or lock some enemies in the air in a way that HoV can't target them and reduce her CD's with Innaneness), then Annihilation is taken.
 
-###<p align="center">Mobius - Signet of Infinity (1st Core)</p>
+####<p align="center">Mobius - Signet of Infinity (1st Core)</p>
 
 !!! note
     Ideal course of build up: 2 Ego Start , 1st Core by F4, Dead [X] by F5 or F6 , Griseo by F5 or F6 , Griseo 2nd Core by F7 , 3rd and 4th Core by F11.
@@ -1457,7 +1407,7 @@ Signet | Priority
 !!! note
     Lip Poison can be taken for synergy with the Ego signet, Coleus. Either that, or if you don't get Lodging in your signet choices. Dead doesn't feel as impactful this time around to get, so getting it isn't a priority.
 
-###<p align="center">Griseo - Signet of Stars (2nd Core)</p>
+####<p align="center">Griseo - Signet of Stars (2nd Core)</p>
 
 
 Signet | Priority
@@ -1474,7 +1424,7 @@ Signet | Priority
 !!! danger
     From here, the order isn't that impactful. If you chose BR and don't have Virtuality, absolutely take Hua. If you don't care, pick between Sakura or Vill-V. If you chose to go with SS, you can take any of these 3.
 
-###<p align="center">Hua - Signet of Vicissitude (3rd Core)</p>
+####<p align="center">Hua - Signet of Vicissitude (3rd Core)</p>
 
 
 Signet | Priority
@@ -1489,7 +1439,7 @@ Signet | Priority
     Hua is the safest way to play HoV thanks to her shield. Virtuality helps to offset this to some extent however, if you don't manage to get Hua's 2nd core in the run. The lesser but big black goat of the build.
 
 
-###<p align="center">Sakura - Signet of Setsuna (4th Core)</p>
+####<p align="center">Sakura - Signet of Setsuna (4th Core)</p>
 
 
 Signet | Priority
@@ -1503,7 +1453,7 @@ Signet | Priority
 !!! note
     Fuji together with Sakura Screen are the black goats of this build. Fuji is really nasty as it intensifies the cheese even further as it allows for a constant UE spam without any 1-sec delays whatsoever due to waiting its CD. This is, however, not possible without Elysia M or SirinA M's -20% CDR on UE effects. So on these cases, Ume has the win.
 
-###<p align="center">Vill-V - Signet of Helix (5th Core)</p>
+####<p align="center">Vill-V - Signet of Helix (5th Core)</p>
 
 
 Signet | Priority
@@ -1526,7 +1476,7 @@ Signet | Priority
 
 ***
 
-# Infinite Ouroboros (6D/7D HoDom)
+## Infinite Ouroboros (6D/7D HoDom)
 Quick Search: IO, Snake, Snek, Mobius
 
 ![mommy eat me up pls-](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2021/11/16/00/05/42/94162385_p0_master1200.jpg)
@@ -1542,7 +1492,7 @@ Early | AE | LE
 Mid | AE | LE/BR 
 Late| AE | BR 
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -1552,7 +1502,7 @@ Signet | Priority
 **Blessing of Ravenousness**: Exiting submerged mode deals 1600% ATK of AOE Lightning DMG and enemies hit take 30% bonus Combo ATK DMG in the next 5s (independent effect) | 2nd
 **Blessing of Mirage**: In submerged mode, enemies in contact take 200% ATK of Lightning DMG per and take 35% bonus Total DMG for 8s | No
 
-###<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -1563,7 +1513,7 @@ Signet | Priority
 **Crusade of the Deliverer**:After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | **YES**
 **Echo of the Deliverer**:  Duration of Final Battle and all buffs provided by Normal Signets of Deliverance are extended to 8s | 1st
 
-###<p align="center">Eden - Signet of Gold (2nd Core)</p>
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -1574,7 +1524,7 @@ Signet | Priority
 **Echo of Silent Night**: After lasting over 7s, reduce ATK, DEF, ele resists of enemies nearby | 1st
 **Echo of Withered Soil**: After lasting over 7s, boost SP cap and restore SP/s till it ends | 2nd
 
-###<p align="center">Mobius - Signet of Infinity (1st Core)</p>
+####<p align="center">Mobius - Signet of Infinity (1st Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -1586,10 +1536,10 @@ Signet | Priority
 **Newborn [X]:** Triggering Mind Sync again during Mind Sync no longer resets the duration but extends the duration by 4.0s instead. With any summoned entity present, the duration is extended by 5s additionally | Filler
 
 
-!!! note
+!!! info
     Optional (choose one or none):
 
-###<p align="center">Sakura - Signet of Setsuna (2nd Core)</p>
+####<p align="center">Sakura - Signet of Setsuna (2nd Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -1598,7 +1548,7 @@ Signet | Priority
 **Bountiful Blossom: Fuji**: Ultimate Evasion Skill has 1 more charge and 10% reduced CD | 3rd
 **Nexus Signet 2: Setsuna Blade: Yasha** | 
 
-###<p align="center">Griseo - Signet of Stars (1st Core)</p>
+####<p align="center">Griseo - Signet of Stars (1st Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -1611,7 +1561,7 @@ Signet | Priority
 
 ***
 
-# Luna Kindred
+## Luna Kindred
 Quick Search: LK, Teri, Theresa
 
 ![Teri Teri DAISHOURI!](https://cdn.discordapp.com/attachments/967717692465365133/982328549983813642/theresa_apocalypse_and_theresa_apocalypse_honkai_and_1_more_drawn_by_mt_ringofive__sample-c28643bef62a51ccbf6d885500418ae4.jpg)
@@ -1627,7 +1577,7 @@ Early | VC | LE
 Mid | VC | LE/DP/BR
 Late | SS | DP/BR
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -1637,7 +1587,7 @@ Signet | Priority
 **Blessing of Immortality** Triggered once at below 1% HP to deal Physical DMG equal to 1.5x the amount of current HP loss to surrounding enemies every 0.8s for 4s, during which Valkyrie will not die and restores 5% HP afterward. This effect's triggering chance will be reset after Valkyrie HP rises back to 33% | No
 **Blessing of Thirst** Lower HP enables higher HP recovery (max boost: 300%). If Valkyrie restores more than 10% HP within a short period of time, all enemies will be impaired for 10s (DEF -30%) | No
 
-###<p align="center">Kosma - Signet of Daybreak (1st core)</p>
+####<p align="center">Kosma - Signet of Daybreak (1st core)</p>
 
 Signet | Priority
 ------|:----:
@@ -1650,7 +1600,7 @@ Signet | Priority
 **Nexus Signet 1: Daybreak, an Undying Light** |
 **Unwavering Promise**: Rend-inflicted enemies take 80% bonus Total DMG and addition 40% bonus Total DMG with 20 Rend stacks or more | Filler
 
-###<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -1660,7 +1610,7 @@ Signet | Priority
 **Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
 **Death, Life, Oblivion, and Existence**:  If [Bloodboil Garment] exceeds 1500, when taking damage, reduces damage taken by 1% of [Bloodboil Garment] | **YES**
 
-###<p align="center">Pardofelis - Signet of Reverie (1st core)</p>
+####<p align="center">Pardofelis - Signet of Reverie (1st core)</p>
 
 Signet | Priority
 ------|:----:
@@ -1671,7 +1621,7 @@ Signet | Priority
 **Nexus Signet 1: Empty Dreams, Self, Set, and Joy** |
 **This Is Not Where We Die**: Valkyries enters with a Good Luck shield. While the shield holds, every 100 Shiny Silvers owned grant 1% Physical and Elemental Breach. The shield can block incoming MG twice before it breaks, and every 500 Shiny Silvers owned grant one more block | Optional 
 
-###<p align="center">Su - Signet of Bodhi (2nd Core)</p>
+####<p align="center">Su - Signet of Bodhi (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -1682,7 +1632,7 @@ Signet | Priority
 
 ***
 
-# Midnight Absinthe (7D HoDom)
+## Midnight Absinthe (7D HoDom)
 Quick search: MA, Raven, Natasha Cioara
 
 ![Bartender Raven stealin mah heart](https://elysian-realm.vercel.app/images/midnight-absinthe.jpg)
@@ -1698,8 +1648,8 @@ Early | AE | LE
 Mid | AE | LE/MA/BR
 Late | AE | MA/BR
 
-## --  5-Core Build 
-###<p align="center">Elysia - Signet of ■■</p>
+### --  5-Core Build 
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -1709,7 +1659,7 @@ Signet | Priority
 **Blessing of Suppression**: Feather Arrows, Feather Blades, Feathers, and Night Roamer stacks cap at 30. Night Roamer boosts Fire DMG by 15% | Filler
 **Blessing of Raven Plume**: Ultimate Evasion Skill reduces the ATK of enemies nearby by 60% and makes Valkyrie's attacks deal 25% ATK of bonus Fire DMG for 12s. Ultimate Evasion Skill has one extra charge | No
 
-###<p align="center">Vill-V - Signet of Helix (1st Core)</p>
+####<p align="center">Vill-V - Signet of Helix (1st Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -1719,7 +1669,7 @@ Signet | Priority
 **Nexus Signet 1: Interlude: Reversed Spiral** |
 **Act VIII: Adorned Chamber**: Marvellous Magic costs 20 SP to boost its base Physical DMG by 35% and grants 30% Physical Breach for 6s | 1st
 
-###<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -1730,7 +1680,7 @@ Signet | Priority
 **Echo of the Deliverer**:  Duration of Final Battle and all buffs provided by Normal Signets of Deliverance are extended to 8s | **YES**
 **Crusade of the Deliverer**:After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | **YES**
 
-###<p align="center">Griseo - Signet of Stars (1st Core)</p>
+####<p align="center">Griseo - Signet of Stars (1st Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -1740,7 +1690,7 @@ Signet | Priority
 **Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration | 4th/Filler
 **Nexus Signet 1: Shine like Stars** |
 
-###<p align="center">Su - Signet of Bodhi (2nd Core)</p>
+####<p align="center">Su - Signet of Bodhi (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -1750,7 +1700,7 @@ Signet | Priority
 **Nexus Signet 2: Dictum of Bodhi** |
 **Dictum of Anatman**: The Bodhi: Eyes Open lasts for 3s longer. For every debuff on the target enemy, it takes 5% bonus Total DMG | Optional
 
-###<p align="center">Eden - Signet of Gold (2nd Core)</p>
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -1762,7 +1712,7 @@ Signet | Priority
 
 ***
 
-# Miss Pink Elf
+## Miss Pink Elf
 Quick Search: MPE, Elysia, Maid
 
 ![Mommy? Mommy? sorry mommy. sorry sorry. yes mommy](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2022/01/08/00/27/50/95371062_p0_master1200.jpg)
@@ -1770,14 +1720,14 @@ Quick Search: MPE, Elysia, Maid
 !!! note
     5.8 build
 
-###<p align="center">Elysia - *Hua Build 7D*</p>
+####<p align="center">Elysia - *Hua Build 7D*</p>
 
 !!! note
     Updated for 5.9. The strength of this build is lowered in 6.0 weather, so don't expect nearly the same results as the run this was done in.
 
 > Boss to be Chosen: Hephaestus, then Mobius 
 
-###<p align="center">Setup</p>
+####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run 
 :----: | :----: | :----: | :----: | :----:
@@ -1809,7 +1759,7 @@ Late | VC | LE or SS
 !!! danger
     LE is swapped ONLY if you grab Eden's Initial/Max SP signet.
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 
 Signet | Priority
@@ -1823,7 +1773,7 @@ Signet | Priority
 !!! note
     This build requires only 2, Zenith and Purity. Beauty is not needed but otherwise really nice to take, will make the run smoother and easier. Other 2 are just NO.
 
-###<p align="center">Vill-V - Signet of Helix (1st Core)</p>
+####<p align="center">Vill-V - Signet of Helix (1st Core)</p>
 
 
 Signet | Priority
@@ -1840,7 +1790,7 @@ Signet | Priority
 !!! note
     Ideal course of action is to take 4-3 Vill-V signets for F4 double clear, then grab 1 Hua door on either F5 or F6, and then grab Hua on F7.
 
-###<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
+####<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
 
 
 Signet | Priority
@@ -1856,7 +1806,7 @@ Signet | Priority
 !!! note
     Hua2 Core has been tested to be stronger and way more impactful over the 3rd Core (Aponia2). Regarding Lost and Found and Worldly Troubles, they're ONLY considered if RNG luck fucks you over like this by not giving you the signets we are looking for.
 
-###<p align="center">Aponia - Signet of Discipline (3rd Core)</p>
+####<p align="center">Aponia - Signet of Discipline (3rd Core)</p>
 
 Signet | Priority
 - | :----:
@@ -1868,12 +1818,12 @@ Signet | Priority
 **You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 2nd
 **You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 3rd
 
-### 4th Core Alternatives: Kalpas and Eden
+#### 4th Core Alternatives: Kalpas and Eden
 
 !!! note
     You pick one or the other, based on your RNG luck and whichever you have better chances of finishing their Core. Kalpas, however, is way stronger while Eden's Core can't keep uptime for the entirety of Elysia's 35s ult duration, but still works.
 
-###<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
 
 Signet | Priority
 - | :----:
@@ -1882,7 +1832,7 @@ Signet | Priority
 **Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
 **Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
 
-###<p align="center">Eden - Signet of Gold (4th Core)</p>
+####<p align="center">Eden - Signet of Gold (4th Core)</p>
 
 Signet | Priority
 - | :----:
@@ -1895,7 +1845,7 @@ Signet | Priority
 !!! note
     As mentioned before, for the purposes of swapping LE out in favor of other supports, you want to take Recitatif of Fine Jade. Best taken by grabbing it from Felis Shop.
 
-###<p align="center">Griseo - Signet of Stars (Optional Signet)</p>
+####<p align="center">Griseo - Signet of Stars (Optional Signet)</p>
 **Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | Optional YES
 
 !!! note
@@ -1906,7 +1856,7 @@ Signet | Priority
 
 ***
 
-# Palatinus Equinox
+## Palatinus Equinox
 Quick Search: PE, Juan, Horse, Goose, Dudu
 
 ![Is this too lewd lmao](https://elysian-realm.vercel.app/images/palatinus-equinox.jpg)
@@ -1922,7 +1872,7 @@ Early | VC | BR
 Mid | VC | BR
 Late | SS | BR
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -1934,7 +1884,7 @@ Signet | Priority
 
 !!! note
     Choose one Sakura, core one or core two
-###<p align="center">Sakura - Signet of Setsuna (1st Core)</p>
+####<p align="center">Sakura - Signet of Setsuna (1st Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -1944,7 +1894,7 @@ Signet | Priority
 **Nexus Signet 1: Setsuna Blade: Sakura ni Maku**: |
 **Setsuna Blade: Ame-Shiko**: Activating Sakura Screen resets Ultimate CD and weapon active CD | **YES**
 
-###<p align="center">Sakura - Signet of Setsuna (2nd Core)</p>
+####<p align="center">Sakura - Signet of Setsuna (2nd Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -1954,7 +1904,7 @@ Signet | Priority
 **Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s | 3rd
 **Nexus Signet 2: Setsuna blade: Yasha** |
 
-###<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -1965,7 +1915,7 @@ Signet | Priority
 **Echo of the Deliverer**:  Duration of Final Battle and all buffs provided by Normal Signets of Deliverance are extended to 8s | 1st
 **Crusade of the Deliverer**:After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | 2nd
 
-###<p align="center">Su - Signet of Bodhi (2nd Core)</p>
+####<p align="center">Su - Signet of Bodhi (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -1974,7 +1924,7 @@ Signet | Priority
 **Motto of Iddhi-Vidha**: Combo hits are increased to 60 when below 60. CD: 10s | 3rd
 **Nexus Signet 2: Dictum of Bodhi** |
 
-###<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -1987,7 +1937,7 @@ Signet | Priority
 
 ***
 
-# Prinzessin der Verurteilung 
+## Prinzessin der Verurteilung 
 Quick Search: PV, Fischl, Genshin, Oz
 
 ![what can I say... she's cute, lv90 and was my main... no lood bareback btw smhsmh bonk](https://cdn.discordapp.com/attachments/967717692465365133/982328610830565456/fischl_genshin_impact_drawn_by_raiya_atelier__sample-f6a310e955ffcff6fe112b15b37914c7.jpg)
@@ -2003,7 +1953,7 @@ Early | AE | FR
 Mid | AE | FR
 Late | AE | FR
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -2013,7 +1963,7 @@ Signet | Priority
 **Blessing of Nightfall**: Weapon actives deal 200% bonus Total DMG. Summoning Oz with Charged ATK or casting Ultimate refills 2 weapon active charges | No
 **Blessing of Dark Wings**: When Ultimate Evasion Skill is triggered, Oz unleashes dark lightning to deal 4200% ATK of Lightning DMG | No
 
-###<p align="center">Kevin - Signet of Deliverance (2nd Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (2nd Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -2022,7 +1972,7 @@ Signet | Priority
 **Goblet of the Giver**: Ultimate boosts Total DMG by 35% for 5s | 3rd 
 **Nexus Signet 2: Shadow of the Deliverer** |
 
-###<p align="center">Su - Signet of Bodhi (2nd Core)</p>
+####<p align="center">Su - Signet of Bodhi (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -2031,7 +1981,7 @@ Signet | Priority
 **Motto of Iddhi-Vidha**: Combo hits are increased to 60 when below 60. CD: 10s | 3rd
 **Nexus Signet 2: Dictum of Bodhi** |
 
-###<p align="center">Eden - Signet of Gold (2nd Core)</p>
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -2042,7 +1992,7 @@ Signet | Priority
 **Echo of Silent Night**: After lasting over 7s, reduce ATK, DEF, ele resists of enemies nearby | 1st
 **Echo of Withered Soil**: After lasting over 7s, boost SP cap and restore SP/s till it ends | Filler
 
-###<p align="center">Griseo - Signet of Stars (1st Core)</p>
+####<p align="center">Griseo - Signet of Stars (1st Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -2052,7 +2002,7 @@ Signet | Priority
 
 ***
 
-# Reverist Calico  (6D/7D HoDom)
+## Reverist Calico  (6D/7D HoDom)
 Quick search: RC, Neko, Cat, Pardo, Phyllis, Pardofelis
 
 ![ok /srs, is this too lewd lmao. i rlly love this picture thoo](https://images-ext-1.discordapp.net/external/MqPd0RGKekUaBfA96jgtSJUPjPurqhqFWeEtBnx3izw/%3Fillust_id%3D97049680/https/embed.pixiv.net/decorate.php)
@@ -2069,8 +2019,8 @@ Early | Golden Goblet/ Light as a Leaf | AE | LE
 Mid | Memory/ Rainbow of Absence | AE | LE/HB
 Late | Home Lost/ Dreamful Gold/ Empty like Shala | AE | HB
 
-## --  Weapon Spam Build 
-###<p align="center">Elysia - Signet of ■■</p>
+### --  Weapon Spam Build 
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -2080,7 +2030,7 @@ Signet | Priority
 **Blessing of Phantasma**: Metaton Furball deals 180% more Ice DMG. Runaway state lasts 5s longer | Filler
 **Blessing of Nighteye**: Paw Barrage/Predation deals 100% more Total DMG. Using Combo ATK reduces Paw Barrage's CD by 2s | Optional
 
-###<p align="center">Vill-V - Signet of Helix (1st Core)</p>
+####<p align="center">Vill-V - Signet of Helix (1st Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -2091,7 +2041,7 @@ Signet | Priority
 **Nexus Signet 1: Interlude: Reversed Spiral** |
 **Act VIII: Adorned Chamber**: Marvellous Magic costs 20 SP to boost its base Physical DMG by 35% and grants 30% Physical Breach for 6s | 1st
 
-###<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -2102,7 +2052,7 @@ Signet | Priority
 **Echo of the Deliverer**:  Duration of Final Battle and all buffs provided by Normal Signets of Deliverance are extended to 8s | 2nd
 **Crusade of the Deliverer**:After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | 1st
 
-###<p align="center">Eden - Signet of Gold (2nd Core)</p>
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -2114,12 +2064,12 @@ Signet | Priority
 **Echo of Withered Soil**: After lasting over 7s, boost SP cap and restore SP/s till it ends | Filler
 
 
-## --  Ult Build 
+### --  Ult Build 
 
 !!! note
     5.8 build
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -2129,7 +2079,7 @@ Signet | Priority
 **Blessing of Hidden Claws**: When Combo ATK/Paw Barrage/Predation hits, the target drops 5 Shiny Silvers. It has 5 charges, which reset every floor (unaffected by other effects). It also increases Ice DMG by 45% for 10s. Triggering it again resets the duration | Filler
 **Blessing of Nighteye**: Paw Barrage/Predation deals 100% more Total DMG. Using Combo ATK reduces Paw Barrage's CD by 2s | Filler
 
-###<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -2143,7 +2093,7 @@ Signet | Priority
 !!! note
     Based on current testing, Flock is an independent modifier. Also, SP/s is preferred over more damage here; maintaining high SP for Eden buffs is important.
 
-###<p align="center">Eden - Signet of Gold (2nd Core)</p>
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -2157,7 +2107,7 @@ Signet | Priority
 !!! note
     Jade > Wine for earlier ulting, but pick Wine if you don't have SP/s from Kevin yet.
 
-###<p align="center">Su - Signet of Bodhi (2nd Core)</p>
+####<p align="center">Su - Signet of Bodhi (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -2166,7 +2116,7 @@ Signet | Priority
 **Motto of Iddhi-Vidha**: Combo hits are increased to 60 when below 60. CD: 10s | 3rd
 **Nexus Signet 2: Dictum of Bodhi** |
 
-###<p align="center">Griseo - Signet of Stars (1st Core)</p>
+####<p align="center">Griseo - Signet of Stars (1st Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -2175,7 +2125,7 @@ Signet | Priority
 **Grey & Empty**: Enemies stay tainted for 5s longer | 3rd
 **Nexus Signet 1: Shine like Stars** |
 
-###<p align="center">Aponia - Signet of Discipline (No Core)</p>
+####<p align="center">Aponia - Signet of Discipline (No Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -2185,12 +2135,12 @@ Signet | Priority
     Only pick Aponia if you can get both of these. Doing 2 combos (when the weapon skill visibly glows) activates Predation, which doesn't activate **Sixth, No Decadence** due to being considered QTE damage. However, normally swapping Moods will activate this debuff. This multiplier is also tested to be independent from Griseo's **Red & Hot** physical and elemental damage taken effect.
 
 
-## --  Phyllis Build 
+### --  Phyllis Build 
 
 !!! note
     5.8 build
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -2203,7 +2153,7 @@ Signet | Priority
 
 !!! note
     F2 &3 must be Merchant Philosophy and Shiny & Valuable, after getting these 2 signets, build eden2 kevin1 kalpas2 first before continuing to build Reverie core (recc to get P&C and Neighbourhood Chatters in Shop)
-###<p align="center">Pardofelis - Signet of Reverie (1st core)</p>
+####<p align="center">Pardofelis - Signet of Reverie (1st core)</p>
 
 Signet | Priority
 ------|:----:
@@ -2213,7 +2163,7 @@ Signet | Priority
 **Neighborhood Chatters**: Every 100 Shiny Silvers obtained this round boost max HP by 25 and max SP by 1 | 4th
 **Nexus Signet 1: Empty Dreams, Self, Set, and Joy** |
 
-###<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -2224,7 +2174,7 @@ Signet | Priority
 **Echo of the Deliverer**:  Duration of Final Battle and all buffs provided by Normal Signets of Deliverance are extended to 8s | 2nd
 **Crusade of the Deliverer**:After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | 1st
 
-###<p align="center">Eden - Signet of Gold (2nd Core)</p>
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -2235,7 +2185,7 @@ Signet | Priority
 **Echo of Silent Night**: After lasting over 7s, reduce ATK, DEF, ele resists of enemies nearby | 1st
 **Echo of Withered Soil**: After lasting over 7s, boost SP cap and restore SP/s till it ends | **YES**
 
-###<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -2248,19 +2198,19 @@ Signet | Priority
 
 ***
 
-# Ritual Imayoh
+## Ritual Imayoh
 Quick search: RI, Kallen
 
 ![Don't even think abt taking otto's sweetheart smh](https://cdn.discordapp.com/attachments/967717692465365133/982328632133427210/kallen_kaslana_and_kallen_kaslana_honkai_and_1_more_drawn_by_aya_0707__sample-9c01136da71faf66783d7845d584a9b5.jpg)
 
-## -- RI - *Aponia Build 6D*
+### -- RI - *Aponia Build 6D*
 
 !!! note
     The strength of this build is weakened for 6.0. Don't expect the same results as the example run shown below.
 
 > Boss to be Chosen: Hephaestus and Aponia
 
-###<p align="center">Setup</p>
+####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
@@ -2289,7 +2239,7 @@ Early | VC | SS
 Mid | VC | SS
 Late | VC | SS
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 
 Signet | Priority
@@ -2303,7 +2253,7 @@ Signet | Priority
 !!! note
     If you don't get Blossom... well, Kevin's SP Regen becomes an absolute must to keep up with abusing him.
 
-###<p align="center">Aponia - Signet of Discipline (1st Core)</p>
+####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
 
 !!! note
     Ideal course of build up: Double Ego start > Apo2 Core by F4 > Apo2 Breach by F5 > Hua or Kevin by F6 > Complete Hua or Kevin 2nd Core by F7.
@@ -2320,7 +2270,7 @@ Signet | Priority
 **You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 2nd
 **You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | Optional 3rd
 
-###<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
+####<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
 
 
 Signet | Priority
@@ -2336,7 +2286,7 @@ Signet | Priority
 !!! note
     If you don't want to suffer through this valk's insufferable non-existent I-frames, absolutely take Hua. She becomes almost unplayable without her, you need to be good at dodging without her shield. If you don't get her... well, you better be a masochist!
 
-###<p align="center">Kevin - Signet of Deliverance (3rd Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (3rd Core)</p>
 
 
 Signet | Priority
@@ -2351,7 +2301,7 @@ Signet | Priority
 !!! note
     If you want to try and fit Crusade of the Deliverer's buff window into every combo, then using Ultimate first and then doing Prosperity's ATK to use Combo at 3 maxed bars would be the ideal to fit the laser into the remaining 2s window of buff. Also, Rochet of Pilgrim's priority changes based on whether or not you get Blossom.
 
-###<p align="center">Mobius - Signet of Infinity (4th Core)</p>
+####<p align="center">Mobius - Signet of Infinity (4th Core)</p>
 
 
 Signet | Priority
@@ -2363,7 +2313,7 @@ Signet | Priority
 **Nexus Signet 1: Infinite [X]** |
 **Dead [X]**: For every second in Mind Sync, Valkyrie herself, summoned entities, ELFs, and Support Valkyries deal 10% bonus Total DMG. 5 stacks max. 9 stacks max with any summoned entity present. Reset on exiting Mind Sync. | 1st
 
-###<p align="center">Griseo - Signet of Stars (5th Signet)</p>
+####<p align="center">Griseo - Signet of Stars (5th Signet)</p>
 
 
 Signet | Priority
@@ -2378,7 +2328,7 @@ Signet | Priority
 
 ***
 
-# Silverwing N-EX
+## Silverwing N-EX
 Quick search: SW, booba bronya
 
 ![boobnya~ u wish u were that chair don't u](https://media.discordapp.net/attachments/977869364067987466/977969902038155314/108ba30c70292d8e89a4104f52ffae43a9a0b95b.jpeg?width=474&height=671)
@@ -2395,7 +2345,7 @@ Early | Golden Goblet/ Light as a Leaf | AE | LE
 Mid | Memory/ Rainbow of Absence | AE | LE/HB
 Late | Home Lost/ Dreamful Gold/ Empty like Shala | AE | HB
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -2405,7 +2355,7 @@ Signet | Priority
 **Blessing of Silver Eagle**: The last sequence of Basic ATKs restores 2 SP and deals 120% of ATK as bonus Ice DMG. With scatter barrier present, Valkyrie deals 25% bonus Ice DMG and the last sequence of Basic ATKs reduces charging CD by 5s | Filler
 **Blessing of Sharp Eyes**: For 10s after landing the Ultimate, Basic ATKs deal 30% of ATK as bonus Ice DMG and Valkyrie restores 25 HP plus 3 SP per second. Triggering it again resets the duration | Filler
 
-###<p align="center">Eden - Signet of Gold (2nd Core)</p>
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -2417,7 +2367,7 @@ Signet | Priority
 **Echo of Withered Soil**: After lasting over 7s, boost SP cap and restore SP/s till it ends | 1st
 **Echo of Silent Night**: After lasting over 7s, reduce ATK, DEF, ele resists of enemies nearby | filler
 
-###<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
+####<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
 
 Signet | Priority
 ----| :----:
@@ -2427,7 +2377,7 @@ Signet | Priority
 **Nexus Signet 2: Suffering Mass** |
 **Broken Dream**: When possessing Soldier's Remembrance., increase the maximum stack of normal Vicissitude signets by 20 | 1st
 
-###<p align="center">Griseo - Signet of Stars (1st Core)</p>
+####<p align="center">Griseo - Signet of Stars (1st Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -2436,7 +2386,7 @@ Signet | Priority
 **Grey & Empty**: Enemies stay tainted for 5s longer | 3rd
 **Nexus Signet 1: Shine like Stars** |
 
-###<p align="center">Su - Signet of Bodhi (2nd Core)</p>
+####<p align="center">Su - Signet of Bodhi (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -2449,7 +2399,7 @@ Signet | Priority
 
 ***
 
-# Spina Astera
+## Spina Astera
 Quick search: SpA, Rita, Fire Rita
 
 ![I wish she could be my maid zzz... ahem no thirst i swear](https://cdn.discordapp.com/attachments/967717692465365133/982328632544489502/rita_rossweisse_and_rita_rossweisse_honkai_and_1_more_drawn_by_pillo__sample-98c9db220fdca44c0983ee59be210e8e.jpg)
@@ -2466,7 +2416,7 @@ Early | Golden Goblet | AE | LE
 Mid | Burden/ Because of You | AE | LE/BR
 Late | Home Lost/ Dreamful Gold | AE | BR
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -2476,7 +2426,7 @@ Signet | Priority
 **Blessing of Radiant Formation** Hits dealt by Astral Flare: Erupt +1. After unleashing Astral Flare: Erupt, the remaining Ultimate CD reduces by 10% and 300 Astrum is restored | **1st**
 **Blessing of Holy Flame** Astral Flare deals an additional 500% ATK of Fire DMG to the target for every 6 hits and increases the Fire DMG to the hit target by 20% (independent effect) for 5s. Can be refreshed | 2nd
 
-###<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -2487,7 +2437,7 @@ Signet | Priority
 **Echo of the Deliverer**:  Duration of Final Battle and all buffs provided by Normal Signets of Deliverance are extended to 8s | **YES**
 **Crusade of the Deliverer**:After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | 1st
 
-###<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -2497,7 +2447,7 @@ Signet | Priority
 **Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
 **Death, Life, Oblivion, and Existence**:  If [Bloodboil Garment] exceeds 1500, when taking damage, reduces damage taken by 1% of [Bloodboil Garment] | **YES**
 
-###<p align="center">Eden - Signet of Gold (2nd Core)</p>
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -2508,10 +2458,10 @@ Signet | Priority
 **Echo of Silent Night**: After lasting over 7s, reduce ATK, DEF, ele resists of enemies nearby | 1st
 **Echo of Withered Soil**: After lasting over 7s, boost SP cap and restore SP/s till it ends | Filler
 
-!!! note
+!!! info
     Choose either:
 
-###<p align="center">Pardofelis - Signet of Reverie (1st core)</p>
+####<p align="center">Pardofelis - Signet of Reverie (1st core)</p>
 
 Signet | Priority
 ------|:----:
@@ -2522,10 +2472,10 @@ Signet | Priority
 **Nexus Signet 1: Empty Dreams, Self, Set, and Joy** |
 **This Is Not Where We Die**: Valkyries enters with a Good Luck shield. While the shield holds, every 100 Shiny Silvers owned grant 1% Physical and Elemental Breach. The shield can block incoming MG twice before it breaks, and every 500 Shiny Silvers owned grant one more block | Optional 
 
-!!! note
+!!! info
     Or:
 
-###<p align="center">Su - Signet of Bodhi (2nd Core)</p>
+####<p align="center">Su - Signet of Bodhi (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -2534,7 +2484,7 @@ Signet | Priority
 **Motto of Iddhi-Vidha**: Combo hits are increased to 60 when below 60. CD: 10s | 3rd
 **Nexus Signet 2: Dictum of Bodhi** |
 
-###<p align="center">Pardofelis - Signet of Reverie (1st core)</p>
+####<p align="center">Pardofelis - Signet of Reverie (1st core)</p>
 
 Signet | Priority
 ------|:----:
@@ -2542,7 +2492,7 @@ Signet | Priority
 
 ***
 
-# Starchasm Nyx
+## Starchasm Nyx
 Quick search: Seele
 
 ![SHE LOOKS SO PRETTY IK](https://elysian-realm.vercel.app/images/starchasm-nyx.jpg)
@@ -2558,7 +2508,7 @@ Early | AE | LE
 Mid | AE | LE/HB
 Late | AE | HB
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -2568,7 +2518,7 @@ Signet | Priority
 **Blessing of Nightmare**: In burst mode, every Carmine Gash consumed boosts Total DMG of Ultimate Sequence 2 by 25%. 10 stacks max | 2nd
 **Blessing of Cocoon Break**: In normal mode, consuming 6 Carmine Gashes boosts Ice DMG of Charged ATK by 600% and restores 35 bonus SP. In burst mode, consuming 6 Carmine Gashes restores 35 bonus SP | No
 
-###<p align="center">Griseo - Signet of Stars (1st Core)</p>
+####<p align="center">Griseo - Signet of Stars (1st Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -2579,7 +2529,7 @@ Signet | Priority
 **Nexus Signet 1: Shine like Stars** |
 **Blooming like Flowers**: When enemies of countering types are tainted with both blue and red paints, Valkyries deal 50% bonus Total DMG to them (cannot stack) | **YES**
 
-###<p align="center">Sakura - Signet of Setsuna (1st Core)</p>
+####<p align="center">Sakura - Signet of Setsuna (1st Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -2591,7 +2541,7 @@ Signet | Priority
 
 !!! note
     Choose either kevin1 or 2: 
-###<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -2602,7 +2552,7 @@ Signet | Priority
 **Echo of the Deliverer**:  Duration of Final Battle and all buffs provided by Normal Signets of Deliverance are extended to 8s | **YES**
 **Crusade of the Deliverer**:After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | **YES**
 
-###<p align="center">Kevin - Signet of Deliverance (2nd Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (2nd Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -2611,7 +2561,7 @@ Signet | Priority
 **Goblet of the Giver**: Ultimate boosts Total DMG by 35% for 5s | 3rd 
 **Nexus Signet 2: Shadow of the Deliverer** |
 
-###<p align="center">Eden - Signet of Gold (2nd Core)</p>
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -2624,7 +2574,7 @@ Signet | Priority
 
 ***
 
-# Starry Impression
+## Starry Impression
 Quick Search: SI, Griseo, Grisekek, Painter, Bob Ross
 
 ![A painting of a painter. Ain't it nice?](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2022/06/04/19/51/40/98823766_p0_master1200.jpg)
@@ -2640,7 +2590,7 @@ Early | It Will Be Written | SA | SS
 Mid | Dreamful Gold | BR | SS
 Late | Dreamful Gold | SA/BR | SS
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -2650,7 +2600,7 @@ Signet | Priority
 **Signet of Feathers**: For every stack of bleed on enemies, gain Total DMG +10%. When using combo attack to consume all 3 colors, deal an additional 800/1000%ATK Physical Bleed damage, CD 0.5s | 2nd
 **Signet of Azure Wind**: When activating ultimate evasion, gain 3 different ink colors and make all enemies on field take 30/40% more TDM for 10s | No
 
-###<p align="center">Griseo - Signet of Stars (2nd Core)</p>
+####<p align="center">Griseo - Signet of Stars (2nd Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -2660,7 +2610,7 @@ Signet | Priority
 **White & Bright**: Every time an enemy is tainted, Valkyrie restores 12 SP. CD: 5s | 4th
 **Nexus Signet 2: Faded Stars** |
 
-###<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -2671,7 +2621,7 @@ Signet | Priority
 **Echo of the Deliverer**:  Duration of Final Battle and all buffs provided by Normal Signets of Deliverance are extended to 8s | 1st
 **Crusade of the Deliverer**:After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | 2nd
 
-###<p align="center">Kosma - Signet of Daybreak (1st core)</p>
+####<p align="center">Kosma - Signet of Daybreak (1st core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -2682,7 +2632,7 @@ Signet | Priority
 **Nexus Signet 1: Daybreak, an Undying Light** |
 **Unwavering Promise**: Rend-inflicted enemies take 80% bonus Total DMG and addition 40% bonus Total DMG with 20 Rend stacks or more | Filler
 
-###<p align="center">Eden - Signet of Gold (2nd Core)</p>
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -2693,7 +2643,7 @@ Signet | Priority
 
 ***
 
-# Striker Fulminata
+## Striker Fulminata
 Quick search: StFu, Mei
 
 ![girlfriend material, too bad taken by kiana](https://cdn.discordapp.com/attachments/967717692465365133/982328691893874728/yande.re_636489_sample_benghuai_xueyuan_honkai_impact_raiden_mei_stockings_sword_taw_993004677_thighhighs.jpg)
@@ -2709,7 +2659,7 @@ Early | VC | LE
 Mid | VC | LE/SS
 Late | VC | SS
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -2719,7 +2669,7 @@ Signet | Priority
 **Blessing of Thunder**: For every 4 EM Reserves restored, releases a burst of lightning that deals ATK of Physical DMG to surrounding enemies | 2nd
 **Blessing of Zanshin**: Increases the Physical DMG dealt by Combo ATK: Blade Flurry by 45%. For every 4 EM Reserves restored, gains a barrier with 50% of her max HP that lasts 3s. Triggering it again resets the barrieds HP | No
 
-###<p align="center">Griseo - Signet of Stars (1st Core)</p>
+####<p align="center">Griseo - Signet of Stars (1st Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -2730,7 +2680,7 @@ Signet | Priority
 **Nexus Signet 1: Shine like Stars** |
 **Blooming like Flowers**: When enemies of countering types are tainted with both blue and red paints, Valkyries deal 50% bonus Total DMG to them (cannot stack) | **YES**
 
-###<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -2741,7 +2691,7 @@ Signet | Priority
 **Echo of the Deliverer**:  Duration of Final Battle and all buffs provided by Normal Signets of Deliverance are extended to 8s | 1st
 **Crusade of the Deliverer**:After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | 2nd
 
-###<p align="center">Eden - Signet of Gold (2nd Core)</p>
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -2752,7 +2702,7 @@ Signet | Priority
 **Echo of Silent Night**: After lasting over 7s, reduce ATK, DEF, ele resists of enemies nearby | 1st
 **Echo of Withered Soil**: After lasting over 7s, boost SP cap and restore SP/s till it ends | Filler
 
-###<p align="center">Su - Signet of Bodhi (2nd Core)</p>
+####<p align="center">Su - Signet of Bodhi (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -2763,7 +2713,7 @@ Signet | Priority
 
 ***
 
-# Stygian Nymph 
+## Stygian Nymph 
 Quick search: SN, Seele
 
 ![Vercel SN](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2020/06/15/13/18/35/82340123_p0_master1200.jpg)
@@ -2771,11 +2721,11 @@ Quick search: SN, Seele
 !!! note
     5.8 build
 
-## -- Stygian Nymph - *S2 Build 5D*
+### -- Stygian Nymph - *S2 Build 5D*
 
 > Boss to be Chosen: Husk or Hephaestus, then Vill-V
 
-###<p align="center">Setup</p>
+####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
@@ -2805,7 +2755,7 @@ Early | SA | SS
 Mid | SA | SS
 Late | SA | SS
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 
 Signet | Priority
@@ -2819,7 +2769,7 @@ Signet | Priority
 !!! note
     As SN is a valk that loves her Ego signets, if you get Ego doors, take them UNLESS you get an door that will complete a necessary Core.
 
-###<p align="center">Aponia - Signet of Discipline (1st Core)</p>
+####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
 
 !!! danger
     Ideal start is double Ego door into 1 Sakura door. Read Sakura's section for explanation.
@@ -2835,7 +2785,7 @@ Signet | Priority
 **You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 2nd
 **You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 3rd
 
-###<p align="center">Sakura - Signet of Setsuna (2nd Core)</p>
+####<p align="center">Sakura - Signet of Setsuna (2nd Core)</p>
 
 
 Signet | Priority
@@ -2849,7 +2799,7 @@ Signet | Priority
 !!! note
     Taking Sakura's Bountiful Blossom: Fuji for the 3rd door is the ideal start, due to its synergy with the 2 starting Ego signets and the synergy with Sakura's FC Skill. It's also the most effective.
 
-###<p align="center">Kevin - Signet of Deliverance (3rd Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (3rd Core)</p>
 
 
 Signet | Priority 
@@ -2864,7 +2814,7 @@ Signet | Priority
 !!! note
     Getting Kevin's Core before Hephaestus fight is the most ideal.
 
-###<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
 
 Signet | Priority
 - | :----:
@@ -2880,7 +2830,7 @@ Signet | Priority
     Due to the nature of SN being, in a streak, the most unfavored valkyrie patch after patch in the rotating ER weathers, do not expect her performance and power compared to other valkyries to change. Yet, if you still want to play this valkyrie, do enjoy her. And hopefully someday Hoyoverse will consider reworking her Ego signets. https://www.youtube.com/watch?v=cslZh5G3YxI
 ***
 
-# Sweet 'n' Spicy (4D/5D HoDom)
+## Sweet 'n' Spicy (4D/5D HoDom)
 Quick search: SnS, Carole
 
 ![karoole casual sheesh she looks rlly cute](https://elysian-realm.vercel.app/images/sweet-n-spicy.jpg)
@@ -2896,7 +2846,7 @@ Early | SS | VC
 Mid | SS | VC/BR
 Late | SS | BR
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -2906,7 +2856,7 @@ Signet | Priority
 **Blessing of Brake**: Charging speed accelerates and Physical DMG of Charged ATK increases by 10%. My Hands Are Burning stacks faster | No
 **Blessing of Rupture**: Ground Charged ATK can charge up to 4 stages and deal 400% ATK of bonus Physical DMG | No
 
-###<p align="center">Kosma - Signet of Daybreak (1st core)</p>
+####<p align="center">Kosma - Signet of Daybreak (1st core)</p>
 
 Signet | Priority
 ------|:----:
@@ -2919,7 +2869,7 @@ Signet | Priority
 **Nexus Signet 1: Daybreak, an Undying Light** |
 **Unwavering Promise**: Rend-inflicted enemies take 80% bonus Total DMG and addition 40% bonus Total DMG with 20 Rend stacks or more | Filler
 
-###<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -2930,7 +2880,7 @@ Signet | Priority
 **Echo of the Deliverer**:  Duration of Final Battle and all buffs provided by Normal Signets of Deliverance are extended to 8s | 1st
 **Crusade of the Deliverer**:After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | 2nd
 
-###<p align="center">Eden - Signet of Gold (2nd Core)</p>
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -2941,7 +2891,7 @@ Signet | Priority
 **Echo of Silent Night**: After lasting over 7s, reduce ATK, DEF, ele resists of enemies nearby | 1st
 **Echo of Withered Soil**: After lasting over 7s, boost SP cap and restore SP/s till it ends | Filler
 
-###<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -2953,7 +2903,7 @@ Signet | Priority
 
 ***
 
-# Twilight Paladin
+## Twilight Paladin
 Quick search: TP, Teri, Theresa
 
 ![wldnt mind her stepping on me, lemme be ur leg rest](https://cdn.discordapp.com/attachments/967717692465365133/982328710462050374/yande.re_696296_sample_armor_benghuai_xueyuan_heels_honkai_impact_horns_shijiuqaq_theresa_apocalypse_thighhighs.jpg)
@@ -2969,7 +2919,7 @@ Early | VC | DP
 Mid | VC | DP/BR
 Late | SS | BR
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -2979,7 +2929,7 @@ Signet | Priority
 **Blessing of Radiance**: Ultimate Evasion Skill resets Fervor drain speed, boosts Physical DMG by 80% for 8s. Casting Feverish Barrage in Fervent state triggers Ultimate Evasion Skill but not Fang Execution | No
 **Blessing of Sanction**: Every combo hits trigger slashing blades to deal 2x1000% ATK of Physical DMG and grant 30% Physical Breach lasting 1s. CD: 5s | No
 
-###<p align="center">Su - Signet of Bodhi (2nd Core)</p>
+####<p align="center">Su - Signet of Bodhi (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -2988,7 +2938,7 @@ Signet | Priority
 **Motto of Iddhi-Vidha**: Combo hits are increased to 60 when below 60. CD: 10s | 3rd
 **Nexus Signet 2: Dictum of Bodhi** |
 
-###<p align="center">Griseo - Signet of Stars (1st Core)</p>
+####<p align="center">Griseo - Signet of Stars (1st Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -2999,7 +2949,7 @@ Signet | Priority
 **Nexus Signet 1: Shine like Stars** |
 **Blooming like Flowers**: When enemies of countering types are tainted with both blue and red paints, Valkyries deal 50% bonus Total DMG to them (cannot stack) | **YES**
 
-###<p align="center">Eden - Signet of Gold (2nd Core)</p>
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
@@ -3010,7 +2960,7 @@ Signet | Priority
 **Echo of Silent Night**: After lasting over 7s, reduce ATK, DEF, ele resists of enemies nearby | 1st
 **Echo of Withered Soil**: After lasting over 7s, boost SP cap and restore SP/s till it ends | Filler
 
-###<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -3023,19 +2973,19 @@ Signet | Priority
 
 ***
 
-# Valkyrie Gloria
+## Valkyrie Gloria
 Quick search: VG, Dudu, Goose
 
 ![Vercel VG](https://elysian-realm.vercel.app/images/valkyrie-gloria.jpg)
 
-## -- VG - *Abstinence Build 5D*
+### -- VG - *Abstinence Build 5D*
 
 !!! note
     The effectiveness of this build for 6.0 might be a bit lower due to the absence of Quantum enemies, but otherwise this should still work fine. It has also been adjusted to fit with 6.0.
 
 > Boss to be Chosen: Husk or Hephaestus, Aponia
 
-###<p align="center">Setup</p>
+####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
@@ -3065,7 +3015,7 @@ Early | AE | LE
 Mid | AE | LE
 Late | AE | BR
 
-###<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 
 Signet | Priority
@@ -3079,7 +3029,7 @@ Signet | Priority
 !!! note
     Battle Song + Gloria are a must. Sol can be optionally picked later. Triumph is not necessary. VG is another valk that loves her Ego signets, however, prioritize completing the important cores over the Ego signets.
 
-###<p align="center">Aponia - Signet of Discipline (1st Core)</p>
+####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
 
 !!! note
     Ideal course of build up: Double Ego start > Apo2 Core by F4 > Apo2 Breach by F5 > V-V by F6 > Complete V-V 2nd Core by F7.
@@ -3096,7 +3046,7 @@ Signet | Priority
 **You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 2nd
 **You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | Optional 3rd
 
-###<p align="center">Griseo - Signet of Stars (2nd Signet)</p>
+####<p align="center">Griseo - Signet of Stars (2nd Signet)</p>
 
 
 Signet | Priority
@@ -3107,7 +3057,7 @@ Signet | Priority
 **Nexus Signet 2: Faded Stars** |
 **A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | Optional
 
-###<p align="center">Vill-V - Signet of Helix (3rd Core)</p>
+####<p align="center">Vill-V - Signet of Helix (3rd Core)</p>
 
 
 Signet | Priority
@@ -3124,7 +3074,7 @@ Signet | Priority
 !!! note
     Interlacing Cells and Origin of Slumber take priority of upgrades.
 
-###<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
 
 
 Signet | Priority
@@ -3139,14 +3089,14 @@ Signet | Priority
 
 ***
 
-#  Difference between Kalpas1 and Kalpas2: 
+##  Difference between Kalpas1 and Kalpas2: 
 <p align="center">By: Butter#2252</p>
 
 Kalpas 2 core makes you lose 5k Hp or more to give you a 40% boost from kalpas signets (increases to 8k hp lost and 80% boost from kalpas with 25% bonus hp signet). Any healing you get turns into more hp for the hp cap, meaning more hp for kalpas core two (which can further increase the 80% boost to 100% with hp% signet)
 
 ***
-#  Difference between Su1 and Su2: 
-#####<p align="center">**Su 1 vs Su 2 enhanced only**</p>
+##  Difference between Su1 and Su2: 
+######<p align="center">**Su 1 vs Su 2 enhanced only**</p>
 <p align="center">By: Butter#2252</p>
 
 **Su 1 enhanced signets:**
@@ -3172,7 +3122,7 @@ Dictum is the king of enemy total damage taken as the trance debuff which is par
 
 ***
 
-# Creditors and what they did:
+## Creditors and what they did:
 - Adori - Columbina Supremacy#6481: Tester, theorycrafter and current big updater of builds from 5.9 onwards+
 - Butter#2252: provided data
 - boba#8849: helped format stuff correctly and tested builds
