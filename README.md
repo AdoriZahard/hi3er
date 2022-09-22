@@ -1,4 +1,4 @@
-# Elysian Realm Signet Guide
+# Elysian Realm Signet Guide for Honkai Impact 3rd
 
 This guide is the extension of [this link](https://rentry.org/hi3er), sister project of [this repo](https://github.com/localhousee/elysian-realm).
 
