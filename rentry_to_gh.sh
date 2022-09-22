@@ -26,11 +26,16 @@ cp $1 $output_file
 sed -i -E 's/^\s*!!!\s*([[:alpha:]]+):*\s/!!! \l\1\n    /gi' $output_file
 
 # info did not have a colored box
-sed -i 's/!!! info/!!! note/gi' $output_file
+#sed -i 's/!!! info/!!! note/gi' $output_file
 
 # Removed centered # and ##
 sed -i -E 's/^#\s*->(.*)\s*<-\s*$/# \1/g' $output_file
 sed -i -E 's/^##\s*->(.*)\s*<-\s*$/## -- \1/g' $output_file
+
+# Increase the # amounts
+sed -i 's/^#/##/g' $output_file
+# Remove a # for the title which should be the first occurance of #
+sed -i '0,/^#/s/#//' $output_file
 
 # Remove centered from images or links
 sed -i -E 's/\s*->\s*(!*\s*\[.*\]\s*\(.*\))\s*<-\s*/\1/g' $output_file
