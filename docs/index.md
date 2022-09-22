@@ -1,7 +1,7 @@
 # Elysian Realm
 ***
 <p align="center">Please contact boba#8849 or Rafe#5610 if there are any typos</p>
-<p align="center">Contact Rafe#5610 until further notice (possibly biribiri#3681, probably not Butter#2252) if there are any build questions/suggestions</p>
+<p align="center">Contact Rafe#5610 until further notice (possibly [REDACTED], probably not Butter#2252) if there are any build questions/suggestions</p>
 ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 [Return to Honkai Rentry Index](https://rentry.org/honkai3)
 
@@ -3129,7 +3129,7 @@ Dictum is the king of enemy total damage taken as the trance debuff which is par
 - Butter#2252: provided data
 - boba#8849: helped format stuff correctly and tested builds
 - Rafe#5610: helped rekindled the GC again and is also a rentry editor
-- biribiri#3681: original Rentry person did build testing and theory crafting, picture dealer
+- [REDACTED]: original Rentry person did build testing and theory crafting, picture dealer
 - Beefyeggroll#0001: helped test builds and was in beta
 - localhousee#7786: morale support and is working on website
 - VampyHime#9207: was a beta tester and translator for beta, actual build testing and also provide theoretical build
