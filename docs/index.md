@@ -1,7 +1,7 @@
 # Elysian Realm
 ***
-<p align="center">Please contact `boba#8849` or `Rafe#5610` if there are any typos</p>
-<p align="center">Contact `Adori - Columbina Supremacy#6481` or `Rafe#5610` until further notice (probably not Butter#2252) if there are any build questions/suggestions</p>
+<p align="center">Please contact ```boba#8849``` or ```Rafe#5610``` if there are any typos</p>
+<p align="center">Contact ```Adori - Columbina Supremacy#6481``` or ```Rafe#5610``` until further notice (probably not Butter#2252) if there are any build questions/suggestions</p>
 ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 [Return to Honkai Rentry Index](https://rentry.org/honkai3)
 
@@ -3184,3 +3184,7 @@ Zero Blade#5805: avoids it as his bad reputation is to be kept untouched
 26. [Sweet 'n' Spicy (4D/5D HoDom)](https://pixiv.net/en/artworks/82708620)
 27. [Twilight Paladin](https://pixiv.net/en/artworks/77212815)
 28. [Valkyrie Gloria](https://pixiv.net/en/artworks/80022875)
+
+
+## Update log
+- 2022-09-22: Github page redesigned and replaces https://rentry.co/hi3er
