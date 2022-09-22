@@ -697,12 +697,12 @@ Quick Search: Elysia, HoH, HoHe, Manta Ray, H2O, Water
 ####<p align="center">Ultimate Build</p>
 
 !!! note
-    Information pending to be submitted. Complete run of the build here: https://youtu.be/Fgkcml9kPLw
+    Information pending to be submitted. Complete run of the build here: [https://youtu.be/Fgkcml9kPLw](https://youtu.be/Fgkcml9kPLw)
 
 ### -- Ballista build
 
 !!! note
-    Information pending to be submitted. Complete run of the build here: https://youtu.be/OdJ-aHcehW0
+    Information pending to be submitted. Complete run of the build here: [https://youtu.be/OdJ-aHcehW0](https://youtu.be/OdJ-aHcehW0)
 
 ***
 
@@ -860,7 +860,7 @@ Quick Search: HoS, Senti, Hua, Fuhua, Bonk
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-S | Finality | Senpri & Shattered Swords | 7:47m (6.0) | https://youtu.be/jalMiRdgqEw
+S | Finality | Senpri & Shattered Swords | 7:47m (6.0) | [https://youtu.be/jalMiRdgqEw](https://youtu.be/jalMiRdgqEw)
 
 !!! note
     This build is downscaleable with lower clear time based on stats/gears/rank and lower difficulties. Double Clear is not necessary but is nice, you can perfectly clear with this build, especially in 6.0 weather. The one important thing to note from this build is that, especially if you're downscaling in gears but not on difficulty, you want to learn to time The Lonely Moon perfectly into clearing a new wave of mobs right away. Even 1 or 2 seconds later is still fine. Griseo's skill is monstruously op when used this way, due to how easily it can delete waves instantly and apply all your unlocked paints if they're somehow alive still. 
@@ -973,7 +973,7 @@ Signet | Priority
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-S | Finality | Senpri & Shattered Swords | 8:30m (2nd Half 5.9) | https://youtu.be/j_UFFAe3yWI
+S | Finality | Senpri & Shattered Swords | 8:30m (2nd Half 5.9) | [https://youtu.be/j_UFFAe3yWI](ttps://youtu.be/j_UFFAe3yWI)
 
 !!! note
     This build is downscaleable with lower clear times and lower gear requirement. You don't necessarily have to do Finality, as such, with lower difficulties, you'll either have faster, about the same or lower clear time depending on your gear requirement.
@@ -1085,7 +1085,7 @@ Signet | Priority
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-S | Finality | Senpri & 3-Set Shattered Swords | 10:38 (1st Half 5.9) | https://youtu.be/6Ab8Bw54IGA
+S | Finality | Senpri & 3-Set Shattered Swords | 10:38 (1st Half 5.9) | [https://youtu.be/6Ab8Bw54IGA](https://youtu.be/6Ab8Bw54IGA)
 
 !!! note
     This build is downscaleable with lower clear times and lower gear requirement. You don't necessarily have to do Finality, as such, with lower difficulties, you'll either have faster, about the same or lower clear time depending on your gear requirement. This is also the 3rd in ranking of strength, only do it for fun.
@@ -1342,10 +1342,10 @@ Quick Search: HoV, Salty Tuna, Sirin
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-SSS | Finality | DoV & 3-set Elysia | 6:35m (2nd Half 5.9) | https://youtu.be/CWRlBghJpEY
-SSS | Finality | DoV & 3-set Sirin Ascendant | 6:19m (2nd Half 5.9) | https://youtu.be/WiYxHfdwHnQ
-SSS | Finality | DoV & 3-set Mich TB Polo M | 9:53m (2nd Half 5.9) | https://youtu.be/5iB58b-fAQQ
-S3 | Finality | Lv55 DoV & 3-set Elysia | 10:08m (6.0) | https://youtu.be/WkSisfkTyA0
+SSS | Finality | DoV & 3-set Elysia | 6:35m (2nd Half 5.9) | [https://youtu.be/CWRlBghJpEY](https://youtu.be/CWRlBghJpEY)
+SSS | Finality | DoV & 3-set Sirin Ascendant | 6:19m (2nd Half 5.9) | [https://youtu.be/WiYxHfdwHnQ](https://youtu.be/WiYxHfdwHnQ)
+SSS | Finality | DoV & 3-set Mich TB Polo M | 9:53m (2nd Half 5.9) | [https://youtu.be/5iB58b-fAQQ](https://youtu.be/5iB58b-fAQQ)
+S3 | Finality | Lv55 DoV & 3-set Elysia | 10:08m (6.0) | [https://youtu.be/WkSisfkTyA0](https://youtu.be/WkSisfkTyA0)
 
 !!! danger
     These above are listed based on their potential strength. First listed is the strongest. Wondering why 3-set Elysia is stronger? Run was done with 88 less attack in comparison to Sirin Ascendant. Also, watch out for builds without SirinA M or Elysia M, as the playstyle changes a bit.
@@ -1733,7 +1733,7 @@ Quick Search: MPE, Elysia, Maid
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run 
 :----: | :----: | :----: | :----: | :----:
-SSS | Finality | Whisper Pri & 3-set Elysia | 7:51m (1st Half 5.9) | https://youtu.be/SPvdUDUO4eU
+SSS | Finality | Whisper Pri & 3-set Elysia | 7:51m (1st Half 5.9) | [https://youtu.be/SPvdUDUO4eU](https://youtu.be/SPvdUDUO4eU)
 !!! note
     This build is downscaleable with lower clear times and lower gear requirement. You don't necessarily have to do Finality, as such, with lower difficulties, you'll either have faster, about the same or lower clear time depending on your gear requirement.
 
@@ -1854,7 +1854,7 @@ Signet | Priority
     If you get blessed by Felis Shop RNG, absolutely take this. Not recommended to try and take it from door, though.
 
 !!! danger
-    This build has been done in -30% TDM reduction disadvantage weather, meaning that without the debuff this build would be way stronger and potentially reach 5m. Video of the run with additional explanation in description here: https://youtu.be/SPvdUDUO4eU
+    This build has been done in -30% TDM reduction disadvantage weather, meaning that without the debuff this build would be way stronger and potentially reach 5m. Video of the run with additional explanation in description here: [https://youtu.be/SPvdUDUO4eU](https://youtu.be/SPvdUDUO4eU)
 
 ***
 
@@ -2216,7 +2216,7 @@ Quick search: RI, Kallen
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-SSS | Corruption | DoV & 3-Set Elysia | 13:25m (2nd Half 5.9) | https://youtu.be/rFxInRhkEdo
+SSS | Corruption | DoV & 3-Set Elysia | 13:25m (2nd Half 5.9) | [https://youtu.be/rFxInRhkEdo](https://youtu.be/rFxInRhkEdo)
 
 !!! note
     Downscaling would fit into lower difficulties with this one. Also 6.0 weather is really unfavorable for her.
@@ -2731,7 +2731,7 @@ Quick search: SN, Seele
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-S2 | Abstinence | Path of Acheron Pri & 3-set Allan Poe | 14m (2nd Half 5.9) | https://youtu.be/cslZh5G3YxI
+S2 | Abstinence | Path of Acheron Pri & 3-set Allan Poe | 14m (2nd Half 5.9) | [https://youtu.be/cslZh5G3YxI](https://youtu.be/cslZh5G3YxI)
 
 !!! note
     Honestly? Just play someone else instead. SN is the weakest ER valk since release, without any changes at all. SS-rank is expected to be able to do Finality, and of course Corruption. This weather is also not really in her favor either.
@@ -2991,7 +2991,7 @@ Quick search: VG, Dudu, Goose
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-SSS | Abstinence | Eos Gloria & LWH TB Thales M | 13:09m (2nd Half 5.9) | https://youtu.be/ILcGqhJskcs
+SSS | Abstinence | Eos Gloria & LWH TB Thales M | 13:09m (2nd Half 5.9) | [https://youtu.be/ILcGqhJskcs](https://youtu.be/ILcGqhJskcs)
 
 !!! note
     Downscaling would fit into lower difficulties with this one.
