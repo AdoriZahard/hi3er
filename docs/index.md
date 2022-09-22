@@ -2829,7 +2829,7 @@ Signet | Priority
     You don't have to worry about low health gameplay without shields. SN's repeated abuse of Ultimate Evasion and her own Ultimate will do the job of acting as I-frames. 
 
 !!! danger
-    Due to the nature of SN being, in a streak, the most unfavored valkyrie patch after patch in the rotating ER weathers, do not expect her performance and power compared to other valkyries to change. Yet, if you still want to play this valkyrie, do enjoy her. And hopefully someday Hoyoverse will consider reworking her Ego signets. https://www.youtube.com/watch?v=cslZh5G3YxI
+    Due to the nature of SN being, in a streak, the most unfavored valkyrie patch after patch in the rotating ER weathers, do not expect her performance and power compared to other valkyries to change. Yet, if you still want to play this valkyrie, do enjoy her. And hopefully someday Hoyoverse will consider reworking her Ego signets. [https://www.youtube.com/watch?v=cslZh5G3YxI](https://www.youtube.com/watch?v=cslZh5G3YxI)
 ***
 
 ## Sweet 'n' Spicy (4D/5D HoDom)
@@ -3187,4 +3187,4 @@ Zero Blade#5805: avoids it as his bad reputation is to be kept untouched
 
 
 ## Update log
-- 2022-09-22: Github page redesigned and replaces https://rentry.co/hi3er
+- 2022-09-22: Github page redesigned and replaces [https://rentry.co/hi3er](https://rentry.co/hi3er)
