@@ -1,0 +1,6 @@
+site_name: 'HI3 ER Signet Guide'
+site_description: 'Signet guide for Honkai Impact 3 Elysian Realm'
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
