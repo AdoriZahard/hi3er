@@ -1,6 +1,33 @@
 site_name: 'HI3 ER Signet Guide'
 site_description: 'Signet guide for Honkai Impact 3 Elysian Realm'
+theme:
+  name: 'material'
+  features:
+    - navigation.instant
+    - navigation.top
+    - toc.integrate
+  palette: 
+
+    # Palette toggle for light mode
+    - scheme: default
+      primary: deep purple
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
 markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+    - toc:
+        permalink: "#"
+        title: 'Valkyrie Builds'
+        toc_depth: '2-3'
+        
