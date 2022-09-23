@@ -715,16 +715,17 @@ Buff | Load
 When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
 When Charged ATKs hit enemies, Total DMG dealt increases by 20% for 5s. Triggering it again resets the duration. | 15
 
-!!!note Effective for 6.0.
+!!! note
+    Effective for 6.0.
 
 Time | Remembrance Sigil | FC Support Skill
-:----: | :----: 
+:----: | :----: | :----:
 Early | Rainbow of Absence | The Lonely Moon
 Mid | Mad King's Mask / Memory / Pseudo Miracle / Home Lost | The Lonely Moon
 Late | Key to the Deep | The Lonely Moon
 
 Time | Support 1 | Support 2
-:----: | :----: 
+:----: | :----: | :----:
 Early | AE | LE
 Mid | AE | LE
 Late | AE | LE
