@@ -54,8 +54,8 @@ Please note that this is only true for there reward scores, and not the actual p
 
 ![omg jojo stand user](https://cdn.discordapp.com/attachments/967717692465365133/982328480106708992/rita_rossweisse_and_rita_rossweisse_honkai_and_1_more_drawn_by_kei_soundcross__sample-237aafeedb2d70329926c59547ea5313.jpg)
 
-!!! note
-    5.8 build
+!!! danger
+    Outdated 5.8 build
 
 >   Boss to be chosen: Husk, Kalpas
 
@@ -125,8 +125,8 @@ Signet | Priority
 
 ![shes a cutiepie](https://elysian-realm.vercel.app/images/bright-knight-excelsis.png)
 
-!!! note
-    5.8 build
+!!! danger
+    Outdated 5.8 build
 
 >   Boss to be chosen: Aponia
 
@@ -196,8 +196,8 @@ Quick search: DA, dudu
 
 ![leg bow is the meta in ER indeed, i mean look at em thig- ahem.](https://embed.pixiv.net/artwork.php?illust_id=90947488)
 
-!!! note
-    5.8 build
+!!! danger
+    Outdated 5.8 build
 
 >   Boss to be chosen: Husk, Elysia
 
@@ -267,8 +267,8 @@ Search Tags: DPe, DiP, Nun, Aponia
 
 ![Nunny mommy purify me](https://elysian-realm.vercel.app/images/disciplinary-perdition.jpg)
 
-!!! note
-    5.8 build
+!!! danger
+    Outdated 5.8 build
 
 >   Boss to be chosen: Husk, Elysia
 
@@ -396,8 +396,8 @@ Quick Search: FR, Rita, Maid
 
 ![she has so many animals, maybe i can be one too?](https://cdn.discordapp.com/attachments/967717692465365133/982328522628550666/rita_rossweisse_and_rita_rossweisse_honkai_and_1_more_drawn_by_vierzeck__sample-628bb95fce62fa2a79cb00ec837513b8.jpg)
 
-!!! note
-    5.8 build
+!!! danger
+    Outdated 5.8 build
 
 >   Boss to be chosen: Husk, Elysia
 
@@ -460,8 +460,8 @@ Quick Search: FT, Roza, Lili, Lily, Vodka Girls
 
 ![She is horny cause she has horns. Its a fact.](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2021/10/05/23/34/50/93250091_p0_master1200.jpg)
 
-!!! note
-    5.8 build
+!!! danger
+    Outdated 5.8 build
 
 >   Boss to be chosen: SA for Husk, BR for HoDom, Mobius (Type Counter)
 
@@ -521,8 +521,8 @@ Quick search: Eden, GD
 
 ![Vercel GD](https://elysian-realm.vercel.app/images/golden-diva.jpg)
 
-!!! note
-    5.8 build
+!!! danger
+    Outdated 5.8 build
 
 >   Boss to be chosen: Elysia
 
@@ -592,8 +592,8 @@ Quick Search: HoFS, HoF, FK, KFC, Burnt Tuna, Flying Fish
 
 ![literally hot](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2021/07/17/00/00/04/91289343_p0_master1200.jpg)
 
-!!! note
-    5.8 build
+!!! danger
+    Outdated 5.8 build
 
 >   Boss to be chosen: Mobius (Type Counter)
 
@@ -860,7 +860,7 @@ Mid | Pseudo Miracle / Veil of Tears / Home Lost | Falling in Past Light
 Late | Key to the Deep | Falling in Past Light
 
 Time | Support 1 | Support 2
-:----: | :----: 
+:----: | :----: | :----:
 Early | AE | BR
 Mid | AE | BR
 Late | AE | BR
@@ -1919,8 +1919,8 @@ Quick Search: IO, Snake, Snek, Mobius
 
 ![mommy eat me up pls-](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2021/11/16/00/05/42/94162385_p0_master1200.jpg)
 
-!!! note
-    5.8 build
+!!! danger
+    Outdated 5.8 build
 
 >   Boss to be chosen: Aponia
 
@@ -2004,8 +2004,8 @@ Quick Search: LK, Teri, Theresa
 
 ![Teri Teri DAISHOURI!](https://cdn.discordapp.com/attachments/967717692465365133/982328549983813642/theresa_apocalypse_and_theresa_apocalypse_honkai_and_1_more_drawn_by_mt_ringofive__sample-c28643bef62a51ccbf6d885500418ae4.jpg)
 
-!!! note
-    5.8 build
+!!! danger
+    Outdated 5.8 build
 
 >   Boss to be chosen: Elysia
 
@@ -2075,8 +2075,8 @@ Quick search: MA, Raven, Natasha Cioara
 
 ![Bartender Raven stealin mah heart](https://elysian-realm.vercel.app/images/midnight-absinthe.jpg)
 
-!!! note
-    5.8 build
+!!! danger
+    Outdated 5.8 build
 
 >   Boss to be chosen: Elysia
 
@@ -2154,9 +2154,6 @@ Signet | Priority
 Quick Search: MPE, Elysia, Maid
 
 ![Mommy? Mommy? sorry mommy. sorry sorry. yes mommy](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2022/01/08/00/27/50/95371062_p0_master1200.jpg)
-
-!!! note
-    5.8 build
 
 ####<p align="center">Elysia - *Hua Build 7D*</p>
 
@@ -2299,8 +2296,8 @@ Quick Search: PE, Juan, Horse, Goose, Dudu
 
 ![Is this too lewd lmao](https://elysian-realm.vercel.app/images/palatinus-equinox.jpg)
 
-!!! note
-    5.8 build
+!!! danger
+    Outdated 5.8 build
 
 >   Boss to be chosen: Elysia
 
@@ -2380,8 +2377,8 @@ Quick Search: PV, Fischl, Genshin, Oz
 
 ![what can I say... she's cute, lv90 and was my main... no lood bareback btw smhsmh bonk](https://cdn.discordapp.com/attachments/967717692465365133/982328610830565456/fischl_genshin_impact_drawn_by_raiya_atelier__sample-f6a310e955ffcff6fe112b15b37914c7.jpg)
 
-!!! note
-    5.8 build
+!!! danger
+    Outdated 5.8 build
 
 >   Boss to be chosen: Husk, then Aponia
 
@@ -2445,8 +2442,8 @@ Quick search: RC, Neko, Cat, Pardo, Phyllis, Pardofelis
 
 ![ok /srs, is this too lewd lmao. i rlly love this picture thoo](https://images-ext-1.discordapp.net/external/MqPd0RGKekUaBfA96jgtSJUPjPurqhqFWeEtBnx3izw/%3Fillust_id%3D97049680/https/embed.pixiv.net/decorate.php)
 
-!!! note
-    5.8 build
+!!! danger
+    Outdated 5.8 build
 
 >   Boss to be chosen: Kalpas
 
@@ -2504,8 +2501,8 @@ Signet | Priority
 
 ### --  Ult Build 
 
-!!! note
-    5.8 build
+!!! danger
+    Outdated 5.8 build
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -2575,8 +2572,8 @@ Signet | Priority
 
 ### --  Phyllis Build 
 
-!!! note
-    5.8 build
+!!! danger
+    Outdated 5.8 build
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -2771,8 +2768,8 @@ Quick search: SW, booba bronya
 
 ![boobnya~ u wish u were that chair don't u](https://media.discordapp.net/attachments/977869364067987466/977969902038155314/108ba30c70292d8e89a4104f52ffae43a9a0b95b.jpeg?width=474&height=671)
 
-!!! note
-    5.8 build
+!!! danger
+    Outdated 5.8 build
 
 >   Boss to be chosen: Kalpas (Bully from midair)
 
@@ -2842,8 +2839,8 @@ Quick search: SpA, Rita, Fire Rita
 
 ![I wish she could be my maid zzz... ahem no thirst i swear](https://cdn.discordapp.com/attachments/967717692465365133/982328632544489502/rita_rossweisse_and_rita_rossweisse_honkai_and_1_more_drawn_by_pillo__sample-98c9db220fdca44c0983ee59be210e8e.jpg)
 
-!!! note
-    5.8 build
+!!! danger
+    Outdated 5.8 build
 
 >   Boss to be chosen: Aponia
 
@@ -2935,8 +2932,8 @@ Quick search: Seele
 
 ![SHE LOOKS SO PRETTY IK](https://elysian-realm.vercel.app/images/starchasm-nyx.jpg)
 
-!!! note
-    5.8 build
+!!! danger
+    Outdated 5.8 build
 
 >   Boss to be chosen: Aponia
 
@@ -3017,8 +3014,8 @@ Quick Search: SI, Griseo, Grisekek, Painter, Bob Ross
 
 ![A painting of a painter. Ain't it nice?](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2022/06/04/19/51/40/98823766_p0_master1200.jpg)
 
-!!! note
-    5.8 build
+!!! danger
+    Outdated 5.8 build
 
 > Boss to be chosen: Aponia
 
@@ -3086,8 +3083,8 @@ Quick search: StFu, Mei
 
 ![girlfriend material, too bad taken by kiana](https://cdn.discordapp.com/attachments/967717692465365133/982328691893874728/yande.re_636489_sample_benghuai_xueyuan_honkai_impact_raiden_mei_stockings_sword_taw_993004677_thighhighs.jpg)
 
-!!! note
-    5.8 build
+!!! danger
+    Outdated 5.8 build
 
 >   Boss to be chosen: Elysia
 
@@ -3155,9 +3152,6 @@ Signet | Priority
 Quick search: SN, Seele
 
 ![Vercel SN](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2020/06/15/13/18/35/82340123_p0_master1200.jpg)
-
-!!! note
-    5.8 build
 
 ### -- Stygian Nymph - *S2 Build 5D*
 
@@ -3273,8 +3267,8 @@ Quick search: SnS, Carole
 
 ![karoole casual sheesh she looks rlly cute](https://elysian-realm.vercel.app/images/sweet-n-spicy.jpg)
 
-!!! note
-    5.8 build
+!!! danger
+    Outdated 5.8 build
 
 >   Boss to be chosen: Aponia
 
@@ -3346,8 +3340,8 @@ Quick search: TP, Teri, Theresa
 
 ![wldnt mind her stepping on me, lemme be ur leg rest](https://cdn.discordapp.com/attachments/967717692465365133/982328710462050374/yande.re_696296_sample_armor_benghuai_xueyuan_heels_honkai_impact_horns_shijiuqaq_theresa_apocalypse_thighhighs.jpg)
 
-!!! note
-    5.8 build
+!!! danger
+    Outdated 5.8 build
 
 >   Boss to be chosen: Aponia
 
