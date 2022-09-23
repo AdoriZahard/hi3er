@@ -1167,14 +1167,14 @@ Quick Search: HoS, Senti, Hua, Fuhua, Bonk
 
 ![Vercel Senti](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2021/03/05/19/07/59/88230961_p0_master1200.jpg)
 
-####<p align="center">HoS - *General Build* 7D</p>
+###<p align="center">HoS - *General Build* 7D</p>
 
 !!! note
     Updated 6.0.
 
 > Boss to be Chosen: Husk, then Elysia or Vill-V (easiest)
 
-###<p align="center">Setup</p>
+####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
