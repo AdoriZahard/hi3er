@@ -829,7 +829,7 @@ Signet | Priority
 !!! note 
     Kevin is better taken from Felis shop, however the other Cores signets have the priority in being bought over Kevin's. Basically, leave Kevin as a last option if you have the coins to spare for them.
 
-####<p align="center">Ballista Build</p>
+###<p align="center">Ballista Build</p>
 
 !!! note
     The slightly weaker variant with slightly less clear time, but nevertheless at the same strength as Ult build. 
@@ -854,7 +854,7 @@ When Charged ATKs hit enemies, Total DMG dealt increases by 20% for 5s. Triggeri
     Effective for 6.0.
 
 Time | Remembrance Sigil | FC Support Skill
-:----: | :----: 
+:----: | :----: | :----:
 Early | Mad King's Mask | Falling in Past Light
 Mid | Pseudo Miracle / Veil of Tears / Home Lost | Falling in Past Light
 Late | Key to the Deep | Falling in Past Light
@@ -1035,7 +1035,7 @@ Signet | Priority
 
 ***
 
-####<p align="center">Ultimate Build</p>
+###<p align="center">Ultimate Build</p>
 
 !!! note
     Updated 6.0. This is the easier build compared to Evade-focused. 
@@ -1174,7 +1174,7 @@ Quick Search: HoS, Senti, Hua, Fuhua, Bonk
 
 > Boss to be Chosen: Husk, then Elysia or Vill-V (easiest)
 
-####<p align="center">Setup</p>
+###<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
@@ -1280,7 +1280,7 @@ Signet | Priority
 **Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
 **Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
 
-####<p align="center">HoS - *Ego Mobius Build* 7D</p>
+###<p align="center">HoS - *Ego Mobius Build* 7D</p>
 
 !!! note
     Adjusted and up to date for 6.0.
@@ -1392,7 +1392,7 @@ Signet | Priority
 **Nexus Signet 2: Echo of Gold** |
 **Echo of Silent Night**: After lasting over 1s, Final Echo reduces the ATK, DEF. and Elemental Resists of enemies nearby by 2% per second (40% max) until it ends. | Optional
 
-### -- S0 HoS - *Kosma Build 7D*
+###<p align="center">S0 HoS - Kosma Build 7D</p>
 
 !!! note
     Build due to update for 6.0 soon.
