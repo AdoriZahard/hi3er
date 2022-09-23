@@ -15,5 +15,5 @@ Header amounts:
 
 - Header 1 -- # Title
 - Header 2 -- ## Valkyrie or subheading
-- Header 3 -- ### Build name
+- Header 3 -- ### -- Build name
 - Header 4 -- #### Signet name
