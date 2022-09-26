@@ -699,7 +699,7 @@ Quick Search: Elysia, HoH, HoHe, Manta Ray, H2O, Water
 
 ![Elysia HoH](https://preview.redd.it/qwubup6nwhg91.png?width=960&crop=smart&auto=webp&s=0dd53c493400a6de4906d49faa7c9779af67be1b)
 
-### -- <p align="center">Ultimate Build</p>
+### <p align="center">-- Ultimate Build</p>
 
 !!! note 
     The stronger variation that also clears faster.
