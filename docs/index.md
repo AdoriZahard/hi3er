@@ -125,7 +125,7 @@ Signet | Priority
 
 ## Bright Knight: Excelsis
 
-![shes a cutiepie](https://elysian-realm.vercel.app/images/bright-knight-excelsis.png)
+![shes a cutiepie](https://elysian-realm.vercel.app/images/bright-knight-excelsis.jpg)
 
 !!! danger
     Outdated 5.8 build
@@ -284,7 +284,7 @@ Late | Resolve/Hometown | AE | BR
 !!! warning
     Aponia Disciplinary Perdition can use almost every single signet so her builds are very flexible
 
-### --  Auto Atk Spam 
+### <p align="center">--  Auto Atk Spam </p>
 ####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
@@ -1283,7 +1283,7 @@ Signet | Priority
 **Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
 **Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
 
-### -- <p align="center">HoS - *Ego Mobius Build* 7D</p>
+### <p align="center">-- HoS - *Ego Mobius Build* 7D</p>
 
 !!! note
     Load buffs adjusted and up to date for 6.0.
