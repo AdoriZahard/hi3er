@@ -2363,7 +2363,7 @@ Quick Search: MPE, Elysia, Maid
 
 ![Mommy? Mommy? sorry mommy. sorry sorry. yes mommy](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2022/01/08/00/27/50/95371062_p0_master1200.jpg)
 
-###<p align="center">Elysia - *Hua Build 7D*</p>
+###<p align="center">-- Elysia - *Hua Build 7D*</p>
 
 !!! note
     Updated for 5.9. The strength of this build is lowered in 6.0 weather, so don't expect nearly the same results as the run this was done in.
