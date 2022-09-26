@@ -338,7 +338,7 @@ Signet | Priority
 **Crusade of the Deliverer**:After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | **YES**
 
 
-### --  Ult and Golden spam 
+### <p align="center">--  Ult and Golden spam</p>
 ####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
@@ -535,7 +535,7 @@ Early | Gold Goblet/Hometown | AE | LE
 Mid | Light as a Bodhi Leaf/Because of You(5F) | AE | LE/BR
 Late | Resolve/Hometown | AE | BR
 
-### --  Combo Spam 
+### <p align="center">--  Combo Spam</p>
 ####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
@@ -831,7 +831,7 @@ Signet | Priority
 !!! note 
     Felis signets are better taken from shop.
 
-### -- <p align="center">Ballista Build</p>
+### <p align="center">-- Ballista Build</p>
 
 !!! note
     The slightly weaker variant with slightly less clear time, but nevertheless at the same strength as Ult build. 
@@ -973,7 +973,7 @@ Quick Search: HoR, Bronya
 !!! danger
     Outdated 5.8 Build
 
-### -- Evade
+### <p align="center">-- Evade</p>
 
 >   Boss to be chosen: Aponia
 
@@ -1037,7 +1037,7 @@ Signet | Priority
 
 ***
 
-### -- <p align="center">Ultimate Build</p>
+### <p align="center">-- Ultimate Build</p>
 
 !!! note
     Updated 6.0. This is the easier build compared to Evade-focused. 
@@ -1169,7 +1169,7 @@ Quick Search: HoS, Senti, Hua, Fuhua, Bonk
 
 ![Vercel Senti](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2021/03/05/19/07/59/88230961_p0_master1200.jpg)
 
-### -- <p align="center">HoS - *General Build* 7D</p>
+### <p align="center">-- HoS - *General Build* 7D</p>
 
 !!! note
     Updated 6.0.
@@ -1181,6 +1181,7 @@ Quick Search: HoS, Senti, Hua, Fuhua, Bonk
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
 S | Finality | Senpri & Shattered Swords | 7:47m (6.0) | [https://youtu.be/jalMiRdgqEw](https://youtu.be/jalMiRdgqEw)
+S0 | Finality | Senpri & Ely TB PoloM | 8:29m |[https://youtu.be/7OyB4IOkjGA](https://youtu.be/7OyB4IOkjGA)
 
 !!! note
     This build is downscaleable with lower clear time based on stats/gears/rank and lower difficulties. Double Clear is not necessary but is nice, you can perfectly clear with this build, especially in 6.0 weather. The one important thing to note from this build is that, especially if you're downscaling in gears but not on difficulty, you want to learn to time The Lonely Moon perfectly into clearing a new wave of mobs right away. Even 1 or 2 seconds later is still fine. Griseo's skill is monstruously op when used this way, due to how easily it can delete waves instantly and apply all your unlocked paints if they're somehow alive still. 
@@ -1397,7 +1398,7 @@ Signet | Priority
 **Nexus Signet 2: Echo of Gold** |
 **Echo of Silent Night**: After lasting over 1s, Final Echo reduces the ATK, DEF. and Elemental Resists of enemies nearby by 2% per second (40% max) until it ends. | Optional
 
-### -- <p align="center">S0 HoS - Kosma Build 7D</p>
+### <p align="center">-- S0 HoS - Kosma Build 7D</p>
 
 !!! note
     Updated to 6.0. Strength is pretty close to General Build, but otherwise still loses to it.
@@ -1526,7 +1527,7 @@ Quick search: HoT, Mei, hot mei, dragon
 
 ![Vercel HoT](https://elysian-realm.vercel.app/images/herrscher-of-thunder.jpg)
 
-### -- <p align="center">4-5 Revived Build</p>
+### <p align="center">-- 4-5 Revived Build</p>
 
 !!! note
     Updated 6.0. This is the 2nd strongest build, as well as the 2nd most comfy and easiest to play. The strength of this build is that it is very solid and has damage on everything. 4-5, 7T actives, Dragon slam, Finisher, Shinzan. Overall, it's pretty good.
@@ -1661,7 +1662,7 @@ Signet | Priority
 
 ***
 
-### -- <p align="center">Bombard Build</p>
+### <p align="center">-- Bombard Build</p>
 
 !!! note
     Updated 6.0. The strongest and also easiest/most comfy build. This build also has a surprisingly good time with DoS & Benares Awakening. 
@@ -1796,7 +1797,7 @@ Quick Search: HoV, Salty Tuna, Sirin
 
 ![The void demands ramen noodles](https://cdn.discordapp.com/attachments/976155579565367296/1021183218365501500/anime-girls-honkai-impact-3rd-kiana-kaslana-herrscher-of-the-void-tometoku-thighs-hd-wallpaper-preview.jpg)
 
-### -- Thanos Snap 7D
+### <p align="center">-- Thanos Snap 7D</p>
 
 !!! note
     Updated for 6.0. This variant remains the stronger and easier, faster build compared to Ultimate one.
@@ -1935,7 +1936,7 @@ Signet | Priority
 !!! note
     Fuji together with Sakura Screen are the notorius black goats of this build. Fuji is really nasty as it intensifies the cheese even further as it allows for a constant UE spam without any 1-sec delays whatsoever due to waiting its CD. This is, however, not possible without Elysia M or SirinA M's -20% CDR on UE effects. So on these cases, Ume has the win.
 
-### -- Gate of Babylon Build 7D
+### <p align="center">-- Gate of Babylon Build 7D</p>
 
 !!! note
     Updated for 6.0. Slower clear build, but in terms of strength, it's vastly superior.
@@ -2163,7 +2164,7 @@ Quick Search: LK, Teri, Theresa
 
 ![Teri Teri DAISHOURI!](https://cdn.discordapp.com/attachments/967717692465365133/982328549983813642/theresa_apocalypse_and_theresa_apocalypse_honkai_and_1_more_drawn_by_mt_ringofive__sample-c28643bef62a51ccbf6d885500418ae4.jpg)
 
-### -- <p align="center">LK Abstinence Build 5D</p>
+### <p align="center">-- LK Abstinence Build 5D</p>
 
 >   Boss to be chosen: Husk, then Vill-V
 
@@ -2293,7 +2294,7 @@ Early | AE | LE
 Mid | AE | LE/MA/BR
 Late | AE | MA/BR
 
-### --  5-Core Build 
+### <p align="center">-- 5-Core Build</p>
 ####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
@@ -2503,7 +2504,7 @@ Quick Search: PE, Juan, Horse, Goose, Dudu
 
 ![Is this too lewd lmao](https://elysian-realm.vercel.app/images/palatinus-equinox.jpg)
 
-### -- <p align="center">Equinox Severance Build 7D</p>
+### <p align="center">-- Equinox Severance Build 7D</p>
 
 !!! note
     Updated to 6.0. This build is far stronger, superior and easier compared to Gallop build.
@@ -2705,7 +2706,7 @@ Quick search: RC, Neko, Cat, Pardo, Phyllis, Pardofelis
 
 ![ok /srs, is this too lewd lmao. i rlly love this picture thoo](https://images-ext-1.discordapp.net/external/MqPd0RGKekUaBfA96jgtSJUPjPurqhqFWeEtBnx3izw/%3Fillust_id%3D97049680/https/embed.pixiv.net/decorate.php)
 
-### -- <p align="center">Pardo1 Variation 7D</p>
+### <p align="center">-- Pardo1 Variation 7D</p>
 
 !!! note
     Updated to 6.0. More tailored towards late-game. Strength comes in close to Pardo2 variation.
@@ -2831,7 +2832,7 @@ Signet | Priority
 **Recitatif of Fine Jade**: Initial SP and max SP increase by 30 | 3rd
 **Nexus Signet 2: Echo of Gold**|
 
-### -- <p align="center">Pardo2 Variation 7D</p>
+### <p align="center">-- Pardo2 Variation 7D</p>
 
 !!! danger
     Updated to 6.0. Pardo2 focuses on the 2nd Core and shines more right away from the Early game. This build is also focused on visiting shops. It also opens up the possibility of being able to reach up to 8 cores, however the most ideal remains 6/7 as the enhanceds are still good to take.
@@ -2968,7 +2969,7 @@ Quick search: RI, Kallen
 
 ![Don't even think abt taking otto's sweetheart smh](https://cdn.discordapp.com/attachments/967717692465365133/982328632133427210/kallen_kaslana_and_kallen_kaslana_honkai_and_1_more_drawn_by_aya_0707__sample-9c01136da71faf66783d7845d584a9b5.jpg)
 
-### -- RI - *Aponia Build 6D*
+### <p align="center">-- RI - *Aponia Build 6D*</p>
 
 !!! note
     The strength of this build is weakened for 6.0. Don't expect the same results as the example run shown below.
@@ -3344,7 +3345,7 @@ Quick Search: SI, Griseo, Grisekek, Painter, Bob Ross
 
 ![A painting of a painter. Ain't it nice?](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2022/06/04/19/51/40/98823766_p0_master1200.jpg)
 
-### -- Griseo Aboose 7D
+### <p align="center">-- Griseo Aboose 7D</p>
 
 !!! note
     Updated for 6.0. 
@@ -3547,7 +3548,7 @@ Quick search: SN, Seele
 
 ![Vercel SN](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2020/06/15/13/18/35/82340123_p0_master1200.jpg)
 
-### -- Stygian Nymph - *S2 Build 5D*
+### <p align="center">-- Stygian Nymph - *S2 Build 5D*</p>
 
 > Boss to be Chosen: Husk or Hephaestus, then Vill-V
 
@@ -3804,7 +3805,7 @@ Quick search: VG, Dudu, Goose
 
 ![Vercel VG](https://elysian-realm.vercel.app/images/valkyrie-gloria.jpg)
 
-### -- VG - *Abstinence Build 5D*
+### <p align="center">-- VG - *Abstinence Build 5D*</p>
 
 !!! note
     The effectiveness of this build for 6.0 might be a bit lower due to the absence of Quantum enemies, but otherwise this should still work fine. It has also been adjusted to fit with 6.0.
