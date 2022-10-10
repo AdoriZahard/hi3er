@@ -43,6 +43,7 @@ Please note that this is only true for there reward scores, and not the actual p
 > Click [here](https://rentry.co/thebuttererguide) for more information on how to ER more efficiently.
 
 ## Update log
+- 2022-10-10: Updated every Load Buff to 2nd Half for all updated builds and some recommended supports.
 - 2022-10-06: Updated HoT Bombard build. Added Narukami Finisher Build for HoT. Added Burger King Tuna Build for HoFS. Fixed a couple of typos amongst builds.
 - 2022-09-30: HoR Weapon Active Spam Build added, Infinite Ouroboros Non-Kevin Build added, MPE build updated to 6.0.
 - 2022-09-28: HoFS General Build updated.
@@ -608,19 +609,19 @@ Quick Search: HoFS, HoF, FK, KFC, Burnt Tuna, Flying Fish
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-S0 | Finality | DoI & 3-set Himeko | 5:26m (6.0) | [https://youtu.be/YRwcFNoFUWk](https://youtu.be/YRwcFNoFUWk)
+S0 | Finality | DoI & 3-set Himeko | 5:26m (6.0 1st Half) | [https://youtu.be/YRwcFNoFUWk](https://youtu.be/YRwcFNoFUWk)
 
 !!! note 
     This build is downscaleable with lower clear times and lower gear requirement. However, you preferentially want Himeko M to be present for this build, as it makes it stronger.
 
 Buff | Load
 :----: | :----: 
-Time-slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-Using a Weapon Active increases Valkyrie Total DMG by 15% for 5s. Triggering it again resets the duration. | 10
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
+Valkyries that use Heavy weapons, Bows or Pistols deal 15% more Total DMG. | 10
 When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
 
 !!! note
-    Effective for 6.0.
+    Effective for 6.0 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -747,20 +748,20 @@ Signet | Priority
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-S0 | Finality | DoI & 3-set Himeko | 7:19m (6.0) | [https://youtu.be/sBqs_DAPdAk](https://youtu.be/sBqs_DAPdAk)
-S0 | Finality | DoI & Leuween TB Thales M | 9:44m (6.0) | [https://youtu.be/6vlIJ4hAKT8](https://youtu.be/6vlIJ4hAKT8)
+S0 | Finality | DoI & 3-set Himeko | 7:19m (6.0 (1st Half) | [https://youtu.be/sBqs_DAPdAk](https://youtu.be/sBqs_DAPdAk)
+S0 | Finality | DoI & Leuween TB Thales M | 9:44m (6.0 1st Half) | [https://youtu.be/6vlIJ4hAKT8](https://youtu.be/6vlIJ4hAKT8)
 
 !!! note 
     This build is downscaleable with lower clear times and lower gear requirement. However, do note that Leuween TB Thales M has some serious problems to be taken into account that will be noted down in some of the signets info.
 
 Buff | Load
 :----: | :----: 
-Time-slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-Using a Weapon Active increases Valkyrie Total DMG by 15% for 5s. Triggering it again resets the duration. | 10
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
+Valkyries that use Heavy weapons, Bows or Pistols deal 15% more Total DMG. | 10
 When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
 
 !!! note
-    Effective for 6.0.
+    Effective for 6.0 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -886,18 +887,19 @@ Quick Search: Elysia, HoH, HoHe, Manta Ray, H2O, Water
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-S1 | Finality | DoEgo & 3-set Pristine | 3:47m (6.0) | [https://youtu.be/Fgkcml9kPLw](https://youtu.be/Fgkcml9kPLw)
+S1 | Finality | DoEgo & 3-set Pristine | 3:47m (6.0 1st Half) | [https://youtu.be/Fgkcml9kPLw](https://youtu.be/Fgkcml9kPLw)
 
 !!! note 
     This build is downscaleable with lower clear times and lower gear requirement. Even with complete cope gears such as Call of Crescent and full Ana Schariac or just Light String, HoH can still clear Finality.
 
 Buff | Load
 :----: | :----: 
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
+Valkyries that use Heavy weapons, Bows or Pistols deal 15% more Total DMG. | 10
 When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
-When Charged ATKs hit enemies, Total DMG dealt increases by 20% for 5s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.0.
+    Effective for 6.0 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1018,18 +1020,19 @@ Signet | Priority
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-S1 | Finality | DoEgo & 3-set Pristine | 4:12m (6.0) | [https://youtu.be/OdJ-aHcehW0](https://youtu.be/OdJ-aHcehW0)
+S1 | Finality | DoEgo & 3-set Pristine | 4:12m (6.0 1st Half) | [https://youtu.be/OdJ-aHcehW0](https://youtu.be/OdJ-aHcehW0)
 
 !!! note 
     This build is downscaleable with lower clear times and lower gear requirement. 
 
 Buff | Load
 :----: | :----: 
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
+Valkyries that use Heavy weapons, Bows or Pistols deal 15% more Total DMG. | 10
 When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
-When Charged ATKs hit enemies, Total DMG dealt increases by 20% for 5s. Triggering it again resets the duration. | 15
 
 !!! note 
-    Effective for 6.0.
+    Effective for 6.0 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1156,18 +1159,19 @@ Quick Search: HoR, Bronya
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-SS1 | Finality | 65 DoR & 3-set Ana Schariac | 6:49 (6.0) | [https://youtu.be/uA5SCbf7Pcs](https://youtu.be/uA5SCbf7Pcs)
+SS1 | Finality | 65 DoR & 3-set Ana Schariac | 6:49 (6.0 1st Half) | [https://youtu.be/uA5SCbf7Pcs](https://youtu.be/uA5SCbf7Pcs)
 
 !!! note 
     The easier, stronger and faster variation. However, this build relies mainly on DoR's existence.
 
 Buff | Load
 :----: | :----: 
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
+Valkyries that use Heavy weapons, Bows or Pistols deal 15% more Total DMG. | 10
 When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
-When Charged ATKs hit enemies, Total DMG dealt increases by 20% for 5s. Triggering it again resets the duration. | 15
 
 !!! note 
-    Effective for 6.0.
+    Effective for 6.0 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1270,18 +1274,19 @@ Signet | Priority
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-SS1 | Finality | 65 DoR & 3-set Ana Schariac | 9:14 (6.0) | [https://youtu.be/cgnVNUf8Ye0](https://youtu.be/cgnVNUf8Ye0)
+SS1 | Finality | 65 DoR & 3-set Ana Schariac | 9:14 (6.0 1st Half) | [https://youtu.be/cgnVNUf8Ye0](https://youtu.be/cgnVNUf8Ye0)
 
 !!! note 
     This build is downscaleable with lower clear times and lower gear requirement. 
 
 Buff | Load
 :----: | :----: 
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
+Valkyries that use Heavy weapons, Bows or Pistols deal 15% more Total DMG. | 10
 When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
-When Charged ATKs hit enemies, Total DMG dealt increases by 20% for 5s. Triggering it again resets the duration. | 15
 
 !!! note 
-    Effective for 6.0.
+    Effective for 6.0 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1399,16 +1404,16 @@ Quick Search: HoS, Senti, Hua, Fuhua, Bonk
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-S | Finality | Senpri & Shattered Swords | 7:47m (6.0) | [https://youtu.be/jalMiRdgqEw](https://youtu.be/jalMiRdgqEw)
-S0 | Finality | Senpri & Ely TB PoloM | 8:29m |[https://youtu.be/7OyB4IOkjGA](https://youtu.be/7OyB4IOkjGA)
+S0 | Finality | Senpri & Shattered Swords | 7:47m (6.0 1st Half) | [https://youtu.be/jalMiRdgqEw](https://youtu.be/jalMiRdgqEw)
+S0 | Finality | Senpri & Ely TB PoloM | 8:29m (6.0 1st Half) |[https://youtu.be/7OyB4IOkjGA](https://youtu.be/7OyB4IOkjGA)
 
 !!! note
     This build is downscaleable with lower clear time based on stats/gears/rank and lower difficulties. Double Clear is not necessary but is nice, you can perfectly clear with this build, especially in 6.0 weather. The one important thing to note from this build is that, especially if you're downscaling in gears but not on difficulty, you want to learn to time The Lonely Moon perfectly into clearing a new wave of mobs right away. Even 1 or 2 seconds later is still fine. Griseo's skill is monstruously op when used this way, due to how easily it can delete waves instantly and apply all your unlocked paints if they're somehow alive still. 
 
 Buff | Load
 :----: | :----: 
-Max SP increases by 30. | 5
-After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
+Triggering Ultimate Evasion Skill restores 10 SP. | 5
+Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
 When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
 
 !!! note
@@ -1522,12 +1527,12 @@ S | Finality | Senpri & Shattered Swords | 8:30m (2nd Half 5.9) | [https://youtu
 
 Buff | Load
 :----: | :----: 
-Time-slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
+Triggering Ultimate Evasion Skill restores 10 SP. | 5
+Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
 When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
 
 !!! note
-    Effective for 6.0.
+    Effective for 6.0 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1628,19 +1633,19 @@ Signet | Priority
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-S | Finality | Senpri & 3-Set Shattered Swords | 8:34 (Updated 6.0) | [https://youtu.be/YjfVFkgrusA](https://youtu.be/YjfVFkgrusA)
+S | Finality | Senpri & 3-Set Shattered Swords | 8:34 (Updated 6.0 1st Half) | [https://youtu.be/YjfVFkgrusA](https://youtu.be/YjfVFkgrusA)
 
 !!! note
     This build is downscaleable with lower clear times and lower gear requirement. You don't necessarily have to do Finality, as such, with lower difficulties, you'll either have faster, about the same or lower clear time depending on your gear requirement. This is also the 3rd in ranking of strength, only do it for fun.
 
 Buff | Load
 :----: | :----: 
-Time-slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
+Triggering Ultimate Evasion Skill restores 10 SP. | 5
+Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
 When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
 
 !!! note
-    Effective for 6.0.
+    Effective for 6.0 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1757,19 +1762,18 @@ Quick search: HoT, Mei, hot mei, dragon
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-SS1 | Finality | 65 7T & Handel | 6:53 (6.0) | [https://youtu.be/hRm5kgih2ao](https://youtu.be/hRm5kgih2ao)
+SS1 | Finality | 65 7T & Handel | 6:53 (6.0 1st Half) | [https://youtu.be/hRm5kgih2ao](https://youtu.be/hRm5kgih2ao)
 
 !!! note 
     This build's downscalability in terms of weapon and stigmatas has yet to be tested. I cannot say yet how it will do without 7T and Handel, especially 7T as it's what makes this build work, and Handel offers a massive damage boost compared to Benares Awakening or other cope stigmatas. However, if you do have them, even if underleveled, then you can downscale accordingly.
 
 Buff | Load
 :----: | :----: 
-Time-slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
 When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
+Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again resets the duration. | 15
 
 !!! note 
-    Effective for 6.0.
+    Effective for 6.0 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1893,21 +1897,21 @@ Signet | Priority
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-SS1 | Finality | 65 7T & Handel | 4:53 (6.0) | [https://youtu.be/5Ivtllc8h1Y](https://youtu.be/5Ivtllc8h1Y)
-SS1 | Finality | 65 DoS & Benares: Awakening | 6:25 (6.0) | [https://youtu.be/FD6YiTvLYnQ](https://youtu.be/FD6YiTvLYnQ)
-SS1 | Finality | 65 DoS & Handel | 7:06 (6.0) | [https://youtu.be/XDaxl4Aesxw](https://youtu.be/XDaxl4Aesxw)
+SS1 | Finality | 65 7T & Handel | 4:53 (6.0 1st Half) | [https://youtu.be/5Ivtllc8h1Y](https://youtu.be/5Ivtllc8h1Y)
+SS1 | Finality | 65 DoS & Benares: Awakening | 6:25 (6.0 1st Half) | [https://youtu.be/FD6YiTvLYnQ](https://youtu.be/FD6YiTvLYnQ)
+SS1 | Finality | 65 DoS & Handel | 7:06 (6.0 1st Half) | [https://youtu.be/XDaxl4Aesxw](https://youtu.be/XDaxl4Aesxw)
 
 !!! note 
     This build's downscalability is pretty surprising. DoS & Benares: Awakening also wins second spot in terms of strength over DoS & Handel. Basically, you can work with either DoS or 7T, however DoS should win over 7T due to the buffs that DoS provides overall.
 
 Buff | Load
 :----: | :----: 
-Time-slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
+Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
 When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
 
 !!! note 
-    Effective for 6.0.
+    Effective for 6.0 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2024,19 +2028,20 @@ Signet | Priority
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-SS1 | Finality | 65 7T & Handel | 5:01 (6.0) | [https://youtu.be/WSNNT-c0wns](https://youtu.be/WSNNT-c0wns)
+SS1 | Finality | 65 7T & Handel | 5:01 (6.0 1st Half) | [https://youtu.be/WSNNT-c0wns](https://youtu.be/WSNNT-c0wns)
+S0 | Finality | 65 7T & Handel | 8:17 (6.0 1st Half) | [https://youtu.be/3oqKVTRESns](https://youtu.be/3oqKVTRESns)
 
 !!! note 
     Expect the strength of this build to probably be weaker in downscaling compared to the others.
 
 Buff | Load
 :----: | :----: 
-Time-slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
+Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
 When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
 
 !!! note 
-    Effective for 6.0.
+    Effective for 6.0 (2nd Half)
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2163,10 +2168,11 @@ Quick Search: HoV, Salty Tuna, Sirin
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-SSS | Finality | DoV & 3-set Sirin Ascendant | 5:44 (Updated, 6.0) | [https://youtu.be/msLTAT4jhho](https://youtu.be/msLTAT4jhho)
-SSS | Finality | DoV & 3-set Elysia | 6:33m (Updated, 6.0) | [https://youtu.be/m9ODUGWtI-8](https://youtu.be/m9ODUGWtI-8)
+SSS | Finality | DoV & 3-set Sirin Ascendant | 5:44 (Updated, 6.0 1st Half) | [https://youtu.be/msLTAT4jhho](https://youtu.be/msLTAT4jhho)
+SSS | Finality | DoV & 3-set Elysia | 6:33m (Updated, 6.0 1st Half) | [https://youtu.be/m9ODUGWtI-8](https://youtu.be/m9ODUGWtI-8)
 SSS | Finality | DoV & 3-set Mich TB Polo M | 9:53m (2nd Half 5.9) | [https://youtu.be/5iB58b-fAQQ](https://youtu.be/5iB58b-fAQQ)
-S3 | Finality | Lv55 DoV & 3-set Elysia | 10:08m (6.0) | [https://youtu.be/WkSisfkTyA0](https://youtu.be/WkSisfkTyA0)
+S3 | Finality | Lv55 DoV & Sirin Ascendant | 7:26 (6.0 1st Half) | [https://youtu.be/oMdHkVnh7bE](https://youtu.be/oMdHkVnh7bE)
+S3 | Finality | Lv55 DoV & 3-set Elysia | 10:08m (6.0 1st Half) | [https://youtu.be/WkSisfkTyA0](https://youtu.be/WkSisfkTyA0)
 
 !!! danger
     These above are listed based on their potential strength. First listed is the strongest. Also, watch out for builds without SirinA M or Elysia M, as the playstyle changes a bit.
@@ -2176,12 +2182,12 @@ S3 | Finality | Lv55 DoV & 3-set Elysia | 10:08m (6.0) | [https://youtu.be/WkSis
 
 Buff | Load
 :----: | :----: 
-Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-Using a Weapon Active increases Valkyrie Total DMG by 15% for 5s. Triggering it again resets the duration.| 10
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
+Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
 When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
 
 !!! note
-    Effective for 6.0.
+    Effective for 6.0 2nd Half
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2312,12 +2318,12 @@ SSS | Finality | DoV & 3-set Sirin Ascendant | 6:40 (Updated, 6.0) | [https://yo
 
 Buff | Load
 :----: | :----: 
-Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-Using a Weapon Active increases Valkyrie Total DMG by 15% for 5s. Triggering it again resets the duration.| 10
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
+Valkyries that use Heavy weapons, Bows or Pistols deal 15% more Total DMG. | 10
 When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
 
 !!! note
-    Effective for 6.0.
+    Effective for 6.0 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2448,19 +2454,19 @@ Quick Search: IO, Snake, Snek, Mobius
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-S0 | Finality | Basilisk & Linnaeus | 6:02 (Updated, 6.0) | [https://youtu.be/A0fgY7_m4c4](https://youtu.be/A0fgY7_m4c4)
+S0 | Finality | Basilisk & Linnaeus | 6:02 (Updated, 6.0 1st Half) | [https://youtu.be/A0fgY7_m4c4](https://youtu.be/A0fgY7_m4c4)
 
 !!! note
     This build is downscaleable with lower clear times and lower gear requirement. You don't necessarily have to do Finality, as such, with lower difficulties, you'll either have faster, about the same or lower clear time depending on your gear requirement. Even without Linnaeus, Mobius should be fine and able to clear in lower difficulties.
 
 Buff | Load
 :----: | :----: 
-Max SP is increased by 30. | 5
-Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-Using a Weapon Active increases Valkyrie Total DMG by 15% for 5s. Triggering it again resets the duration.| 10
+Triggering Ultimate Evasion Skill restores 10 sp. | 5
+Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
+Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again resets the duration.| 15
 
 !!! note
-    Effective for 6.0.
+    Effective for 6.0 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2573,19 +2579,19 @@ Quick Search: LK, Teri, Theresa
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-SSS | Abstinence | Hekate & Ely TB Dante M | 11:35m (6.0) | [https://youtu.be/sgAAftHZA4Y](https://youtu.be/sgAAftHZA4Y)
+SSS | Abstinence | Hekate & Ely TB Dante M | 11:35m (6.0 1st Half) | [https://youtu.be/sgAAftHZA4Y](https://youtu.be/sgAAftHZA4Y)
 
 !!! note
     In terms of downscaling, LK probably doesn't have much options honestly. For cross, she can use Elysian Astra, 11th Leutorgia or maybe even cope with Basilisk, but in terms of stigmatas, it's even harder to say what works well with her. Honestly, you'd be better off just using someone else instead. Don't expect much from LK.
 
 Buff | Load
 :----: | :----: 
-Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-Using a Weapon Active increases Valkyrie Total DMG by 15% for 5s. Triggering it again resets the duration.| 10
-When Charged ATKs hit enemies, Total DMG dealt increases by 20% for 5s. Triggering it again resets the duration. | 15
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
+Valkyries that use Heavy weapons, Bows or Pistols deal 15% more Total DMG. | 10
+Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.0.
+    Effective for 6.0 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2775,19 +2781,19 @@ Quick Search: MPE, Elysia, Maid
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run 
 :----: | :----: | :----: | :----: | :----:
-SSS | Finality | Whisper Pri & 3-set Elysia | 9:25m (Updated 6.0) | [https://youtu.be/vQEYSylNVyk](https://youtu.be/vQEYSylNVyk)
+SSS | Finality | Whisper Pri & 3-set Elysia | 9:25m (Updated 6.0, 1st Half) | [https://youtu.be/vQEYSylNVyk](https://youtu.be/vQEYSylNVyk)
 
 !!! note
     This build is downscaleable with lower clear times and lower gear requirement, however the ceiling for downscaling is pretty tight as MPE's strength evidently goes down a bit too much without her weapon or even without her Elysia set.
 
 Buff | Load
 :----: | :----: 
-Max SP increases by 30. | 5
-Using a Weapon Active increases Valkyrie Total DMG by 15% for 5s. Triggering it again resets the duration. | 10
-When Charged ATKs hit enemies, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 15
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
+Valkyries that use Heavy weapons, Bows, or Pistols deal 15% more Total DMG. | 10
+Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again refreshes the duration. | 15
 
 !!! note
-    Effective for 6.0
+    Effective for 6.0 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2914,19 +2920,19 @@ Quick Search: PE, Juan, Horse, Goose, Dudu
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-SSS | Finality | Midnight Ataegina & BiankaT | 9:41m (6.0) | [https://youtu.be/hVsZaDG7TVM](https://youtu.be/hVsZaDG7TVM)
+SSS | Finality | Midnight Ataegina & BiankaT | 9:41m (6.0 1st Half) | [https://youtu.be/hVsZaDG7TVM](https://youtu.be/hVsZaDG7TVM)
 
 !!! note
     In terms of downscaling, it's downscaleable with lower clear time based on stats/gears/rank and lower difficulties. With gears other than BiankaT, PE should be able to do this just fine.
 
 Buff | Load
 :----: | :----: 
-Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-Using a Weapon Active increases Valkyrie Total DMG by 15% for 5s. Triggering it again resets the duration.| 10
-When Charged ATKs hit enemies, Total DMG dealt increases by 20% for 5s. Triggering it again resets the duration. | 15
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
+Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
+Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again resets the duration.| 15
 
 !!! note
-    Effective for 6.0.
+    Effective for 6.0 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3116,19 +3122,19 @@ Quick search: RC, Neko, Cat, Pardo, Phyllis, Pardofelis
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-SSS | Finality | Purana & Ana Schariac | 8:08m (6.0) | [https://youtu.be/EZNq6e74Wjc](https://youtu.be/EZNq6e74Wjc)
+SSS | Finality | Purana & Ana Schariac | 8:08m (6.0 1st Half) | [https://youtu.be/EZNq6e74Wjc](https://youtu.be/EZNq6e74Wjc)
 
 !!! note
     In terms of downscaling, it's downscaleable with lower clear time based on stats/gears/rank and lower difficulties. Things like N-EX TB, Bastet, are fine.
 
 Buff | Load
 :----: | :----: 
-Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-Max SP increased by 30. | 5
-Using a Weapon Active increases Valkyrie Total DMG by 15% for 5s. Triggering it again resets the duration.| 10
+Enemies damaged by weapon actives take 5% bonus Total DMG. Triggering it again refreshes the duration. | 5
+Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
+Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again resets the duration.| 15
 
 !!! note
-    Effective for 6.0.
+    Effective for 6.0 2nd Half
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3138,9 +3144,9 @@ Late | Key to the Deep or Proof of Good and Evil | Falling in Past Light
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | AE | BR
-Mid | AE | BR
-Late | AE | BR
+Early | AE | HB
+Mid | AE | HB
+Late | AE | HB
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -3242,19 +3248,19 @@ Signet | Priority
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-SSS | Finality | Purana & Ana Schariac | 7:41m (6.0) | [https://youtu.be/jn0qc03V5WI](https://youtu.be/jn0qc03V5WI)
+SSS | Finality | Purana & Ana Schariac | 7:41m (6.0 1st Half) | [https://youtu.be/jn0qc03V5WI](https://youtu.be/jn0qc03V5WI)
 
 !!! note
     In terms of downscaling, it's downscaleable with lower clear time based on stats/gears/rank and lower difficulties. Things like N-EX TB, Bastet, are fine.
 
 Buff | Load
 :----: | :----: 
-Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-Max SP increased by 30. | 5
-Using a Weapon Active increases Valkyrie Total DMG by 15% for 5s. Triggering it again resets the duration.| 10
+Enemies damaged by weapon actives take 5% bonus Total DMG. Triggering it again refreshes the duration. | 5
+Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
+Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again resets the duration.| 15
 
 !!! note
-    Effective for 6.0.
+    Effective for 6.0 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3264,9 +3270,9 @@ Late | Key to the Deep | Falling in Past Light
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | AE | BR
-Mid | AE | BR
-Late | AE | BR
+Early | AE | HB
+Mid | AE | HB
+Late | AE | HB
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -3386,11 +3392,12 @@ SSS | Corruption | DoV & 3-Set Elysia | 13:25m (2nd Half 5.9) | [https://youtu.b
 
 Buff | Load
 :----: | :----: 
-Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-Max SP increases by 30. | 5
+Enemies damaged by weapon actives take 5% bonus Total DMG. Triggering it again refreshes the duration. | 5
+Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
+Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again resets the duration.| 15
 
 !!! note
-    Effective for 6.0
+    Effective for 6.0 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3755,19 +3762,19 @@ Quick Search: SI, Griseo, Grisekek, Painter, Bob Ross
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-SSS | Finality | Elysian Astra & Cezanne | 7:16m (Updated, 6.0) | [https://youtu.be/WOaXlhdcyrc](https://youtu.be/WOaXlhdcyrc)
+SSS | Finality | Elysian Astra & Cezanne | 7:16m (Updated, 6.0 1st Half) | [https://youtu.be/WOaXlhdcyrc](https://youtu.be/WOaXlhdcyrc)
 
 !!! note
     This build is downscaleable with lower clear time based on stats/gears/rank and lower difficulties. However, I can't say how she will work without Cezanne as most of Griseo's damage in ER comes from her bleed damage. A bit weird to work around. But there's probably a way to work around it, which I will look into later.
 
 Buff | Load
 :----: | :----: 
-Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-Max SP increased by 30. | 5
-Using a Weapon Active increases Valkyrie Total DMG by 15% for 5s. Triggering it again resets the duration.| 10
+Enemies damaged by weapon actives take 5% bonus Total DMG. Triggering it again refreshes the duration. | 5
+Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
+Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again resets the duration.| 15
 
 !!! note
-    Effective for 6.0.
+    Effective for 6.0 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3967,7 +3974,7 @@ Max SP increases by 30. | 5
 When Charged ATKs hit enemies, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.0
+    Effective for 5.9
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4222,12 +4229,12 @@ SSS | Abstinence | Eos Gloria & LWH TB Thales M | 13:09m (2nd Half 5.9) | [https
 
 Buff | Load
 :----: | :----: 
-Max SP increases by +30. | 5
-Using a Weapon Active increases Valkyrie Total DMG by 15% for 5s. Triggering it again resets the duration. | 10
-When Charged ATKs hit enemies, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 15
+Enemies damaged by weapon actives take 5% bonus Total DMG. Triggering it again refreshes the duration. | 5
+Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
+Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again resets the duration.| 15
 
 !!! note
-    Effective for 6.0
+    Effective for 6.0 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
