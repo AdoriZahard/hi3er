@@ -41,6 +41,7 @@ Please note that this is only true for there reward scores, and not the actual p
 > Click [here](https://rentry.co/thebuttererguide) for more information on how to ER more efficiently.
 
 ## Update log
+- 2022-10-13: Updated MPE Build for 2nd Half: signet priority has been updated.
 - 2022-10-11: Added FT General Build. Added new Meme Burger King build for HoFS. Updated HoV signets for Thanos Snap Build.
 - 2022-10-10: Updated every Load Buff to 2nd Half for all updated builds and some recommended supports.
 - 2022-10-06: Updated HoT Bombard build. Added Narukami Finisher Build for HoT. Added Burger King Tuna Build for HoFS. Fixed a couple of typos amongst builds.
@@ -740,20 +741,36 @@ Signet | Priority
 !!! note
     I also strongly recommend upgrading Kalpas' Max HP after both of his DMG boosts if you're using Himeko. Himeko M giving 25% max HP paired with Kalpas 40% Max HP from +3 and Pardofelis Max HP signet makes it possible to reach up to 16k or 17k HP which gives Kalpas an absolutely massive scaling on his +3 DMG Boosts. When using Shelley T Himeko M Scott B variation, it's even more of a priority as it reaches up to 22.5k HP.
 
-####<p align="center">Sakura - Signet of Setsuna (2nd Core)</p>
+####<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
+
+Signet | Priority
+----| :----:
+**Old Dreams Again**: Elemental Breach increases by 0.6% per second | 1st
+**Dark Garb No More**: Elemental DMG increases by 0.8% per second | 2nd
+**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks | 3rd
+**Nexus Signet 2: Suffering Mass** |
+**Broken Dream**: When possessing Soldier's Remembrance., increase the maximum stack of normal Vicissitude signets by 20 | Optional
+
+!!! note
+    The breach right away is a really big boost in HoFS damage for the remainder of the run.
+
+####<p align="center">Sakura - Signet of Setsuna (3rd or 4th Core)</p>
 
 Signet | Priority
 ------ | :----:
 **Bountiful Blossom: Fuji**: Ultimate Evasion Skill has 1 more charge and 10% reduced CD | 1st
-**Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s | 2nd
-**Bountiful Blossom: Botan**: Triggering Ultimate Evasion Skill boosts Total DMG by 40% for 8s. | 3rd
+**Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s | Optional
+**Bountiful Blossom: Botan**: Triggering Ultimate Evasion Skill boosts Total DMG by 40% for 8s. | Optional
 **Bountiful Blossom: Ayame**: Triggering Ultimate Evasion Skill restores 12.0 bonus SP | Optional
 **Nexus Signet 1: Setsuna Blade: Sakura-ni-Maku** | 
 
-!!! danger
-    Fuji is a first priority and is absolutely essential to get as soon as you can, especially when missing Tempered Warrior. Also, Sakura's Core is not necessary to complete. After getting Fuji, you can then proceed to leave completing Sakura by F11 onwards, with Griseo taking the priority. Also, Ayame is good to consider taking for the purposes of getting Yellow applied through early Ultimate so you can get your maximum damage output as soon as possible, however you can also instead pick Eden's Initial/Max SP for this.
+!!! note
+    Fuji, Koyo and Botan are preferred to pick up from Felis Shop, with Fuji being the absolute first priority, especially when missing Tempered Warrior. Read the danger for further explanation.
 
-####<p align="center">Griseo - Signet of Stars (3rd Core)</p>
+!!! danger
+    Sakura's Core is not necessary to complete. After getting Fuji, you can proceed to focus on getting Griseo and finishing Sakura 1st core on later floors, particularly after Mech Land. Also, Ayame is good to consider taking for the purposes of getting Yellow applied through early Ultimate so you can get your maximum damage output as soon as possible, however you can also instead pick Eden's Initial/Max SP for this.
+
+####<p align="center">Griseo - Signet of Stars (4th or 3rd Core)</p>
 
 Signet | Priority
 - | :----:
@@ -768,19 +785,6 @@ Signet | Priority
 
 !!! note
     Due to HoFS' problem of using Ult right away to apply Yellow, you'll usually want to leave at least one charge of UE for the purposes of being able to reset Overheat meter right after using Ultimate. Also one important thing to note here: You'll want to make sure to get Yellow next if you happen to get Fallen Leaves from a Griseo door. Or in the case you get A Flame Extinguished, then pick Yellow over it.
-
-####<p align="center">Hua - Signet of Vicissitude (4th Core)</p>
-
-Signet | Priority
-----| :----:
-**Old Dreams Again**: Elemental Breach increases by 0.6% per second | 1st
-**Dark Garb No More**: Elemental DMG increases by 0.8% per second | 2nd
-**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks | 3rd
-**Nexus Signet 2: Suffering Mass** |
-**Broken Dream**: When possessing Soldier's Remembrance., increase the maximum stack of normal Vicissitude signets by 20 | Optional
-
-!!! note
-    The breach right away is a really big boost in HoFS damage for the remainder of the run.
 
 ####<p align="center">Pardofelis - Signet of Reverie (5th Core)</p>
 
@@ -2853,7 +2857,7 @@ Quick Search: MPE, Elysia, Maid
 ###<p align="center">-- Miss Elysia Build 7D*</p>
 
 !!! note
-    Updated for 6.0. MPE's strength was surprisingly lowered and toned down a bit this weather around. My guess? Probably because no more Vill-V +2. Downscaling purposes, however... MPE is pretty damn weak for that.
+    Updated for 6.0 2nd Half. This time around, MPE is Herrscher-level strength in terms of clear speed, however in downscaling there might be a very noticeable difference as her Rank-ups are really good for her DPS.
 
 > Boss to be Chosen: Hephaestus, then Mobius or Vill-V
 
@@ -2861,7 +2865,8 @@ Quick Search: MPE, Elysia, Maid
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run 
 :----: | :----: | :----: | :----: | :----:
-SSS | Finality | Whisper Pri & 3-set Elysia | 9:25m (Updated 6.0, 1st Half) | [https://youtu.be/vQEYSylNVyk](https://youtu.be/vQEYSylNVyk)
+SSS | Finality | Whisper Pri & 3-set Elysia | 5:39 (6.0 2nd Half) | [https://youtu.be/vWv3zs66A0s](https://youtu.be/vWv3zs66A0s)
+SSS | Finality | Whisper Pri & 3-set Elysia | 9:25m (6.0, 1st Half) | [https://youtu.be/vQEYSylNVyk](https://youtu.be/vQEYSylNVyk)
 
 !!! note
     This build is downscaleable with lower clear times and lower gear requirement, however the ceiling for downscaling is pretty tight as MPE's strength evidently goes down a bit too much without her weapon or even without her Elysia set.
@@ -2877,18 +2882,18 @@ Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it 
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
-Early | Veil of Tears | The Lonely Moon or Falling in Past Light
-Mid | Pseudo Miracle / Memory / Mad King's Mask | The Lonely Moon or Falling in Past Light
-Late | Key to the Deep or Resolve | The Lonely Moon or Falling in Past Light
+Early | Pseudo Miracle | Falling in Past Light 
+Mid | Veil of Tears / Mad King's Mask / Rainbow of Absence | Falling in Past Light
+Late | Tin Flask or Key to the Deep | Falling in Past Light
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
 Early | VC | LE
 Mid | VC | LE or SS
-Late | VC | LE or SS
+Late | BR | LE or SS
 
 !!! danger
-    LE is swapped ONLY if you grab Eden's Initial/Max SP signet.
+    LE is swapped if you grab Eden's Initial/Max SP signet. However, if you don't feel confident on your damage and especially if you're downscaling hard, you can just swap her out for SS instead, as long as you have Aponia's SP regen backing you up.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -2898,16 +2903,33 @@ Signet | Priority
 **Blessing of Zenith**: While Ultimate is active, each ricochet deals 15% ATK of bonus Physical DMG on hit. Every wave of ricochet reduces weapon active's CD by 0.6s. | **Start**
 **Blessing of Purity**: While Ultimate is active, a wave of ricochet occurs under Flawless Dome every second. The ricochets triggered in this way only ricochet 3 times but deal 130% ATK of Physical DMG. (DMG Source: Ultimate) | **Start**
 **Blessing of Love**: While Ultimate is active, Charged Shot: Cupid's Bolt consumes 100% bonus Infatuation and deals 700% ATK of bonus Physical DMG. | No
-**Blessing of Beauty**: Using weapon active restores 1 additional Ultimate Evasion charge. Enemies take 25% bonus Total DMG when a Crystalline Seed is attached to them. | Optional
+**Blessing of Beauty**: Using weapon active restores 1 additional Ultimate Evasion charge. Enemies take 25% bonus Total DMG when a Crystalline Seed is attached to them. | 1st Optional
 **Blessing of Benevolence**: Infatuation is fully restored when Ultimate Evasion Skill is triggered. If Infatuation drops below 100 after using Charged Shot: Cupid's Bolt, you can consume 1 Ultimate Evasion charge to trigger Ultimate Evasion Skill. | No 
 
 !!! note
-    This build requires only 2, Zenith and Purity. Beauty is not needed but otherwise really nice to take, will make the run smoother and easier. Other 2 are just NO.
+    This build requires only 2, Zenith and Purity. Beauty is not necessary, however it's free 35% TDM Taken to take, which is really strong for early and for the rest of the run, so it is strongly advised that you do F2 Ego start. Otherwise, prefer to go for a Griseo F2 start for taking her Red paint.
 
-####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
+####<p align="center">Vill-V - Signet of Helix (1st Core)</p>
 
 !!! note
-    Ideal Order from F1-F7: Vill-V start (2nd Floor), then Aponia F3, finish Aponia 2nd Core by F4, then finish Vill-V by F6 (possible with shopping and buying 1 signet from there, and 1 Hua signet), then finish Hua 2nd Core by F7
+    Ideal Order from F1-F7: F2 Ego start for Beauty, then grab V-V's Conflict of Spider Web by F3, finish V-V 2nd core by F4, V-V F5 for either Puppetry or Drama, shop F6, swap Pseudo Miracle for Veil of Tears, get Griseo Red paint from Shop and Kalpas TDM or Phys/Elem DMG (If you get Kalpas DMG boosts, abuse trick with swapping BR, using her, removing her, rinse and repeat until you are below 300 HP to continue), and grab V-V F7 for missing Puppetry or Drama and get any missing priority basic signet from V-V.
+
+Signet | Priority
+- | :----:
+**Act V: Spider Web**: Using a weapon active boosts Valkyrie ranged Total DMG by 40% for 4.5s. Triggering it again resets the duration. | 1st
+**Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 2nd
+**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 3rd
+**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | 4th
+**Act I: Magic**: Using a weapon active boosts its Total DMG by 10%. 6 stacks max. Reset at the end of each battle. | Optional 5th
+**ACT VI: Sneer**: Using a weapon active restores 12 SP in 5s and reduces its CD by 15%. | Optional 6th
+**Nexus Signet 2: Intermezzo: Holistic Helix** |
+**Puppetry: Interlacing Cells**: Extends Global Time Fracture caused by Specail Weapon: No. 4's detonation by 3s. During Global Time Fracture, gain 30% Physical and Elemental Breach. | 1st
+**Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 2nd
+
+!!! note
+    Magic is often better not taken, but otherwise great to have, as Whisper's weakspot hits are actually a lot of damage later on.
+
+####<p align="center">Aponia - Signet of Discipline (2nd Core)</p>
 
 Signet | Priority
 - | :----:
@@ -2919,49 +2941,7 @@ Signet | Priority
 **You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 2nd
 **You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 3rd
 
-####<p align="center">Vill-V - Signet of Helix (2nd Core)</p>
-
-Signet | Priority
-- | :----:
-**Act V: Spider Web**: Using a weapon active boosts Valkyrie ranged Total DMG by 40% for 4.5s. Triggering it again resets the duration. | 1st
-**Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 2nd
-**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | 3rd
-**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 4th
-**Nexus Signet 2: Intermezzo: Holistic Helix** |
-**Puppetry: Interlacing Cells**: Extends Global Time Fracture caused by Specail Weapon: No. 4's detonation by 3s. During Global Time Fracture, gain 30% Physical and Elemental Breach. | 1st
-**Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 2nd
-**Saga: Overlapping Needles**: Gravitational Field affects a larger area and gain a stronger pull. DMG-dealing hits deal and extra 500% ATK of Adaptive DMG. | Filler 
-
-!!! note
-    Ideal course of action is to take 4-3 Vill-V signets for F4 double clear, then grab 1 Hua door on either F5 or F6, and then grab Hua on F7.
-
-####<p align="center">Hua - Signet of Vicissitude (3rd Core)</p>
-
-
-Signet | Priority
-- | :----:
-**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 1st
-**Days Gone**: Physical DMG increases by 0.8% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 2nd
-**No One to Share**: Physical Breach increases by 0.6% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 3rd
-**Nexus Signet 2: Suffering Mass** |
-**Broken Dream**: With Soldier's Remembrance stacks, the max stacks of all buffs from Normal Signets of Vicissitude increase by 20. Losing all Soldier's Remembrance stacks reduces the max stacks by 10 but restores 1 Soldier's Remembrance stack. Can only be triggered once every battle. | 1st
-
-!!! note
-    Getting Hua2 by F7 is a massive upgrade for the entirety of the run and will make it easy, especially for Mech land.
-
-####<p align="center">Griseo - Signet of Stars (4th Core)</p>
-
-!!! danger It's not necessary to get Griseo's Core. You can just take the 2 priorities and you can continue with the other signets priorities.
-
-Signet | Priority
-- | :----:
-**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st
-**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 2nd
-**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | Optional 3rd
-**Nexus Signet 2: Faded Stars** |
-**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | Optional 1st
-
-####<p align="center">Kalpas - Signet of Decimation (5th Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
 
 Signet | Priority
 - | :----:
@@ -2970,7 +2950,25 @@ Signet | Priority
 **Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
 **Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
 
-####<p align="center">Pardofelis - Signet of Reverie (6th Core)</p>
+!!! note
+    If needed, you can choose to intentionally die and make use of Elysia's passive revival to immediately recharge Bloodboil Armor to the max so you can further get stronger and make sure to finish the run.
+
+####<p align="center">Griseo - Signet of Stars (4th Core)</p>
+
+Signet | Priority
+- | :----:
+**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st
+**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 2nd
+**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | Optional 3rd or 4th
+**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | Optional 3rd or 4th
+**Nexus Signet 2: Faded Stars** |
+**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | Optional
+**Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | Optional
+
+!!! note
+    Griseo2's Enhanceds are VERY optional to take. You generally would only want them if you don't get any other better door options during your run. If you do manage to get them, make sure to play around triggering Blue paint for Fallen Leaves and Petals in the Wind.
+
+####<p align="center">Pardofelis - Signet of Reverie (5th Core)</p>
     
 Signet | Priority
 - | :----:
@@ -2978,9 +2976,10 @@ Signet | Priority
 **Motto of Meow**: Every 100 Shiny Silvers obtained this round boost Total DMG by 1%. | Optional 2nd
 **Back-Curled Tail**: Every 100 Shiny Silvers obtained this round boost Physical and Elemental DMG by 0.8%. | Optional 3rd
 **Nexus Signet 1: Empty Dreams, Self, Set, and Joy**: |
+**Nexus Signet 2: Empty Illusions, Empty Fantasies**: |
 
 !!! note
-    If you get Kalpas2, you can take just Pardo's Max HP/SP signet and be done with her.
+    If you get Kalpas2, you can take just Pardo's Max HP/SP signet and be done with her. If you end up unlocking her Core: 1st is preferred when you already have Kalpas2, 2nd is preferred when you don't have Kalpas2 unlocked or want to make sure you'll have better chances.
 
 ***
 
