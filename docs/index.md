@@ -41,6 +41,7 @@ Please note that this is only true for there reward scores, and not the actual p
 > Click [here](https://rentry.co/thebuttererguide) for more information on how to ER more efficiently.
 
 ## Update log
+- 2022-10-14: Updated HoV Thanos Snap for 2nd Half.
 - 2022-10-13: Updated MPE Build for 2nd Half: signet priority has been updated. Updated HoV Gate of Babylon build.
 - 2022-10-11: Added FT General Build. Added new Meme Burger King build for HoFS. Updated HoV signets for Thanos Snap Build.
 - 2022-10-10: Updated every Load Buff to 2nd Half for all updated builds and some recommended supports.
@@ -2229,15 +2230,18 @@ Quick Search: HoV, Salty Tuna, Sirin
 ### <p align="center">-- Thanos Snap 7D</p>
 
 !!! note
-    Updated for 6.0. Thanos Snap is the strongest build out of the two possible builds for HoV. Also, Mobius has been revived, and it is now used for the build. Also, note that this build has a varying amount of different starter signets that do work surprisingly well, in that it doesn't matter which start you choose, they'll nevertheless work wonders. See notes further below for more explanation. Mobius start will be used as its the strongest.
+    Updated for 6.0. Thanos Snap is the strongest build out of the two possible builds for HoV. Also, Mobius has been revived, and it is now used for the build.
 
-> Boss to be Chosen: Husk, then Elysia or Aponia
+> Boss to be Chosen: Husk or Hephaestus, then Elysia (fastest clear/speedrun) or Aponia
+
+!!! note
+    Hephaestus is only ever taken if you want the fastest clear time for F17. If you aren't looking for that, then by any means, just stick with Husk instead, as it's the safer and more comfortable option.
 
 ####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-SSS | Finality | DoV & 3-set Sirin Ascendant | 5:44 (Updated, 6.0 1st Half) | [https://youtu.be/msLTAT4jhho](https://youtu.be/msLTAT4jhho)
+SSS | Finality | DoV & 3-set Sirin Ascendant | 3:57m (Updated 6.0, 2nd Half) | [https://youtu.be/fPhUSG4sug8](https://youtu.be/fPhUSG4sug8)
 SSS | Finality | DoV & 3-set Elysia | 6:33m (Updated, 6.0 1st Half) | [https://youtu.be/m9ODUGWtI-8](https://youtu.be/m9ODUGWtI-8)
 SSS | Finality | DoV & 3-set Mich TB Polo M | 9:53m (2nd Half 5.9) | [https://youtu.be/5iB58b-fAQQ](https://youtu.be/5iB58b-fAQQ)
 S3 | Finality | Lv55 DoV & Sirin Ascendant | 7:26 (6.0 1st Half) | [https://youtu.be/oMdHkVnh7bE](https://youtu.be/oMdHkVnh7bE)
@@ -2260,18 +2264,21 @@ When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Tot
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
-Early | Forbidden Seed | Boundless Logos
-Mid | Pseudo Miracle / Forget-Me-Not / Rainbow of Absence | Boundless Logos
-Late | Stained Sakura | Boundless Logos
+Early | Forget-Me-Not | Tsukimi Himiko 
+Mid | Forbidden Seed / Pseudo Miracle / Rainbow of Absence | Boundless Logos
+Late | Stained Sakura or Key to the Deep | Boundless Logos
+
+!!! note
+    Tsukimi Himiko is swapped out for Boundless Logos at F5 Shop.
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | VC | SS
-Mid | VC | SS
-Late | VC | SS
+Early | VC / BR | SS
+Mid | VC / BR | SS
+Late | VC / BR | SS
 
 !!! note
-    BR can also be used in place of VC swapping her out later in F5/F6 Shop. However, do note that BR start is solely intended for Kalpas start, otherwise DO NOT bother, as VC has remained consistently and surprisingly strong as a support.
+    When you reach F5 or F6 shop, you'll want to be looking for Kalpas TDM and Phys/Elem DMG boost or Max HP signets and switch VC for BR, additionally abusing the swap out spam trick for lowering your health to below 100 to abuse the most out of Kalpas buffs at this point easily, without having to get Kalpas2 beforehand. BR will stay for the remainder of the run.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -2285,12 +2292,26 @@ Signet | Priority
 **Blessing of Innateness**: Reduces CD of Ultimate Evasion Skill, weapon skill and Ultimate by 6s each when summoning Space Core. In Herrscher Form, Basic ATKs directly connect to SEQ 3 for a short duration after triggering Ultimate Evasion. | **Start**
 
 !!! note
-    Innateness is a must, Coleus is needed, so double Ely start is the best. Regarding Virtuality and Annihilation, if you get a 3rd Ego Door, go ahead and grab it unless you'd otherwise get an essential core. Griseo and Vill-V are essential cores. There's no winner over Virtuality or Annihilation, as both are strong in their own with almost no noticeable difference whatsoever, however, if you don't like Virtuality's downsides (can make mobs have delayed spawn or lock some enemies in the air in a way that HoV can't target them and reduce her CD's with Innaneness), then Annihilation is taken. However, in the case you don't get Hua2 or aren't planning to get her, take Virtuality 100%.
+    Innateness is a must, Coleus is needed, so double Ely start is the best. It's also strongly recommended to grab a 3rd and even 4th Ego door. Your choice is between Virtuality or Annihilation, and it comes down to personal preference as both are strong in their own with almost no noticeable difference whatsoever, however, if you don't like Virtuality's downsides (can make mobs have delayed spawn or lock some enemies in the air in a way that HoV can't target them and reduce her CD's with Innateness), then Annihilation is taken for smoother gameplay.
 
-####<p align="center">Mobius - Signet of Infinity (1st Core)</p>
+####<p align="center">Sakura - Signet of Setsuna (1st Core)</p>
 
 !!! note
-    Ideal course of build up: 2 Ego Start, Entwined [P] by F3, Mobius 1st Core by F4 with Rodent [V] and Lip Poison [E], then grab either Vill-V for Spider Web or Sakura for Fuji by F5 and go shop by F6, unlock either Vill-V 2nd Core or Sakura 1st Core by F7. 
+    Ideal course of build up: 2 Ego Start, Sakura TDM by F3, finish Sakura 1st Core by F4, go shop F5 and grab either Kalpas' both DMG boosts or Max HP + DMG boost and one of the 3 desired signets from Mobius; swap Forget-Me-Not for Forbidden Seed and Tsukimi Himiko for Boundless Logos. Finish Mobius 1st Core by F7 and get Dead [X] in F8
+
+Signet | Priority
+- | :----:
+**Bountiful Blossom: Botan**: Triggering Ultimate Evasion Skill boosts Total DMG by 40% for 8s. | 1st
+**Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s. | 2nd
+**Bountiful Blossom: Fuji**: Ultimate Evasion Skill has 1 more charge and 10% reduced CD. | 3rd
+**Bountiful Blossom: Ume**: Triggering Ultimate Evasion Skill boosts Attack Speed & Move Speed by 40% for 8s. | Filler
+**Nexus Signet 1: Setsuna Blade: Sakura ni Maku** |
+**Setsuna Blade: Ino-Shika-Cho**: When Sakura Screen is active, moving around can pause its duration countdown for up to 3.0s. | Optional
+
+!!! note
+    Fuji together with Sakura Screen are the notorius black goats of this build. Fuji is really nasty as it intensifies the cheese even further as it allows for a constant UE spam without any 1 sec delays whatsoever due to waiting its CD, allowing for maximum DPS output. However, this requires the 20% CDR from Elysia M or SirinA M. As for Ino-Shika-Cho, it's not necessary to take.
+
+####<p align="center">Mobius - Signet of Infinity (2nd Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -2299,42 +2320,38 @@ Signet | Priority
 **Lip Poison [E]:** Total DMG from summoned entities, ELFs, and Support Valkyries increases by 60%. ELFs | 3rd
 **Lodging [C]:** ELF Ultimates and Support Valkyries' support skills have 20% reduced CD | Optional
 **Nexus Signet 1: Infinite [X]** |
-**Dead [X]**: For every second in Mind Sync, Valkyrie herself, summoned entities, ELFs, and Support Valkyries deal 10% bonus Total DMG. 5 stacks max. 9 stacks max with any summoned entity present. Reset on exiting Mind Sync | Optional 1st
-**Newborn [X]**: Triggering Mind Sync again during Mind Sync no longer resets the duration but extends the duration by 4.0s instead. With any summoned entity present, the duration is extended by 5s additionally. | Optional 2nd or 3rd
-**Unknown [X]**: Triggering Mind Sync again during Mind Sync reduces the CD of ELF Ultimates and Support Valkyries' support skills by 2s. With any summoned entity present, the CDs are reduced by 2s additionally. This effect can only be triggered once per 4s. | Optional 2nd or 3rd
+**Dead [X]**: For every second in Mind Sync, Valkyrie herself, summoned entities, ELFs, and Support Valkyries deal 10% bonus Total DMG. 5 stacks max. 9 stacks max with any summoned entity present. Reset on exiting Mind Sync | 1st
+**Unknown [X]**: Triggering Mind Sync again during Mind Sync reduces the CD of ELF Ultimates and Support Valkyries' support skills by 2s. With any summoned entity present, the CDs are reduced by 2s additionally. This effect can only be triggered once per 4s. | Optional
 
 !!! note
-    From testing done, Dead [X] has little to no noticeable effect. As such, it remains as just an optional Signet to take.
+    Dead [X] is a massive upgrade to HoV's damage, especially for downscaling.
 
-####<p align="center">Vill-V - Signet of Helix (2nd Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
+
+Signet | Priority
+- | :----:
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
+**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | Optional
+**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
+
+####<p align="center">Vill-V - Signet of Helix (4th Core)</p>
 
 Signet | Priority
 - | :----:
 **Act V: Spider Web**: Using a weapon active boosts Valkyrie ranged Total DMG by 40% for 4.5s. Triggering it again resets the duration. | 1st
 **Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 2nd
-**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | 3rd
-**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 4th
+**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 3rd
+**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | 4th
 **Nexus Signet 2: Intermezzo: Holistic Helix** |
 **Puppetry: Interlacing Cells**: Extends Global Time Fracture caused by Specail Weapon: No. 4's detonation by 3s. During Global Time Fracture, gain 30% Physical and Elemental Breach. | 1st
 **Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 2nd 
 
 !!! note
-    Puppetry and Drama are the lesser but big black goats of this build.
+    Puppetry is essential because otherwise you'll be lacking Breach. It's also priority to +3 upgrade.
 
-####<p align="center">Sakura - Signet of Setsuna (3rd Core)</p>
-
-Signet | Priority
-- | :----:
-**Bountiful Blossom: Botan**: Triggering Ultimate Evasion Skill boosts Total DMG by 40% for 8s. | 1st
-**Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s. | 2nd
-**Bountiful Blossom: Fuji**: Ultimate Evasion Skill has 1 more charge and 10% reduced CD. | 3rd
-**Bountiful Blossom: Ume**: Triggering Ultimate Evasion Skill boosts Attack Speed & Move Speed by 40% for 8s. | Optional
-**Nexus Signet 1: Setsuna Blade: Sakura ni Maku** |
-
-!!! note
-    Fuji together with Sakura Screen are the notorius black goats of this build. Fuji is really nasty as it intensifies the cheese even further as it allows for a constant UE spam without any 1-sec delays whatsoever due to waiting its CD. This is, however, not possible without Elysia M or SirinA M's -20% CDR on UE effects. So on these cases, Ume has the win.
-
-####<p align="center">Griseo - Signet of Stars (4th Core)</p>
+####<p align="center">Griseo - Signet of Stars (5th Core)</p>
 
 Signet | Priority
 - | :----:
@@ -2345,32 +2362,19 @@ Signet | Priority
 **Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | Optional
 
 !!! note
-    Red & Hot is the absolute first priority, followed by Black & Dark. Petals in the Wind is a risky gamble to try and get but not essential.
+    Red & Hot is the absolute first priority, followed by Black & Dark. Petals in the Wind is a risky gamble to try and get unless you have no other better doors.
 
-####<p align="center">Choose between:</p>
-
-####<p align="center">Kalpas - Signet of Decimation (5th Core)</p>
+####<p align="center">Pardofelis - Signet of Reverie (6th Core)</p>
 
 Signet | Priority
 - | :----:
-**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
-**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
-**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
-**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | Optional
-**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
-
-####<p align="center">Hua - Signet of Vicissitude (6th Core)</p>
-
-Signet | Priority
-- | :----:
-**No One to Share**: Physical Breach increases by 0.6% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 1st
-**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 2nd
-**Days Gone**: Physical DMG increases by 0.8% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 3rd
-**Nexus Signet 2: Suffering Mass** |
-**Broken Dream**: With Soldier's Remembrance stacks, the max stacks of all buffs from Normal Signets of Vicissitude increase by 20. Losing all Soldier's Remembrance stacks reduces the max stacks by 10 but restores 1 Soldier's Remembrance stack. Can only be triggered once every battle. | 1st
+**Neighborhood Chatters**: Every 100 Shiny Silvers obtained this round boost max HP by 25 and max SP by 1. | 1st
+**Motto of Meow**: Every 100 Shiny Silvers obtained this round boost Total DMG by 1%. | 2nd
+**Back-Curled Tail**: Every 100 Shiny Silvers obtained this round boost Physical and Elemental DMG by 0.8%. | 3rd
+**Nexus Signet 1: Empty Dreams, Self, Set, and Joy**: |
 
 !!! note
-    Hua is the safest way to play HoV thanks to her shield, and especially as Kalpas2 + BR is used for this. Virtuality helps to offset this to some extent however, if you don't manage to get Hua's 2nd core in the run, and makes Hua lower priority.
+    Pardo's core is not necessary to get. You want to aim for her Max HP signet.
 
 ####<p align="center">Eden - Signet of Gold (Felis Shop Signets)</p>
 
