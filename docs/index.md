@@ -2731,7 +2731,7 @@ Signet | Priority
 ## Jade Knight
 Quick search: Li Sus, Sushang, JK
 
-![God bless that beautiful Mount Taixuan, prayge](https://i.pximg.net/img-master/img/2022/01/10/19/08/28/95438192_p0_master1200.jpg)
+![God bless that beautiful Mount Taixuan, prayge](https://cdn.discordapp.com/attachments/984654311483133962/1035570929511706674/Sussyhang.jpg)
 
 ### <p align="center">-- Unlimited Blade Works Build</p>
 
