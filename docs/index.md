@@ -2733,7 +2733,7 @@ Quick search: Li Sus, Sushang, JK
 
 ![God bless that beautiful Mount Taixuan, prayge](https://i.pximg.net/img-master/img/2022/01/10/19/08/28/95438192_p0_master1200.jpg)
 
-### <p align="center">-- Swordmaster Build</p>
+### <p align="center">-- Unlimited Blade Works Build</p>
 
 !!! note 
     Currently adjusted for 6.0 2nd Half (This weekend only). This will be quickly adjusted and changed to fit 6.1 new weather when it drops on Monday 31st. Other than that, this build focuses basically on A Spam. It's the strongest general build, but heavily competes with B spam, though the latter is conditional. (See more on its section)
