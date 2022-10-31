@@ -41,6 +41,7 @@ Please note that this is only true for there reward scores, and not the actual p
 > Click [here](https://rentry.co/thebuttererguide) for more information on how to ER more efficiently.
 
 ## Update log
+- 2022-10-31: Sushang UBW Build added Run & updated accordingly.
 - 2022-10-31: Updated every Valkyrie's build Load Buffs to 6.1 and made some adjustments. Sushang/Jade Knight Builds also updated.
 - 2022-09-22: Github page redesigned and replaces [https://rentry.co/hi3er](https://rentry.co/hi3er)
 
@@ -2872,28 +2873,25 @@ Signet | Priority
 ***
 
 ## Jade Knight
-Quick search: Li Sus, Sushang, JK
+Quick search: Li Sus, Sushang, JK, Sussy
 
 ![God bless that beautiful Mount Taixuan, prayge](https://cdn.discordapp.com/attachments/984654311483133962/1035570929511706674/Sussyhang.jpg)
 
 ### <p align="center">-- Unlimited Blade Works Build</p>
 
 !!! note 
-    Updated for 6.1. This build basically focuses on A spam. It's the strongest general build, but heavily competes with B spam, though the latter is conditional. (See more on its section)
+    Updated for 6.1. This build basically focuses on A spam. It's her strongest general build, taking into account ranks, downscaling and weather-related buffs & debuffs. On the other hand, however, it is heavily reliant on gather. So, having as much means of reliable gather as possible is strongly recommended for this build. You can expect a sharp decline in the strength and efficiency if you're not hitting everyone. Without effective means of gather, this build effectively loses out by A LOT as its main effectiveness is through AoE hitting every monster which is achieved by gathering them. If you're hitting only one monster after the other, you'll notice really poor performance and results from this build.
 
-> Boss to be Chosen: Hephaestus, then Vill-V or Mobius
+> Boss to be Chosen: Hephaestus, then Mobius, Aponia or Vill-V (not recommended due to Hua)
 
 !!! note
-    For Vill-V, just don't switch targets as Sushang can lock onto the other far-away separated turrets and the way her aimed swords work is that if you change targets, then you will experience an effective DPS loss due to their trajectory being interrupted and needing time to hit their new target.
-
-!!! danger
-    Be advised that this build is heavily reliant on gather. Without effective means of gather, this build effectively loses out by A LOT as its main effectiveness is through AoE hitting every monster which is achieved by gathering them. If you're hitting only one monster after the other, you'll notice really poor performance and results from this build.
+    There's no particular preference over each other in regards to the bosses. Aponia has the inconvenience of making Sushang's Sword Array dissapear so you have to fill Blade Mantra up to full to use it again as you won't have ult back by the time she transitions to P2. Mobius, on the other hand, needs gather which Kosma should easily provide.
 
 ####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-S0 | Finality | Lv55 Nocturnal & 3-set Ana | 8:13m (6.0 2nd Half) | Pending Upload
+S0 | Finality | Lv55 Nocturnal & 3-set Ana | 5:44 (6.1) | [https://youtu.be/CYP9mv76lbU](https://youtu.be/CYP9mv76lbU)
 
 !!! danger
     Sushang is a strong valkyrie in terms of downscalability. Basically, her strength isn't that severely impacted from low gears, as long as the difference is not too massive and of course this will be less noticeable the lower the difficulty is. Basically, the impact from lower/cope gear relative to difficulty isn't as big.
@@ -2913,16 +2911,13 @@ Mid | Mad King's Mask / Rainbow of Absence / Fragile Friend | The Lonely Moon OR
 Late | Tin Flask or Key to the Deep | The Lonely Moon OR Out of Reach
 
 !!! note
-    Out of Reach provides you a really convenient means of gather, being useful but also giving +1 to all of Kosma's signets which does help somewhat to re-apply his Rend stacking constantly. The Lonely Moon also is helpful to guarantee getting F4 doubles.
+    With UBW build's weakness of being gather-reliant, Out of Reach provides you a really convenient means of gather. However, The Lonely Moon is more preferred as not only it helps guaranteeing double bonuses but also +1 to Griseo signets which you'll want to have at least 2 enhanceds before Heimdall fight.
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | AE/BR | VC
-Mid | AE/BR or VKE | VC
-Late | AE/BR | VC
-
-!!! note
-    You can choose to go with BR over AE, it mostly comes down to personal preference, both are strong for Sushang. VC is hugely favored and a really comfy option due to the dependance of gather that this build relies on.
+Early | AE | BR
+Mid | BK | BR
+Late | AE | BR
 
 !!! note
     BKE is only for the purposes of filling Heimdall's Heavy Trauma Bar, forcefully ending his Red Mode.
@@ -2938,12 +2933,12 @@ Signet | Priority
 **Blessing of Shaft**: [ULT] during Sword Array triggers [Bolt Slash], dealing an additional 400% ATK of Ice DMG. Back Wind Slash restores an additional 5 SP. | No
 
 !!! note
-    This build requires only 2 Ego signets to function: Great Blade and Cloudwalker. A 3rd Ego signet can be picked for Jade Moon. It's not a priority, however it's useful in that it can re-apply Griseo's Yellow paint and further extend Eden2 if necessary.
+    This build only requires 2 Ego signets and doesn't need any more: Great Blade + Cloudwalker. You can take a 3rd Ego for Jade Moon, however it's not needed, and it's mostly just for more damage in her ult and reapplying Yellow and Kosma's Ultimate 15 Rend.
 
 ####<p align="center">Hua - Signet of Vicissitude (1st Core)</p>
 
 !!! note
-    Ideal course of build up: 2 Ego start into Hua's Elem Breach by F3, then unlock Hua 2nd Core by F4, go shop F5 and get Kalpas TDM and Phys/Elem DMG or Griseo Red & Yellow Paint, grab either a Kalpas or Griseo door by F6 if you can complete either of their cores, then unlock whichever Core remains between the two for F7. Onwards, focus on Griseo2's Enhanceds.
+    Ideal course of build up: 2 Ego start into Hua Elem Breach F3, finish Hua 2nd Core by F4, either gamble for Broken Dream F5 or take Griseo/Kalpas door, go shop F6 and get Griseo Red/Yellow/Black or Kalpas TDM/Phys & Elem DMG/TDM Taken. Sakura TDM Taken and TDM can also be considered, and upgrade Hua Breach. Finish Griseo 2nd Core by F7
 
 Signet | Priority
 ----| :----:
@@ -2954,22 +2949,9 @@ Signet | Priority
 **Broken Dream**: When possessing Soldier's Remembrance, increase the maximum stack of normal Vicissitude signets by 20 | Optional
 
 !!! note
-    If you have no better choices, grab Hua door to try and get Broken Dream.
+    Getting Broken Dream is really helpful, as such, it's not a bad choice to try and gamble for her. You can also restart your run in order to get it if you don't mind.
 
-####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
-
-Signet | Priority
-- | :----:
-**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
-**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
-**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
-**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
-**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
-
-!!! note
-    Kalpas' TDM Taken on HP Loss should only be considered if you have BR.
-
-####<p align="center">Griseo - Signet of Stars (3rd Core)</p>
+####<p align="center">Griseo - Signet of Stars (2nd Core)</p>
 
 Signet | Priority
 - | :----:
@@ -2981,10 +2963,23 @@ Signet | Priority
 **Nexus Signet 2: Faded Stars** |
 **Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 1st
 **Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 2nd
-**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | 3rd
+**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | Optional 3rd
 
 !!! note
-    You can choose to go for Eden2 as your next core after you're finished with Griseo2's Core if you want to have her Core before further pursuing Griseo2's Enhanceds.
+    Having Fallen Leaves and Petals in the Wind by Heimdall fight is HUGELY beneficial and strongly recommended to have the best chances at getting past him. 
+
+####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
+
+Signet | Priority
+- | :----:
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
+**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
+**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** | Not Necessary
+
+!!! danger
+    Two important things. One, it is NOT necessary to finish Kalpas 2nd Core. The reason is because Sushang has minor healing, which combined with BR, will ensure she'll stay at less than 1000 HP for the most part. Also, getting Kosma2 afterwards will make her permastay at 1 HP. You also want to abuse BR at shop the moment you get his DMG boosts. Always make sure to stay at less than 100 HP.
 
 ####<p align="center">Kosma - Signet of Daybreak (4th Core)</p>
 
@@ -2999,7 +2994,10 @@ Signet | Priority
 **Dawn, Perpetual Wait**: While Rended, recovering HP reduces Total DMG taken by 1% each time upto 30%, and losing HP increases Physical and Elemental Breach by 2% each time up to 30%. | 2nd
 **Choice, Ensuing Regret**: When Combo and Charged ATKs hit, unleash Righteous Retribution once, dealing 3000% ATK of Adaptive DMG to nearby enemies as well as restoring 0.5% of HP for each stack of Rend on Valkyrie. CD: 10s. | Optional
 
-####<p align="center">Eden - Signet of Gold (5th Core)</p>
+!!! note
+    Finishing Kosma 2nd Core is a MUST and it is a huge powerspike right after Heimdall for the late floors. You can also swap The Lonely Moon out for Out of Reach to further strengthen this.
+
+####<p align="center">Eden - Signet of Gold (Felis Shop Signets)</p>
 
 Signet | Priority
 - | :----:
@@ -3011,9 +3009,9 @@ Signet | Priority
 **Echo of Withered Soil**: After lasting over 1s, Final Echo boosts SP cap by 50% and restores 1% SP per second until it ends. | Optional 1st
 
 !!! note
-    Withered Soil is a good option to consider when you already have excessive SP Regen overflow, mainly with Apo2's SP Regen and Eden's Sp/s.
+    Eden is really low priority because it isn't really that good on practice for Sushang on this build. Only consider to pick her signets from Felis Shop.
 
-####<p align="center">Sakura - Signet of Setsuna (6th Core)</p>
+####<p align="center">Sakura - Signet of Setsuna (Felis Shop Signets)</p>
 
 Signet | Priority
 - | :----:
@@ -3040,7 +3038,7 @@ Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 SS0 | Finality | Nocturnal & Shenzhou | To be Tested | To be Tested
 
 !!! danger
-    This build variant's compatibility with downscalability might be worse than Swordmaster build. Do take that into consideration when wanting to do this build over the other.
+    This build variant's compatibility with downscalability might be worse than UBW build. Do take that into consideration when wanting to do this build over the other.
 
 Buff | Load
 :----: | :----: 
@@ -3081,27 +3079,10 @@ Signet | Priority
 !!! note
     This build functions on 2 Ego signets: Shaft and Jade Moon. A 3rd Ego signet can be picked for Smoky Waft, and it's mainly for synergy with Eden2 to further have more SP Regen overflow and function alongside Withered Soil.
 
-####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
+####<p align="center">Hua - Signet of Vicissitude (1st Core)</p>
 
 !!! note
-    Ideal Order from F1-F7: Double Ego Start for Shaft and Jade Moon, then grab Aponia's Basic ATK for F3, finish Aponia 2nd Core by F4, go shop by F5, put Dreamful Gold, get 2 Kalpas signets and finish Kalpas 2nd Core by F6, then grab Aponia's Breach and TDM Taken from F7 double.
-
-
-Signet | Priority
-- | :----:
-**First, No Betrayal**: Exhortation increases by 5 per second and caps at 200. Basic ATK's Total DMG increases by 0.3% of Exhortation. Triggering Ultimate Evasion Skill reduces 50% Exhortation. | 1st
-**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 2nd
-**Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 3rd
-**Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | (Jade Moon Only) 4th
-**Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
-**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | 2nd
-**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 2nd
-**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | Optional
-
-!!! note
-    Basic ATK still wins in priority over Ultimate due to it being your main source of damage. Punish Evil is a good choice when u have Eden2 to further have SP regen overflow.
-
-####<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
+    Ideal Order from F1-F7: Double Ego Start for Shaft and Jade Moon, then Hua Elem Breach F3, finish Hua 2nd Core by F4, either gamble for Broken Dream F5 or take Eden/Griseo door, go shop F6 and get Griseo Red/Yellow/Black or Eden TDM and Phys & Elem DMG. Kalpas TDM and Phys/Elem DMG can also be considered, and upgrade Hua Breach. Finish Eden 2nd Core by F7
 
 Signet | Priority
 ----| :----:
@@ -3112,9 +3093,9 @@ Signet | Priority
 **Broken Dream**: When possessing Soldier's Remembrance, increase the maximum stack of normal Vicissitude signets by 20 | Optional
 
 !!! note
-    If you have no better choices, grab Hua door to try and get Broken Dream.
+    Getting Broken Dream is really helpful, as such, it's not a bad choice to try and gamble for her. You can also restart your run in order to get it if you don't mind.
 
-####<p align="center">Eden - Signet of Gold (3rd Core)</p>
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
 Signet | Priority
 - | :----:
@@ -3127,6 +3108,22 @@ Signet | Priority
 
 !!! note
     Withered Soil is a good option to consider when you already have excessive SP Regen overflow, mainly with Apo2's SP Regen and Eden's Sp/s.
+
+####<p align="center">Aponia - Signet of Discipline (3rd Core)</p>
+
+Signet | Priority
+- | :----:
+**First, No Betrayal**: Exhortation increases by 5 per second and caps at 200. Basic ATK's Total DMG increases by 0.3% of Exhortation. Triggering Ultimate Evasion Skill reduces 50% Exhortation. | 1st
+**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 2nd
+**Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 3rd
+**Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | (Jade Moon Only) 4th
+**Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
+**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | 2nd
+**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 2nd
+**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | Optional 3rd
+
+!!! note
+    Basic ATK still wins in priority over Ultimate due to it being your main source of damage. Punish Evil is a good choice when u have Eden2 to further have SP regen overflow.
 
 ####<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
 
@@ -3141,7 +3138,7 @@ Signet | Priority
 !!! note
     Kalpas' TDM Taken on HP Loss should only be considered if you have BR.
 
-####<p align="center">Griseo - Signet of Stars (4th Core)</p>
+####<p align="center">Griseo - Signet of Stars (5th Core)</p>
 
 Signet | Priority
 - | :----:
@@ -3158,7 +3155,7 @@ Signet | Priority
 !!! note
     You can choose to go for Eden2 as your next core after you're finished with Griseo2's Core if you want to have her Core before further pursuing Griseo2's Enhanceds.
 
-####<p align="center">Sakura - Signet of Setsuna (5th Core)</p>
+####<p align="center">Sakura - Signet of Setsuna (Felis Shop Signets)</p>
 
 Signet | Priority
 - | :----:
@@ -3513,7 +3510,7 @@ Quick Search: MPE, Elysia, Maid
 ###<p align="center">-- Miss Elysia Build 7D*</p>
 
 !!! note
-    Updated for 6.0 2nd Half. This time around, MPE is Herrscher-level strength in terms of clear speed, however in downscaling there might be a very noticeable difference as her Rank-ups are really good for her DPS.
+    Updated for 6.1. Be advised that MPE becomes weaker the less ranks and gears she has. Basically, her downscalability issues are pretty big depending on the difficulty.
 
 > Boss to be Chosen: Hephaestus, then Mobius or Vill-V
 
@@ -3529,12 +3526,11 @@ SSS | Finality | Whisper Pri & 3-set Elysia | 9:25m (6.0, 1st Half) | [https://y
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
-Valkyries that use Heavy weapons, Bows, or Pistols deal 15% more Total DMG. | 10
-Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again refreshes the duration. | 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
 
 !!! note
-    Effective for 6.0 2nd Half.
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3545,11 +3541,14 @@ Late | Tin Flask or Key to the Deep | Falling in Past Light
 Time | Support 1 | Support 2
 :----: | :----: | :----:
 Early | VC | LE
-Mid | VC | LE or SS
+Mid | BK / VC | LE or SS
 Late | BR | LE or SS
 
 !!! danger
     LE is swapped if you grab Eden's Initial/Max SP signet. However, if you don't feel confident on your damage and especially if you're downscaling hard, you can just swap her out for SS instead, as long as you have Aponia's SP regen backing you up.
+
+!!! note
+    BKE is only for the purposes of filling Heimdall's Heavy Trauma Bar, forcefully ending his Red Mode.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
