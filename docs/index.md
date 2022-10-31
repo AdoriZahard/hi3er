@@ -41,18 +41,7 @@ Please note that this is only true for there reward scores, and not the actual p
 > Click [here](https://rentry.co/thebuttererguide) for more information on how to ER more efficiently.
 
 ## Update log
-- 2022-10-28: Added Jade Knight and her 2 Builds. 
-- 2022-10-26: Added Eden, SpA and Fischl new updated General builds. Added HoFS Starfire Build. Updated Mobius Non-Kevin Build.
-- 2022-10-14: Updated HoV Thanos Snap for 2nd Half.
-- 2022-10-13: Updated MPE Build for 2nd Half: signet priority has been updated. Updated HoV Gate of Babylon build.
-- 2022-10-11: Added FT General Build. Added new Meme Burger King build for HoFS. Updated HoV signets for Thanos Snap Build.
-- 2022-10-10: Updated every Load Buff to 2nd Half for all updated builds and some recommended supports.
-- 2022-10-06: Updated HoT Bombard build. Added Narukami Finisher Build for HoT. Added Burger King Tuna Build for HoFS. Fixed a couple of typos amongst builds.
-- 2022-09-30: HoR Weapon Active Spam Build added, Infinite Ouroboros Non-Kevin Build added, MPE build updated to 6.0.
-- 2022-09-28: HoFS General Build updated.
-- 2022-09-26: PE Equinox Severance Build added, RC Pardo1 and Pardo2 Variation Builds added, HoV Babylon's Gate Build added, HoV Thanos Snap Build updated to 6.0.
-- 2022-09-24: LK Abstinence Build added, Griseo non-Kevin 7D Build added, HoS Kosma Build updated to 6.0.
-- 2022-09-22: HoH Ult & Ballista Builds added, HoR Ult Build updated, HoT 4-5 and Bombard Builds updated. HoV Thanos Build updated to 6.0.
+- 2022-10-31: Updated every Valkyrie's build Load Buffs to 6.1 and made some adjustments. Sushang/Jade Knight Builds also updated.
 - 2022-09-22: Github page redesigned and replaces [https://rentry.co/hi3er](https://rentry.co/hi3er)
 
 **Table of Contents (In alphebetical order):**
@@ -472,7 +461,7 @@ Quick Search: FT, Roza, Lili, Lily, Vodka Girls
 ### <p align="center">-- FT General Build 7D</p>
 
 !!! note 
-    Updated 6.0. In terms of downscalability, this build sucks for that. It's linked to the valk herself. What does this mean? Basically, you'd rather be using another valk instead of FT if your FT is a bit too downscaled. Needs Sleeper's Dream as minimum, otherwise her ER gameplay is really painful.
+    Updated 6.1. In terms of downscalability, this build sucks for that. It's linked to the valk herself. What does this mean? Basically, you'd rather be using another valk instead of FT if your FT is a bit too downscaled. Needs Sleeper's Dream as minimum, otherwise her ER gameplay is really painful.
 
 > Boss to be Chosen: Husk, then Vill-V
 
@@ -490,18 +479,21 @@ SSS | Finality | Sleeper's Dream & Michelangelo TB Dante M | 8:55m (6.0 1st Half
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
-Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
-Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again resets the duration. | 15
+Valkyries gain an additional 10 SP for every 60 SP restored. | 5
+Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
 
 !!! note
-    Effective for 6.0 2nd Half.
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
-Early | Rainbow of Absence | The Lonely Moon
-Mid | Veil of Tears / Mad King's Mask / Memory | An Old Pal's Legacy
-Late | Key to the Deep | An Old Pal's Legacy
+Early | Rainbow of Absence | The Lonely Moon OR Because of You / It Will Be Written
+Mid | Veil of Tears / Mad King's Mask / Memory | The Lonely Moon
+Late | Key to the Deep | The Lonely Moon
+
+!!! note
+    It Will Be Written can be used for guaranteeing F7 double by oneshotting the Smelter Zombie.
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
@@ -598,7 +590,7 @@ Quick search: Eden, GD
 ### <p align="center">-- General Build 7D</p>
 
 !!! note 
-    Updated 6.0. As far as testing goes, this is the current best build for Eden, and other variations with different signets are either weaker, or just don't really work as well as they would seem to do in paper. Take Eden2 for instance, which supposedly GD would be perfectly fine with. Issue? It actually isn't that great. Only acceptable as a versatile option when you don't have any other better alternatives for doors, but otherwise, not recommended to do as early start, as it's garbage.
+    Updated 6.1. As far as testing goes, this is the current best build for Eden, and other variations with different signets are either weaker, or just don't really work as well as they would seem to do in paper. Take Eden2 for instance, which supposedly GD would be perfectly fine with. Issue? It actually isn't that great. Only acceptable as a versatile option when you don't have any other better alternatives for doors, but otherwise, not recommended to do as early start, as it's garbage.
 
 > Boss to be Chosen: Husk or Hephaestus, then Aponia or Vill-V
 
@@ -616,12 +608,13 @@ SSS | Finality | DoI & Handel | 9:03m (6.0 2nd Half) | [https://youtu.be/iWKlVGS
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
-Valkyries that use Heavy weapons, Bows or Pistols deal 15% more Total DMG. | 10
-Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again resets the duration. | 15
+Valkyries gain an additional 10 SP for every 60 SP restored. | 5
+Max SP increases by 30. | 5
+Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+Flame-Chasers deal 15% more Total DMG. | 10
 
 !!! note
-    Effective for 6.0 2nd Half.
+    Effective for 6.1. 
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -730,7 +723,7 @@ Quick Search: HoFS, HoF, FK, KFC, Burnt Tuna, Flying Fish
 ### <p align="center">-- Starfire Build</p>
 
 !!! note 
-    Updated 6.0. So far, this is the strongest build. Simple explanation; Starfire is stronger early game, but can fall off a bit later in the game without Reburn and Tempered Warrior, which is also fixed. And then, as a result, you have a stronger general build that's ideally a stronger and perhaps more comfortable start, especially when you have the damage for it.
+    Updated 6.1. So far, this is the strongest build. Simple explanation; Starfire is stronger early game, but can fall off a bit later in the game without Reburn and Tempered Warrior, which is also fixed. And then, as a result, you have a stronger general build that's ideally a stronger and perhaps more comfortable start, especially when you have the damage for it.
 
 > Boss to be Chosen: Hephaestus, then Aponia or Vill-V.
 
@@ -745,12 +738,11 @@ S0 | Finality | DoI & 3-set Himeko | 4:18m (6.0 2nd Half) | [(https://youtu.be/-
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
-Valkyries that use Heavy weapons, Bows or Pistols deal 15% more Total DMG. | 10
-When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
+Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
 
 !!! note
-    Effective for 6.0 2nd Half.
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -764,11 +756,14 @@ Late | Key to the Deep | An Old Pal's Legacy
 Time | Support 1 | Support 2
 :----: | :----: | :----:
 Early | AE | BR
-Mid | AE | BR
+Mid | VK | BR
 Late | AE | BR
 
 !!! note
     You want to save BR specifically for after entering Herrscher Mode on the first snap. Basically, when you're about to use your first Blackhole in Herrscher Form for the maximum output of damage possible. Combine this with Sirin and Kalpas Support Skill and you end up dealing a shitton of damage.
+
+!!! danger
+    VK for Heimdall fight is recommended in order to fill his Heavy Bar Trauma. Do note that this is specifically for getting him out of Red Mode forcibly once its filled.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -864,7 +859,7 @@ Signet | Priority
 ### <p align="center">-- Burger King Tuna 7D</p>
 
 !!! note 
-    Updated 6.0. The strongest build at the moment for HoFS. The strength of this build should also go noticeably up in Kalpas +2 weathers.
+    Updated 6.1. The strongest build at the moment for HoFS. The strength of this build should also go noticeably up in Kalpas +2 weathers.
 
 > Boss to be Chosen: Hephaestus, then Elysia, Aponia (easiest) or Vill-V.
 
@@ -880,12 +875,11 @@ S0 | Finality | DoI & Shelley T Himeko M Scott B | 10:36m (6.0 2nd Half) | [http
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
-Valkyries that use Heavy weapons, Bows or Pistols deal 15% more Total DMG. | 10
-When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
+Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
 
 !!! note
-    Effective for 6.0 2nd Half.
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -899,11 +893,14 @@ Late | Key to the Deep | An Old Pal's Legacy
 Time | Support 1 | Support 2
 :----: | :----: | :----:
 Early | AE | BR
-Mid | AE | BR
+Mid | VK | BR
 Late | AE | BR
 
 !!! note
     You want to save BR specifically for after entering Herrscher Mode on the first snap. Basically, when you're about to use your first Blackhole in Herrscher Form for the maximum output of damage possible. Combine this with Sirin and Kalpas Support Skill and you end up dealing a shitton of damage.
+
+!!! danger
+    VK for Heimdall fight is recommended in order to fill his Heavy Bar Trauma. Do note that this is specifically for getting him out of Red Mode forcibly once its filled.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -1007,7 +1004,7 @@ Signet | Priority
 ### <p align="center">-- HoFS General Build 7D</p>
 
 !!! note 
-    Your normal, standard Tuna build that has only 3 necessary Cores. Has downscaling problems, however.
+    Updated for 6.1. Your normal, standard Tuna build that has only 3 necessary Cores. Has downscaling problems, however.
 
 > Boss to be Chosen: Hephaestus, then Elysia (fastest times) or Aponia
 
@@ -1023,12 +1020,11 @@ S0 | Finality | DoI & Leuween TB Thales M | 9:44m (6.0 1st Half) | [https://yout
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
-Valkyries that use Heavy weapons, Bows or Pistols deal 15% more Total DMG. | 10
-When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
+Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
 
 !!! note
-    Effective for 6.0 2nd Half.
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1039,11 +1035,14 @@ Late | Key to the Deep | The Lonely Moon
 Time | Support 1 | Support 2
 :----: | :----: | :----:
 Early | AE | BR
-Mid | AE | BR
+Mid | VK | BR
 Late | AE | BR
 
 !!! note
     You want to save BR specifically for after entering Herrscher Mode on the first snap. Basically, when you're about to use your first Blackhole in Herrscher Form for the maximum output of damage possible.
+
+!!! danger
+    VK for Heimdall fight is recommended in order to fill his Heavy Bar Trauma. Do note that this is specifically for getting him out of Red Mode forcibly once its filled.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -1146,7 +1145,7 @@ Quick Search: Elysia, HoH, HoHe, Manta Ray, H2O, Water
 ### <p align="center">-- Ultimate Build</p>
 
 !!! note 
-    The stronger variation that also clears faster.
+    Updated for 6.1. The stronger variation that also clears faster.
 
 > Boss to be Chosen: Hephaestus, then Elysia for fastest time. The rest are also easy choices.
 
@@ -1161,12 +1160,11 @@ S1 | Finality | DoEgo & 3-set Pristine | 3:47m (6.0 1st Half) | [https://youtu.b
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
-Valkyries that use Heavy weapons, Bows or Pistols deal 15% more Total DMG. | 10
-When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
 
 !!! note
-    Effective for 6.0 2nd Half.
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1176,12 +1174,12 @@ Late | Key to the Deep | The Lonely Moon
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | AE | LE
-Mid | AE | LE
-Late | AE | LE
+Early | AE | LE/BR
+Mid | AE | LE/BR
+Late | AE | LE/BR
 
 !!! note 
-    You don't take LE out because she gives you insta ult.
+    LE gives you instant ult, also comfier, whereas BR is preferred if you might be lacking damage, especially for early floors.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -1279,7 +1277,7 @@ Signet | Priority
 ### <p align="center">-- Ballista Build</p>
 
 !!! note
-    The slightly weaker variant with slightly less clear time, but nevertheless at the same strength as Ult build. 
+    Updated for 6.1. The slightly weaker variant with slightly less clear time, but nevertheless at the same strength as Ult build. 
 
 > Boss to be Chosen: Hephaestus, then Elysia for fastest time. The rest are also easy choices.
 
@@ -1294,12 +1292,11 @@ S1 | Finality | DoEgo & 3-set Pristine | 4:12m (6.0 1st Half) | [https://youtu.b
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
-Valkyries that use Heavy weapons, Bows or Pistols deal 15% more Total DMG. | 10
-When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
 
 !!! note 
-    Effective for 6.0 2nd Half.
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1320,11 +1317,11 @@ Late | AE | BR
 
 Signet | Priority
 ------|:----:
+**Blessing of First Yearning**: In Herrscher of Human Form, Charged ATK Speed increases by 30% for 5s after triggering Ultimate Evasion Skill. When using Charged ATK, shooting speed continously increases, up to a maximum of 80%. Move Speed while using Charged ATKs increases by 100%. Resets when Charged ATK ends. When Charged ATK hits, Ultimate Evasion CD decreases by 2.5s and weapon skill CD decreases by 1s. Gain 1 stack of Crystal Ice Mirror for every Charged ATK that hits an enemy. Every stack of Crystal Ice Mirror increases DMG from Charged ATK's by 10%. | Start
 **Blessing of First Encounter**: Charged ATKs in Herrscher of Human Form pull enemies on both sides of the arrow slightly towards the center. Charged ATKs deal an additional 1200% ATK of Ice DMG. If a Charged ATK hits more than 10 times, enemies take 10% more Total DMG from Charged ATKs for every Nexus Signet owned (cannot stack). | Start
 **Blessing of First Bloom**: In Herrscher of Origin Form, Ice DMG increases by 50%. In Herrscher of Human Form, using Charged ATKs reduces Ultimate CD by 1s and restores 20 SP. | No
 **Blessing of First Awakening**: In Herrscher of Origin Form, triggering Ultimate Evasion Skill restores 400 Herrscher Charge and Charged ATKs and special weapon skill deal an additional 1500% ATK of Ice DMG. | No
 **Blessing of First Journey**: When switching to Herrscher Form, increase DMG taken by all enemies by 40% for 5s and gain 4 Pristine Crystals. Charged ATKs in Herrscher of Human Form and Ultimate Evasion Skill in Herrscher of Origin Form will clear all Pristine Crystals to deal 1200% x 4 ATK of Ice DMG. | No
-**Blessing of First Yearning**: In Herrscher of Human Form, Charged ATK Speed increases by 30% for 5s after triggering Ultimate Evasion Skill. When using Charged ATK, shooting speed continously increases, up to a maximum of 80%. Move Speed while using Charged ATKs increases by 100%. Resets when Charged ATK ends. When Charged ATK hits, Ultimate Evasion CD decreases by 2.5s and weapon skill CD decreases by 1s. Gain 1 stack of Crystal Ice Mirror for every Charged ATK that hits an enemy. Every stack of Crystal Ice Mirror increases DMG from Charged ATK's by 10%. | Start
 
 !!! note 
     Ballista build only requires 2 Ego signets. As such, this doesn't use the double reroll start. 
@@ -1415,10 +1412,124 @@ Quick Search: HoR, Bronya
 
 ![cuteness beyond reason](https://elysian-realm.vercel.app/images/herrscher-of-reason.jpg)
 
-### <p align="center">-- Weapon Active Spam Build</p>
+### <p align="center">-- [SoE-Only] Ultimate Build</p>
 
 !!! note
-    Updated 6.0. This is the easier build compared to Evade-focused. 
+    Updated 6.1. Further testing is yet to be done, but once better starter signets or cores are found for this build, this will be updated. Be advised though, that SoE feels lackluster and weird in comparison to DoR, but it is massively advantaged in current 6.1 weather.
+
+>   Boss to be chosen: Hephaestus, then Vill-V
+
+####<p align="center">Setup</p>
+
+Rank | Difficulty Done | Recommended Gear | Clear Time | Run
+:------: | :------: | :------: | :------: | :------:
+SS1 | Finality | ? | ? | To be Added
+
+!!! note 
+    In downscalability terms, this build might be weaker the lower your stigmatas are. It's advised to go with a better valk instead.
+
+Buff | Load
+:----: | :----: 
+Valkyries gain an additional 10 SP for every 60 SP restored. | 5
+Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+
+!!! note 
+    Effective for 6.1.
+
+Time | Remembrance Sigil | FC Support Skill
+:----: | :----: | :----:
+Early | Pseudo Miracle | Because of You
+Mid | Memory / Mad King's Mask / Rainbow of Absence | Falling in Past Light
+Late | Key to the Deep | Falling in Past Light
+
+!!! note
+    Because of You start will give you the opportunity to grab Truth + Inspiration by F7 doubles. This changes the purpose of reset start. Explained further below.
+
+Time | Support 1 | Support 2
+:----: | :----: | :----:
+Early | AE | LE 
+Mid | AE | LE
+Late | AE | LE
+
+!!! note
+    LE is really appreciated here due to SoE having SP problems. 
+
+####<p align="center">Elysia - Signet of ■■</p>
+
+Signet | Priority
+------|:----:
+**Blessing of Wisdom**: In bike mode, Charged ATK inflicts a Structural Impact on enemies hit and deals 2250% ATK of Ice DMG | **Start**
+**Blessing of Truth**: Triggering Ultimate Evasion Skill fully restores Konstruktyom. When Konstruktyom is below 120, any evasion can trigger Ultimate Evasion Skill | 1st
+**Blessing of Inspiration**: Triggering an Ultimate Evasion by any means inflicts a Structural Impact on enemies hit and deals 3750% ATK of Ice DMG | 2nd
+**Blessing of Reason**: Every hit from hover guns reduces weapon active CD by 0.7s | No
+**Blessing of Creation**: In non-bike mode, Charged ATKs create 4 hover guns to attack, each dealing 160% ATK of Ice DMG on hit | No
+
+####<p align="center">Vill-V - Signet of Helix (1st Core)</p>
+
+!!! note
+    Ideal order of build up: Griseo Red Paint F2 into V-V's Pendulum or Conflict F3, unlock V-V 2nd Core by F4, go shop by F5 and buy Sakura's TDM Taken, TDM and Hua's Elem Breach mainly, get V-V door for F6 and use Because of You to take Truth + Inspiration by F7 Double.
+
+Signet | Priority
+- | :----:
+**Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 1st
+**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 2nd
+**Act VI: Sneer**: Using a weapon active restores 12 SP in 5s and reduces its CD by 15%. | 3rd
+**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | 4th
+**Nexus Signet 2: Intermezzo: Holistic Helix** |
+**Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 1st
+**Puppetry: Interlacing Cells**: Extends Global Time Fracture caused by Specail Weapon: No. 4's detonation by 3s. During Global Time Fracture, gain 30% Physical and Elemental Breach. | 2nd
+**Saga: Overlapping Needles**: Gravitational Field affects a larger area and gain a stronger pull. DMG-dealing hits deal and extra 500% ATK of Adaptive DMG. | Filler
+
+!!! note
+    Sneer is nice to take but preferentially from Felis shop. It helps spam even further. 
+
+####<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
+
+Signet | Priority
+- | :----:
+**Old Dreams Again**: Elemental Breach increases by 0.6% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 1st
+**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 2nd
+**Dark Garb No More**: Elemental DMG increases by 0.8% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 3rd
+**Nexus Signet 2: Suffering Mass** |
+**Broken Dream**: With Soldier's Remembrance stacks, the max stacks of all buffs from Normal Signets of Vicissitude increase by 20. Losing all Soldier's Remembrance stacks reduces the max stacks by 10 but restores 1 Soldier's Remembrance stack. Can only be triggered once every battle. | Optional
+
+####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
+
+Signet | Priority
+- | :----:
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
+**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
+
+####<p align="center">Sakura - Signet of Setsuna (4th Core)</p>
+
+Signet | Priority
+- | :----:
+**Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s. | 2nd
+**Bountiful Blossom: Botan**: Triggering Ultimate Evasion Skill boosts Total DMG by 40% for 8s. | 1st
+**Bountiful Blossom: Fuji**: Ultimate Evasion Skill has 1 more charge and 10% reduced CD. | 3rd
+**Nexus Signet 1: Setsuna Blade: Sakura ni Maku** |
+
+####<p align="center">Griseo - Signet of Stars (5th Core)</p>
+
+Signet | Priority
+- | :----:
+**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st
+**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | 2nd
+**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 3rd
+**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | Optional 4th
+**Grey & Empty**: Enemies stay tainted for 5s longer. | Optional 5th
+**Nexus Signet 2: Faded Stars** |
+**Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 1st
+**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 2nd
+**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | Optional
+
+### <p align="center">-- [DOR-Only] Weapon Active Spam Build</p>
+
+!!! note
+    Updated 6.1. This is the strongest and easiest build for HoR compared to other options. Also, please note that this is DoR-only, as SoE has a substantial difference from this.
 
 >   Boss to be chosen: Hephaestus, then Vill-V
 
@@ -1433,18 +1544,21 @@ SS1 | Finality | 65 DoR & 3-set Ana Schariac | 6:49 (6.0 1st Half) | [https://yo
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
-Valkyries that use Heavy weapons, Bows or Pistols deal 15% more Total DMG. | 10
-When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
+Valkyries gain an additional 10 SP for every 60 SP restored. | 5
+Max SP increases by 30. | 5
+Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
 
 !!! note 
-    Effective for 6.0 2nd Half.
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
-Early | Veil of Tears | The Lonely Moon
+Early | Veil of Tears | The Lonely Moon / Because of You
 Mid | Rainbow of Absence / Forget-Me-Not / Home Lost | The Lonely Moon
 Late | Key to the Deep | The Lonely Moon
+
+!!! note
+    You can take Because of You as start, or by F5 shop for getting the remainder of Ego signets.
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
@@ -1533,7 +1647,7 @@ Signet | Priority
 ### <p align="center">-- Ultimate Build</p>
 
 !!! note
-    Updated 6.0. This is the easier build compared to Evade-focused. 
+    Updated 6.1. The weaker build version. This is only to be considered if you want to for some reason play HoR, but you do not possess either DoR or SoE.
 
 >   Boss to be chosen: Hephaestus, then Vill-V
 
@@ -1544,20 +1658,20 @@ Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 SS1 | Finality | 65 DoR & 3-set Ana Schariac | 9:14 (6.0 1st Half) | [https://youtu.be/cgnVNUf8Ye0](https://youtu.be/cgnVNUf8Ye0)
 
 !!! note 
-    This build is downscaleable with lower clear times and lower gear requirement. 
+    This build is not very strong in downscaling terms with lower clear times and lower gear requirement. 
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
-Valkyries that use Heavy weapons, Bows or Pistols deal 15% more Total DMG. | 10
-When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
+Valkyries gain an additional 10 SP for every 60 SP restored. | 5
+Max SP increases by 30. | 5
+Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
 
 !!! note 
-    Effective for 6.0 2nd Half.
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
-Early | Veil of Tears | The Lonely Moon
+Early | Veil of Tears | The Lonely Moon / Because of You
 Mid | Rainbow of Absence / Forget-Me-Not / Home Lost | The Lonely Moon
 Late | Stained Sakura or Key to the Deep | The Lonely Moon
 
@@ -1571,9 +1685,9 @@ Late | AE | LE
 
 Signet | Priority
 ------|:----:
+**Blessing of Wisdom**: In bike mode, Charged ATK inflicts a Structural Impact on enemies hit and deals 2250% ATK of Ice DMG | 1st
 **Blessing of Truth**: Triggering Ultimate Evasion Skill fully restores Konstruktyom. When Konstruktyom is below 120, any evasion can trigger Ultimate Evasion Skill | Start
 **Blessing of Inspiration**: Triggering an Ultimate Evasion by any means inflicts a Structural Impact on enemies hit and deals 3750% ATK of Ice DMG | Optional 2nd
-**Blessing of Wisdom**: In bike mode, Charged ATK inflicts a Structural Impact on enemies hit and deals 2250% ATK of Ice DMG | 1st
 **Blessing of Reason**: Every hit from hover guns reduces weapon active CD by 0.7s | Optional 3rd
 **Blessing of Creation**: In non-bike mode, Charged ATKs create 4 hover guns to attack, each dealing 160% ATK of Ice DMG on hit | No
 
@@ -1663,9 +1777,9 @@ Quick Search: HoS, Senti, Hua, Fuhua, Bonk
 ### <p align="center">-- HoS - *General Build* 7D</p>
 
 !!! note
-    Updated 6.0.
+    Updated 6.1.
 
-> Boss to be Chosen: Husk, then Elysia or Vill-V (easiest)
+> Boss to be Chosen: Husk, then Vill-V (easiest) or Aponia
 
 ####<p align="center">Setup</p>
 
@@ -1679,12 +1793,11 @@ S0 | Finality | Senpri & Ely TB PoloM | 8:29m (6.0 1st Half) |[https://youtu.be/
 
 Buff | Load
 :----: | :----: 
-Triggering Ultimate Evasion Skill restores 10 SP. | 5
-Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
-When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
 
 !!! note
-    Effective for 6.0.
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1695,18 +1808,20 @@ Late | Good Old Days or Key to the Deep | The Lonely Moon
 Time | Support 1 | Support 2
 :----: | :----: | :----:
 Early | SS | BR
-Mid | SS | BR
+Mid | SS | BR or BKE
 Late | SS | BR
 
-####<p align="center">Elysia - Signet of ■■</p>
+!!! note
+    BKE is only for the purposes of filling Heimdall's Heavy Trauma Bar, forcefully ending his Red Mode.
 
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
 **Blessing of Victory**: In Herrscher Form, Combo ATK: Slashes can have up to 18 slashes. After reaching 7 slashes, every slash deals 600% ATK of Physical DMG. | **Start**
-**Blessing of Ego**: Casting Combo ATK summons an illusion (summoned entity) to replicate the attack. In Herrscher Form, the illusion only replicates the slashes each dealing 105% ATK of Physical DMG. The illusion has 400% of the Valkyrie's ATK. | No
 **Blessing of Dark Plumes**: Combo ATK restores 1 SP on hit and unleashes a plume attack on hit that deals 150% ATK of Physical DMG. CD: 0.5s | 1st
-**Blessing of Supremacy**: Shield: I'm Untouchable absorbs 100% of DMG taken and deals 5000% ATK of Physical DMG to enemies within 8 metres when it ends or resets. | Optional
+**Blessing of Supremacy**: Shield: I'm Untouchable absorbs 100% of DMG taken and deals 5000% ATK of Physical DMG to enemies within 8 metres when it ends or resets. | Optional 2nd
+**Blessing of Ego**: Casting Combo ATK summons an illusion (summoned entity) to replicate the attack. In Herrscher Form, the illusion only replicates the slashes each dealing 105% ATK of Physical DMG. The illusion has 400% of the Valkyrie's ATK. | No
 **Blessing of Legion**: Sword, spear and chain combo attacks restore 300 sword, spear and chain energy respectively and boost Total DMG by 60% for 8s. | No
 
 !!! note
@@ -1717,16 +1832,16 @@ Signet | Priority
 !!! note
     Ideal Order from F1-F7: Double Reroll into Apo2 Core by F4, then 1 Griseo door before F7, then finish Griseo by F7 double.
 
-
 Signet | Priority
 - | :----:
 **Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | 1st
 **Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 2nd
 **Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 3rd
 **Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
-**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 1st
-**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | Optional
-**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | Filler
+**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 1st
+**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | Optional 2nd or 3rd
+**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | Optional 2nd or 3rd
+
 
 !!! note
     After Apo2 core, Griseo core is the best one to go after next. 
@@ -1749,22 +1864,7 @@ Signet | Priority
 !!! note
     The moment you get any of the basic paints of Griseo, the gameplay changes. It's essential to save the weapon active and UE skill to time them together with her Ultimate, having all 3 paints. Taint Extension is also very crucial for this, as the +0 alone will increase the duration from 8s to 13s, making up for an entire ult duration of 2 complete series of Victory Slashes.
 
-####<p align="center">Eden - Signet of Gold (3rd Core)</p>
-
-
-Signet | Priority
-- | :----:
-**Recitatif of Eden**: Every 10 SP left boosts Total DMG by 3.0%. | 1st
-**Recitatif of Creeks**: Every 10 SP left boosts Physical & Elemental DMG by 2.5%. | 2nd
-**Recitatif of Good Wine**: Restore 1.5 SP per second. | 3rd
-**Recitatif of Fine Jade**: Initial SP and max SP increase by 30. | Filler
-**Nexus Signet 2: Echo of Gold** |
-**Echo of Silent Night**: After lasting over 1s, Final Echo reduces the ATK, DEF. and Elemental Resists of enemies nearby by 2% per second (40% max) until it ends. | Optional
-
-!!! note
-    It's not necessary to go for Silent Night, but it's still good to get nevertheless.
-
-####<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
 
 Signet | Priority
 - | :----:
@@ -1774,12 +1874,38 @@ Signet | Priority
 **Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
 **Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
 
+####<p align="center">Kosma - Signet of Daybreak (4th Core)</p>
+
+Signet | Priority
+- | :----:
+**Talons that Desecrate the Sanctuary**: Basic/Combo/Charged ATKs inflict a stack of Rend on hit, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. Stacking CD: 1s. | 1st
+**Horns that Rip the Bleak Sky**: Ultimate inflicts 15 stacks of Rend on all enemies, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. CD: 15s. | 2nd
+**Wings that Mask the Sanguine Moon**: Ultimate Evasion Skill inflicts 15 stacks of Rend on all enemies, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. CD: 15s. | 3rd
+**Heart that Commited Seven Crimes**: Rend lasts 5s longer. | 4th, YES
+**Nexus Signet 2: Daybreak, Lone Beacon** |
+**Heart, Unshakable Character**: Each stack of Rend on Valkyrie makes her deal 1.5% more Physical and Elemental DMG. | 1st
+**Choice, Ensuing Regret**: When Combo and Charged ATKs hit, unleash Righteous Retribution once, dealing 3000% ATK of Adaptive DMG to nearby enemies as well as restoring 0.5% of HP for each stack of Rend on Valkyrie. CD: 10s. | Optional
+**Dawn, Perpetual Wait**: While Rended, recovering HP reduces Total DMG taken by 1% each time upto 30%, and losing HP increases Physical and Elemental Breach by 2% each time up to 30%. | Filler
+
+!!! note
+    Ensuing Regret takes priority only and only if you get Kalpas2 and you're going to get his Enhanceds, mainly his breach or the adaptive dmg. Otherwise Perpetual Wait is always the choice over this as it'll be more consistent and Kalpas2 is usually left for later floors. Be advised though, that these are not recommended to look after unless you have no choice due to RNG.
+
+####<p align="center">Eden - Signet of Gold (5th Core)</p>
+
+Signet | Priority
+- | :----:
+**Recitatif of Eden**: Every 10 SP left boosts Total DMG by 3.0%. | 1st
+**Recitatif of Creeks**: Every 10 SP left boosts Physical & Elemental DMG by 2.5%. | 2nd
+**Recitatif of Good Wine**: Restore 1.5 SP per second. | 3rd
+**Recitatif of Fine Jade**: Initial SP and max SP increase by 30. | Filler
+**Nexus Signet 2: Echo of Gold** |
+
 ### <p align="center">-- HoS - *Ego Mobius Build* 7D</p>
 
 !!! note
-    Load buffs adjusted and up to date for 6.0.
+    Load buffs adjusted and up to date for 6.1.
 
-> Boss to be Chosen: Vill-V
+> Boss to be Chosen: Husk, then Vill-V or Aponia
 
 ####<p align="center">Setup</p>
 
@@ -1794,12 +1920,11 @@ S | Finality | Senpri & Shattered Swords | 8:30m (2nd Half 5.9) | [https://youtu
 
 Buff | Load
 :----: | :----: 
-Triggering Ultimate Evasion Skill restores 10 SP. | 5
-Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
-When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
 
 !!! note
-    Effective for 6.0 2nd Half.
+    Effective for 6.1
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1810,8 +1935,11 @@ Late | Good Old Days | The Lonely Moon
 Time | Support 1 | Support 2
 :----: | :----: | :----:
 Early | SS | BR
-Mid | SS | BR
+Mid | SS | BR or BKE
 Late | SS | BR
+
+!!! note
+    BKE is only for the purposes of filling Heimdall's Heavy Trauma Bar, forcefully ending his Red Mode.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -1892,7 +2020,7 @@ Signet | Priority
 ### <p align="center">-- S0 HoS - Kosma Build 7D</p>
 
 !!! note
-    Updated to 6.0. Strength is pretty close to General Build, but otherwise still loses to it.
+    Updated to 6.1. Strength is pretty close to General Build, but otherwise still loses to it.
 
 > Boss to be Chosen: Hephaestus, then Elysia or Vill-V (easiest)
 
@@ -1907,12 +2035,11 @@ S | Finality | Senpri & 3-Set Shattered Swords | 8:34 (Updated 6.0 1st Half) | [
 
 Buff | Load
 :----: | :----: 
-Triggering Ultimate Evasion Skill restores 10 SP. | 5
-Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
-When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
 
 !!! note
-    Effective for 6.0 2nd Half.
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1923,8 +2050,11 @@ Late | Key to the Deep | Out of Reach
 Time | Support 1 | Support 2
 :----: | :----: | :----:
 Early | SS | BR
-Mid | SS | BR
+Mid | SS | BR or BKE
 Late | SS | BR
+
+!!! note
+    BKE is only for the purposes of filling Heimdall's Heavy Trauma Bar, forcefully ending his Red Mode.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -2021,7 +2151,10 @@ Quick search: HoT, Mei, hot mei, dragon
 ### <p align="center">-- 4-5 Revived Build</p>
 
 !!! note
-    Updated 6.0. This is the 3rd strongest build, and also competes with the others in being the most braindead to play... sort of. The strength of this build is that it is very solid and has damage on everything. 4-5, 7T actives, Dragon slam, Finisher, Shinzan. Overall, it's pretty good.
+    Updated 6.1. This is the 3rd strongest build, and also competes with the others in being the most braindead to play... sort of. The strength of this build is that it is very solid and has damage on everything. 4-5, 7T actives, Dragon slam, Finisher, Shinzan. Overall, it's pretty good.
+
+!!! danger
+    Do note though, that this build is not recommended if your HoT is not S1+. Narukami Finisher is stronger.
 
 >   Boss to be chosen: Hephaestus, then Elysia or Mobius/Vill-V 
 
@@ -2036,11 +2169,14 @@ SS1 | Finality | 65 7T & Handel | 6:53 (6.0 1st Half) | [https://youtu.be/hRm5kg
 
 Buff | Load
 :----: | :----: 
-When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
-Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again resets the duration. | 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
 
 !!! note 
-    Effective for 6.0 2nd Half.
+    Effective for 6.1.
+
+!!! danger
+    If not using 7T, then you should instead go with the 10 Load buff that gives 15% TDM as long as your valk doesn't take damage.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2156,7 +2292,10 @@ Signet | Priority
 ### <p align="center">-- Bombard Build</p>
 
 !!! note
-    Updated and proper adjustments made for 6.0. The strongest and also easiest/most comfy build. This build also has a surprisingly good time with DoS & Benares Awakening. It also seems to prefer DoS, but nonetheless 7T still does really well.
+    Updated and proper adjustments made for 6.1. The 2nd strongest build. This build also has a surprisingly good time with DoS & Benares Awakening. It also seems to prefer DoS, but nonetheless 7T still does really well.
+
+!!! danger
+    This build can't work if your HoT isn't at least S2 rank. S2 is essential to make Bombard work.
 
 >   Boss to be chosen: Hephaestus, then Elysia or Mobius/Vill-V 
 
@@ -2173,12 +2312,11 @@ SS1 | Finality | 65 DoS & Handel | 7:06 (6.0 1st Half) | [https://youtu.be/XDaxl
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
-Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
-When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
 
 !!! note 
-    Effective for 6.0 2nd Half.
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2196,8 +2334,8 @@ Late | AE | LE
 
 Signet | Priority
 ------|:----:
-**Blessing of Mitama**: Max Herrscher Charge doubles and entering burst mode fully restores it. In burst mode, 75 Herrscher Charge is restored per second. Basic ATK Sequence 5 restores 100 bonus Herrscher Charge | 1st
 **Blessing of Divine Penalty**: In burst mode, Bombard costs 200% Herrscher Charge and every hit deals 400% ATK of bonus Lightning DMG | **Start**
+**Blessing of Mitama**: Max Herrscher Charge doubles and entering burst mode fully restores it. In burst mode, 75 Herrscher Charge is restored per second. Basic ATK Sequence 5 restores 100 bonus Herrscher Charge | 1st
 **Blessing of Narukami**: Finisher unleashes 8 bolts of Thundering Sanction, each dealing 900% ATK of Lightning DMG on hit | 2nd
 **Blessing of Hazy Moon**: Basic ATK Sequence 5 unleashes 3 bolts of thundering sanction each dealing 900% ATK Of Lightning DMG on hit | No
 **Blessing of Tsukuyomi**: Tap [ATK] after evasion to connect into Basic ATK Sequence 4. Basic ATK Sequence 4 boosts Total DMG by 40% for 5s | No
@@ -2287,7 +2425,7 @@ Signet | Priority
 ### <p align="center">-- Narukami Finisher Build</p>
 
 !!! note
-    Updated for 6.0. The 2nd strongest build that also strongly competes really closely with Bombard. In terms of downscalability, however, don't expect this variant to do as well as its strength might not be on par when downscaled.
+    Updated for 6.1. The strongest build out of all 3 that also strongly competes really closely with Bombard, but is the definite winner for any rank of HoT.
 
 >   Boss to be chosen: Hephaestus, then Elysia or Mobius/Vill-V 
 
@@ -2299,13 +2437,12 @@ SS1 | Finality | 65 7T & Handel | 5:01 (6.0 1st Half) | [https://youtu.be/WSNNT-
 S0 | Finality | 65 7T & Handel | 8:17 (6.0 1st Half) | [https://youtu.be/3oqKVTRESns](https://youtu.be/3oqKVTRESns)
 
 !!! note 
-    Expect the strength of this build to probably be weaker in downscaling compared to the others.
+    Expect the strength of this build to be a bit weaker with lower stigmatas.
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
-Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
-When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
 
 !!! note 
     Effective for 6.0 (2nd Half)
@@ -2427,7 +2564,7 @@ Quick Search: HoV, Salty Tuna, Sirin
 ### <p align="center">-- Thanos Snap 7D</p>
 
 !!! note
-    Updated for 6.0. Thanos Snap is the strongest build out of the two possible builds for HoV. Also, Mobius has been revived, and it is now used for the build.
+    Updated for 6.1. Thanos Snap is the strongest build out of the two possible builds for HoV. Also, Mobius has been revived, and it is now used for the build.
 
 > Boss to be Chosen: Husk or Hephaestus, then Elysia (fastest clear/speedrun) or Aponia
 
@@ -2452,12 +2589,12 @@ S3 | Finality | Lv55 DoV & 3-set Elysia | 10:08m (6.0 1st Half) | [https://youtu
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
-Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
-When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
+Max SP increases by 30. | 5
+Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
 
 !!! note
-    Effective for 6.0 2nd Half. Also, this variation prefers the Phys/Elem DMG load buff.
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2471,11 +2608,14 @@ Late | Stained Sakura or Key to the Deep | Boundless Logos
 Time | Support 1 | Support 2
 :----: | :----: | :----:
 Early | VC / BR | SS
-Mid | VC / BR | SS
+Mid | VC / BR or BKE | SS
 Late | VC / BR | SS
 
 !!! note
     When you reach F5 or F6 shop, you'll want to be looking for Kalpas TDM and Phys/Elem DMG boost or Max HP signets and switch VC for BR, additionally abusing the swap out spam trick for lowering your health to below 100 to abuse the most out of Kalpas buffs at this point easily, without having to get Kalpas2 beforehand. BR will stay for the remainder of the run.
+
+!!! note
+    BKE is only for the purposes of filling Heimdall's Heavy Trauma Bar, forcefully ending his Red Mode.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -2585,9 +2725,9 @@ Signet | Priority
 ### <p align="center">-- Gate of Babylon Build 7D</p>
 
 !!! note
-    Updated for 6.0. Slower clear build, but in terms of strength, it's vastly superior.
+    Updated for 6.1. Slower clear build, but in terms of strength, it's vastly superior.
 
-> Boss to be Chosen: Husk or *Hephaestus, then Elysia, Aponia or Vill-V
+> Boss to be Chosen: Husk or Hephaestus, then Elysia, Aponia or Vill-V
 
 !!! note
     Hephaestus is only ever taken if you want the fastest clear time for F17. If you aren't looking for that, then by any means, just stick with Husk instead, as it's the safer and more comfortable option.
@@ -2604,12 +2744,12 @@ SSS | Finality | DoV & 3-set Sirin Ascendant | 6:40 (Updated 6.0, 1st Half) | [h
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
-Valkyries that use Heavy weapons, Bows or Pistols deal 15% more Total DMG. | 10
-When Valkyrie enters Herrscher Form, all enemies on the field takes 20% more Total DMG (cannot stack) until the current floor ends. | 15
+Max SP increases by 30. | 5
+Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
 
 !!! note
-    Effective for 6.0 2nd Half. This variation prefers the Heavy/Bow/Gun user load buff.
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2620,11 +2760,14 @@ Late | The First Scale or Key to the Deep | The Lonely Moon
 Time | Support 1 | Support 2
 :----: | :----: | :----:
 Early | VC | SS
-Mid | VC | SS
+Mid | VC or BKE | SS
 Late | VC or BR | SS
 
 !!! note
     VC for the entirety of the run remains surprisingly strong and a consistent buffer for HoV. BR is only recommended to take if you get Coleus from a 3rd Ego door during your run, and for the Heph F17 fight.
+
+!!! note
+    BKE is only for the purposes of filling Heimdall's Heavy Trauma Bar, forcefully ending his Red Mode.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -2736,48 +2879,53 @@ Quick search: Li Sus, Sushang, JK
 ### <p align="center">-- Unlimited Blade Works Build</p>
 
 !!! note 
-    Currently adjusted for 6.0 2nd Half (This weekend only). This will be quickly adjusted and changed to fit 6.1 new weather when it drops on Monday 31st. Other than that, this build focuses basically on A Spam. It's the strongest general build, but heavily competes with B spam, though the latter is conditional. (See more on its section)
+    Updated for 6.1. This build basically focuses on A spam. It's the strongest general build, but heavily competes with B spam, though the latter is conditional. (See more on its section)
 
 > Boss to be Chosen: Hephaestus, then Vill-V or Mobius
 
 !!! note
     For Vill-V, just don't switch targets as Sushang can lock onto the other far-away separated turrets and the way her aimed swords work is that if you change targets, then you will experience an effective DPS loss due to their trajectory being interrupted and needing time to hit their new target.
 
+!!! danger
+    Be advised that this build is heavily reliant on gather. Without effective means of gather, this build effectively loses out by A LOT as its main effectiveness is through AoE hitting every monster which is achieved by gathering them. If you're hitting only one monster after the other, you'll notice really poor performance and results from this build.
+
 ####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-S0 | Finality | Lv55 Nocturnal & 3-set Ana | 8:13m (6.0 2nd Half) | Will be re-made and updated for 6.1.
+S0 | Finality | Lv55 Nocturnal & 3-set Ana | 8:13m (6.0 2nd Half) | Pending Upload
 
 !!! danger
     Sushang is a strong valkyrie in terms of downscalability. Basically, her strength isn't that severely impacted from low gears, as long as the difference is not too massive and of course this will be less noticeable the lower the difficulty is. Basically, the impact from lower/cope gear relative to difficulty isn't as big.
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
-Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
-Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again resets the duration. | 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
 
 !!! note
-    Effective for 6.0 2nd Half.
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
-Early | Veil of Tears | The Lonely Moon OR Dreamful Gold
-Mid | Mad King's Mask / Golden Goblet / Rainbow of Absence | Dreamful Gold
-Late | Tin Flask or Key to the Deep | Dreamful Gold
+Early | Fragile Friend | The Lonely Moon OR Out of Reach
+Mid | Mad King's Mask / Memory / Rainbow of Absence | The Lonely Moon OR Out of Reach
+Late | Tin Flask or Key to the Deep | The Lonely Moon OR Out of Reach
 
 !!! note
-    The Lonely Moon will guarantee you a Double bonus clear for 4F. Dreamful Gold, on the other hand, it's the more comfier option if you don't like The Lonely Moon for some reason.
+    Out of Reach provides you a really convenient means of gather, being useful but also giving +1 to all of Kosma's signets which does help somewhat to re-apply his Rend stacking constantly. You can also choose to go with The Lonely Moon for a guaranteed F4 double and also for F7 onwards as long as you use it correctly.
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
 Early | AE/BR | VC
-Mid | AE/BR | VC
+Mid | AE/BR or VKE | VC
 Late | AE/BR | VC
 
 !!! note
-    Will be swiftly updated by the time 6.1 drops. Also, you can choose to go with BR over AE, it mostly comes down to personal preference.
+    You can choose to go with BR over AE, it mostly comes down to personal preference, both are strong for Sushang. VC is hugely favored and a really comfy option due to the dependance of gather that this build relies on.
+
+!!! note
+    BKE is only for the purposes of filling Heimdall's Heavy Trauma Bar, forcefully ending his Red Mode.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -2792,40 +2940,49 @@ Signet | Priority
 !!! note
     This build requires only 2 Ego signets to function: Great Blade and Cloudwalker. A 3rd Ego signet can be picked for Jade Moon. It's not a priority, however it's useful in that it can re-apply Griseo's Yellow paint and further extend Eden2 if necessary.
 
-####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
+####<p align="center">Kosma - Signet of Daybreak (1st Core)</p>
 
 !!! note
-    Ideal Order from F1-F7: Double Ego Start for Great Blade & Cloudwalker, then grab Aponia's Basic ATK for F3, finish Aponia 2nd Core by F4, go shop by F5, put Dreamful Gold, get 2 Kalpas signets and finish Kalpas 2nd Core by F6, then grab Aponia's Penance and Breach from F7 double.
-
+    Ideal course of build up: 2 Ego start into Kosma's Basic ATK or UE F3, then unlock Kosma 2nd Core by F4, go shop F5 and get Kosma's Rend Extension and Hua's Elem Breach or both Kalpas DMG boosts, grab a Kosma door by F6 for either Heart, Unshakable Character or Dawn, Perpetual Wait and get Hua or Kalpas 2nd Core by F7.
 
 Signet | Priority
 - | :----:
-**First, No Betrayal**: Exhortation increases by 5 per second and caps at 200. Basic ATK's Total DMG increases by 0.3% of Exhortation. Triggering Ultimate Evasion Skill reduces 50% Exhortation. | 1st
-**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 2nd
-**Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 3rd
-**Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | (Jade Moon Only) 4th
-**Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
-**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 1st
-**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | 2nd
-**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | Optional 3rd
+**Talons that Desecrate the Sanctuary**: Basic/Combo/Charged ATKs inflict a stack of Rend on hit, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. Stacking CD: 1s. | 1st
+**Horns that Rip the Bleak Sky**: Ultimate inflicts 15 stacks of Rend on all enemies, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. CD: 15s. | 2nd
+**Wings that Mask the Sanguine Moon**: Ultimate Evasion Skill inflicts 15 stacks of Rend on all enemies, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. CD: 15s. | 3rd
+**Heart that Commited Seven Crimes**: Rend lasts 5s longer. | 4th
+**Nexus Signet 2: Daybreak, Lone Beacon** |
+**Heart, Unshakable Character**: Each stack of Rend on Valkyrie makes her deal 1.5% more Physical and Elemental DMG. | 1st
+**Dawn, Perpetual Wait**: While Rended, recovering HP reduces Total DMG taken by 1% each time upto 30%, and losing HP increases Physical and Elemental Breach by 2% each time up to 30%. | 2nd
+**Choice, Ensuing Regret**: When Combo and Charged ATKs hit, unleash Righteous Retribution once, dealing 3000% ATK of Adaptive DMG to nearby enemies as well as restoring 0.5% of HP for each stack of Rend on Valkyrie. CD: 10s. | Optional
+
+####<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
+
+Signet | Priority
+----| :----:
+**Old Dreams Again**: Elemental Breach increases by 0.6% per second | 1st
+**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 2nd
+**Dark Garb No More**: Elemental DMG increases by 0.8% per second | 3rd
+**Nexus Signet 2: Suffering Mass** |
+**Broken Dream**: When possessing Soldier's Remembrance, increase the maximum stack of normal Vicissitude signets by 20 | Optional
 
 !!! note
-    Fourth/Ultimate is only considered if you grab Jade Moon, otherwise don't. Punish Evil is a good choice when u have Eden2 to further have SP regen overflow.
+    If you have no better choices, grab Hua door to try and get Broken Dream.
 
-####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
 
 Signet | Priority
 - | :----:
 **Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
 **Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
 **Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
-**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | Optional
+**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
 **Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
 
 !!! note
     Kalpas' TDM Taken on HP Loss should only be considered if you have BR.
 
-####<p align="center">Griseo - Signet of Stars (3rd Core)</p>
+####<p align="center">Griseo - Signet of Stars (4th Core)</p>
 
 Signet | Priority
 - | :----:
@@ -2842,7 +2999,7 @@ Signet | Priority
 !!! note
     You can choose to go for Eden2 as your next core after you're finished with Griseo2's Core if you want to have her Core before further pursuing Griseo2's Enhanceds.
 
-####<p align="center">Eden - Signet of Gold (4th Core)</p>
+####<p align="center">Eden - Signet of Gold (5th Core)</p>
 
 Signet | Priority
 - | :----:
@@ -2856,7 +3013,7 @@ Signet | Priority
 !!! note
     Withered Soil is a good option to consider when you already have excessive SP Regen overflow, mainly with Apo2's SP Regen and Eden's Sp/s.
 
-####<p align="center">Sakura - Signet of Setsuna (5th Core)</p>
+####<p align="center">Sakura - Signet of Setsuna (6th Core)</p>
 
 Signet | Priority
 - | :----:
@@ -2869,7 +3026,7 @@ Signet | Priority
 ### <p align="center">-- Dash ATK Build</p>
 
 !!! note 
-    Currently adjusted for 6.0 2nd Half (This weekend only). This will be quickly adjusted and changed to fit 6.1 new weather when it drops on Monday 31st. Other than that, this build focuses basically on B Spam. As a warning, this build is a bit more limited in usage, as it requires your Sushang to be strong enough as to have damage overflow, due to B spam consuming Blade Mantra. It can potentially beat or contest strongly with A spam build.
+    Updated for 6.1. This build focuses basically on B Spam. As a warning, this build is a bit more limited in usage, as it requires your Sushang to be strong enough as to have damage overflow, due to B spam consuming Blade Mantra. It can potentially beat or contest strongly with A spam build. It's also not gather-reliant.
 
 > Boss to be Chosen: Hephaestus, then Vill-V, Mobius or Aponia
 
@@ -2887,17 +3044,16 @@ SS0 | Finality | Nocturnal & Shenzhou | To be Tested | To be Tested
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
-Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
-Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again resets the duration. | 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
 
 !!! note
-    Effective for 6.0 2nd Half.
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
 Early | Veil of Tears | The Lonely Moon OR Dreamful Gold
-Mid | Mad King's Mask / Golden Goblet / Rainbow of Absence | Dreamful Gold
+Mid | Memory / Golden Goblet / Rainbow of Absence | Dreamful Gold
 Late | Tin Flask or Key to the Deep | Dreamful Gold
 
 !!! note
@@ -2905,12 +3061,12 @@ Late | Tin Flask or Key to the Deep | Dreamful Gold
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | AE/BR | VC
-Mid | AE/BR | VC
-Late | AE/BR | VC
+Early | AE | BR
+Mid | AE or BKE | BR
+Late | AE | BR
 
 !!! note
-    Will be swiftly updated by the time 6.1 drops. Also, you can choose to go with BR over AE, it mostly comes down to personal preference.
+    BKE is only for the purposes of filling Heimdall's Heavy Trauma Bar, forcefully ending his Red Mode.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -2928,7 +3084,7 @@ Signet | Priority
 ####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
 
 !!! note
-    Ideal Order from F1-F7: Double Ego Start for Shaft and Jade Moon, then grab Aponia's Basic ATK for F3, finish Aponia 2nd Core by F4, go shop by F5, put Dreamful Gold, get 2 Kalpas signets and finish Kalpas 2nd Core by F6, then grab Aponia's Penance and Breach from F7 double.
+    Ideal Order from F1-F7: Double Ego Start for Shaft and Jade Moon, then grab Aponia's Basic ATK for F3, finish Aponia 2nd Core by F4, go shop by F5, put Dreamful Gold, get 2 Kalpas signets and finish Kalpas 2nd Core by F6, then grab Aponia's Breach and TDM Taken from F7 double.
 
 
 Signet | Priority
@@ -2938,14 +3094,41 @@ Signet | Priority
 **Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 3rd
 **Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | (Jade Moon Only) 4th
 **Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
-**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 1st
 **You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | 2nd
-**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | Optional 3rd
+**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 2nd
+**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | Optional
 
 !!! note
     Basic ATK still wins in priority over Ultimate due to it being your main source of damage. Punish Evil is a good choice when u have Eden2 to further have SP regen overflow.
 
-####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
+####<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
+
+Signet | Priority
+----| :----:
+**Old Dreams Again**: Elemental Breach increases by 0.6% per second | 1st
+**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 2nd
+**Dark Garb No More**: Elemental DMG increases by 0.8% per second | 3rd
+**Nexus Signet 2: Suffering Mass** |
+**Broken Dream**: When possessing Soldier's Remembrance, increase the maximum stack of normal Vicissitude signets by 20 | Optional
+
+!!! note
+    If you have no better choices, grab Hua door to try and get Broken Dream.
+
+####<p align="center">Eden - Signet of Gold (3rd Core)</p>
+
+Signet | Priority
+- | :----:
+**Recitatif of Eden**: Every 10 SP left boosts Total DMG by 3.0%. | 1st
+**Recitatif of Creeks**: Every 10 SP left boosts Physical & Elemental DMG by 2.5%. | 2nd
+**Recitatif of Good Wine**: Restore 1.5 SP per second. | 3rd
+**Recitatif of Fine Jade**: Initial SP and max SP increase by 30. | Optional 4th
+**Nexus Signet 2: Echo of Gold** |
+**Echo of Withered Soil**: After lasting over 1s, Final Echo boosts SP cap by 50% and restores 1% SP per second until it ends. | 1st
+
+!!! note
+    Withered Soil is a good option to consider when you already have excessive SP Regen overflow, mainly with Apo2's SP Regen and Eden's Sp/s.
+
+####<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
 
 Signet | Priority
 - | :----:
@@ -2957,21 +3140,6 @@ Signet | Priority
 
 !!! note
     Kalpas' TDM Taken on HP Loss should only be considered if you have BR.
-
-####<p align="center">Eden - Signet of Gold (3rd Core)</p>
-
-Signet | Priority
-- | :----:
-**Recitatif of Eden**: Every 10 SP left boosts Total DMG by 3.0%. | 1st
-**Recitatif of Creeks**: Every 10 SP left boosts Physical & Elemental DMG by 2.5%. | 2nd
-**Recitatif of Good Wine**: Restore 1.5 SP per second. | 3rd
-**Recitatif of Fine Jade**: Initial SP and max SP increase by 30. | Optional 4th
-**Nexus Signet 2: Echo of Gold** |
-**Echo of Withered Soil**: After lasting over 1s, Final Echo boosts SP cap by 50% and restores 1% SP per second until it ends. | Optional 1st
-
-!!! note
-    Withered Soil is a good option to consider when you already have excessive SP Regen overflow, mainly with Apo2's SP Regen and Eden's Sp/s.
-
 
 ####<p align="center">Griseo - Signet of Stars (4th Core)</p>
 
@@ -3011,7 +3179,7 @@ Quick Search: IO, Snake, Snek, Mobius
 ### <p align="center">-- Non-Kevin Build</p>
 
 !!! note
-    Updated for 6.0. This build has less dependancy on Kevin's short-lived buffs, instead having consistent buffs that stay present throughout whole floors, even outside of Ultimate.
+    Updated for 6.1. This build has less dependancy on Kevin's short-lived buffs, instead having consistent buffs that stay present throughout whole floors, even outside of Ultimate.
 
 > Boss to be Chosen: Hephaestus, then Aponia or Vill-V
 
@@ -3030,12 +3198,12 @@ S0 | Finality | Basilisk & Linnaeus | 6:02 (Updated, 6.0 1st Half) | [https://yo
 
 Buff | Load
 :----: | :----: 
-Triggering Ultimate Evasion Skill restores 10 sp. | 5
-Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
-Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again resets the duration.| 15
+Valkyries gain an additional 10 SP for every 60 SP restored. | 5
+Flame-Chasers deal 15% more Total DMG. | 10
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
 
 !!! note
-    Effective for 6.0 2nd Half.
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3045,12 +3213,15 @@ Late | The First Scale or Key to the Deep | Boundless Logos
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | AE | VC
-Mid | AE | VC
-Late | AE | VC
+Early | AE | BR or LE
+Mid | AE | BR/LE or BKE
+Late | AE | BR or LE
 
 !!! note
-    VC is here solely for the purpose of negating the -30% DMG Reduction. This becomes even more effective with Mobius1's Unknown [X] and Longing [C] combo, due to being able to spam VC so often that the -30% DMG Reduction is almost non-existent for her.
+    BR if your damage is a little lacking, particularly in early floors before Mobius 1st Core. LE is the comfier option due to eliminating the possibility of dealing with downtime outside Ult.
+
+!!! note
+    BKE is only for the purposes of filling Heimdall's Heavy Trauma Bar, forcefully ending his Red Mode.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -3155,12 +3326,12 @@ SSS | Abstinence | Hekate & Ely TB Dante M | 11:35m (6.0 1st Half) | [https://yo
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
-Valkyries that use Heavy weapons, Bows or Pistols deal 15% more Total DMG. | 10
-Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again resets the duration. | 15
+Valkyries gain an additional 10 SP for every 60 SP restored. | 5
+Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
 
 !!! note
-    Effective for 6.0 2nd Half.
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3476,7 +3647,7 @@ Quick Search: PE, Juan, Horse, Goose, Dudu
 ### <p align="center">-- Equinox Severance Build 7D</p>
 
 !!! note
-    Updated to 6.0. This build is far stronger, superior and easier compared to Gallop build.
+    Updated to 6.1. This build is far stronger, superior and easier compared to Gallop build.
 
 >   Boss to be chosen: Husk, then Aponia or Vill-V.
 
@@ -3491,12 +3662,12 @@ SSS | Finality | Midnight Ataegina & BiankaT | 9:41m (6.0 1st Half) | [https://y
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
-Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
-Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again resets the duration.| 15
+Valkyries gain an additional 10 SP for every 60 SP restored. | 5
+Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
 
 !!! note
-    Effective for 6.0 2nd Half.
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3613,7 +3784,7 @@ Quick Search: PV, Fischl, Genshin, Oz
 ### <p align="center">-- General Build 7D</p>
 
 !!! note 
-    Updated 6.0. This is her best build up to date. 
+    Updated 6.1. This is her best build up to date. 
 
 > Boss to be Chosen: Husk, then Aponia
 
@@ -3628,12 +3799,12 @@ SSS | Finality | DoEgo & Zhenyi | 8:51m (6.0 2nd Half) | [https://youtu.be/t75Hy
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
-Valkyries that use Heavy weapons, Bows or Pistols deal 15% more Total DMG. | 10
-Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again resets the duration. | 15
+Valkyries gain an additional 10 SP for every 60 SP restored. | 5
+Max SP increases by 30. | 5
+Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
 
 !!! note
-    Effective for 6.0 2nd Half.
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3647,11 +3818,14 @@ Late | Tin Flask or Key to the Deep | Falling in Past Light
 Time | Support 1 | Support 2
 :----: | :----: | :----:
 Early | AE | BR
-Mid | AE | BR
+Mid | AE | BR or BK
 Late | AE | BR
 
 !!! note
     You'll want to prioritize saving AE for gather sometimes if you are lacking in a ELF that has gather or while you don't have Vill-V's 2nd Core unlocked, as Fischl is straight up horrible without it. She's literally dependant on it due to her almost non-existent AoE damage, especially when lacking 3rd signet which is pretty much a requirement.
+
+!!! note
+    BKE is only for the purposes of filling Heimdall's Heavy Trauma Bar, forcefully ending his Red Mode.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -3752,7 +3926,7 @@ Quick search: RC, Neko, Cat, Pardo, Phyllis, Pardofelis
 ### <p align="center">-- Pardo1 Variation 7D</p>
 
 !!! note
-    Updated to 6.0. More tailored towards late-game. Strength comes in close to Pardo2 variation.
+    Updated to 6.1. More tailored towards late-game. Strength comes in close to Pardo2 variation.
 
 >   Boss to be chosen: Hephaestus, then Kalpas or Vill-V
 
@@ -3767,12 +3941,13 @@ SSS | Finality | Purana & Ana Schariac | 8:08m (6.0 1st Half) | [https://youtu.b
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG. Triggering it again refreshes the duration. | 5
-Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
-Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again resets the duration.| 15
+Valkyries gain an additional 10 SP for every 60 SP restored. | 5
+Max SP increases by 30. | 5
+Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+Flame-Chasers deal 15% more Total DMG. | 10
 
 !!! note
-    Effective for 6.0 2nd Half
+    Effective for 6.1
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3782,9 +3957,12 @@ Late | Key to the Deep or Proof of Good and Evil | Falling in Past Light
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | AE | HB
-Mid | AE | HB
-Late | AE | HB
+Early | AE | BR
+Mid | AE | BR / BKE
+Late | AE | BR
+
+!!! note
+    BKE is only for the purposes of filling Heimdall's Heavy Trauma Bar, forcefully ending his Red Mode.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -3878,7 +4056,7 @@ Signet | Priority
 ### <p align="center">-- Pardo2 Variation 7D</p>
 
 !!! danger
-    Updated to 6.0. Pardo2 focuses on the 2nd Core and shines more right away from the Early game. This build is also focused on visiting shops. It also opens up the possibility of being able to reach up to 8 cores, however the most ideal remains 6/7 as the enhanceds are still good to take.
+    Updated to 6.1. Pardo2 focuses on the 2nd Core and shines more right away from the Early game. This build is also focused on visiting shops. It also opens up the possibility of being able to reach up to 8 cores, however the most ideal remains 6/7 as the enhanceds are still good to take.
 
 >   Boss to be chosen: Hephaestus, then Kalpas or Vill-V. Elysia is also fine too.
 
@@ -3893,12 +4071,13 @@ SSS | Finality | Purana & Ana Schariac | 7:41m (6.0 1st Half) | [https://youtu.b
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG. Triggering it again refreshes the duration. | 5
-Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
-Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again resets the duration.| 15
+Valkyries gain an additional 10 SP for every 60 SP restored. | 5
+Max SP increases by 30. | 5
+Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+Flame-Chasers deal 15% more Total DMG. | 10
 
 !!! note
-    Effective for 6.0 2nd Half.
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4015,7 +4194,7 @@ Quick search: RI, Kallen
 ### <p align="center">-- RI - *Aponia Build 6D*</p>
 
 !!! note
-    The strength of this build is weakened for 6.0. Don't expect the same results as the example run shown below.
+    Updated to 6.1 for load buffs. The strength of this build is weakened for 6.0. Don't expect the same results as the example run shown below.
 
 > Boss to be Chosen: Hephaestus and Aponia
 
@@ -4030,12 +4209,12 @@ SSS | Corruption | DoV & 3-Set Elysia | 13:25m (2nd Half 5.9) | [https://youtu.b
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG. Triggering it again refreshes the duration. | 5
-Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
-Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again resets the duration.| 15
+Valkyries gain an additional 10 SP for every 60 SP restored. | 5
+Max SP increases by 30. | 5
+Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
 
 !!! note
-    Effective for 6.0 2nd Half.
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4046,10 +4225,13 @@ Late | Resolve / Shattered Shackles / Key to the Deep | The Lonely Moon
 Time | Support 1 | Support 2
 :----: | :----: | :----:
 Early | VC | SS
-Mid | VC | SS
+Mid | VC / BK | SS
 Late | VC | SS
 
 ####<p align="center">Elysia - Signet of ■■</p>
+
+!!! note
+    BKE is only for the purposes of filling Heimdall's Heavy Trauma Bar, forcefully ending his Red Mode.
 
 
 Signet | Priority
@@ -4217,7 +4399,7 @@ Quick search: SpA, Rita, Fire Rita
 ### <p align="center">-- General Build 7D</p>
 
 !!! note
-    Updated 6.0. This valk is fucking awful. Honest truth. Her early game absolutely sucks, even as SS-rank, and loses against valks like Fischl and Eden in that regard. She only starts ramping up in strength after Benares, but even then, she still sucks a bit as she becomes mediocre at best. If anything, I would honestly recommend to play other valks instead of this shitty valk. She just really sucks, nothing more.
+    Updated 6.1. This valk is fucking awful. Honest truth. Her early game absolutely sucks, even as SS-rank, and loses against valks like Fischl and Eden in that regard. She only starts ramping up in strength after Benares, but even then, she still sucks a bit as she becomes mediocre at best. If anything, I would honestly recommend to play other valks instead of this shitty valk. She just really sucks, nothing more.
 
 >   Boss to be chosen: Hephaestus OR Husk, then Aponia or Vill-V
 
@@ -4235,12 +4417,12 @@ SS | Finality | Pisces & Ragna | 10:16m (6.0 1st Half) | [https://youtu.be/IDZt4
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG. Triggering it again refreshes the duration. | 5
-Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
-Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again resets the duration.| 15
+Valkyries gain an additional 10 SP for every 60 SP restored. | 5
+Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
 
 !!! note
-    Effective for 6.0 2nd Half
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4253,12 +4435,12 @@ Late | Tin Flask or Key to the Deep | Out of Reach
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | AE | MA
-Mid | AE | MA
-Late | AE | MA
+Early | AE | BR
+Mid | AE | BR / VK
+Late | AE | BR
 
 !!! note
-    Valid only for 6.0. MA is here only to temporarily negate the -30% DMG Reduction modifier.
+    VK is only for the purposes of filling Heimdall's Heavy Trauma Bar, forcefully ending his Red Mode.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -4422,7 +4604,7 @@ Quick Search: SI, Griseo, Grisekek, Painter, Bob Ross
 ### <p align="center">-- Griseo Aboose 7D</p>
 
 !!! note
-    Updated for 6.0. 
+    Updated for 6.1.
 
 > Boss to be Chosen: Hephaestus, then Mobius, Aponia or Vill-V.
 
@@ -4437,17 +4619,17 @@ SSS | Finality | Elysian Astra & Cezanne | 7:16m (Updated, 6.0 1st Half) | [http
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG. Triggering it again refreshes the duration. | 5
-Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
-Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again resets the duration.| 15
+Valkyries gain an additional 10 SP for every 60 SP restored. | 5
+Flame-Chasers deal 15% more Total DMG. | 10
+When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
 
 !!! note
-    Effective for 6.0 2nd Half.
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
 Early | Rainbow of Absence | The Lonely Moon
-Mid | Veil of Tears / Mad King's Mask / Memory / Home Lost | The Lonely Moon
+Mid | Mad King's Mask / Memory / Home Lost | The Lonely Moon
 Late | Key to the Deep | The Lonely Moon
 
 Time | Support 1 | Support 2
@@ -4488,30 +4670,7 @@ Signet | Priority
 !!! note
     By F4, if you get both Red and Yellow paint only, grab A Flame Extinguished. If you get Red and Blue, grab Petals in the Wind. If for some reason you only get Yellow & Blue, then Fallen Leaves.
 
-####<p align="center">Aponia - Signet of Discipline (2nd Core)</p>
-
-Signet | Priority
-- | :----:
-**First, No Betrayal**: Exhortation increases by 5 per second and caps at 200. Basic ATK's Total DMG increases by 0.3% of Exhortation. Triggering Ultimate Evasion Skill reduces 50% Exhortation. | 1st
-**Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 2nd
-**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 3rd
-**Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | 4th
-**Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
-**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | 1st
-**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 2nd
-**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | Optional
-
-####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
-
-Signet | Priority
-- | :----:
-**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
-**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
-**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
-**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | Optional
-**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
-
-####<p align="center">Hua - Signet of Vicissitude (4th Core)</p>
+####<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
 
 Signet | Priority
 ----| :----:
@@ -4523,6 +4682,29 @@ Signet | Priority
 
 !!! note
     Broken Dream remains a gamble to try and get from a door. Better taken from shop or unless you don't have other good door choices.
+
+####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
+
+Signet | Priority
+- | :----:
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
+**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | Optional
+**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
+
+####<p align="center">Aponia - Signet of Discipline (4th Core)</p>
+
+Signet | Priority
+- | :----:
+**First, No Betrayal**: Exhortation increases by 5 per second and caps at 200. Basic ATK's Total DMG increases by 0.3% of Exhortation. Triggering Ultimate Evasion Skill reduces 50% Exhortation. | 1st
+**Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 2nd
+**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 3rd
+**Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | 4th
+**Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
+**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | 1st
+**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 2nd
+**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | Optional
 
 ####<p align="center">Pardofelis - Signet of Reverie (5th Core)</p>
     
@@ -4637,12 +4819,12 @@ S2 | Abstinence | Path of Acheron Pri & 3-set Allan Poe | 14m (2nd Half 5.9) | [
 
 Buff | Load
 :----: | :----: 
-Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+Valkyries gain an additional 10 SP for every 60 SP restored. | 5
 Max SP increases by 30. | 5
-When Charged ATKs hit enemies, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 15
+Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
 
 !!! note
-    Effective for 5.9
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4729,60 +4911,8 @@ Signet | Priority
 
 !!! danger
     Due to the nature of SN being, in a streak, the most unfavored valkyrie patch after patch in the rotating ER weathers, do not expect her performance and power compared to other valkyries to change. Yet, if you still want to play this valkyrie, do enjoy her. And hopefully someday Hoyoverse will consider reworking her Ego signets. [https://www.youtube.com/watch?v=cslZh5G3YxI](https://www.youtube.com/watch?v=cslZh5G3YxI)
+
 ***
-
-## Golden Diva
-Quick search: Eden, GD
-
-![Vercel GD](https://elysian-realm.vercel.app/images/golden-diva.jpg)
-
-### <p align="center">-- General Build 7D</p>
-
-!!! note 
-    Updated 6.0. As far as testing goes, this is the current best build for Eden, and other variations with different signets are either weaker, or just don't really work as well as they would seem to do in paper. Take Eden2 for instance, which supposedly GD would be perfectly fine with. Issue? It actually isn't that great. Only acceptable as a versatile option when you don't have any other better alternatives for doors, but otherwise, not recommended to do as early start, as it's garbage.
-
-> Boss to be Chosen: Husk or Hephaestus, then Aponia or Vill-V
-
-!!! note
-    Hephaestus is only recommended if you actually have both DoI & Handel to go with. Eden has the capability to kill Hephaestus before he goes into Overheat mode. If you do not have the confidence to kill it before it goes Overheat mode, then just go with Husk.
-
-####<p align="center">Setup</p>
-
-Rank | Difficulty Done | Recommended Gear | Clear Time | Run
-:------: | :------: | :------: | :------: | :------:
-SSS | Finality | DoI & Handel | 9:03m (6.0 2nd Half) | [https://youtu.be/iWKlVGS9wnU](https://youtu.be/iWKlVGS9wnU)
-
-!!! danger
-    In terms of downscalability, as long as you have Handel, GD won't be as painful to use, particularly because the atk difference does play in quite a big manner for her damage. It's also due to DoI's buffs difference.
-
-Buff | Load
-:----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again refreshes the duration. | 5
-Valkyries that use Heavy weapons, Bows or Pistols deal 15% more Total DMG. | 10
-Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again resets the duration. | 15
-
-!!! note
-    Effective for 6.0 2nd Half.
-
-Time | Remembrance Sigil | FC Support Skill
-:----: | :----: | :----:
-Early | Veil of Tears OR Fragile Friend | Boundless Feeling OR Out of Reach
-Mid | Mad King's Mask / Rainbow of Absence / Home Lost | Out of Reach
-Late | Tin Flask or Key to the Deep | Out of Reach
-
-!!! note
-    This build has 2 starter variations. You either choose Aponia or Kosma. The difference between both will be explained further below. Look out for reading if you want to know.
-
-Time | Support 1 | Support 2
-:----: | :----: | :----:
-Early | AE | BR
-Mid | AE | BR
-Late | AE | BR
-
-####<p align="center">Elysia - Signet of ■■</p>
-
-Signet | Priority
-------|:----:
 
 ## Sweet 'n' Spicy (4D/5D HoDom)
 Quick search: SnS, Carole
@@ -4935,7 +5065,7 @@ Quick search: VG, Dudu, Goose
 ### <p align="center">-- VG - *Abstinence Build 5D*</p>
 
 !!! note
-    The effectiveness of this build for 6.0 might be a bit lower due to the absence of Quantum enemies, but otherwise this should still work fine. It has also been adjusted to fit with 6.0.
+    Updated for 6.1. Honestly, just pick someone better.
 
 > Boss to be Chosen: Husk or Hephaestus, Aponia
 
@@ -4950,12 +5080,12 @@ SSS | Abstinence | Eos Gloria & LWH TB Thales M | 13:09m (2nd Half 5.9) | [https
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG. Triggering it again refreshes the duration. | 5
-Physical and Elemental DMG increases by 15% for 4s after triggering Ultimate Evasion Skill. Triggering it again resets the duration. | 10
-Using a Weapon Active increases Valkyrie Total DMG by 20% for 5s. Triggering it again resets the duration.| 15
+Valkyries gain an additional 10 SP for every 60 SP restored. | 5
+Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
 
 !!! note
-    Effective for 6.0 2nd Half.
+    Effective for 6.1.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4966,8 +5096,8 @@ Late | Key to the Deep | The Lonely Moon
 Time | Support 1 | Support 2
 :----: | :----: | :----:
 Early | AE | LE
-Mid | AE | LE
-Late | AE | BR
+Mid | AE | FR
+Late | AE | FR
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
