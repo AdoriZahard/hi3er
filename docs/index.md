@@ -2908,12 +2908,12 @@ When a Support and Deployed Valkyrie are of matching type, all enemies on the fi
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
-Early | Fragile Friend | The Lonely Moon OR Out of Reach
-Mid | Mad King's Mask / Memory / Rainbow of Absence | The Lonely Moon OR Out of Reach
+Early | Memory | The Lonely Moon OR Out of Reach
+Mid | Mad King's Mask / Rainbow of Absence / Fragile Friend | The Lonely Moon OR Out of Reach
 Late | Tin Flask or Key to the Deep | The Lonely Moon OR Out of Reach
 
 !!! note
-    Out of Reach provides you a really convenient means of gather, being useful but also giving +1 to all of Kosma's signets which does help somewhat to re-apply his Rend stacking constantly. You can also choose to go with The Lonely Moon for a guaranteed F4 double and also for F7 onwards as long as you use it correctly.
+    Out of Reach provides you a really convenient means of gather, being useful but also giving +1 to all of Kosma's signets which does help somewhat to re-apply his Rend stacking constantly. The Lonely Moon also is helpful to guarantee getting F4 doubles.
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
@@ -2940,23 +2940,10 @@ Signet | Priority
 !!! note
     This build requires only 2 Ego signets to function: Great Blade and Cloudwalker. A 3rd Ego signet can be picked for Jade Moon. It's not a priority, however it's useful in that it can re-apply Griseo's Yellow paint and further extend Eden2 if necessary.
 
-####<p align="center">Kosma - Signet of Daybreak (1st Core)</p>
+####<p align="center">Hua - Signet of Vicissitude (1st Core)</p>
 
 !!! note
-    Ideal course of build up: 2 Ego start into Kosma's Basic ATK or UE F3, then unlock Kosma 2nd Core by F4, go shop F5 and get Kosma's Rend Extension and Hua's Elem Breach or both Kalpas DMG boosts, grab a Kosma door by F6 for either Heart, Unshakable Character or Dawn, Perpetual Wait and get Hua or Kalpas 2nd Core by F7.
-
-Signet | Priority
-- | :----:
-**Talons that Desecrate the Sanctuary**: Basic/Combo/Charged ATKs inflict a stack of Rend on hit, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. Stacking CD: 1s. | 1st
-**Horns that Rip the Bleak Sky**: Ultimate inflicts 15 stacks of Rend on all enemies, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. CD: 15s. | 2nd
-**Wings that Mask the Sanguine Moon**: Ultimate Evasion Skill inflicts 15 stacks of Rend on all enemies, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. CD: 15s. | 3rd
-**Heart that Commited Seven Crimes**: Rend lasts 5s longer. | 4th
-**Nexus Signet 2: Daybreak, Lone Beacon** |
-**Heart, Unshakable Character**: Each stack of Rend on Valkyrie makes her deal 1.5% more Physical and Elemental DMG. | 1st
-**Dawn, Perpetual Wait**: While Rended, recovering HP reduces Total DMG taken by 1% each time upto 30%, and losing HP increases Physical and Elemental Breach by 2% each time up to 30%. | 2nd
-**Choice, Ensuing Regret**: When Combo and Charged ATKs hit, unleash Righteous Retribution once, dealing 3000% ATK of Adaptive DMG to nearby enemies as well as restoring 0.5% of HP for each stack of Rend on Valkyrie. CD: 10s. | Optional
-
-####<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
+    Ideal course of build up: 2 Ego start into Hua's Elem Breach by F3, then unlock Hua 2nd Core by F4, go shop F5 and get Kalpas TDM and Phys/Elem DMG or Griseo Red & Yellow Paint, grab either a Kalpas or Griseo door by F6 if you can complete either of their cores, then unlock whichever Core remains between the two for F7. Onwards, focus on Griseo2's Enhanceds.
 
 Signet | Priority
 ----| :----:
@@ -2969,7 +2956,7 @@ Signet | Priority
 !!! note
     If you have no better choices, grab Hua door to try and get Broken Dream.
 
-####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
 
 Signet | Priority
 - | :----:
@@ -2982,7 +2969,7 @@ Signet | Priority
 !!! note
     Kalpas' TDM Taken on HP Loss should only be considered if you have BR.
 
-####<p align="center">Griseo - Signet of Stars (4th Core)</p>
+####<p align="center">Griseo - Signet of Stars (3rd Core)</p>
 
 Signet | Priority
 - | :----:
@@ -2998,6 +2985,19 @@ Signet | Priority
 
 !!! note
     You can choose to go for Eden2 as your next core after you're finished with Griseo2's Core if you want to have her Core before further pursuing Griseo2's Enhanceds.
+
+####<p align="center">Kosma - Signet of Daybreak (4th Core)</p>
+
+Signet | Priority
+- | :----:
+**Talons that Desecrate the Sanctuary**: Basic/Combo/Charged ATKs inflict a stack of Rend on hit, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. Stacking CD: 1s. | 1st
+**Horns that Rip the Bleak Sky**: Ultimate inflicts 15 stacks of Rend on all enemies, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. CD: 15s. | 2nd
+**Wings that Mask the Sanguine Moon**: Ultimate Evasion Skill inflicts 15 stacks of Rend on all enemies, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. CD: 15s. | 3rd
+**Heart that Commited Seven Crimes**: Rend lasts 5s longer. | 4th
+**Nexus Signet 2: Daybreak, Lone Beacon** |
+**Heart, Unshakable Character**: Each stack of Rend on Valkyrie makes her deal 1.5% more Physical and Elemental DMG. | 1st
+**Dawn, Perpetual Wait**: While Rended, recovering HP reduces Total DMG taken by 1% each time upto 30%, and losing HP increases Physical and Elemental Breach by 2% each time up to 30%. | 2nd
+**Choice, Ensuing Regret**: When Combo and Charged ATKs hit, unleash Righteous Retribution once, dealing 3000% ATK of Adaptive DMG to nearby enemies as well as restoring 0.5% of HP for each stack of Rend on Valkyrie. CD: 10s. | Optional
 
 ####<p align="center">Eden - Signet of Gold (5th Core)</p>
 
