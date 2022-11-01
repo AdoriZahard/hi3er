@@ -41,6 +41,7 @@ Please note that this is only true for there reward scores, and not the actual p
 > Click [here](https://rentry.co/thebuttererguide) for more information on how to ER more efficiently.
 
 ## Update log
+- 2022-11-01: Added SoE: Ultimate Build for HoR.
 - 2022-10-31: Sushang UBW Build added Run & updated accordingly.
 - 2022-10-31: Updated every Valkyrie's build Load Buffs to 6.1 and made some adjustments. Sushang/Jade Knight Builds also updated.
 - 2022-09-22: Github page redesigned and replaces [https://rentry.co/hi3er](https://rentry.co/hi3er)
@@ -2921,9 +2922,12 @@ Late | Tin Flask or Key to the Deep | The Lonely Moon OR Out of Reach
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | AE | BR
+Early | AE/VC/HB | BR
 Mid | BK | BR
-Late | AE | BR
+Late | VC/HB | BR
+
+!!! note
+    AE's Elemental Breach does NOT stack with Sussy's. Due to this, she's weaker as a support of choice for her, and VC & HB are better options. Now, regarding who to choose. AE's advantages are for Early only: gather, 30% Elem Taken, SP Regen. VC is for the purposes of reliable and consistent gather only. HB, on the other hand, has WAY more DMG boost during all stages of the run. TLDR; HB for maximum damage bonus, VC for easy and reliable gather, AE for gather/elem taken early on.
 
 !!! note
     BKE is only for the purposes of filling Heimdall's Heavy Trauma Bar, forcefully ending his Red Mode.
@@ -2957,7 +2961,20 @@ Signet | Priority
 !!! note
     Getting Broken Dream is really helpful, as such, it's not a bad choice to try and gamble for her. You can also restart your run in order to get it if you don't mind.
 
-####<p align="center">Griseo - Signet of Stars (2nd Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
+
+Signet | Priority
+- | :----:
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
+**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
+**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** | Not Necessary
+
+!!! danger
+    Two important things. One, it is NOT necessary to finish Kalpas 2nd Core. The reason is because Sushang has minor healing, which combined with BR, will ensure she'll stay at less than 1000 HP for the most part. Also, getting Kosma2 afterwards will make her permastay at 1 HP. You also want to abuse BR at shop the moment you get his DMG boosts. Always make sure to stay at less than 100 HP.
+
+####<p align="center">Griseo - Signet of Stars (3rd Core)</p>
 
 Signet | Priority
 - | :----:
@@ -2973,19 +2990,6 @@ Signet | Priority
 
 !!! note
     Having Fallen Leaves and Petals in the Wind by Heimdall fight is HUGELY beneficial and strongly recommended to have the best chances at getting past him. 
-
-####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
-
-Signet | Priority
-- | :----:
-**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
-**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
-**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
-**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
-**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** | Not Necessary
-
-!!! danger
-    Two important things. One, it is NOT necessary to finish Kalpas 2nd Core. The reason is because Sushang has minor healing, which combined with BR, will ensure she'll stay at less than 1000 HP for the most part. Also, getting Kosma2 afterwards will make her permastay at 1 HP. You also want to abuse BR at shop the moment you get his DMG boosts. Always make sure to stay at less than 100 HP.
 
 ####<p align="center">Kosma - Signet of Daybreak (4th Core)</p>
 
