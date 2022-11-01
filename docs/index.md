@@ -1416,18 +1416,18 @@ Quick Search: HoR, Bronya
 ### <p align="center">-- [SoE-Only] Ultimate Build</p>
 
 !!! note
-    Updated 6.1. Further testing is yet to be done, but once better starter signets or cores are found for this build, this will be updated. Be advised though, that SoE feels lackluster and weird in comparison to DoR, but it is massively advantaged in current 6.1 weather.
+    Updated 6.1. Do note that SoE feels a bit weak compared to DoR. Nevertheless, this is the strongest build done up until now from testing.
 
->   Boss to be chosen: Hephaestus, then Vill-V
+>   Boss to be chosen: Hephaestus, then Aponia
 
 ####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-SS1 | Finality | ? | ? | To be Added
+SS1 | Finality | SoE:W & 3-set Ana Schariac | 7:57m (6.1) | [https://youtu.be/WtWG29ySI7s](https://youtu.be/WtWG29ySI7s)
 
 !!! note 
-    In downscalability terms, this build might be weaker the lower your stigmatas are. It's advised to go with a better valk instead.
+    In downscalability terms, this build might be weaker the lower your stigmatas are. It's advised to go with a better valk instead. Also, Willows is still much better.
 
 Buff | Load
 :----: | :----: 
@@ -1440,21 +1440,21 @@ When the stage timer is paused, Total DMG received by all enemies on the field i
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
-Early | Pseudo Miracle | Because of You
-Mid | Memory / Mad King's Mask / Rainbow of Absence | Falling in Past Light
-Late | Key to the Deep | Falling in Past Light
+Early | Veil of Tears | The Lonely Moon / Because of You (F5)
+Mid | Memory / Mad King's Mask / Forget-Me-Not | Because of You / The Lonely Moon (F13+)
+Late | Tin Flask or Key to the Deep | The Lonely Moon
 
 !!! note
-    Because of You start will give you the opportunity to grab Truth + Inspiration by F7 doubles. This changes the purpose of reset start. Explained further below.
+    The Lonely Moon will help guaranteeing F4 double. After, switch it out for Because of You at F5 Shop. Then, switch it back for The Lonely Moon after F12.
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | AE | LE 
-Mid | AE | LE
-Late | AE | LE
+Early | AE | LE
+Mid | AE | BK
+Late | AE | BR
 
 !!! note
-    LE is really appreciated here due to SoE having SP problems. 
+    Remember to switch BK in by F10 just before Heimdall fight. Without BK, you'll have a really hard time against Heimdall otherwise. Then, you can switch her out for BR if you already have SP Regen covered.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -1466,24 +1466,27 @@ Signet | Priority
 **Blessing of Reason**: Every hit from hover guns reduces weapon active CD by 0.7s | No
 **Blessing of Creation**: In non-bike mode, Charged ATKs create 4 hover guns to attack, each dealing 160% ATK of Ice DMG on hit | No
 
-####<p align="center">Vill-V - Signet of Helix (1st Core)</p>
+!!! note
+    This build mainly relies on 3 main Ego signets: Starting with Wisdom, this signet will carry you through your entire early game up until F11 where you need the double reward to get both Truth + Inspiration. The other signets are worthless.
+
+####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
 
 !!! note
-    Ideal order of build up: Griseo Red Paint F2 into V-V's Pendulum or Conflict F3, unlock V-V 2nd Core by F4, go shop by F5 and buy Sakura's TDM Taken, TDM and Hua's Elem Breach mainly, get V-V door for F6 and use Because of You to take Truth + Inspiration by F7 Double.
+    Ideal order from F1-F7: Reset F2 for Griseo Red Paint start, then take Aponia's SP Regen by F3, unlock Aponia 2nd Core by F4 with Ultimate & 70 Load, go shop F5 and put Because of You, buy Aponia's Breach or Penance if you get them, otherwise take Hua's Elem Breach, Sakura's TDM Taken and TDM or Black & Dark from Griseo. Grab Aponia door F6, then unlock Hua 2nd Core by F7 double
 
 Signet | Priority
 - | :----:
-**Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 1st
-**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 2nd
-**Act VI: Sneer**: Using a weapon active restores 12 SP in 5s and reduces its CD by 15%. | 3rd
-**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | 4th
-**Nexus Signet 2: Intermezzo: Holistic Helix** |
-**Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 1st
-**Puppetry: Interlacing Cells**: Extends Global Time Fracture caused by Specail Weapon: No. 4's detonation by 3s. During Global Time Fracture, gain 30% Physical and Elemental Breach. | 2nd
-**Saga: Overlapping Needles**: Gravitational Field affects a larger area and gain a stronger pull. DMG-dealing hits deal and extra 500% ATK of Adaptive DMG. | Filler
+**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 1st
+**Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | 2nd
+**Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 3rd
+**Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
+**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | 1st
+**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 2nd
+**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | Optional 3rd
 
 !!! note
-    Sneer is nice to take but preferentially from Felis shop. It helps spam even further. 
+    Punish Evil's spot can instead be used for completing Hua2.
+
 
 ####<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
 
@@ -1494,6 +1497,9 @@ Signet | Priority
 **Dark Garb No More**: Elemental DMG increases by 0.8% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 3rd
 **Nexus Signet 2: Suffering Mass** |
 **Broken Dream**: With Soldier's Remembrance stacks, the max stacks of all buffs from Normal Signets of Vicissitude increase by 20. Losing all Soldier's Remembrance stacks reduces the max stacks by 10 but restores 1 Soldier's Remembrance stack. Can only be triggered once every battle. | Optional
+
+!!! note
+    If you have no better choices for doors, you can try to take Broken Dream.
 
 ####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
 
@@ -1518,9 +1524,9 @@ Signet | Priority
 Signet | Priority
 - | :----:
 **Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st
-**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | 2nd
-**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 3rd
-**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | Optional 4th
+**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 2nd
+**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | 3rd
+**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 4th
 **Grey & Empty**: Enemies stay tainted for 5s longer. | Optional 5th
 **Nexus Signet 2: Faded Stars** |
 **Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 1st
