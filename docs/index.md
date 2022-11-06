@@ -41,6 +41,7 @@ Please note that this is only true for there reward scores, and not the actual p
 > Click [here](https://rentry.co/thebuttererguide) for more information on how to ER more efficiently.
 
 ## Update log
+- 2022-11-06: Added UBW Sussy - Aponia Variation
 - 2022-11-05: Updated and added 3 new builds for the following valks: Aponia, Nyx and SN.
 - 2022-11-03: Updated and added 3 new builds for the following valks: AKA, FR, HC. Added new build variant for UBW Sussy (Eden & Su).
 - 2022-11-01: Added SoE: Ultimate Build for HoR.
@@ -3136,7 +3137,157 @@ Quick search: Li Sus, Sushang, JK, Sussy
 
 ![God bless that beautiful Mount Taixuan, prayge](https://cdn.discordapp.com/attachments/984654311483133962/1035570929511706674/Sussyhang.jpg)
 
-### <p align="center">-- Unlimited Blade Works Build</p>
+### <p align="center">-- Unlimited Blade Works Build - Aponia Variation</p>
+
+!!! note 
+    Updated for 6.1. This build basically focuses on A spam. It's her strongest general build, taking into account ranks, downscaling and weather-related buffs & debuffs. On the other hand, however, it is heavily reliant on gather. The strongest variation of Sussy's UBW build, which fully utilizes Aponia signets' strength alongside Griseo, resulting in a really deadly and strong as fuck build that melts through enemies easily like a rain of millions of knives going through butter.
+
+> Boss to be Chosen: Hephaestus, then Elysia, Mobius, Aponia or Vill-V
+
+!!! note
+    There's no particular preference over each other in regards to the bosses. Aponia has the inconvenience of making Sushang's Sword Array dissapear so you have to fill Blade Mantra up to full to use it again as you won't have ult back by the time she transitions to P2. Mobius, on the other hand, is more comfortable with gather. V-V is easy, just lock on the turret until it's destroyed. Elysia, however, is the tankiest boss so if your damage isn't looking good enough, go with the other bosses instead.
+
+####<p align="center">Setup</p>
+
+Rank | Difficulty Done | Recommended Gear | Clear Time | Run
+:------: | :------: | :------: | :------: | :------:
+SS0 | Finality | Nocturnal & Shenzhou | 3:37 (6.1) | [https://youtu.be/Pld1F3JfVbw](https://youtu.be/Pld1F3JfVbw)
+
+!!! danger
+    Sus is a pretty strong valkyrie in her own right, and her downscalability is one of the best amongst the available valkyries in ER.
+
+Buff | Load
+:----: | :----: 
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
+
+!!! note
+    Effective for 6.1.
+
+Time | Remembrance Sigil | FC Support Skill
+:----: | :----: | :----:
+Early | Veil of Tears | The Lonely Moon OR Boundless Feeling
+Mid | Rainbow of Absence / Gold Goblet / Mad King's Mask | The Lonely Moon
+Late | Tin Flask or Key to the Deep | The Lonely Moon
+
+!!! note
+    You can choose to start with Boundless Feeling for the free +1 upgrade value on every Aponia signet picked. TLM's best value is by F9 after you're done getting all 3 Aponia's Enhanceds at which point you can proceed with Griseo signets.
+
+Time | Support 1 | Support 2
+:----: | :----: | :----:
+Early | BR | LE
+Mid | BR | LE / BK
+Late | BR | LE
+
+!!! note
+    LE allows you for instant ult at the beginning of every floor. With Nocturnal Sheath, she also allows you to get the 175sp cost down right away, for maximum buffs benefit from the extra 25 sp mechanic of Sussy. BK, on the other hand, can be taken for Heimdall if you don't feel confident enough on your damage or your RNG with the signets gotten. VC is the best choice for comfortable gather if u want it.
+
+####<p align="center">Elysia - Signet of ■■</p>
+
+Signet | Priority
+------|:----:
+**Blessing of Great Blade**: [ATK] will consume an additional 5 Blade Sanction in Sword Array, triggering [Cloud Cutter] twice, dealing DMG and 200% ATK of Ice DMG to enemies within 3m. | **Start**
+**Blessing of Cloudwalker**: [Wild Swords] and [Heart Piercer] deal an additional 800% ATK of Ice DMG. [Heart Piercer] draws in enemies when triggered. [Heart Piercer] will be unleashed automatically when Blade Sanction reaches 0. Jade Knight will enter [Cloud Cut] mode when casting [Cloud Cutter]. Can stack 100 max, 8s duration. Triggering it again resets the duration. [Cloud Cutter] and [Heart Piercer]'s Ice DMG increases 1% per stack. | 1st
+**Blessing of Jade Moon**: Ultimate will deal an additional 2500% ATK of Ice DMG. Back Wind Slash reduces Ultimate CD by 8s. After casting Ultimate, Bolt Slash will not consume Blade Sanction and Ice DMG dealt increases by 40% for 5s. Triggering it again resets the duration. | Optional 2nd
+**Blessing of Smoky Waft**: Blade Sanction built up by Basic ATKs increases by 100%. Restore 8 SP when [Bolt Slash] strikes an enemy. Special Combo [Back Wind Slash] deals an additional 100% ATK of Ice DMG. | No
+**Blessing of Shaft**: [ULT] during Sword Array triggers [Bolt Slash], dealing an additional 400% ATK of Ice DMG. Back Wind Slash restores an additional 5 SP. | No
+
+!!! note
+    This build only requires 2 Ego signets and doesn't need any more: Great Blade + Cloudwalker. You can take a 3rd Ego for Jade Moon, however it's not needed, and it's mostly just for more damage in her ult and reapplying Yellow if you do NOT get Griseo's Taint extension.
+
+####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
+
+!!! note
+    Ideal course of build up: 2 Ego start into Aponia Basic ATK F3, finish Aponia 2nd Core by F4 with Ultimate & 70 Initial Load, grab Aponia's Breach or Penance F5, go shop F6, buy Griseo's Red and Yellow or Red and Kalpas' TDM (abuse BR), upgrade Aponia's Basic ATK to +2 or +3, grab Aponia's other 2 Enhanceds from F7 double
+
+Signet | Priority
+- | :----:
+**First, No Betrayal**: Exhortation increases by 5 per second and caps at 200. Basic ATK's Total DMG increases by 0.3% of Exhortation. Triggering Ultimate Evasion Skill reduces 50% Exhortation. | 1st
+**Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | 2nd
+**Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 3rd
+**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | Optional 4th
+**Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
+**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | 1st
+**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 2nd
+**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 3rd
+
+!!! note
+    Basic ATK is high priority to +3, providing an insane powerspike in Sussy's damage.
+
+####<p align="center">Griseo - Signet of Stars (2nd Core)</p>
+
+Signet | Priority
+- | :----:
+**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st
+**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | 2nd
+**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 3rd
+**Grey & Empty**: Enemies stay tainted for 5s longer. | 4th
+**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 5th
+**Nexus Signet 2: Faded Stars** |
+**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 1st
+**Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 2nd
+**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | Optional 3rd
+
+####<p align="center">Eden - Signet of Gold (3rd Core)</p>
+
+Signet | Priority
+- | :----:
+**Recitatif of Eden**: Every 10 SP left boosts Total DMG by 3.0%. | 1st
+**Recitatif of Creeks**: Every 10 SP left boosts Physical & Elemental DMG by 2.5%. | 2nd
+**Recitatif of Good Wine**: Restore 1.5 SP per second. | 3rd
+**Recitatif of Fine Jade**: Initial SP and max SP increase by 30. | Optional 4th
+**Nexus Signet 2: Echo of Gold** |
+**Echo of Withered Soil**: After lasting over 1s, Final Echo boosts SP cap by 50% and restores 1% SP per second until it ends. | Optional 1st
+**Echo of Silent Night**: After lasting over 1s, Final Echo reduces the ATK, DEF. and Elemental Resists of enemies nearby by 2% per second (40% max) until it ends. | Optional 2nd
+
+!!! note
+    If you get Withered Soil, the best approach next would be to prioritize getting Su2 done alongside its SP regen to make the strongest synergy possible out of it with Eden2. Silent Night best taken as filler if didn't get Withered Soil.
+
+####<p align="center">Core- Flexible Slot between Kalpas/Su/Pardofelis:</p>
+
+!!! danger
+    This means that you can complete any of these 3 based on the RNG for the remainder of your run. Kalpas signets can be completely picked off from Felis Shop, it does not need the Core unlock. Keep that in mind.
+
+####<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
+
+Signet | Priority
+- | :----:
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
+**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | Optional
+**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** | Not Necessary
+
+!!! note
+    As Sussy has weak healing, she can stay at low HP enough to make use of most of Kalpas' buffs without his 2nd Core.
+
+####<p align="center">Su - Signet of Bodhi (5th Core)</p>
+
+Signet | Priority
+- | :----:
+**Motto of Dibba-Cakkhu**: Combo hits are reset at 150 to boost Total DMG taken by all enemies by 35% for 10s. | 1st
+**Motto of Pubbe-Nivasanussati**: Combo hits are reset at 150 to boost Total DMG by 55% for 10s. | 2nd
+**Motto of Asavakkhaya**: Attacks grant 25 bonus combo hits on hit. CD: 5s. | 3rd
+**Motto of Iddhi-Vidha**: Combo hits are increased to 60 when below 60. CD: 10s. | 4th
+**Motto of Ceto-Pariya-Nana**: Combo hits are reset at 150 to restore 30 SP. | 5th
+**Nexus Signet 2: Dictum of Bodhi** |
+
+####<p align="center">Pardofelis - Signet of Reverie (6th Core)</p>
+
+Signet | Priority
+- | :----:
+**Flexible P&C**: Every 100 Shiny Silvers obtained this round restore 1 HP and 0.1 SP. Taking DMG disables this effect for 5s. | 1st
+**Motto of Meow**: Every 100 Shiny Silvers obtained this round boost Total DMG by 1%. | 2nd
+**Back-Curled Tail**: Every 100 Shiny Silvers obtained this round boost Physical and Elemental DMG by 0.8%.
+**Nexus Signet 1: Empty Dreams, Self, Set, and Joy |
+**Nexus Signet 2: Empty Illusions, Empty Fantasies |
+
+!!! note
+    Doesn't matter which of these cores you pick between.
+
+***
+
+### <p align="center">-- Unlimited Blade Works Build - Hua & Kosma Variation</p>
 
 !!! note 
     Updated for 6.1. This build basically focuses on A spam. It's her strongest general build, taking into account ranks, downscaling and weather-related buffs & debuffs. On the other hand, however, it is heavily reliant on gather. So, having as much means of reliable gather as possible is strongly recommended for this build. You can expect a sharp decline in the strength and efficiency if you're not hitting everyone. Without effective means of gather, this build effectively loses out by A LOT as its main effectiveness is through AoE hitting every monster which is achieved by gathering them. If you're hitting only one monster after the other, you'll notice really poor performance and results from this build.
