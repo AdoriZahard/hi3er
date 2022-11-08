@@ -1508,7 +1508,22 @@ Signet | Priority
 **Blessing of First Journey**: When switching to Herrscher Form, increase DMG taken by all enemies by 40% for 5s and gain 4 Pristine Crystals. Charged ATKs in Herrscher of Human Form and Ultimate Evasion Skill in Herrscher of Origin Form will clear all Pristine Crystals to deal 1200% x 4 ATK of Ice DMG. | 1st
 **Blessing of First Yearning**: In Herrscher of Human Form, Charged ATK Speed increases by 30% for 5s after triggering Ultimate Evasion Skill. When using Charged ATK, shooting speed continously increases, up to a maximum of 80%. Move Speed while using Charged ATKs increases by 100%. Resets when Charged ATK ends. When Charged ATK hits, Ultimate Evasion CD decreases by 2.5s and weapon skill CD decreases by 1s. Gain 1 stack of Crystal Ice Mirror for every Charged ATK that hits an enemy. Every stack of Crystal Ice Mirror increases DMG from Charged ATK's by 10%. | No
 
-####<p align="center">Griseo - Signet of Stars (1st Core)</p>
+####<p align="center">Vill-V - Signet of Helix (1st Core)</p>
+
+Signet | Priority
+- | :----:
+**Act V: Spider Web**: Using a weapon active boosts Valkyrie ranged Total DMG by 40% for 4.5s. Triggering it again resets the duration. | 1st
+**Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 2nd
+**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 3rd
+**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | Optional 4th
+**Nexus Signet 2: Intermezzo: Holistic Helix** |
+**Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 1st
+**Puppetry: Interlacing Cells**: Extends Global Time Fracture caused by Specail Weapon: No. 4's detonation by 3s. During Global Time Fracture, gain 30% Physical and Elemental Breach. | 2nd
+
+!!! note 
+    You can leave the Enhanceds for later doors, as once you get the 2nd Core, you'll want to have either Kalpas or Hua's cores unlocked.
+
+####<p align="center">Griseo - Signet of Stars (2nd Core)</p>
 
 !!! note 
     Ideal Order from F1-F7: Double Reroll start into Griseo Red Paint by 2F, Griseo 2nd Core with Black & Dark and Yellow & Warm, shop by F5 or F6 and try to grab Petals in the Wind (purple). Then Vill-V 2nd Core by F7 double.
@@ -1526,21 +1541,6 @@ Signet | Priority
 
 !!! note 
     All 3 Enhanceds are priority to take, but can leave A Flame Extinguished for a later floor Griseo door, because Vill-V 2nd core is important to take by F7.
-
-####<p align="center">Vill-V - Signet of Helix (2nd Core)</p>
-
-Signet | Priority
-- | :----:
-**Act V: Spider Web**: Using a weapon active boosts Valkyrie ranged Total DMG by 40% for 4.5s. Triggering it again resets the duration. | 1st
-**Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 2nd
-**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 3rd
-**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | 4th
-**Nexus Signet 2: Intermezzo: Holistic Helix** |
-**Puppetry: Interlacing Cells**: Extends Global Time Fracture caused by Specail Weapon: No. 4's detonation by 3s. During Global Time Fracture, gain 30% Physical and Elemental Breach. | 1st
-**Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 2nd
-
-!!! note 
-    You can leave the Enhanceds for later doors, as once you get the 2nd Core, you'll want to have either Kalpas or Hua's cores unlocked.
 
 ####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
 
