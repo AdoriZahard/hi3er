@@ -41,7 +41,7 @@ Please note that this is only true for there reward scores, and not the actual p
 > Click [here](https://rentry.co/thebuttererguide) for more information on how to ER more efficiently.
 
 ## Update log
-- 2022-11-08: Updated and added SW build. Added MPE's F2Pink Elf Build (Video Run)
+- 2022-11-08: Updated and added 2 new builds for the following valks: SW and DA. Added MPE's F2Pink Elf Build (Video Run). 
 - 2022-11-06: Added UBW Sussy - Aponia Variation
 - 2022-11-05: Updated and added 3 new builds for the following valks: Aponia, Nyx and SN.
 - 2022-11-03: Updated and added 3 new builds for the following valks: AKA, FR, HC. Added new build variant for UBW Sussy (Eden & Su).
@@ -252,40 +252,96 @@ Quick search: DA, dudu
 
 ![leg bow is the meta in ER indeed, i mean look at em thig- ahem.](https://embed.pixiv.net/artwork.php?illust_id=90947488)
 
+### <p align="center">-- Tap B, Watch Youtube</p>
+
+!!! note 
+    Updated 6.1. You thought there could be no Tap B, Watch Youtube counterpart to SW's Tap A? Well, I'm here to prove you wrong! Here you go, a valk whose infamous ER gameplay revolves to just spam B like there's no end! Well, except... this valk really sucks. She has so many problems. Not advised to use for Weekly Clear unless your DA is built different.
+
+> Boss to be Chosen: Husk, then Vill-V
+
+####<p align="center">Setup</p>
+
+Rank | Difficulty Done | Recommended Gear | Clear Time | Run
+:------: | :------: | :------: | :------: | :------:
+S0 | Finality | Saggitarius & Shakes Adrift | 13:42m (6.1) | [https://youtu.be/WtStotdHLfg](https://youtu.be/WtStotdHLfg)
+
 !!! danger
-    Outdated 5.8 build
+    This valkyrie's downscalability is beyond terrible. She badly needs Shakes Adrift B's SP Regen. She also needs the T piece's ignite effect. Or better put, not only she needs her signature weapon but also needs her own signature stigmata set.
 
->   Boss to be chosen: Husk, Elysia
+Buff | Load
+:----: | :----: 
+Valkyries gain an additional 10 SP for every 60 SP restored. | 5
+Max SP increases by 30. | 5
+Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
 
+!!! note
+    Effective for 6.1. 
 
-Time | Sigils | Support 1 | Support 2
-:----: | ---- | :----: | :----:
-Early | Burden | AE | LE 
-Mid | Gold Goblet/Light as a Bodhi Leaf | AE | LE/BR
-Late | It Will Be Written/Home Lost | AE | MA/BR
+Time | Remembrance Sigil | FC Support Skill
+:----: | :----: | :----:
+Early | Veil of Tears | The Lonely Moon
+Mid | Burden / Gold Goblet / Rainbow of Absence | Because of You (F5 Shop) / Dreamful Gold (After F12)
+Late | Key to the Deep | Dreamful Gold
+
+!!! note
+    The Lonely Moon is absolutely necessary to help barely guarantee F4 Double. 
+
+Time | Support 1 | Support 2
+:----: | :----: | :----:
+Early | AE | LE
+Mid | AE | MA / BK
+Late | AE | MA
+
+!!! note
+    LE is essential for DA's early game, otherwise she may face SP problems. By F5 Shop, you can swap her out for MA to help DA's damage. BR is not recommended due to DA's long animation sequence for her Ultimate. Also, remember to bring BK before Heimdall fight.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
 **Blessing of Stars**: Ultimate deals 50% bonus Total DMG | **Start**
-**Blessing of Halo**: Voidstar Anchor, Voidstar Anchor EX, Astral Flares, and Astral Flares EX deal 2000% ATK of Fire DMG to enemies within 8 meters of the target hit, gather them, and restore 50 Astrum. CD: 10s | 2nd
-**Blessing of Sheen**: Voidstar Anchor EX and Astral Flares EX do not suspend Astrum cosumption, but Seirios Ballista doesnt end Astral Harness and clear Astrum. Seirios Ballista costs 65 SP at most | 3rd
-**Blessing of Brilliance**: Voidstar Anchor and Astral Flares EX cost no SP and restore 3 SP. Every 30 SP restored deals 800% ATK of Fire DMG to enemies within 10 meters. CD: 6s | **1st**
-**Blessing of Gale**: In Astral Hamess, all attacks ignite enemies hit and ignited enemies take 25% bonus Total DMG for 10s | Filler
+**Blessing of Gale**: In Astral Hamess, all attacks ignite enemies hit and ignited enemies take 25% bonus Total DMG for 10s | 1st
+**Blessing of Sheen**: Voidstar Anchor EX and Astral Flares EX do not suspend Astrum cosumption, but Seirios Ballista doesnt end Astral Harness and clear Astrum. Seirios Ballista costs 65 SP at most | 2nd
+**Blessing of Halo**: Voidstar Anchor, Voidstar Anchor EX, Astral Flares, and Astral Flares EX deal 2000% ATK of Fire DMG to enemies within 8 meters of the target hit, gather them, and restore 50 Astrum. CD: 10s | 3rd
+**Blessing of Brilliance**: Voidstar Anchor and Astral Flares EX cost no SP and restore 3 SP. Every 30 SP restored deals 800% ATK of Fire DMG to enemies within 10 meters. CD: 6s | No
 
-####<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
+!!! note
+    DA requires 2 Ego signets for a comfortable early start, being Stars and Gale. Afterwards, Because of You at F5 Shop is necessary due to her dependency on her own Ego signets. You really want to aim at getting the combo of Sheen + Halo by F11.
+
+####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
+
+!!! note
+    Ideal course of build up: 2 Ego start (Stars & Gale) into Aponia Ultimate F3, unlock Aponia 2nd Core by F4, go shop F5 and swap TLM for Because of You, grab Kevin's Elem Breach and TDM from Shop and upgrade Aponia's Ultimate to +1 if possible, then grab Aponia Breach by F6, finish Kevin 1st Core by F7 Double
+
+Signet | Priority
+- | :----:
+**Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | 1st
+**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 2nd
+**Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 3rd
+**Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
+**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | 1st
+**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 2nd
+**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 3rd
+
+!!! note
+    Ultimate is strictly necessary by F4, as it's the highest damage bonus that DA can get early on providing 60% TDM to her Ultimate which is all her damage. It is also a priority to +3. 
+
+####<p align="center">Kevin - Signet of Deliverance (2nd Core)</p>
 
 Signet | Priority
 ------|:----:
 **Artifact of the Inhibitor**: Ultimate boosts Elemental Breach by 20% for 5s | 1st
-**Brand of the Undead**: Ultimate boosts Elemental DMG by 30% for 5s | 2nd
-**Rochet of the Pilgrim**: Ultimate restores 3 SP per second for 5s | 3rd
-**Goblet of the Giver**: Ultimate boosts Total DMG by 35% for 5s | Filler
+**Goblet of the Giver**: Ultimate boosts Total DMG by 35% for 5s | 2nd
+**Brand of the Undead**: Ultimate boosts Elemental DMG by 30% for 5s | 3rd
+**Rochet of the Pilgrim**: Ultimate restores 3 SP per second for 5s | 4th
 **Nexus Signet 1: Blade of the Deliverer**: |
 **Crusade of the Deliverer**: After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | 1st
+**Flock of the Deliverer**: Final Battle is also considered burst mode. Total DMG increases by 20% in burst mode. | 2nd
 
-####<p align="center">Eden - Signet of Gold (2nd Core)</p>
+!!! note
+    Flock is an independent 20% TDM modifier, making it a really good option to take.
+
+####<p align="center">Eden - Signet of Gold (3rd Core)</p>
 
 Signet | Priority
 ------|:----:
@@ -295,26 +351,31 @@ Signet | Priority
 **Nexus Signet 2: Echo of Gold** |
 **Echo of Silent Night**: After lasting over 7s, reduce ATK, DEF, ele resists of enemies nearby | YES
 
-####<p align="center">Griseo - Signet of Stars (1st Core)</p>
+####<p align="center">Griseo - Signet of Stars (4th Core)</p>
 
 Signet | Priority
 ------ | :----:
-**White & Bright**: Every time an enemy is tainted, Valkyrie restores 12 SP. CD: 5s | **Start**
 **Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration | 1st
-**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental MG (cannot stack). Triggering it again resets the duration | 2nd
-**Grey & Empty**: Enemies stay tainted for 5s longer | 3rd
-**Nexus Signet 1: Shine like Stars** | 
+**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 2nd
+**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental MG (cannot stack). Triggering it again resets the duration | Optional 3rd
+**Grey & Empty**: Enemies stay tainted for 5s longer | Optional 4th
+**Nexus Signet 2: Faded Stars** | Not Necessary
 
-####<p align="center">Su - Signet of Bodhi (2nd Core)</p>
+!!! note
+    Yellow is a must to upgrade to +3. Also, due to DA's long weapon active animation and also CD of its active, it is really not necessary to finish Griseo's 2nd Core as she can't effectively utilize Red Paint. The other cores are a far better priority.
+
+####<p align="center">Kalpas - Signet of Decimation (Felis Shop Signets)</p>
 
 Signet | Priority
-------|:----:
-**Motto of Dibba-Cakkhu**: Combo hits are reset at 150 to boost Total DMG taken by all enemies by 35% for 10s | 1st
-**Motto of Asavakkhaya**: Attacks grant 25 bonus combo hits on hit. CD: 5s | 2nd
-**Motto of Iddhi-Vidha**: Combo hits are increased to 60 when below 60. CD: 10s | 3rd
-**Nexus Signet 2: Dictum of Bodhi** |
-**Dictum of Anatman**: Eyes Open debuffs last 3s longer. Every debuff on enemy makes it take 5% more TDM | 1st
-**Dictum of Santam**: Inflict 3 random debuffs when Eyes Open hit | Filler
+- | :----:
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
+**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | Optional
+**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
+
+!!! note
+    Kalpas signets are best taken from Shop and then unlocked with just one door later on.
 
 ***
 
