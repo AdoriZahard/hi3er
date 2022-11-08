@@ -1176,7 +1176,7 @@ Signet | Priority
 ### <p align="center">-- Burger King Tuna 7D</p>
 
 !!! note 
-    Updated 6.1. The strongest build at the moment for HoFS. The strength of this build should also go noticeably up in Kalpas +2 weathers.
+    Updated 6.1. The strength of this build noticeably goes up in Kalpas +2 weathers.
 
 > Boss to be Chosen: Hephaestus, then Elysia, Aponia (easiest) or Vill-V.
 
