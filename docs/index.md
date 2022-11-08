@@ -1007,7 +1007,7 @@ Mid | Memory / Forget-Me-Not / Rainbow of Absence | Because of You
 Late | Key to the Deep | An Old Pal's Legacy
 
 !!! note
-    You want to go shop F5 to get Because of You ASAP. Then, by F11, you can actually choose to go shop at F10 so you can use Because of You, and then switch it out for An Old Pal's Legacy right away.
+    You want to go shop F5 to get Because of You ASAP. After Heimdall fight, it's recommended to go shop right away to swap Because of You for An Old Pal's Legacy.
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
