@@ -5585,23 +5585,7 @@ Signet | Priority
 !!! note
     Breach is an absolute must to get before F7. You'll have to reset the run otherwise. The reason for this is due to SN's massive reliance on Breach as without it her damage plummets really really hard. As for SP Regen, it's not a bad choice due to how much SN halvens Load from her constant UE's, allowing for the Load to get back up to 150 fast enough during every Ultimate's animation if you have 3 of Aponia's Basic signets.
 
-####<p align="center">Kosma - Signet of Daybreak (2nd Core)</p>
-
-Signet | Priority
-- | :----:
-**Horns that Rip the Bleak Sky**: Ultimate inflicts 15 stacks of Rend on all enemies, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. CD: 15s. | 1st
-**Wings that Mask the Sanguine Moon**: Ultimate Evasion Skill inflicts 15 stacks of Rend on all enemies, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. CD: 15s. | 2nd
-**Talons that Desecrate the Sanctuary**: Basic/Combo/Charged ATKs inflict a stack of Rend on hit, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. Stacking CD: 1s. | 3rd
-**Heart that Commited Seven Crimes**: Rend lasts 5s longer. | 4th
-**Nexus Signet 2: Daybreak, Lone Beacon** |
-**Heart, Unshakable Character**: Each stack of Rend on Valkyrie makes her deal 1.5% more Physical and Elemental DMG. | 1st
-**Dawn, Perpetual Wait**: While Rended, recovering HP reduces Total DMG taken by 1% each time upto 30%, and losing HP increases Physical and Elemental Breach by 2% each time up to 30%. | 2nd
-**Choice, Ensuing Regret**: When Combo and Charged ATKs hit, unleash Righteous Retribution once, dealing 3000% ATK of Adaptive DMG to nearby enemies as well as restoring 0.5% of HP for each stack of Rend on Valkyrie. CD: 10s. | Optional 3rd
-
-!!! note
-    In terms of order priority, Kosma is the second main core for SN to use, however the other signets can be prioritized to get from Felis Shop.
-
-####<p align="center">Sakura - Signet of Setsuna (3rd Core)</p>
+####<p align="center">Sakura - Signet of Setsuna (2nd Core)</p>
 
 
 Signet | Priority
@@ -5614,7 +5598,7 @@ Signet | Priority
 !!! note
     SN often can't make use of Sakura1 very well, and due to her nature of spamming UE over and over triggering Sakura Screens one after the other, it's not much of a priority to unlock her core, as SN prefers to have Bloodstained Sakura to make better use of it. Due to this, Sakura is better taken from Felis Shop.
 
-####<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
 
 Signet | Priority
 - | :----:
@@ -5622,6 +5606,22 @@ Signet | Priority
 **Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
 **Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
 **Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
+
+####<p align="center">Kosma - Signet of Daybreak (4th Core)</p>
+
+Signet | Priority
+- | :----:
+**Horns that Rip the Bleak Sky**: Ultimate inflicts 15 stacks of Rend on all enemies, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. CD: 15s. | 1st
+**Wings that Mask the Sanguine Moon**: Ultimate Evasion Skill inflicts 15 stacks of Rend on all enemies, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. CD: 15s. | 2nd
+**Talons that Desecrate the Sanctuary**: Basic/Combo/Charged ATKs inflict a stack of Rend on hit, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. Stacking CD: 1s. | 3rd
+**Heart that Commited Seven Crimes**: Rend lasts 5s longer. | 4th
+**Nexus Signet 2: Daybreak, Lone Beacon** |
+**Heart, Unshakable Character**: Each stack of Rend on Valkyrie makes her deal 1.5% more Physical and Elemental DMG. | 1st
+**Dawn, Perpetual Wait**: While Rended, recovering HP reduces Total DMG taken by 1% each time upto 30%, and losing HP increases Physical and Elemental Breach by 2% each time up to 30%. | 2nd
+**Choice, Ensuing Regret**: When Combo and Charged ATKs hit, unleash Righteous Retribution once, dealing 3000% ATK of Adaptive DMG to nearby enemies as well as restoring 0.5% of HP for each stack of Rend on Valkyrie. CD: 10s. | 3rd
+
+!!! note
+    You'll need Kosma's healing in order to stay alive.
 
 ####<p align="center">Griseo - Signet of Stars (Felis Shop Signets)</p>
 Signet | Priority
