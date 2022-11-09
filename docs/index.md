@@ -940,7 +940,7 @@ Mid | Forbidden Seed / Memory / Rainbow of Absence | Boundless Logos
 Late | Tin Flask or Key to the Deep | Boundless Logos
 
 !!! note
-    It Will Be Written can be used for guaranteeing F7 double by oneshotting the Smelter Zombie.
+    The Lonely Moon can instead be used if you're somehow having trouble with F4 Double.
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
