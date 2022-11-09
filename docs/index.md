@@ -4470,7 +4470,6 @@ Signet | Priority
 **Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 2nd 
 
 ####<p align="center">Aponia - Signet of Discipline (2nd Core)</p>
-
 Signet | Priority
 ------ | :----:
 **Sixth, No Decadence**: Boosts Valkyrie Total DMG by 20% and keeps Exhortation from reducing for 15s upon QTE hitting an enemy. Triggering it again resets the duration. | 1st
@@ -4483,7 +4482,6 @@ Signet | Priority
 **You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 3rd
 
 ####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
-
 Signet | Priority
 - | :----:
 **Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
@@ -4495,7 +4493,6 @@ Signet | Priority
     Fischl has no in-built healing, and due to the usage of BR, she doesn't need Kalpas cores. Instead, only aim for Kalpas' both DMG boosts and Max HP. Preferred to take from Felis Shop basically.
 
 ####<p align="center">Mobius - Signet of Infinity (4th Core)</p>
-
 
 Signet | Priority
 - | :----:
