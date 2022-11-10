@@ -3886,14 +3886,14 @@ Signet | Priority
 !!! note
     Red & Hot is the absolute first priority. But also, be mindful of what paints you get. Blue is essential to be able to use Petals in the Wind and Fallen Leaves.
 
-####<p align="center">Sakura - Signet of Setsuna (5th Core)</p>
+####<p align="center">Sakura - Signet of Setsuna (Felis Shop Signets)</p>
 
 Signet | Priority
 - | :----:
 **Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s. | 1st
 **Bountiful Blossom: Botan**: Triggering Ultimate Evasion Skill boosts Total DMG by 40% for 8s. | 2nd
 **Bountiful Blossom: Fuji**: Ultimate Evasion Skill has 1 more charge and 10% reduced CD. | 3rd
-**Nexus Signet 1: Setsuna Blade: Sakura ni Maku* | Not Necessary
+**Nexus Signet 1: Setsuna Blade: Sakura ni Maku** | Not Necessary
 
 !!! note
     Sakura signets are better picked off from shop and nothing else.
