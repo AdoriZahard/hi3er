@@ -5020,7 +5020,7 @@ Signet | Priority
 **Recitatif of Good Wine**: Restore 1.5 SP per second | 3rd
 **Recitatif of Fine Jade**: Initial SP and max SP increase by 30 | Optional 4th
 **Nexus Signet 1: Aria of Gold**
-**Aria of Soil**: Intoxicated enemies take only 10% bonus Total DMG but it can stack up to 3 times.
+**Aria of Soil**: Intoxicated enemies take only 10% bonus Total DMG but it can stack up to 3 times. | Optional
 
 !!! note
     It's not necessary to go after Eden1's enhanceds. Can instead just continue with Griseo.
