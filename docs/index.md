@@ -117,8 +117,7 @@ Signet | Priority
 **Blessing of Uranian Mirror**: Burst mode consumes 100% more SP and Valkyrie deals 90% bonus Total DMG in burst mode | No
 
 !!! note
-    This build mainly relies on 2 Ego signets with 2 other serving as a huge powerspike: Starting with Frost Scythe + Stellar Trails. Frost Scythe will act as your means of reliable gather, being a strong one at that, and also providing pretty decent amounts of damage on a 8s CD. Be mindful of this to spam it every 8 seconds.
-The other 2 Ego Signets to get are Winter Harvest + Cold Moon. Do NOT get Uranian Mirror.
+    This build mainly relies on 2 Ego signets with 2 other serving as a huge powerspike: Starting with Frost Scythe + Stellar Trails. Frost Scythe will act as your means of reliable gather, being a strong one at that, and also providing pretty decent amounts of damage on a 8s CD. Be mindful of this to spam it every 8 seconds. The other 2 Ego Signets to get are Winter Harvest + Cold Moon. Do NOT get Uranian Mirror.
 
 ####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
 
