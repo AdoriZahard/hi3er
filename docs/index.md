@@ -1060,7 +1060,7 @@ Signet | Priority
 !!! note
     Both enhanceds are really good to take. Memento synergizes extremely well with Eden2 due to her capability to spam her low-cd Ult to keep refreshing Eden2. Silent Night is also really good as it will act as another form of breach aside from Aponia's. 
 
-####<p align="center">Griseo - Signet of Stars (2nd Core)</p>
+####<p align="center">Griseo - Signet of Stars (4th Core)</p>
 
 Signet | Priority
 - | :----:
