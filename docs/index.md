@@ -1247,6 +1247,7 @@ S0 | Finality | DoI & 3-set Himeko | 4:18m (6.0 2nd Half) | [(https://youtu.be/-
 
 Buff | Load
 :----: | :----: 
+Valkyries gain an additional 10 SP for every 60 SP restored. | 5
 Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
 When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
 
