@@ -5093,9 +5093,9 @@ Signet | Priority
 - | :----:
 **Merchant's Philosophy**: After finishing each floor, the number of currently owned Shiny Silvers grows by 10% for up to 100 (independent effect). | 1st
 **Shiny & Valuable**: Enemy kills grant bonus Shiny Silvers. Non-boss enemies grant 5 each. Boss enemies grant each (independent effect). | 2nd
-**Motto of Meow**: Every 100 Shiny Silvers obtained this round boost Total DMG by 1%. | 1st
-**Back-Curled Tail**: Every 100 Shiny Silvers obtained this round boost Physical and Elemental DMG by 0.8%. | Optional 2nd or 3rd
-**Neighborhood Chatters**: Every 100 Shiny Silvers obtained this round boost max HP by 25 and max SP by 1. | Optional 2nd or 3rd
+**Motto of Meow**: Every 100 Shiny Silvers obtained this round boost Total DMG by 1%. | 3rd
+**Back-Curled Tail**: Every 100 Shiny Silvers obtained this round boost Physical and Elemental DMG by 0.8%. | Optional 4th or 5th
+**Neighborhood Chatters**: Every 100 Shiny Silvers obtained this round boost max HP by 25 and max SP by 1. | Optional 4th or 5th
 **Nexus Signet 2: Empty Illusions, Empty Fantasies**: |
 **My Dreams Will Come True**: With 1/2/3 stacks of VIP Service, release Making Money every 15/10/5 seconds in an area around Valkyrie, dealing 800% ATK of Adaptive DMG and making enemies take 50% more Total DMG for 5s. This debuff will diminish to nothing over 5s. | 1st
 **Improv Magic: Zeroing**: 10% off shop items. A newly gained stack of VIP Service increases Total DMG by another 10%. | 2nd
