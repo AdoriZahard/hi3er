@@ -282,7 +282,7 @@ Signet | Priority
 **Recitatif of Fine Jade**: Initial SP and max SP increase by 30. | Optional 4th
 **Nexus Signet 2: Echo of Gold** |
 
-####<p align="center">Griseo - Signet of Stars (2nd Core)</p>
+####<p align="center">Griseo - Signet of Stars (4th Core)</p>
 
 Signet | Priority
 - | :----:
