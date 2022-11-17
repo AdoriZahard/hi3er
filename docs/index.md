@@ -41,6 +41,7 @@ Please note that this is only true for there reward scores, and not the actual p
 > Click [here](https://rentry.co/thebuttererguide) for more information on how to ER more efficiently.
 
 ## Update log
+- 2022-11-17: Added LWH Thales (F2P) run for HoFS Starfire Build. Added SS2+ Build for FR. Added new build for Mobius with Aponia signets.
 - 2022-11-13: Added 1 new meme build for Fischl. Updated PE build. Updated FT build.
 - 2022-11-12: Added Muramasa Memento build. Added new SpA build (strongest so far).
 - 2022-11-11: Added Goushinnso Memento. Added and updated 4 new builds for the following valks: BK, Raven, Carole, StFu. Updated RC both Pardo1 and Pardo2 builds.
@@ -567,10 +568,136 @@ Quick Search: FR, Rita, Maid
 
 ![she has so many animals, maybe i can be one too?](https://cdn.discordapp.com/attachments/967717692465365133/982328522628550666/rita_rossweisse_and_rita_rossweisse_honkai_and_1_more_drawn_by_vierzeck__sample-628bb95fce62fa2a79cb00ec837513b8.jpg)
 
-### <p align="center">-- General Build</p>
+### <p align="center">-- Above SS2 Build</p>
+
+!!! note 
+    Updated 6.1. This is the strongest build that FR has available to her, which in turn also makes her become one of the strongest ER valks to clear with.
+
+> Boss to be Chosen: Hephaestus, then Elysia (for booling her), Vill-V or Aponia
+
+!!! note
+    Your preference! Pick whichever you want to booli!
+
+
+####<p align="center">Setup</p>
+
+Rank | Difficulty Done | Recommended Gear | Clear Time | Run
+:------: | :------: | :------: | :------: | :------:
+SSS | Finality | Iris Pri & Handel | 4:40m (6.1) | [https://youtu.be/6S2R2sffbLs](https://youtu.be/6S2R2sffbLs)
+
+!!! danger
+    In downscalability terms, her pri-arm is a given. She can work with lower gears like Zhenyi TB Handel/Benares M or Irene Adler, just expect varying performance.
+
+Buff | Load
+:----: | :----: 
+Valkyries gain an additional 10 SP for every 60 SP restored. | 5
+Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+
+!!! note
+    Effective for 6.1. 
+
+Time | Remembrance Sigil | FC Support Skill
+:----: | :----: | :----:
+Early | Veil of Tears | Boundless Feeling OR The Lonely Moon
+Mid | Burden / Rainbow of Absence / Mad King's Mask | The Lonely Moon
+Late | Key to the Deep | The Lonely Moon
+
+!!! note
+    You can use Boundless Feeling for the +1 on Aponia signets. By F5 Shop, you can swap both Remembrance Sigils for either Kevin or Griseo's to gamble for free +2 on resetting Shop. Griseo preferred for free Red +2.
+
+Time | Support 1 | Support 2
+:----: | :----: | :----:
+Early | AE | LE
+Mid | BK | LE or BR
+Late | AE or BR | LE or BR
+
+!!! note
+    LE is a given for this build, especially early on. You can consider getting Eden's Initial/Max SP signet from Shop if you want to swap LE out. If not, just use BR and LE. For Heimdall fight, swap BR out for BK or LE (Eden signet only).
+
+Signet | Priority
+------|:----:
+**Blessing of Valfreyja**: In Valfreyja form, Lightning DMG is increased by 40%. After casting Helvegr, Trickster's attack will pull enemies again; After 3s, it will release a blast that deals 2200% ATK of Lightning DMG to nearby enemies, and reconjure Ulf/Ormr/Strix Rune. | **Start**
+**Blessing of Nocturne**: Using God Eater increases Charged ATK's Total DMG by 70%, reduces Ultimate's CD by 5s, and increases Ultimate's Total DMG by for 10s. Triggering it again resets its duration. | 1st
+**Blessing of Spirit Servants**: When Garmr/Strix/Linnorm hits, increases Lightning DMG by 8% for 15s. It stacks 8 times. Triggering it again resets the duration. | Optional 2nd
+**Blessing of Soul Siphon**: In Valfreyja form, Basic ATK siphons extra Disir. It has 2 charges, which reset upon casting God Eater. Ormr Rune deals extra 100% ATK of Lightning DMG. Ulf Rune increases Lightning DMG by 50%. | No
+**Blessing of God Eater**: When God Eater hits, a lightning bolt strikes, dealing 5x100% ATK of Lightning DMG to enemies nearby, and fully recharges Strix. | No
+
+!!! note
+    Only 2 Ego signets are needed for this build: Valfreyja and Nocturne. It is a must to reset for Double Ego start to get those 2 right away and get the build going.
+
+####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
+
+!!! note
+    Ideal course of build up: 2 Ego start (Valfreyja + Nocturne) into Aponia's Basic ATK F3, finish Aponia 2nd Core by F4, go shop F5 and abuse 3* Remembrance Sigils to gamble for either Kevin's TDM/Elem Breach or Griseo's Red and Yellow. Can also take Aponia's Ultimate from here. Grab Aponia's Breach at F6 and grab the remaining 2 Aponia Enhanceds (or 1 + Ultimate) from F7 Doubles
+
+Signet | Priority
+- | :----:
+**First, No Betrayal**: Exhortation increases by 5 per second and caps at 200. Basic ATK's Total DMG increases by 0.3% of Exhortation. Triggering Ultimate Evasion Skill reduces 50% Exhortation. | 1st
+**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 2nd
+**Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 3rd
+**Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | 4th
+**Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
+**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | 1st
+**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 2nd
+**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 3rd
+
+!!! note
+    Ultimate is priority to upgrade to +3. Basic ATK can follow after.
+
+####<p align="center">Kevin - Signet of Deliverance (2nd Core)</p>
+
+Signet | Priority
+------|:----:
+**Artifact of the Inhibitor**: Ultimate boosts Elemental Breach by 20% for 5s | 1st
+**Goblet of the Giver**: Ultimate boosts Total DMG by 35% for 5s | 2nd
+**Rochet of the Pilgrim**: Ultimate restores 3 SP per second for 5s | 3rd
+**Brand of the Undead**: Ultimate boosts Elemental DMG by 30% for 5s | 4th
+**Nexus Signet 1: Blade of the Deliverer**: |
+**Crusade of the Deliverer**: After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | 1st
+**Echo of the Deliverer**: Duration of Final Battle and all buffs provided by Normal Signets of Deliverance are extended to 8s. | 2nd
+**Flock of the Deliverer**: Final Battle is also considered burst mode. Total DMG increases by 20% in burst mode. | Optional 3rd
+
+!!! note
+    Crusade is priority to +3. It will be a massive boost if you gamble for it with the 3* Remembrance Sigil abuse for getting it at +2 straight away. Flock can be considered but otherwise not a priority.
+
+####<p align="center">Griseo - Signet of Stars (3rd Core)</p>
+
+Signet | Priority
+- | :----:
+**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st
+**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | 2nd
+**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 3rd
+**Grey & Empty**: Enemies stay tainted for 5s longer. | 4th
+**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 5th
+**Nexus Signet 2: Faded Stars** |
+**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 1st
+**Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 2nd
+**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | Optional 3rd
+
+!!! note
+    Red is absolute priority to +3. Yellow is good to consider +3 but after other important upgrades. Griseo's signets are also a massive upgrade if 3* Remembrance Sigil abuse for free +2.
+
+####<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
+
+Signet | Priority
+- | :----:
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 3rd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | Optional 4th
+**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** | Not Necessary
+
+!!! note
+    Kalpas signets are better taken off from Shop. FR does not need to unlock its Core.
+
+### <p align="center">-- Below SS2 Build</p>
 
 !!! note 
     Updated 6.1. Do note that FR needs her Pri-arm if you want to use her for ER. Due to the complex mechanics that FR has, she's one of the harder valks to properly play into ER. In fact, much like certain other valks, her performance won't only depend on her gears and ranks, but also will depend on how optimally you can play her. As long as you can consistently and properly do her Evade cancels (especially taking note of Strix-the bird rune- getting off CD to spam him) into Charged ATKs one after another, you can expect things to go well. Her greatest dps is between her ult and the successive Charged ATK chain. 
+
+!!! danger
+    This variant sacrifices some early game strength in exchange for enabling FR to dps in ER at below SS2 ranks.
 
 > Boss to be Chosen: Hephaestus, then Aponia or Kosma
 
@@ -615,11 +742,11 @@ Late | AE/BR | SN
 
 Signet | Priority
 ------|:----:
-**Blessing of Soul Siphon**: In Valfreyja form basic ATK siphons extra Disir | **Start**
-**Blessing of Valfreyja**: In Valfreyja form Lightning DMG is increased | 1st
-**Blessing of Nocturne**: Using God Eater increases Charge ATK TDM | 2nd
-**Blessing of God Eater**: When God Eater hits, a lightning bolt hits and fully recharges Strix | 3rd
-**Blessing of Spirit Servants**: When Garmr/Strix/Linnorm hits, increases Lightning DMG | No
+**Blessing of Soul Siphon**: In Valfreyja form, Basic ATK siphons extra Disir. It has 2 charges, which reset upon casting God Eater. Ormr Rune deals extra 100% ATK of Lightning DMG. Ulf Rune increases Lightning DMG by 50%. | **Start**
+**Blessing of Valfreyja**: In Valfreyja form, Lightning DMG is increased by 40%. After casting Helvegr, Trickster's attack will pull enemies again; After 3s, it will release a blast that deals 2200% ATK of Lightning DMG to nearby enemies, and reconjure Ulf/Ormr/Strix Rune. | 1st
+**Blessing of Nocturne**: Using God Eater increases Charged ATK's Total DMG by 70%, reduces Ultimate's CD by 5s, and increases Ultimate's Total DMG by for 10s. Triggering it again resets its duration. | 2nd
+**Blessing of God Eater**: When God Eater hits, a lightning bolt strikes, dealing 5x100% ATK of Lightning DMG to enemies nearby, and fully recharges Strix. | 3rd
+**Blessing of Spirit Servants**: When Garmr/Strix/Linnorm hits, increases Lightning DMG by 8% for 15s. It stacks 8 times. Triggering it again resets the duration. | No
 
 !!! note
     This build mainly relies on 2 Ego signets that are necessary to start with: Soul Siphon into Valfreyja. Soul Siphon is the signet that will allow FR to chain unlimited Charged ATKs. Valfreyja will be your other main source of big damage. Then, the other 2 Ego signets that become a huge powerspike for FR are Nocturne and God Eater, gotten through Because of You.
@@ -1385,9 +1512,10 @@ Quick Search: HoFS, HoF, FK, KFC, Burnt Tuna, Flying Fish
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
 S0 | Finality | DoI & 3-set Himeko | 4:18m (6.0 2nd Half) | [(https://youtu.be/-fVlZ3l135k](https://youtu.be/-fVlZ3l135k)
+S0 | Finality | DoI & Leuweenhoek TB Thales M | 14:09m (6.1) | [https://youtu.be/woycwAya1cg](https://youtu.be/woycwAya1cg)
 
 !!! note 
-    This build is downscaleable with lower clear times and lower gear requirement. LWH TB Thales M efficiency with this build is yet to be tested.
+    For downscalability purposes, HoFS is actually pretty damn awful with lower stigmatas. 
 
 Buff | Load
 :----: | :----: 
@@ -4106,6 +4234,142 @@ Quick Search: IO, Snake, Snek, Mobius
 
 ![mommy eat me up pls-](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2021/11/16/00/05/42/94162385_p0_master1200.jpg)
 
+### <p align="center">-- DMG Reduction? Where?</p>
+
+!!! note
+    Updated for 6.1. Honestly, this is a really fun and genuine surprise that I wasn't expecting to hit this strong. Who would've thought that non-Linnaeus Mobius would be so damn strong nonetheless? Clearly, she doesn't need it, and neither does she gives a fuck about having DMG Reduction trying to weigh her down.
+
+> Boss to be Chosen: Hephaestus, then Vill-V or Aponia
+
+!!! note
+    Vill-V is the best choice easily if you have Miniature [X] available.
+
+####<p align="center">Setup</p>
+
+Rank | Difficulty Done | Recommended Gear | Clear Time | Run
+:----: | :----: | :----: | :----: | :----:
+S0 | Finality | Basilisk & Handel | 5:29m (6.1) | [https://youtu.be/5otXPMfRQKU](https://youtu.be/5otXPMfRQKU)
+
+!!! note
+    Mobius is perfectly fine and really strong without Linnaeus and even on a DMG-Reduction weather.
+
+Buff | Load
+:----: | :----: 
+Valkyries gain an additional 10 SP for every 60 SP restored. | 5
+Flame-Chasers deal 15% more Total DMG. | 10
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+
+!!! note
+    Effective for 6.1.
+
+Time | Remembrance Sigil | FC Support Skill
+:----: | :----: | :----:
+Early | Forbidden Seed | Boundless Logos
+Mid | Veil of Tears / Rainbow of Absence / Mad King's Mask | Boundless Logos
+Late | The First Scale or Tin Flask | Boundless Logos
+
+!!! note
+    Boundless Logos is a given. It is not swapped out due to the brutal efficiency in which Mobius can abuse it. However, when it's low on charge by the time you go into Shop, then you can consider swapping it out in order to abuse the 3* Remembrance Sigil gamble.
+
+Time | Support 1 | Support 2
+:----: | :----: | :----:
+Early | AE | BR or LE
+Mid | BK | BR or LE
+Late | AE | BR or LE
+
+!!! note
+    Due to the existing Load Buff granting 10 SP per 60 SP restored, Mobius can make really good use out of BR right away from the start. Once this is gone, however, LE is used instead unless you're otherwise missing damage in which case BR is the best choice to go here. Remember to bring BK for Heimdall fight.
+
+####<p align="center">Elysia - Signet of ■■</p>
+
+Signet | Priority
+------|:----:
+**Blessing of Dark Assault**: Basic/Charged/Combo ATKs deal 40% bonus Lightning DMG. Linked enemies hit by Basic/Charged/Combo ATKs pass on 12% of the DMG to other linked enemies | **Start**
+**Blessing of Ill Fortune**: Ultimate deals 240% bonus Lightning DMG. Every Genesis Seed consumed reduces Ultimate CD by 0.5s | **Start**
+**Blessing of Ascension**: When Umbra of Ouroboros is active, enemies are struck by lightning once per second and take 600% ATK of Lightning DMG (DMG source: Basic ATK) | 1st
+**Blessing of Ravenousness**: Exiting submerged mode deals 1600% ATK of AOE Lightning DMG and enemies hit take 30% bonus Combo ATK DMG in the next 5s (independent effect) | 2nd
+**Blessing of Mirage**: In submerged mode, enemies in contact take 200% ATK of Lightning DMG per and take 35% bonus Total DMG for 8s | No
+
+!!! note
+    Dark Assault + Ill Fortune is all Mobius needs to clear, however, to make her way stronger, you can do Double Ego start to take Ascension. Ravenousness is also a very good choice to consider taking if you get a 4th Ego door.
+
+####<p align="center">Mobius - Signet of Infinity (1st Core)</p>
+
+!!! note
+    Ideal Order from F1-F7: Double Ego Start for Ascension, grab Entwined [P] or Rodent [V] by F3, complete Mobius 1st Core by F4 with Entwined, Rodent, Lip Poison, take either Dead [X] or Unknown [X] or Ravenousness by F5, then go shop, grab Aponia's Ultimate and 70 Initial Load or SP Regen with +2 from 3* Rememb Sigil Abuse. Take Sakura's TDM or TDM Taken or Kalpas TDM, then finish Aponia 2nd Core by F7.
+
+Signet | Priority
+------ | :----:
+**Entwined [P]:** :For every summoned entity, ELF, or Support Valkyrie present, enemies take 8% bonus Total DMG (5 stacks max) | 1st
+**Rodent [V]**: For every summoned entity, ELF, or Support Valkyrie present, Valkyrie deals 10% bonus Total DMG (5 stacks max). | 2nd
+**Lip Poison [E]:** Total DMG from summoned entities, ELFs, and Support Valkyries increases by 60%. ELFs | 3rd
+**Lodging [C]:** ELF Ultimates and Support Valkyries' support skills have 20% reduced CD | Optional 4th
+**Nexus Signet 1: Infinite [X]** |
+**Dead [X]**: For every second in Mind Sync, Valkyrie herself, summoned entities, ELFs, and Support Valkyries deal 10% bonus Total DMG. 5 stacks max. 9 stacks max with any summoned entity present. Reset on exiting Mind Sync | 1st
+**Unknown [X]**: Triggering Mind Sync again during Mind Sync reduces the CD of ELF Ultimates and Support Valkyries' support skills by 2s. With any summoned entity present, the CDs are reduced by 2s additionally. This effect can only be triggered once per 4s. | Optional 2nd
+
+!!! note
+    Dead [X]'s impact is mainly from being a ramping up buff, so it's not so much of a problem to not get it early on, meanwhile Unknown [X] is a good choice to take in case you don't manage to get Dead [X]. Also, Dead [X] is really high priority to upgrade to +3.
+
+
+####<p align="center">Aponia - Signet of Discipline (2nd Core)</p>
+
+Signet | Priority
+- | :----:
+**First, No Betrayal**: Exhortation increases by 5 per second and caps at 200. Basic ATK's Total DMG increases by 0.3% of Exhortation. Triggering Ultimate Evasion Skill reduces 50% Exhortation. | 1st
+**Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 2nd
+**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 3rd
+**Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | 4th
+**Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
+**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | 2nd
+**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 2nd
+**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 3rd
+
+!!! note
+    Both Ultimate and Basic ATK are priority to upgrade to +3. Do play around both Restrictions, make sure to always let the Adaptive DMG hit.
+
+####<p align="center">Griseo - Signet of Stars (3rd Core)</p>
+
+Signet | Priority
+- | :----:
+**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st
+**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | 2nd
+**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 3rd
+**Grey & Empty**: Enemies stay tainted for 5s longer. | 4th
+**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 5th
+**Nexus Signet 2: Faded Stars** |
+**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 1st
+**Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 2nd
+**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | 3rd
+
+!!! note
+    Red is absolute highest priority to +3. Yellow is also good to +3. Getting Grey is essential.
+
+####<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
+
+Signet | Priority
+- | :----:
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 3rd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 4th
+**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** | Optional
+
+!!! note
+    Kalpas is best gotten from Felis Shop. Getting core is not necessary.
+
+####<p align="center">Sakura - Signet of Setsuna (Felis Shop Signets)</p>
+
+Signet | Priority
+- | :----:
+**Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s. | 1st
+**Bountiful Blossom: Botan**: Triggering Ultimate Evasion Skill boosts Total DMG by 40% for 8s. | 2nd
+**Bountiful Blossom: Ayame**: Triggering Ultimate Evasion Skill restores 12.0 bonus SP. | 3rd
+**Nexus Signet 1: Setsuna Blade: Sakura ni Maku** | Optional
+
+!!! note
+    Sakura is best gotten from Felis Shop. Either of her cores are useless for Mobius.
+
 ### <p align="center">-- Non-Kevin Build</p>
 
 !!! note
@@ -6499,7 +6763,7 @@ Signet | Priority
 !!! note
     If you manage to get Petals in the Wind, try to always trigger it whenever possible for maximum damage output.
 
-####<p align="center">Eden - Signet of Gold (3rd Core)</p>
+####<p align="center">Eden - Signet of Gold (4th Core)</p>
 
 Signet | Priority
 - | :----:
