@@ -182,7 +182,7 @@ Signet | Priority
 
 ## Bright Knight: Excelsis
 
-![shes a cutiepie](https://elysian-realm.vercel.app/valkyries/bright-knight-excelsis-min.png)
+![shes a cutiepie](https://elysian-realm.vercel.app/valkyries/bright-knight-excelsis.webp)
 
 ### <p align="center">-- Dudu becomes a Jojo Fan</p>
 
@@ -433,7 +433,7 @@ Signet | Priority
 ## Disciplinary Perdition
 Search Tags: DPe, DiP, Nun, Aponia
 
-![Nunny mommy purify me](https://elysian-realm.vercel.app/valkyries/disciplinary-perdition-min.jpg)
+![Nunny mommy purify me](https://elysian-realm.vercel.app/valkyries/disciplinary-perdition.webp)
 
 ### <p align="center">-- General Build</p>
 
@@ -827,7 +827,7 @@ Signet | Priority
 ## Golden Diva
 Quick search: Eden, GD
 
-![Vercel GD](https://elysian-realm.vercel.app/valkyries/golden-diva-min.png)
+![Vercel GD](https://elysian-realm.vercel.app/valkyries/golden-diva.webp)
 
 ### <p align="center">-- General Build 7D</p>
 
@@ -2064,7 +2064,7 @@ Signet | Priority
 ## Herrscher of Reason
 Quick Search: HoR, Bronya
 
-![cuteness beyond reason](https://elysian-realm.vercel.app/valkyries/herrscher-of-reason-min.png)
+![cuteness beyond reason](https://elysian-realm.vercel.app/valkyries/herrscher-of-reason.webp)
 
 ### <p align="center">-- [SoE-Only] Ultimate Build</p>
 
@@ -2796,7 +2796,7 @@ Signet | Priority
 ## Herrscher of Thunder
 Quick search: HoT, Mei, hot mei, dragon
 
-![Vercel HoT](https://elysian-realm.vercel.app/valkyries/herrscher-of-thunder-min.jpg)
+![Vercel HoT](https://elysian-realm.vercel.app/valkyries/herrscher-of-thunder.webp)
 
 ### <p align="center">-- 4-5 Revived Build</p>
 
@@ -4358,7 +4358,7 @@ Signet | Priority
 ## Midnight Absinthe (7D HoDom)
 Quick search: MA, Raven, Natasha Cioara
 
-![Bartender Raven stealin mah heart](https://elysian-realm.vercel.app/valkyries/midnight-absinthe-min.png)
+![Bartender Raven stealin mah heart](https://elysian-realm.vercel.app/valkyries/midnight-absinthe.webp)
 
 ### <p align="center">-- Who needs IMG Weather?</p>
 
@@ -4630,7 +4630,7 @@ Signet | Priority
 ## Palatinus Equinox
 Quick Search: PE, Juan, Horse, Goose, Dudu
 
-![Is this too lewd lmao](https://elysian-realm.vercel.app/valkyries/palatinus-equinox-min.jpg)
+![Is this too lewd lmao](https://elysian-realm.vercel.app/valkyries/palatinus-equinox.webp)
 
 ### <p align="center">-- Equinox Severance Build 7D</p>
 
@@ -5772,7 +5772,7 @@ Signet | Priority
 ## Starchasm Nyx
 Quick search: Seele
 
-![SHE LOOKS SO PRETTY IK](https://elysian-realm.vercel.app/images/starchasm-nyx-min.png)
+![SHE LOOKS SO PRETTY IK](https://elysian-realm.vercel.app/valkyries/starchasm-nyx.webp)
 
 ### <p align="center">-- Veliona Tries to Survive</p>
 
@@ -6653,7 +6653,7 @@ Signet | Priority
 ## Valkyrie Gloria
 Quick search: VG, Dudu, Goose
 
-![Vercel VG](https://elysian-realm.vercel.app/valkyries/valkyrie-gloria-min.png)
+![Vercel VG](https://elysian-realm.vercel.app/valkyries/valkyrie-gloria.webp)
 
 ### <p align="center">-- VG - *Abstinence Build 5D*</p>
 
