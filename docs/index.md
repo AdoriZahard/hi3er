@@ -4665,8 +4665,7 @@ Mid | AE | BR or BK
 Late | AE | BR
 
 !!! note
-    AE will be your main means of gather aside of her other bonuses. BR will also help to get past DPS check in the early floors.
-You can take BK for Heimdall if you want to be extra sure. However, if you have hands and the skill for it, you can go without BK and be fine for the fight. Raven can break Heimdall's shields easily through her Ultimate sequence. Breaking Heimdall's shields will keep him from going Red Mode until he's down to half HP.
+    AE will be your main means of gather aside of her other bonuses. BR will also help to get past DPS check in the early floors. You can take BK for Heimdall if you want to be extra sure. However, if you have hands and the skill for it, you can go without BK and be fine for the fight. Raven can break Heimdall's shields easily through her Ultimate sequence. Breaking Heimdall's shields will keep him from going Red Mode until he's down to half HP.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
