@@ -4248,7 +4248,9 @@ Quick Search: IO, Snake, Snek, Mobius
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
+S0 | Finality | Basilisk & Linnaeus | 3:52m (6.1) | [https://youtu.be/unn867ieZ70](https://youtu.be/unn867ieZ70)
 S0 | Finality | Basilisk & Handel | 5:29m (6.1) | [https://youtu.be/5otXPMfRQKU](https://youtu.be/5otXPMfRQKU)
+S0 | Finality | Judah & Handel | 9:05m (6.1) | [https://youtu.be/ARcTleTzNYk](https://youtu.be/ARcTleTzNYk)
 
 !!! note
     Mobius is perfectly fine and really strong without Linnaeus and even on a DMG-Reduction weather.
