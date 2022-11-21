@@ -3515,7 +3515,7 @@ Signet | Priority
 ## Jade Knight
 Quick search: Li Sus, Sushang, JK, Sussy
 
-![God bless that beautiful Mount Taixuan, prayge](https://cdn.discordapp.com/attachments/984654311483133962/1035570929511706674/Sussyhang.jpg)
+![God bless that beautiful Mount Taixuan, prayge](![image](https://user-images.githubusercontent.com/114035701/203182066-2ba8f298-ed9e-4e11-b567-e09c9fb074e4.png)
 
 ### <p align="center">-- Unlimited Blade Works Build - Aponia Variation</p>
 
