@@ -41,6 +41,8 @@ Please note that this is only true for there reward scores, and not the actual p
 > Click [here](https://rentry.co/thebuttererguide) for more information on how to ER more efficiently.
 
 ## Update log
+- 2022-11-21: Updated every Valkyrie builds' recommended Load Buffs to current 6.1 2nd Half Weather.
+- 2022-11-20: Added 1 new build with 3 distinct runs for Mobius.
 - 2022-11-17: Added LWH Thales (F2P) run for HoFS Starfire Build. Added SS2+ Build for FR. Added new build for Mobius with Aponia signets.
 - 2022-11-13: Added 1 new meme build for Fischl. Updated PE build. Updated FT build.
 - 2022-11-12: Added Muramasa Memento build. Added new SpA build (strongest so far).
@@ -78,19 +80,19 @@ Please note that this is only true for there reward scores, and not the actual p
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-SS0 | Finality | Skadi Pri & 3-set Ana | 10:08m (6.1) | [https://youtu.be/8DI2mKbHxNY](https://youtu.be/8DI2mKbHxNY)
+SS0 | Finality | Skadi Pri & 3-set Ana | 10:08m (6.1 1st Half) | [https://youtu.be/8DI2mKbHxNY](https://youtu.be/8DI2mKbHxNY)
 
 !!! danger
     In downscalability terms, she's downright bad below SS rank. At a minimum of S2 rank however, she isn't as bad, but one problem still remains, she needs her signature Pri. With weaker stigmatas, expect her performance to decrease. Choose difficulty accordingly.
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Max SP increases by 30. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1. 
+    Effective for 6.1 2nd Half
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -199,19 +201,18 @@ Signet | Priority
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-SS0 | Finality | Abyss Flower & 3-set Dante | 9:51m (6.1) | [https://youtu.be/Ja3yyEc2mQI](https://youtu.be/Ja3yyEc2mQI)
+SS0 | Finality | Abyss Flower & 3-set Dante | 9:51m (6.1 1st Half) | [https://youtu.be/Ja3yyEc2mQI](https://youtu.be/Ja3yyEc2mQI)
 
 !!! danger
     Truthfully, you shouldn't even bother with this Valkyrie if you don't have BOTH of the shit she needs, which is basically AF and 3-set Dante. AF is a given, and evne more so in the current weather since it is what enables BK to abuse the 20% TDT on Timestop Load Buff. As for the 3-set Dante? There's just... no replacement for it. Other than maybe coping with 3-set Dirac. But, again, let's be honest... that's, uh, pretty awkward to cope with. BK really needs the impair right from the get go.
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1. 
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -315,19 +316,18 @@ Quick search: DA, dudu
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-S0 | Finality | Saggitarius & Shakes Adrift | 13:42m (6.1) | [https://youtu.be/WtStotdHLfg](https://youtu.be/WtStotdHLfg)
+S0 | Finality | Saggitarius & Shakes Adrift | 13:42m (6.1 1st Half) | [https://youtu.be/WtStotdHLfg](https://youtu.be/WtStotdHLfg)
 
 !!! danger
     This valkyrie's downscalability is beyond terrible. She badly needs Shakes Adrift B's SP Regen. She also needs the T piece's ignite effect. Or better put, not only she needs her signature weapon but also needs her own signature stigmata set.
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Max SP increases by 30. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1. 
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -451,19 +451,18 @@ Search Tags: DPe, DiP, Nun, Aponia
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-S0 | Finality | Lost Conviction & 3-set Handel | 7:47m (6.1) | [https://youtu.be/250mouXMexk](https://youtu.be/250mouXMexk)
+S0 | Finality | Lost Conviction & 3-set Handel | 7:47m (6.1 1st Half) | [https://youtu.be/250mouXMexk](https://youtu.be/250mouXMexk)
 
 !!! danger
     In downscalability terms, Aponia does seem pretty decent as seen on the above run using Handel instead of Zeno. However, do expect worse performance with lower gears, but she can scale accordingly without problems.
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Flame-Chasers deal 15% more Total DMG. | 10
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1. 
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -583,19 +582,18 @@ Quick Search: FR, Rita, Maid
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-SSS | Finality | Iris Pri & Handel | 4:40m (6.1) | [https://youtu.be/6S2R2sffbLs](https://youtu.be/6S2R2sffbLs)
+SSS | Finality | Iris Pri & Handel | 4:40m (6.1 1st Half) | [https://youtu.be/6S2R2sffbLs](https://youtu.be/6S2R2sffbLs)
 
 !!! danger
     In downscalability terms, her pri-arm is a given. She can work with lower gears like Zhenyi TB Handel/Benares M or Irene Adler, just expect varying performance.
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1. 
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -709,18 +707,18 @@ Signet | Priority
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-SSS | Finality | Iris Pri & Handel | 6:21m (6.1) | [https://youtu.be/xppTS-q5ll4](https://youtu.be/xppTS-q5ll4)
+SSS | Finality | Iris Pri & Handel | 6:21m (6.1 1st Half) | [https://youtu.be/xppTS-q5ll4](https://youtu.be/xppTS-q5ll4)
 
 !!! danger
     In downscalability terms, even below SS2 where FR unlocks her "dps" potential outside ER, she should be fine here. With lower gears as well. However, do note that FR is a valk that requires her Pri-weapon in order to be used in ER, simply due to the instant Valfreyja Form.
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
-When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1. 
+    Effective for 6.1 2nd Half
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -733,9 +731,9 @@ Late | Tin Flask or Key to the Deep | The Lonely Moon
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | AE | SN
-Mid | AE/BK | SN
-Late | AE/BR | SN
+Early | AE | BR
+Mid | BK | BR
+Late | AE | BR
 
 !!! note
     Remember to swap AE out for BK before Heimdall fight. As for the late floors, you can use BR because by then you'll already have more than enough breach with Aponia's and Hua's combined. For this very same reason. You don't take SN out because of 2nd Load Buff.
@@ -832,19 +830,19 @@ Quick Search: FT, Roza, Lili, Lily, Vodka Girls
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-SSS | Finality | Sleeper's Dream & Michelangelo TB Dante M | 8:55m (6.0 1st Half) | [https://youtu.be/FL43jLuR_Sc](https://youtu.be/FL43jLuR_Sc)
+SSS | Finality | Sleeper's Dream & Michelangelo TB Dante M | 7:46m (6.1 1st Half) | [https://youtu.be/FL43jLuR_Sc](https://youtu.be/FL43jLuR_Sc)
 
 !!! danger
     For this valkyrie, Sleepri is a given due to the ability to parry Ultimate for Perfect Ultimate aside from the other bonuses that it gives. If you don't have it... just don't play this valkyrie. Don't torture yourself by having to play around parrying enemies attacks.
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
-When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration.
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -977,13 +975,12 @@ SSS | Finality | DoI & Handel | 9:03m (6.0 2nd Half) | [https://youtu.be/iWKlVGS
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Max SP increases by 30. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
 Flame-Chasers deal 15% more Total DMG. | 10
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1. 
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1103,20 +1100,19 @@ Quick search: Meme, Memento, Yae Sakura
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-SS0 | Finality | 7T & Ana Schariac | 10:18m (6.1) | [https://youtu.be/2jg-_BezVv8](https://youtu.be/2jg-_BezVv8)
+SS0 | Finality | 7T & Ana Schariac | 10:18m (6.1 1st Half) | [https://youtu.be/2jg-_BezVv8](https://youtu.be/2jg-_BezVv8)
 
 !!! danger
     Other sets like Bastet can work for Memento, but you can expect it to be weaker probably, due to it giving nothing more than just TDM becoming diluted on her as opposed to Ana Schariac having a lot of different multipliers. Naraka can work for weapon.
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Max SP increases by 30. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
 Flame-Chasers deal 15% more Total DMG. | 10
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1. 
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1249,13 +1245,12 @@ SS0 | Finality | Muramasa Bloodlust & Ana Schariac | 10:30m (6.1) | [https://you
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Max SP increases by 30. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
 Flame-Chasers deal 15% more Total DMG. | 10
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1. 
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1382,19 +1377,18 @@ Quick Search: V-V, Vill-V, Bait, Helical Cripple
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-SS1 | Finality | Tower of Past & 3-set Collodi | 5:15m (6.1) | [https://youtu.be/cwbYxS_h_VE](https://youtu.be/cwbYxS_h_VE)
+SS1 | Finality | Tower of Past & 3-set Collodi | 5:15m (6.1 1st Half) | [https://youtu.be/cwbYxS_h_VE](https://youtu.be/cwbYxS_h_VE)
 
 !!! note
     With lower ranks, you can expect HC to perform worse, however her strength is probably more dependant on her stigma set, and more importantly, her own weapon. Without her weapon, she probably struggles aside from gameplay changes.
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Flame-Chasers deal 15% more Total DMG. | 10
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1512,19 +1506,19 @@ Quick Search: HoFS, HoF, FK, KFC, Burnt Tuna, Flying Fish
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
 S0 | Finality | DoI & 3-set Himeko | 4:18m (6.0 2nd Half) | [(https://youtu.be/-fVlZ3l135k](https://youtu.be/-fVlZ3l135k)
-S0 | Finality | DoI & Leuweenhoek TB Thales M | 14:09m (6.1) | [https://youtu.be/woycwAya1cg](https://youtu.be/woycwAya1cg)
+S0 | Finality | DoI & Leuweenhoek TB Thales M | 14:09m (6.1 1st Half) | [https://youtu.be/woycwAya1cg](https://youtu.be/woycwAya1cg)
 
 !!! note 
     For downscalability purposes, HoFS is actually pretty damn awful with lower stigmatas. 
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
-When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1657,8 +1651,9 @@ S0 | Finality | DoI & Shelley T Himeko M Scott B | 10:36m (6.0 2nd Half) | [http
 
 Buff | Load
 :----: | :----: 
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
-When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
 
 !!! note
     Effective for 6.1.
@@ -1783,140 +1778,6 @@ Signet | Priority
 !!! note
     This is strongly recommended to take as soon as you can, due to it enabling HoFS to instantly ult before starting her herrscher mode, thus being able to apply Yellow paint, and along with it, Fallen Leaves right away for the biggest damage bonuses possible right off the bat.
 
-### <p align="center">-- HoFS General Build 7D</p>
-
-!!! note 
-    Updated for 6.1. Your normal, standard Tuna build that has only 3 necessary Cores. Has downscaling problems, however.
-
-> Boss to be Chosen: Hephaestus, then Elysia (fastest times) or Aponia
-
-####<p align="center">Setup</p>
-
-Rank | Difficulty Done | Recommended Gear | Clear Time | Run
-:------: | :------: | :------: | :------: | :------:
-S0 | Finality | DoI & 3-set Himeko | 7:19m (6.0 (1st Half) | [https://youtu.be/sBqs_DAPdAk](https://youtu.be/sBqs_DAPdAk)
-S0 | Finality | DoI & Leuween TB Thales M | 9:44m (6.0 1st Half) | [https://youtu.be/6vlIJ4hAKT8](https://youtu.be/6vlIJ4hAKT8)
-
-!!! note 
-    This build is downscaleable with lower clear times and lower gear requirement. However, do note that Leuween TB Thales M has some serious problems to be taken into account that will be noted down in some of the signets info.
-
-Buff | Load
-:----: | :----: 
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
-When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
-
-!!! note
-    Effective for 6.1.
-
-Time | Remembrance Sigil | FC Support Skill
-:----: | :----: | :----:
-Early | Mad King's Mask | The Lonely Moon
-Mid | Forget-Me-Not / Rainbow of Absence | The Lonely Moon
-Late | Key to the Deep | The Lonely Moon
-
-Time | Support 1 | Support 2
-:----: | :----: | :----:
-Early | AE | BR
-Mid | VK | BR
-Late | AE | BR
-
-!!! note
-    You want to save BR specifically for after entering Herrscher Mode on the first snap. Basically, when you're about to use your first Blackhole in Herrscher Form for the maximum output of damage possible.
-
-!!! danger
-    VK for Heimdall fight is recommended in order to fill his Heavy Bar Trauma. Do note that this is specifically for getting him out of Red Mode forcibly once its filled.
-
-####<p align="center">Elysia - Signet of ■■</p>
-
-Signet | Priority
-------|:----:
-**Blessing of Heatflow**: Black holes generated by the Herrscher of Flamescion deal 75% bonus Fire DMG. Triggering Ultimate Evasion Skill creates an additional black hole | **Start**
-**Blessing of Reburn** Triggering Ultimate Evasion Skill removes Overheat and clears Heat | 1st
-**Blessing of Tempered Warrior** Aerial Combo ATKs reduce Ultimate Evasion Skill CD by 9s | 2nd
-**Blessing of Starfire** When a black hole created by the Herrscher of Flamescion ends, a smaller black hole lasting 5s is generated to deal 300% ATK of Fire DMG per second. CD: 3s | Optional
-**Blessing of Flamescion** For every black hole created by the Herrscher of Flamescion, Valkyrie restores 25 HP per second and deals 30% bonus Total DMG | No
-
-!!! note
-    The minimum requirement of Tuna is to have Heatflow and Reburn as her starting signets. Without Reburn, she feels awful to play. Without Heatflow, she doesn't feel like she has much damage. So, a double Ego start is essential for Tuna. Afterwards, getting a 3rd Ego door is very good, taking Tempered Warrior to make the entire run easier and feel better. 4th is also taken for Starfire, adding even more damage but it's not really necessary.
-
-!!! danger
-    If using Leuween TB Thales M, Tempered Warrior becomes an absolute must. Either you get it early, or you hope to get it later; if you don't get it early, Setsuna's Fuji will become a priority to get as soon as possible, preferentially in F5 or F6 shop.
-
-####<p align="center">Kalpas - Signet of Decimation (1st Core)</p>
-
-Signet | Priority
-- | :----:
-**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
-**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
-**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
-**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
-**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
-**Hometown, Homeland, Friends, and Acquaintances**: The cap of Bloodboil Armor charges increases by 500. At over 1500 charges, Bloodboil Armor grants 25% Physical and Elemental Breach. | Optional (Priority only by F9 afterwards)
-**Body, Bones, Heart, and Soul**: The Bloodboil Armor charges cap increases by 500. When its charges exceed 1500, if it gains HP recovery, when it next deals DMG to enemies, it will have a bonus 800% ATK of adaptive DMG. CD: 5s. | Optional (Not necessary)
-
-!!! danger
-    Kalpas Enhanceds, no matter if you're running Himeko or Leuween Thales, are never good to take right after completing his core. Instead of wasting one door for F5 or F6 with Kalpas, use it for either Sakura or Griseo, or go shop and get Fuji, then proceed with Griseo signets.
-
-!!! note
-    I also strongly recommend upgrading Kalpas' Max HP after both of his DMG boosts if you're using Himeko. Himeko M giving 25% max HP paired with Kalpas 40% Max HP from +3 and Pardofelis Max HP signet makes it possible to reach up to 16k or 17k HP which gives Kalpas an absolutely massive scaling on his +3 DMG Boosts.
-
-####<p align="center">Sakura - Signet of Setsuna (2nd Core)</p>
-
-Signet | Priority
------- | :----:
-**Bountiful Blossom: Fuji**: Ultimate Evasion Skill has 1 more charge and 10% reduced CD | 1st
-**Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s | 2nd
-**Bountiful Blossom: Botan**: Triggering Ultimate Evasion Skill boosts Total DMG by 40% for 8s. | 3rd
-**Bountiful Blossom: Ayame**: Triggering Ultimate Evasion Skill restores 12.0 bonus SP | Optional
-**Nexus Signet 1: Setsuna Blade: Sakura-ni-Maku** | 
-
-!!! danger
-    Fuji is a first priority if the next 2 conditions are met: Using Leuween TB Thales M and no Tempered Warrior before F7. In Himeko's case, it won't matter if you get it without Tempered Warrior, but will do a big favor for you, so it's still good to take. 
-
-!!! note
-    After getting Fuji, you can then proceed to leave completing Sakura by F11 onwards, with Griseo taking the priority. Also, Ayame is good to consider taking for the purposes of getting Yellow applied through early Ultimate so you can get your maximum damage output as soon as possible.
-
-####<p align="center">Griseo - Signet of Stars (3rd Core)</p>
-
-Signet | Priority
-- | :----:
-**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st
-**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 2nd
-**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 3rd
-**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | 4th
-**Nexus Signet 2: Faded Stars** |
-**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 1st
-**Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 2nd
-**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | 3rd
-
-!!! note
-    Due to HoFS' problem of using Ult right away to apply Yellow, you'll usually want to leave at least one charge of UE for the purposes of being able to reset Overheat meter right after using Ultimate. 
-
-####<p align="center">Pardofelis - Signet of Reverie (4th Core)</p>
-
-Signet | Priority
-- | :----:
-**Neighborhood Chatters**: Every 100 Shiny Silvers obtained this round boost max HP by 25 and max SP by 1. | 1st
-**Motto of Meow**: Every 100 Shiny Silvers obtained this round boost Total DMG by 1%. | 2nd
-**Back-Curled Tail**: Every 100 Shiny Silvers obtained this round boost Physical and Elemental DMG by 0.8%. | 3rd
-**Nexus Signet 1: Empty Dreams, Self, Set, and Joy**: |
-
-!!! note
-    Pardofelis has amazing synergy with Kalpas for the purposes of increasing the max HP and thus getting more boosts out of his buffs.
-
-####<p align="center">Hua - Signet of Vicissitude (5th Core)</p>
-
-Signet | Priority
-----| :----:
-**Old Dreams Again**: Elemental Breach increases by 0.6% per second | 1st
-**Dark Garb No More**: Elemental DMG increases by 0.8% per second | 2nd
-**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks | 3rd
-**Nexus Signet 2: Suffering Mass** |
-**Broken Dream**: When possessing Soldier's Remembrance., increase the maximum stack of normal Vicissitude signets by 20 | Optional
-
-!!! note
-    Hua is not necessary to complete.
-
 ***
 
 ## Herrscher of Humanity
@@ -1942,11 +1803,12 @@ S1 | Finality | DoEgo & 3-set Pristine | 3:47m (6.0 1st Half) | [https://youtu.b
 
 Buff | Load
 :----: | :----: 
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
 When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
-When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1956,12 +1818,12 @@ Late | Key to the Deep | The Lonely Moon
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | AE | LE/BR
-Mid | AE | LE/BR
-Late | AE | LE/BR
+Early | AE | BR
+Mid | AE/BK | BR
+Late | AE | BR
 
 !!! note 
-    LE gives you instant ult, also comfier, whereas BR is preferred if you might be lacking damage, especially for early floors.
+    You can choose to bring BK if you're not confident against Heimdall. However, it shouldn't be an issue, as HoH can easily bruteforce through Heimdall without any issues at all.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -2074,11 +1936,12 @@ S1 | Finality | DoEgo & 3-set Pristine | 4:12m (6.0 1st Half) | [https://youtu.b
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
-When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+Flame-Chasers deal 15% more Total DMG. | 10
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note 
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2089,11 +1952,11 @@ Late | Key to the Deep | Falling in Past Light
 Time | Support 1 | Support 2
 :----: | :----: | :----:
 Early | AE | BR
-Mid | AE | BR
+Mid | AE/BK | BR
 Late | AE | BR
 
 !!! note 
-    Use BR right from the start of the run. Then proceed to use her every other floor to reduce your HP as much as possible.
+    Use BR right from the start of the run. Then proceed to use her every other floor to reduce your HP as much as possible. Bring BK if you're not confident against Heimdall, but you should be fine relaly.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -2205,19 +2068,19 @@ Quick Search: HoR, Bronya
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-SS1 | Finality | SoE:W & 3-set Ana Schariac | 7:57m (6.1) | [https://youtu.be/WtWG29ySI7s](https://youtu.be/WtWG29ySI7s)
+SS1 | Finality | SoE:W & 3-set Ana Schariac | 7:57m (6.1 1st Half) | [https://youtu.be/WtWG29ySI7s](https://youtu.be/WtWG29ySI7s)
 
 !!! note 
     In downscalability terms, this build might be weaker the lower your stigmatas are. It's advised to go with a better valk instead. Also, Willows is still much better.
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
 
 !!! note 
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2332,12 +2195,12 @@ SS1 | Finality | 65 DoR & 3-set Ana Schariac | 6:49 (6.0 1st Half) | [https://yo
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Max SP increases by 30. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10 
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note 
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2399,15 +2262,15 @@ Signet | Priority
 - | :----:
 **Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 1st
 **Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 2nd
-**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | 3rd
-**Act VI: Sneer**: Using a weapon active restores 12 SP in 5s and reduces its CD by 15%. | 4th
+**Act VI: Sneer**: Using a weapon active restores 12 SP in 5s and reduces its CD by 15%. | 3rd
+**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | 4th
 **Nexus Signet 2: Intermezzo: Holistic Helix** |
 **Puppetry: Interlacing Cells**: Extends Global Time Fracture caused by Specail Weapon: No. 4's detonation by 3s. During Global Time Fracture, gain 30% Physical and Elemental Breach. | 1st
 **Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 2nd
 **Saga: Overlapping Needles**: Gravitational Field affects a larger area and gain a stronger pull. DMG-dealing hits deal and extra 500% ATK of Adaptive DMG. | Filler
 
 !!! note
-    Sneer is nice to take but preferentially from Felis shop. It helps spam even further. 
+    Sneer is an absolute must.
 
 ####<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
 
@@ -2450,12 +2313,12 @@ SS1 | Finality | 65 DoR & 3-set Ana Schariac | 9:14 (6.0 1st Half) | [https://yo
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Max SP increases by 30. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note 
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2557,7 +2420,7 @@ Signet | Priority
 
 ***
 
-## Herrscher of Sentience (6D/7D Husk)
+## Herrscher of Sentience
 Quick Search: HoS, Senti, Hua, Fuhua, Bonk
 
 ![Vercel Senti](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2021/03/05/19/07/59/88230961_p0_master1200.jpg)
@@ -2573,7 +2436,7 @@ Quick Search: HoS, Senti, Hua, Fuhua, Bonk
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-S0 | Finality | Senpri & Shattered Swords | 7:47m (6.1) | [https://youtu.be/KjQfwb51fy4](https://youtu.be/KjQfwb51fy4)
+S0 | Finality | Senpri & Shattered Swords | 7:47m (6.1 1st Half) | [https://youtu.be/KjQfwb51fy4](https://youtu.be/KjQfwb51fy4)
 S0 | Finality | Senpri & Ely TB PoloM | 8:29m (6.0 1st Half) |[https://youtu.be/7OyB4IOkjGA](https://youtu.be/7OyB4IOkjGA)
 
 !!! note
@@ -2581,11 +2444,11 @@ S0 | Finality | Senpri & Ely TB PoloM | 8:29m (6.0 1st Half) |[https://youtu.be/
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
-When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2698,11 +2561,11 @@ S | Finality | Senpri & Shattered Swords | 8:30m (2nd Half 5.9) | [https://youtu
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
-When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2813,11 +2676,11 @@ S | Finality | Senpri & 3-Set Shattered Swords | 8:34 (Updated 6.0 1st Half) | [
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
-When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2947,11 +2810,11 @@ SS1 | Finality | 65 7T & Handel | 6:53 (6.0 1st Half) | [https://youtu.be/hRm5kg
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
-When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note 
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 !!! danger
     If not using 7T, then you should instead go with the 10 Load buff that gives 15% TDM as long as your valk doesn't take damage.
@@ -3090,11 +2953,11 @@ SS1 | Finality | 65 DoS & Handel | 7:06 (6.0 1st Half) | [https://youtu.be/XDaxl
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
-When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note 
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3219,11 +3082,11 @@ S0 | Finality | 65 7T & Handel | 8:17 (6.0 1st Half) | [https://youtu.be/3oqKVTR
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
-When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note 
-    Effective for 6.0 (2nd Half)
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3367,12 +3230,12 @@ S3 | Finality | Lv55 DoV & 3-set Elysia | 10:08m (6.0 1st Half) | [https://youtu
 
 Buff | Load
 :----: | :----: 
-Max SP increases by 30. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
-When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3386,7 +3249,7 @@ Late | Stained Sakura or Key to the Deep | Boundless Logos
 Time | Support 1 | Support 2
 :----: | :----: | :----:
 Early | VC / BR | SS
-Mid | VC / BR or BKE | SS
+Mid | BK | SS
 Late | VC / BR | SS
 
 !!! note
@@ -3522,12 +3385,12 @@ SSS | Finality | DoV & 3-set Sirin Ascendant | 6:40 (Updated 6.0, 1st Half) | [h
 
 Buff | Load
 :----: | :----: 
-Max SP increases by 30. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
-When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3668,18 +3531,18 @@ Quick search: Li Sus, Sushang, JK, Sussy
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-SS0 | Finality | Nocturnal & Shenzhou | 3:37 (6.1) | [https://youtu.be/Pld1F3JfVbw](https://youtu.be/Pld1F3JfVbw)
+SS0 | Finality | Nocturnal & Shenzhou | 3:37 (6.1 1st Half) | [https://youtu.be/Pld1F3JfVbw](https://youtu.be/Pld1F3JfVbw)
 
 !!! danger
     Sus is a pretty strong valkyrie in her own right, and her downscalability is one of the best amongst the available valkyries in ER.
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
-When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3818,18 +3681,18 @@ Signet | Priority
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-S0 | Finality | Lv55 Nocturnal & 3-set Ana | 5:44 (6.1) | [https://youtu.be/CYP9mv76lbU](https://youtu.be/CYP9mv76lbU)
+S0 | Finality | Lv55 Nocturnal & 3-set Ana | 5:44 (6.1 1st Half) | [https://youtu.be/CYP9mv76lbU](https://youtu.be/CYP9mv76lbU)
 
 !!! danger
     Sushang is a strong valkyrie in terms of downscalability. Basically, her strength isn't that severely impacted from low gears, as long as the difference is not too massive and of course this will be less noticeable the lower the difficulty is. Basically, the impact from lower/cope gear relative to difficulty isn't as big.
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
-When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3965,18 +3828,18 @@ Signet | Priority
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-S0 | Finality | GTX & 3-set Scott | 8:57m (6.1) | [https://youtu.be/Z9kMkellZtU](https://youtu.be/Z9kMkellZtU)
+S0 | Finality | GTX & 3-set Scott | 8:57m (6.1 1st Half) | [https://youtu.be/Z9kMkellZtU](https://youtu.be/Z9kMkellZtU)
 
 !!! danger
     Sushang is a strong valkyrie in terms of downscalability. Basically, as shown by the run above done with GTX & Scott, her strength isn't that severely impacted from low gears. On more unfavorable weathers, however, this will become a bit more noticeable.
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
-When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4103,11 +3966,11 @@ SS0 | Finality | Nocturnal & Shenzhou | To be Tested | To be Tested
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
-When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4248,21 +4111,20 @@ Quick Search: IO, Snake, Snek, Mobius
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-S0 | Finality | Basilisk & Linnaeus | 3:52m (6.1) | [https://youtu.be/unn867ieZ70](https://youtu.be/unn867ieZ70)
-S0 | Finality | Basilisk & Handel | 5:29m (6.1) | [https://youtu.be/5otXPMfRQKU](https://youtu.be/5otXPMfRQKU)
-S0 | Finality | Judah & Handel | 9:05m (6.1) | [https://youtu.be/ARcTleTzNYk](https://youtu.be/ARcTleTzNYk)
+S0 | Finality | Basilisk & Linnaeus | 3:52m (6.1 1st Half) | [https://youtu.be/unn867ieZ70](https://youtu.be/unn867ieZ70)
+S0 | Finality | Basilisk & Handel | 5:29m (6.1 1st Half) | [https://youtu.be/5otXPMfRQKU](https://youtu.be/5otXPMfRQKU)
+S0 | Finality | Judah & Handel | 9:05m (6.1 1st Half) | [https://youtu.be/ARcTleTzNYk](https://youtu.be/ARcTleTzNYk)
 
 !!! note
     Mobius is perfectly fine and really strong without Linnaeus and even on a DMG-Reduction weather.
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Flame-Chasers deal 15% more Total DMG. | 10
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4394,12 +4256,11 @@ S0 | Finality | Basilisk & Linnaeus | 6:02 (Updated, 6.0 1st Half) | [https://yo
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Flame-Chasers deal 15% more Total DMG. | 10
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4522,12 +4383,12 @@ SSS | Abstinence | Hekate & Ely TB Dante M | 11:35m (6.0 1st Half) | [https://yo
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
-When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4644,12 +4505,11 @@ SSS | Finality | DoEgo & Aslaug | 12:08m (6.1) | [https://youtu.be/rkCnkA44e4s](
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Max SP increases by 30. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1. 
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4767,15 +4627,16 @@ Quick Search: MPE, Elysia, Maid
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run 
 :----: | :----: | :----: | :----: | :----:
 SSS | Finality | Whisper Pri & 3-set Elysia | 5:39 (6.0 2nd Half) | [https://youtu.be/vWv3zs66A0s](https://youtu.be/vWv3zs66A0s)
-SSS | Finality | Call of Crescent & Michelangelo TB Polo M | 12:05m (6.1) | [https://youtu.be/H4C8tPJzbxk](https://youtu.be/H4C8tPJzbxk)
+SSS | Finality | Call of Crescent & Michelangelo TB Polo M | 12:05m (6.1 1st Half) | [https://youtu.be/H4C8tPJzbxk](https://youtu.be/H4C8tPJzbxk)
 
 !!! note
     This build is downscaleable with lower clear times and lower gear requirement, however the ceiling for downscaling is pretty tight as MPE's strength evidently goes down a bit too much without her weapon or even without her Elysia set.
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
-When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+Flame-Chasers deal 15% more Total DMG. | 10
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
 
 !!! danger
     Alternative Load Buffs below are specifically for CoC & Michelangelo TB Polo M F2P build
@@ -4787,7 +4648,7 @@ Flame-Chasers deal 15% more Total DMG. | 10
 When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4915,12 +4776,12 @@ SSS | Finality | Midnight Ataegina & BiankaT | 9:41m (6.0 1st Half) | [https://y
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -5031,12 +4892,12 @@ SSS | Finality | DoEgo & Zhenyi | 8:51m (6.0 2nd Half) | [https://youtu.be/t75Hy
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Max SP increases by 30. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -5159,19 +5020,19 @@ Signet | Priority
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-SSS | Finality | DoEgo & Zhenyi | 13:29m (6.1) | [https://youtu.be/4DO97eW9v8A](https://youtu.be/4DO97eW9v8A)
+SSS | Finality | DoEgo & Zhenyi | 13:29m (6.1 1st Half) | [https://youtu.be/4DO97eW9v8A](https://youtu.be/4DO97eW9v8A)
 
 !!! danger
     In terms of downscalability, this valkyrie can result a bit weak, so she prefers lower difficulties when otherwise not having a pri for her to use in place of Mitternachts. 
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Max SP increases by 30. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -5281,7 +5142,7 @@ Quick search: RC, Neko, Cat, Pardo, Phyllis, Pardofelis
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-SSS | Finality | Purana & Bastet | 5:43m (6.1) | [https://youtu.be/tkFqo9p6bd4](https://youtu.be/tkFqo9p6bd4)
+SSS | Finality | Purana & Bastet | 5:43m (6.1 1st Half) | [https://youtu.be/tkFqo9p6bd4](https://youtu.be/tkFqo9p6bd4)
 SSS | Finality | Purana & Ana Schariac | 8:08m (6.0 1st Half) | [https://youtu.be/EZNq6e74Wjc](https://youtu.be/EZNq6e74Wjc)
 
 !!! note
@@ -5289,13 +5150,12 @@ SSS | Finality | Purana & Ana Schariac | 8:08m (6.0 1st Half) | [https://youtu.b
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Max SP increases by 30. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
-Flame-Chasers deal 15% more Total DMG. | 10
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -5403,7 +5263,7 @@ Signet | Priority
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-SSS | Finality | Purana & Bastet | 5:29m (6.1) | [https://youtu.be/N9fb3zsGZjM](https://youtu.be/N9fb3zsGZjM)
+SSS | Finality | Purana & Bastet | 5:29m (6.1 1st Half) | [https://youtu.be/N9fb3zsGZjM](https://youtu.be/N9fb3zsGZjM)
 SSS | Finality | Purana & Ana Schariac | 7:41m (6.0 1st Half) | [https://youtu.be/jn0qc03V5WI](https://youtu.be/jn0qc03V5WI)
 
 !!! note
@@ -5411,13 +5271,12 @@ SSS | Finality | Purana & Ana Schariac | 7:41m (6.0 1st Half) | [https://youtu.b
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Max SP increases by 30. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
-Flame-Chasers deal 15% more Total DMG. | 10
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -5560,12 +5419,12 @@ SSS | Corruption | DoV & 3-Set Elysia | 13:25m (2nd Half 5.9) | [https://youtu.b
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Max SP increases by 30. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -5688,19 +5547,18 @@ Quick search: SW, booba bronya, Hold-A
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-S2 | Finality | FFF & Bronya N-EX | 7:48m (6.1) | [https://youtu.be/vK_stvbRv50](https://youtu.be/vK_stvbRv50)
+S2 | Finality | FFF & Bronya N-EX | 7:48m (6.1 1st Half) | [https://youtu.be/vK_stvbRv50](https://youtu.be/vK_stvbRv50)
 
 !!! note
     It should be assumed that with lower gears, her performance can drop accordingly but otherwise can still do very well due to her strength.
 
 Buff | Load
 :----: | :----: 
-Max SP increases by 30. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -5812,19 +5670,18 @@ Quick search: SpA, Rita, Fire Rita
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-SS | Finality | Pisces & Ragna | 7:00m (6.1) | [https://youtu.be/HvXbqtefzNA](https://youtu.be/HvXbqtefzNA)
+SS | Finality | Pisces & Ragna | 7:00m (6.1 1st Half) | [https://youtu.be/HvXbqtefzNA](https://youtu.be/HvXbqtefzNA)
 
 !!! note
     In terms of downscalability purposes, her weapon is pretty much a given and as for stigmatas she can do fine with Leuweenhoek TB Thales M.
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -5937,12 +5794,12 @@ SS | Finality | Pisces & Ragna | 10:16m (6.0 1st Half) | [https://youtu.be/IDZt4
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6053,19 +5910,19 @@ Quick search: Seele
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-S0 | Finality | Sanguine & Verne | 8:48m (6.1) | [https://youtu.be/9w0XSpPfJNc](https://youtu.be/9w0XSpPfJNc)
+S0 | Finality | Sanguine & Verne | 8:48m (6.1 1st Half) | [https://youtu.be/9w0XSpPfJNc](https://youtu.be/9w0XSpPfJNc)
 
 !!! note
     Nyx as a whole can be assumed to be very screwed with downscaled gear, as her strength early on is on the weak side. Not only her own signature weapon helps her a lot, but also other stigmata choices lose out on more than 20% DPS comparison to Verne. Simply speaking, for downscalability purposes, expect this valk to be more affected the worse the gears are.
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
-When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6186,12 +6043,13 @@ SSS | Finality | Elysian Astra & Cezanne | 7:16m (Updated, 6.0 1st Half) | [http
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
 Flame-Chasers deal 15% more Total DMG. | 10
-When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
+Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6202,8 +6060,11 @@ Late | Key to the Deep | The Lonely Moon
 Time | Support 1 | Support 2
 :----: | :----: | :----:
 Early | SS | BR
-Mid | SS | BR
+Mid | SS | BK
 Late | SS | BR
+
+!!! note
+    Remember to bring BK for Heimdall fight.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -6312,19 +6173,19 @@ Quick search: StFu, Mei
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-SSS | Finality | 7T & 3-set Dirac | 13:18m (6.1) | [https://youtu.be/K-h8H2hQViQ](https://youtu.be/K-h8H2hQViQ)
+SSS | Finality | 7T & 3-set Dirac | 13:18m (6.1 1st Half) | [https://youtu.be/K-h8H2hQViQ](https://youtu.be/K-h8H2hQViQ)
 
 !!! danger
     For downscalability purposes, let's be honest, she aint gonna do shit without 3-set Dirac as she badly needs the 50% impair for the early game. Dirac also provides with other useful things that StFu wants. 7T, on the other hand, is easily her BiS here due to it allowing StFu to reapply Griseo's Red Paint easily anytime.
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
-When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1. 
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6434,19 +6295,19 @@ Quick search: SN, Saule, SNoDamage
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-SS0 | Finality | PoA:Kindred & Allan Poe | 16:10m (6.1) | [https://youtu.be/KDbo2fZi94E](https://youtu.be/KDbo2fZi94E)
+SS0 | Finality | PoA:Kindred & Allan Poe | 16:10m (6.1 1st Half) | [https://youtu.be/KDbo2fZi94E](https://youtu.be/KDbo2fZi94E)
 
 !!! note
     For downscalability purposes, she's by far one of the worst valks as she gets increasingly worse the lower your gears are.
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Max SP increases by 30. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6559,12 +6420,13 @@ S2 | Abstinence | Path of Acheron Pri & 3-set Allan Poe | 14m (2nd Half 5.9) | [
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Max SP increases by 30. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6672,19 +6534,19 @@ Quick search: SnS, Carole
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-SSS | Finality | MKP & Paganini | 12:34m (6.1) | [https://youtu.be/MdpFV-Zh1LU](https://youtu.be/MdpFV-Zh1LU)
+SSS | Finality | MKP & Paganini | 12:34m (6.1 1st Half) | [https://youtu.be/MdpFV-Zh1LU](https://youtu.be/MdpFV-Zh1LU)
 
 !!! danger
     Carole's downscalability shouldn't be much of an issue with other alternative stigmas like Elysia TB or BiankaT.
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Max SP increases by 30. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1. 
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6796,19 +6658,19 @@ Quick search: TP, Teri, Theresa
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-SSS | Finality | Hekate Sombre & Kafka | 11:26m (6.1) | [https://youtu.be/fVlpYAEqHug](https://youtu.be/fVlpYAEqHug)
+SSS | Finality | Hekate Sombre & Kafka | 11:26m (6.1 1st Half) | [https://youtu.be/fVlpYAEqHug](https://youtu.be/fVlpYAEqHug)
 
 !!! note
     This valkyrie's downscalability issues can be notoriously bad as she also sort of relies in her signature weapon for the endless combo hits, especially at early game when you don't have much room for continuously reducing your Ult's CD. Her gears are just... well. Time to inhale copium, probably.
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Max SP increases by 30. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6938,12 +6800,12 @@ SSS | Abstinence | Eos Gloria & LWH TB Thales M | 13:09m (2nd Half 5.9) | [https
 
 Buff | Load
 :----: | :----: 
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Deployed Valkyries Total DMG increases 15%. This effect is negated 5s after taking DMG. Triggering it again resets the duration. | 10
-When a Support and Deployed Valkyrie are of matching type, all enemies on the field take 10% more Total DMG. | 15
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.1 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -7065,7 +6927,7 @@ Dictum is the king of enemy total damage taken as the trance debuff which is par
 ***
 
 ## Creditors and what they did:
-- Adori - Columbina Supremacy#6481: Tester, theorycrafter and current big updater of builds from 5.9 onwards+
+- Adori - Columbina Supremacy#6481: Tester, theorycrafter and current big updater of builds from 5.9 onwards+. Also [youtuber](https://www.youtube.com/@AdoriColumbina)
 - Butter#2252: provided data
 - boba#8849: helped format stuff correctly and tested builds
 - Rafe#5610: helped rekindled the GC again and is also a rentry editor
