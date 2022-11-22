@@ -41,7 +41,7 @@ Please note that this is only true for there reward scores, and not the actual p
 > Click [here](https://rentry.co/thebuttererguide) for more information on how to ER more efficiently.
 
 ## Update log
-- 2022-11-21: Updated every Valkyrie builds' recommended Load Buffs to current 6.1 2nd Half Weather.
+- 2022-11-21: Updated every Valkyrie builds' recommended Load Buffs to current 6.1 2nd Half Weather. Also updated almost all of the Valkyries' Images and their source.
 - 2022-11-20: Added 1 new build with 3 distinct runs for Mobius.
 - 2022-11-17: Added LWH Thales (F2P) run for HoFS Starfire Build. Added SS2+ Build for FR. Added new build for Mobius with Aponia signets.
 - 2022-11-13: Added 1 new meme build for Fischl. Updated PE build. Updated FT build.
@@ -63,7 +63,7 @@ Please note that this is only true for there reward scores, and not the actual p
 
 ## Argent Knight: Artemis
 
-![omg jojo stand user](https://cdn.discordapp.com/attachments/967717692465365133/982328480106708992/rita_rossweisse_and_rita_rossweisse_honkai_and_1_more_drawn_by_kei_soundcross__sample-237aafeedb2d70329926c59547ea5313.jpg)
+![Omg Jojo Stand user!](https://user-images.githubusercontent.com/114035701/203185665-d64d2dfe-b830-4348-a685-6a1a71cbf644.png)
 
 ### <p align="center">-- General Build</p>
 
@@ -185,7 +185,7 @@ Signet | Priority
 
 ## Bright Knight: Excelsis
 
-![shes a cutiepie](https://elysian-realm.vercel.app/valkyries/bright-knight-excelsis.webp)
+![Another Jojo Stand User!](https://user-images.githubusercontent.com/114035701/203186253-4ac891cd-e23a-46d5-91e9-65b127d0849c.png)
 
 ### <p align="center">-- Dudu becomes a Jojo Fan</p>
 
@@ -434,7 +434,7 @@ Signet | Priority
 ## Disciplinary Perdition
 Search Tags: DPe, DiP, Nun, Aponia
 
-![Nunny mommy purify me](https://elysian-realm.vercel.app/valkyries/disciplinary-perdition.webp)
+![Nunny mommy purify me](https://user-images.githubusercontent.com/114035701/203185088-212465ee-f659-4c66-b665-4c500804a8a7.png)
 
 ### <p align="center">-- General Build</p>
 
@@ -565,7 +565,7 @@ Signet | Priority
 ## Fallen Rosemary
 Quick Search: FR, Rita, Maid
 
-![she has so many animals, maybe i can be one too?](https://cdn.discordapp.com/attachments/967717692465365133/982328522628550666/rita_rossweisse_and_rita_rossweisse_honkai_and_1_more_drawn_by_vierzeck__sample-628bb95fce62fa2a79cb00ec837513b8.jpg)
+![she has so many animals, maybe i can be one too?](https://user-images.githubusercontent.com/114035701/203184208-28da2a01-c9e8-4764-9b70-58206d90f1a8.png)
 
 ### <p align="center">-- Above SS2 Build</p>
 
@@ -952,7 +952,7 @@ Signet | Priority
 ## Golden Diva
 Quick search: Eden, GD
 
-![Vercel GD](https://elysian-realm.vercel.app/valkyries/golden-diva.webp)
+![Take me mommy](https://user-images.githubusercontent.com/114035701/203184592-5cd48d02-a654-4158-b5b2-68c4c2fc5a85.png)
 
 ### <p align="center">-- General Build 7D</p>
 
@@ -1361,7 +1361,7 @@ Signet | Priority
 ## Helical Contraption
 Quick Search: V-V, Vill-V, Bait, Helical Cripple
 
-![She's so cool. Isn't she? And pretty.~](https://cdn.discordapp.com/attachments/1027679927312597042/1037801103191969874/unknown.png)
+![She's so cool. Isn't she? And pretty.~](https://user-images.githubusercontent.com/114035701/203185318-a923e909-6e38-4d0d-8a71-79e831306a06.png)
 
 ### <p align="center">-- Not Helical Cripple</p>
 
@@ -1492,7 +1492,7 @@ Signet | Priority
 ## Herrscher of Flamescion
 Quick Search: HoFS, HoF, FK, KFC, Burnt Tuna, Flying Fish
 
-![literally hot](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2021/07/17/00/00/04/91289343_p0_master1200.jpg)
+![Kiana is so beautiful.](https://user-images.githubusercontent.com/114035701/203183024-8c7cf268-9bb2-4efd-b5b9-0a8d27debd3a.png)
 
 ### <p align="center">-- Starfire Build</p>
 
@@ -1783,7 +1783,8 @@ Signet | Priority
 ## Herrscher of Humanity
 Quick Search: Elysia, HoH, HoHe, Manta Ray, H2O, Water
 
-![Elysia HoH](https://preview.redd.it/qwubup6nwhg91.png?width=960&crop=smart&auto=webp&s=0dd53c493400a6de4906d49faa7c9779af67be1b)
+![Elysia HoE](https://user-images.githubusercontent.com/114035701/203183477-347931bb-45a8-4492-8768-d80e2de61a94.png)
+
 
 ### <p align="center">-- Ultimate Build</p>
 
@@ -2055,7 +2056,7 @@ Signet | Priority
 ## Herrscher of Reason
 Quick Search: HoR, Bronya
 
-![cuteness beyond reason](https://elysian-realm.vercel.app/valkyries/herrscher-of-reason.webp)
+![Cuteness beyond Reason](https://user-images.githubusercontent.com/114035701/203183350-bfc0ddd1-6ad8-43ca-b2de-2ab9332fab18.png)
 
 ### <p align="center">-- [SoE-Only] Ultimate Build</p>
 
@@ -2423,7 +2424,7 @@ Signet | Priority
 ## Herrscher of Sentience
 Quick Search: HoS, Senti, Hua, Fuhua, Bonk
 
-![Vercel Senti](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2021/03/05/19/07/59/88230961_p0_master1200.jpg)
+![Long Live Yatta!](https://user-images.githubusercontent.com/114035701/203183794-d9396014-4069-4374-9ff4-f1c55db1f670.png)
 
 ### <p align="center">-- HoS - *General Build* 7D</p>
 
@@ -2787,7 +2788,8 @@ Signet | Priority
 ## Herrscher of Thunder
 Quick search: HoT, Mei, hot mei, dragon
 
-![Vercel HoT](https://elysian-realm.vercel.app/valkyries/herrscher-of-thunder.webp)
+![Literally hot](https://user-images.githubusercontent.com/114035701/203183698-260c70c4-8bdb-4211-ac12-423a07a03edd.png)
+
 
 ### <p align="center">-- 4-5 Revived Build</p>
 
@@ -3200,7 +3202,7 @@ Signet | Priority
 ## Herrscher of Void
 Quick Search: HoV, Salty Tuna, Sirin
 
-![The void demands ramen noodles](https://cdn.discordapp.com/attachments/976155579565367296/1021183218365501500/anime-girls-honkai-impact-3rd-kiana-kaslana-herrscher-of-the-void-tometoku-thighs-hd-wallpaper-preview.jpg)
+![The Queen demands Ramen Noodles](https://user-images.githubusercontent.com/114035701/203183869-b53bdfc7-08a0-4f2f-8db6-71ebb4788c6e.png)
 
 ### <p align="center">-- Thanos Snap 7D</p>
 
@@ -3512,10 +3514,281 @@ Signet | Priority
 
 ***
 
+## Infinite Ouroboros
+Quick Search: IO, Snake, Snek, Mobius
+
+![Mommmy Mobius eat me up and experiment with me pls~](https://user-images.githubusercontent.com/114035701/203185419-1d1ff28c-4648-4812-98af-2150cce7c136.png)
+
+### <p align="center">-- DMG Reduction? Where?</p>
+
+!!! note
+    Updated for 6.1. Honestly, this is a really fun and genuine surprise that I wasn't expecting to hit this strong. Who would've thought that non-Linnaeus Mobius would be so damn strong nonetheless? Clearly, she doesn't need it, and neither does she gives a fuck about having DMG Reduction trying to weigh her down.
+
+> Boss to be Chosen: Hephaestus, then Vill-V or Aponia
+
+!!! note
+    Vill-V is the best choice easily if you have Miniature [X] available.
+
+####<p align="center">Setup</p>
+
+Rank | Difficulty Done | Recommended Gear | Clear Time | Run
+:----: | :----: | :----: | :----: | :----:
+S0 | Finality | Basilisk & Linnaeus | 3:52m (6.1 1st Half) | [https://youtu.be/unn867ieZ70](https://youtu.be/unn867ieZ70)
+S0 | Finality | Basilisk & Handel | 5:29m (6.1 1st Half) | [https://youtu.be/5otXPMfRQKU](https://youtu.be/5otXPMfRQKU)
+S0 | Finality | Judah & Handel | 9:05m (6.1 1st Half) | [https://youtu.be/ARcTleTzNYk](https://youtu.be/ARcTleTzNYk)
+
+!!! note
+    Mobius is perfectly fine and really strong without Linnaeus and even on a DMG-Reduction weather.
+
+Buff | Load
+:----: | :----: 
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+
+!!! note
+    Effective for 6.1 2nd Half.
+
+Time | Remembrance Sigil | FC Support Skill
+:----: | :----: | :----:
+Early | Forbidden Seed | Boundless Logos
+Mid | Veil of Tears / Rainbow of Absence / Mad King's Mask | Boundless Logos
+Late | The First Scale or Tin Flask | Boundless Logos
+
+!!! note
+    Boundless Logos is a given. It is not swapped out due to the brutal efficiency in which Mobius can abuse it. However, when it's low on charge by the time you go into Shop, then you can consider swapping it out in order to abuse the 3* Remembrance Sigil gamble.
+
+Time | Support 1 | Support 2
+:----: | :----: | :----:
+Early | AE | BR or LE
+Mid | BK | BR or LE
+Late | AE | BR or LE
+
+!!! note
+    Due to the existing Load Buff granting 10 SP per 60 SP restored, Mobius can make really good use out of BR right away from the start. Once this is gone, however, LE is used instead unless you're otherwise missing damage in which case BR is the best choice to go here. Remember to bring BK for Heimdall fight.
+
+####<p align="center">Elysia - Signet of ■■</p>
+
+Signet | Priority
+------|:----:
+**Blessing of Dark Assault**: Basic/Charged/Combo ATKs deal 40% bonus Lightning DMG. Linked enemies hit by Basic/Charged/Combo ATKs pass on 12% of the DMG to other linked enemies | **Start**
+**Blessing of Ill Fortune**: Ultimate deals 240% bonus Lightning DMG. Every Genesis Seed consumed reduces Ultimate CD by 0.5s | **Start**
+**Blessing of Ascension**: When Umbra of Ouroboros is active, enemies are struck by lightning once per second and take 600% ATK of Lightning DMG (DMG source: Basic ATK) | 1st
+**Blessing of Ravenousness**: Exiting submerged mode deals 1600% ATK of AOE Lightning DMG and enemies hit take 30% bonus Combo ATK DMG in the next 5s (independent effect) | 2nd
+**Blessing of Mirage**: In submerged mode, enemies in contact take 200% ATK of Lightning DMG per and take 35% bonus Total DMG for 8s | No
+
+!!! note
+    Dark Assault + Ill Fortune is all Mobius needs to clear, however, to make her way stronger, you can do Double Ego start to take Ascension. Ravenousness is also a very good choice to consider taking if you get a 4th Ego door.
+
+####<p align="center">Mobius - Signet of Infinity (1st Core)</p>
+
+!!! note
+    Ideal Order from F1-F7: Double Ego Start for Ascension, grab Entwined [P] or Rodent [V] by F3, complete Mobius 1st Core by F4 with Entwined, Rodent, Lip Poison, take either Dead [X] or Unknown [X] or Ravenousness by F5, then go shop, grab Aponia's Ultimate and 70 Initial Load or SP Regen with +2 from 3* Rememb Sigil Abuse. Take Sakura's TDM or TDM Taken or Kalpas TDM, then finish Aponia 2nd Core by F7.
+
+Signet | Priority
+------ | :----:
+**Entwined [P]:** :For every summoned entity, ELF, or Support Valkyrie present, enemies take 8% bonus Total DMG (5 stacks max) | 1st
+**Rodent [V]**: For every summoned entity, ELF, or Support Valkyrie present, Valkyrie deals 10% bonus Total DMG (5 stacks max). | 2nd
+**Lip Poison [E]:** Total DMG from summoned entities, ELFs, and Support Valkyries increases by 60%. ELFs | 3rd
+**Lodging [C]:** ELF Ultimates and Support Valkyries' support skills have 20% reduced CD | Optional 4th
+**Nexus Signet 1: Infinite [X]** |
+**Dead [X]**: For every second in Mind Sync, Valkyrie herself, summoned entities, ELFs, and Support Valkyries deal 10% bonus Total DMG. 5 stacks max. 9 stacks max with any summoned entity present. Reset on exiting Mind Sync | 1st
+**Unknown [X]**: Triggering Mind Sync again during Mind Sync reduces the CD of ELF Ultimates and Support Valkyries' support skills by 2s. With any summoned entity present, the CDs are reduced by 2s additionally. This effect can only be triggered once per 4s. | Optional 2nd
+
+!!! note
+    Dead [X]'s impact is mainly from being a ramping up buff, so it's not so much of a problem to not get it early on, meanwhile Unknown [X] is a good choice to take in case you don't manage to get Dead [X]. Also, Dead [X] is really high priority to upgrade to +3.
+
+
+####<p align="center">Aponia - Signet of Discipline (2nd Core)</p>
+
+Signet | Priority
+- | :----:
+**First, No Betrayal**: Exhortation increases by 5 per second and caps at 200. Basic ATK's Total DMG increases by 0.3% of Exhortation. Triggering Ultimate Evasion Skill reduces 50% Exhortation. | 1st
+**Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 2nd
+**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 3rd
+**Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | 4th
+**Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
+**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | 2nd
+**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 2nd
+**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 3rd
+
+!!! note
+    Both Ultimate and Basic ATK are priority to upgrade to +3. Do play around both Restrictions, make sure to always let the Adaptive DMG hit.
+
+####<p align="center">Griseo - Signet of Stars (3rd Core)</p>
+
+Signet | Priority
+- | :----:
+**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st
+**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | 2nd
+**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 3rd
+**Grey & Empty**: Enemies stay tainted for 5s longer. | 4th
+**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 5th
+**Nexus Signet 2: Faded Stars** |
+**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 1st
+**Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 2nd
+**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | 3rd
+
+!!! note
+    Red is absolute highest priority to +3. Yellow is also good to +3. Getting Grey is essential.
+
+####<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
+
+Signet | Priority
+- | :----:
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 3rd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 4th
+**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** | Optional
+
+!!! note
+    Kalpas is best gotten from Felis Shop. Getting core is not necessary.
+
+####<p align="center">Sakura - Signet of Setsuna (Felis Shop Signets)</p>
+
+Signet | Priority
+- | :----:
+**Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s. | 1st
+**Bountiful Blossom: Botan**: Triggering Ultimate Evasion Skill boosts Total DMG by 40% for 8s. | 2nd
+**Bountiful Blossom: Ayame**: Triggering Ultimate Evasion Skill restores 12.0 bonus SP. | 3rd
+**Nexus Signet 1: Setsuna Blade: Sakura ni Maku** | Optional
+
+!!! note
+    Sakura is best gotten from Felis Shop. Either of her cores are useless for Mobius.
+
+### <p align="center">-- Non-Kevin Build</p>
+
+!!! note
+    Updated for 6.1. This build has less dependancy on Kevin's short-lived buffs, instead having consistent buffs that stay present throughout whole floors, even outside of Ultimate.
+
+> Boss to be Chosen: Hephaestus, then Aponia or Vill-V
+
+!!! note
+    Aponia is preferred.
+
+####<p align="center">Setup</p>
+
+Rank | Difficulty Done | Recommended Gear | Clear Time | Run
+:----: | :----: | :----: | :----: | :----:
+S0 | Finality | Basilisk & Linnaeus | 4:57 (Updated, 6.0 2nd Half) | [https://youtu.be/4XkouMCLSOc](https://youtu.be/4XkouMCLSOc)
+S0 | Finality | Basilisk & Linnaeus | 6:02 (Updated, 6.0 1st Half) | [https://youtu.be/A0fgY7_m4c4](https://youtu.be/A0fgY7_m4c4)
+
+!!! note
+    This build is downscaleable with lower clear times and lower gear requirement. You don't necessarily have to do Finality, as such, with lower difficulties, you'll either have faster, about the same or lower clear time depending on your gear requirement. Even without Linnaeus, Mobius should be fine and able to clear in lower difficulties.
+
+Buff | Load
+:----: | :----: 
+When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+
+!!! note
+    Effective for 6.1 2nd Half.
+
+Time | Remembrance Sigil | FC Support Skill
+:----: | :----: | :----:
+Early | Forbidden Seed | Boundless Logos
+Mid | Memory / Mad King's Mask / Rainbow of Absence / Home Lost | Boundless Logos
+Late | The First Scale or Key to the Deep | Boundless Logos
+
+Time | Support 1 | Support 2
+:----: | :----: | :----:
+Early | AE | BR or LE
+Mid | AE | BR/LE or BKE
+Late | AE | BR or LE
+
+!!! note
+    BR if your damage is a little lacking, particularly in early floors before Mobius 1st Core. LE is the comfier option due to eliminating the possibility of dealing with downtime outside Ult.
+
+!!! note
+    BKE is only for the purposes of filling Heimdall's Heavy Trauma Bar, forcefully ending his Red Mode.
+
+####<p align="center">Elysia - Signet of ■■</p>
+
+Signet | Priority
+------|:----:
+**Blessing of Dark Assault**: Basic/Charged/Combo ATKs deal 40% bonus Lightning DMG. Linked enemies hit by Basic/Charged/Combo ATKs pass on 12% of the DMG to other linked enemies | **Start**
+**Blessing of Ill Fortune**: Ultimate deals 240% bonus Lightning DMG. Every Genesis Seed consumed reduces Ultimate CD by 0.5s | **Start**
+**Blessing of Ascension**: When Umbra of Ouroboros is active, enemies are struck by lightning once per second and take 600% ATK of Lightning DMG (DMG source: Basic ATK) | 1st
+**Blessing of Ravenousness**: Exiting submerged mode deals 1600% ATK of AOE Lightning DMG and enemies hit take 30% bonus Combo ATK DMG in the next 5s (independent effect) | 2nd
+**Blessing of Mirage**: In submerged mode, enemies in contact take 200% ATK of Lightning DMG per and take 35% bonus Total DMG for 8s | No
+
+!!! note
+    Dark Assault + Ill Fortune is all Mobius needs to clear, however, to make her way stronger, you can do Double Ego start to take Ascension. Ravenousness is also a very good choice to consider taking if you get a 4th Ego door.
+
+####<p align="center">Mobius - Signet of Infinity (1st Core)</p>
+
+!!! note
+    Ideal Order from F1-F7: Double Ego Start for Ascension, grab Entwined [P] or Rodent [V] by F3, complete Mobius 1st Core by F4 with Entwined, Rodent, Lip Poison, take either Dead [X] or Unknown [X] by F5, then go shop, grab 2 Hua signets and 1 Kalpas signet and get a Hua door for F6 to complete her 2nd Core, swap Forbidden Seed out for Mad King's Mask, complete Kalpas 2nd Core by F7
+
+Signet | Priority
+------ | :----:
+**Entwined [P]:** :For every summoned entity, ELF, or Support Valkyrie present, enemies take 8% bonus Total DMG (5 stacks max) | 1st
+**Rodent [V]**: For every summoned entity, ELF, or Support Valkyrie present, Valkyrie deals 10% bonus Total DMG (5 stacks max). | 2nd
+**Lip Poison [E]:** Total DMG from summoned entities, ELFs, and Support Valkyries increases by 60%. ELFs | 3rd
+**Lodging [C]:** ELF Ultimates and Support Valkyries' support skills have 20% reduced CD | Optional
+**Nexus Signet 1: Infinite [X]** |
+**Dead [X]**: For every second in Mind Sync, Valkyrie herself, summoned entities, ELFs, and Support Valkyries deal 10% bonus Total DMG. 5 stacks max. 9 stacks max with any summoned entity present. Reset on exiting Mind Sync | 1st or 2nd
+**Unknown [X]**: Triggering Mind Sync again during Mind Sync reduces the CD of ELF Ultimates and Support Valkyries' support skills by 2s. With any summoned entity present, the CDs are reduced by 2s additionally. This effect can only be triggered once per 4s. | 1st or 2nd
+
+!!! note
+    Dead [X]'s impact is mainly from being a ramping up buff, so it's not so much of a problem to not get it early on. Unknown [X] has good use due to being able to spam AE and most importantly VC.
+
+####<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
+
+Signet | Priority
+----| :----:
+**Old Dreams Again**: Elemental Breach increases by 0.6% per second | 1st
+**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 2nd
+**Dark Garb No More**: Elemental DMG increases by 0.8% per second | 3rd
+**Nexus Signet 2: Suffering Mass** |
+**Broken Dream**: When possessing Soldier's Remembrance., increase the maximum stack of normal Vicissitude signets by 20 | Optional
+
+!!! note
+    Hua is the best 2nd Core to get from testing results, contesting very hard with Kalpas2. The reason is due to Mobius lacking breach, which becomes even more evident if you leave it for in exchange to getting Griseo done.
+
+####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
+
+Signet | Priority
+- | :----:
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
+**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
+
+####<p align="center">Griseo - Signet of Stars (4th Core)</p>
+
+Signet | Priority
+- | :----:
+**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st, YES
+**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | 2nd
+**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 3rd
+**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 4th
+**Nexus Signet 2: Faded Stars** |
+**Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 1st
+**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 2nd
+**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | 3rd
+
+!!! note
+    Red & Hot is the absolute first priority. But also, be mindful of what paints you get. Blue is essential to be able to use Petals in the Wind and Fallen Leaves.
+
+####<p align="center">Sakura - Signet of Setsuna (Felis Shop Signets)</p>
+
+Signet | Priority
+- | :----:
+**Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s. | 1st
+**Bountiful Blossom: Botan**: Triggering Ultimate Evasion Skill boosts Total DMG by 40% for 8s. | 2nd
+**Bountiful Blossom: Fuji**: Ultimate Evasion Skill has 1 more charge and 10% reduced CD. | 3rd
+**Nexus Signet 1: Setsuna Blade: Sakura ni Maku** | Not Necessary
+
+!!! note
+    Sakura signets are better picked off from shop and nothing else.
+
+***
+
 ## Jade Knight
 Quick search: Li Sus, Sushang, JK, Sussy
 
-(![God bless that beautiful Mount Taixuan, prayge](https://user-images.githubusercontent.com/114035701/203182066-2ba8f298-ed9e-4e11-b567-e09c9fb074e4.png)
+![God bless that beautiful Mount Taixuan, prayge](https://user-images.githubusercontent.com/114035701/203182066-2ba8f298-ed9e-4e11-b567-e09c9fb074e4.png)
 
 ### <p align="center">-- Unlimited Blade Works Build - Aponia Variation</p>
 
@@ -4090,277 +4363,6 @@ Signet | Priority
     Sakura signets are better picked off from shop and nothing else.
 
 
-**
-
-## Infinite Ouroboros
-Quick Search: IO, Snake, Snek, Mobius
-
-![mommy eat me up pls-](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2021/11/16/00/05/42/94162385_p0_master1200.jpg)
-
-### <p align="center">-- DMG Reduction? Where?</p>
-
-!!! note
-    Updated for 6.1. Honestly, this is a really fun and genuine surprise that I wasn't expecting to hit this strong. Who would've thought that non-Linnaeus Mobius would be so damn strong nonetheless? Clearly, she doesn't need it, and neither does she gives a fuck about having DMG Reduction trying to weigh her down.
-
-> Boss to be Chosen: Hephaestus, then Vill-V or Aponia
-
-!!! note
-    Vill-V is the best choice easily if you have Miniature [X] available.
-
-####<p align="center">Setup</p>
-
-Rank | Difficulty Done | Recommended Gear | Clear Time | Run
-:----: | :----: | :----: | :----: | :----:
-S0 | Finality | Basilisk & Linnaeus | 3:52m (6.1 1st Half) | [https://youtu.be/unn867ieZ70](https://youtu.be/unn867ieZ70)
-S0 | Finality | Basilisk & Handel | 5:29m (6.1 1st Half) | [https://youtu.be/5otXPMfRQKU](https://youtu.be/5otXPMfRQKU)
-S0 | Finality | Judah & Handel | 9:05m (6.1 1st Half) | [https://youtu.be/ARcTleTzNYk](https://youtu.be/ARcTleTzNYk)
-
-!!! note
-    Mobius is perfectly fine and really strong without Linnaeus and even on a DMG-Reduction weather.
-
-Buff | Load
-:----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
-
-!!! note
-    Effective for 6.1 2nd Half.
-
-Time | Remembrance Sigil | FC Support Skill
-:----: | :----: | :----:
-Early | Forbidden Seed | Boundless Logos
-Mid | Veil of Tears / Rainbow of Absence / Mad King's Mask | Boundless Logos
-Late | The First Scale or Tin Flask | Boundless Logos
-
-!!! note
-    Boundless Logos is a given. It is not swapped out due to the brutal efficiency in which Mobius can abuse it. However, when it's low on charge by the time you go into Shop, then you can consider swapping it out in order to abuse the 3* Remembrance Sigil gamble.
-
-Time | Support 1 | Support 2
-:----: | :----: | :----:
-Early | AE | BR or LE
-Mid | BK | BR or LE
-Late | AE | BR or LE
-
-!!! note
-    Due to the existing Load Buff granting 10 SP per 60 SP restored, Mobius can make really good use out of BR right away from the start. Once this is gone, however, LE is used instead unless you're otherwise missing damage in which case BR is the best choice to go here. Remember to bring BK for Heimdall fight.
-
-####<p align="center">Elysia - Signet of ■■</p>
-
-Signet | Priority
-------|:----:
-**Blessing of Dark Assault**: Basic/Charged/Combo ATKs deal 40% bonus Lightning DMG. Linked enemies hit by Basic/Charged/Combo ATKs pass on 12% of the DMG to other linked enemies | **Start**
-**Blessing of Ill Fortune**: Ultimate deals 240% bonus Lightning DMG. Every Genesis Seed consumed reduces Ultimate CD by 0.5s | **Start**
-**Blessing of Ascension**: When Umbra of Ouroboros is active, enemies are struck by lightning once per second and take 600% ATK of Lightning DMG (DMG source: Basic ATK) | 1st
-**Blessing of Ravenousness**: Exiting submerged mode deals 1600% ATK of AOE Lightning DMG and enemies hit take 30% bonus Combo ATK DMG in the next 5s (independent effect) | 2nd
-**Blessing of Mirage**: In submerged mode, enemies in contact take 200% ATK of Lightning DMG per and take 35% bonus Total DMG for 8s | No
-
-!!! note
-    Dark Assault + Ill Fortune is all Mobius needs to clear, however, to make her way stronger, you can do Double Ego start to take Ascension. Ravenousness is also a very good choice to consider taking if you get a 4th Ego door.
-
-####<p align="center">Mobius - Signet of Infinity (1st Core)</p>
-
-!!! note
-    Ideal Order from F1-F7: Double Ego Start for Ascension, grab Entwined [P] or Rodent [V] by F3, complete Mobius 1st Core by F4 with Entwined, Rodent, Lip Poison, take either Dead [X] or Unknown [X] or Ravenousness by F5, then go shop, grab Aponia's Ultimate and 70 Initial Load or SP Regen with +2 from 3* Rememb Sigil Abuse. Take Sakura's TDM or TDM Taken or Kalpas TDM, then finish Aponia 2nd Core by F7.
-
-Signet | Priority
------- | :----:
-**Entwined [P]:** :For every summoned entity, ELF, or Support Valkyrie present, enemies take 8% bonus Total DMG (5 stacks max) | 1st
-**Rodent [V]**: For every summoned entity, ELF, or Support Valkyrie present, Valkyrie deals 10% bonus Total DMG (5 stacks max). | 2nd
-**Lip Poison [E]:** Total DMG from summoned entities, ELFs, and Support Valkyries increases by 60%. ELFs | 3rd
-**Lodging [C]:** ELF Ultimates and Support Valkyries' support skills have 20% reduced CD | Optional 4th
-**Nexus Signet 1: Infinite [X]** |
-**Dead [X]**: For every second in Mind Sync, Valkyrie herself, summoned entities, ELFs, and Support Valkyries deal 10% bonus Total DMG. 5 stacks max. 9 stacks max with any summoned entity present. Reset on exiting Mind Sync | 1st
-**Unknown [X]**: Triggering Mind Sync again during Mind Sync reduces the CD of ELF Ultimates and Support Valkyries' support skills by 2s. With any summoned entity present, the CDs are reduced by 2s additionally. This effect can only be triggered once per 4s. | Optional 2nd
-
-!!! note
-    Dead [X]'s impact is mainly from being a ramping up buff, so it's not so much of a problem to not get it early on, meanwhile Unknown [X] is a good choice to take in case you don't manage to get Dead [X]. Also, Dead [X] is really high priority to upgrade to +3.
-
-
-####<p align="center">Aponia - Signet of Discipline (2nd Core)</p>
-
-Signet | Priority
-- | :----:
-**First, No Betrayal**: Exhortation increases by 5 per second and caps at 200. Basic ATK's Total DMG increases by 0.3% of Exhortation. Triggering Ultimate Evasion Skill reduces 50% Exhortation. | 1st
-**Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 2nd
-**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 3rd
-**Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | 4th
-**Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
-**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | 2nd
-**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 2nd
-**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 3rd
-
-!!! note
-    Both Ultimate and Basic ATK are priority to upgrade to +3. Do play around both Restrictions, make sure to always let the Adaptive DMG hit.
-
-####<p align="center">Griseo - Signet of Stars (3rd Core)</p>
-
-Signet | Priority
-- | :----:
-**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st
-**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | 2nd
-**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 3rd
-**Grey & Empty**: Enemies stay tainted for 5s longer. | 4th
-**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 5th
-**Nexus Signet 2: Faded Stars** |
-**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 1st
-**Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 2nd
-**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | 3rd
-
-!!! note
-    Red is absolute highest priority to +3. Yellow is also good to +3. Getting Grey is essential.
-
-####<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
-
-Signet | Priority
-- | :----:
-**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
-**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
-**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 3rd
-**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 4th
-**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** | Optional
-
-!!! note
-    Kalpas is best gotten from Felis Shop. Getting core is not necessary.
-
-####<p align="center">Sakura - Signet of Setsuna (Felis Shop Signets)</p>
-
-Signet | Priority
-- | :----:
-**Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s. | 1st
-**Bountiful Blossom: Botan**: Triggering Ultimate Evasion Skill boosts Total DMG by 40% for 8s. | 2nd
-**Bountiful Blossom: Ayame**: Triggering Ultimate Evasion Skill restores 12.0 bonus SP. | 3rd
-**Nexus Signet 1: Setsuna Blade: Sakura ni Maku** | Optional
-
-!!! note
-    Sakura is best gotten from Felis Shop. Either of her cores are useless for Mobius.
-
-### <p align="center">-- Non-Kevin Build</p>
-
-!!! note
-    Updated for 6.1. This build has less dependancy on Kevin's short-lived buffs, instead having consistent buffs that stay present throughout whole floors, even outside of Ultimate.
-
-> Boss to be Chosen: Hephaestus, then Aponia or Vill-V
-
-!!! note
-    Aponia is preferred.
-
-####<p align="center">Setup</p>
-
-Rank | Difficulty Done | Recommended Gear | Clear Time | Run
-:----: | :----: | :----: | :----: | :----:
-S0 | Finality | Basilisk & Linnaeus | 4:57 (Updated, 6.0 2nd Half) | [https://youtu.be/4XkouMCLSOc](https://youtu.be/4XkouMCLSOc)
-S0 | Finality | Basilisk & Linnaeus | 6:02 (Updated, 6.0 1st Half) | [https://youtu.be/A0fgY7_m4c4](https://youtu.be/A0fgY7_m4c4)
-
-!!! note
-    This build is downscaleable with lower clear times and lower gear requirement. You don't necessarily have to do Finality, as such, with lower difficulties, you'll either have faster, about the same or lower clear time depending on your gear requirement. Even without Linnaeus, Mobius should be fine and able to clear in lower difficulties.
-
-Buff | Load
-:----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
-
-!!! note
-    Effective for 6.1 2nd Half.
-
-Time | Remembrance Sigil | FC Support Skill
-:----: | :----: | :----:
-Early | Forbidden Seed | Boundless Logos
-Mid | Memory / Mad King's Mask / Rainbow of Absence / Home Lost | Boundless Logos
-Late | The First Scale or Key to the Deep | Boundless Logos
-
-Time | Support 1 | Support 2
-:----: | :----: | :----:
-Early | AE | BR or LE
-Mid | AE | BR/LE or BKE
-Late | AE | BR or LE
-
-!!! note
-    BR if your damage is a little lacking, particularly in early floors before Mobius 1st Core. LE is the comfier option due to eliminating the possibility of dealing with downtime outside Ult.
-
-!!! note
-    BKE is only for the purposes of filling Heimdall's Heavy Trauma Bar, forcefully ending his Red Mode.
-
-####<p align="center">Elysia - Signet of ■■</p>
-
-Signet | Priority
-------|:----:
-**Blessing of Dark Assault**: Basic/Charged/Combo ATKs deal 40% bonus Lightning DMG. Linked enemies hit by Basic/Charged/Combo ATKs pass on 12% of the DMG to other linked enemies | **Start**
-**Blessing of Ill Fortune**: Ultimate deals 240% bonus Lightning DMG. Every Genesis Seed consumed reduces Ultimate CD by 0.5s | **Start**
-**Blessing of Ascension**: When Umbra of Ouroboros is active, enemies are struck by lightning once per second and take 600% ATK of Lightning DMG (DMG source: Basic ATK) | 1st
-**Blessing of Ravenousness**: Exiting submerged mode deals 1600% ATK of AOE Lightning DMG and enemies hit take 30% bonus Combo ATK DMG in the next 5s (independent effect) | 2nd
-**Blessing of Mirage**: In submerged mode, enemies in contact take 200% ATK of Lightning DMG per and take 35% bonus Total DMG for 8s | No
-
-!!! note
-    Dark Assault + Ill Fortune is all Mobius needs to clear, however, to make her way stronger, you can do Double Ego start to take Ascension. Ravenousness is also a very good choice to consider taking if you get a 4th Ego door.
-
-####<p align="center">Mobius - Signet of Infinity (1st Core)</p>
-
-!!! note
-    Ideal Order from F1-F7: Double Ego Start for Ascension, grab Entwined [P] or Rodent [V] by F3, complete Mobius 1st Core by F4 with Entwined, Rodent, Lip Poison, take either Dead [X] or Unknown [X] by F5, then go shop, grab 2 Hua signets and 1 Kalpas signet and get a Hua door for F6 to complete her 2nd Core, swap Forbidden Seed out for Mad King's Mask, complete Kalpas 2nd Core by F7
-
-Signet | Priority
------- | :----:
-**Entwined [P]:** :For every summoned entity, ELF, or Support Valkyrie present, enemies take 8% bonus Total DMG (5 stacks max) | 1st
-**Rodent [V]**: For every summoned entity, ELF, or Support Valkyrie present, Valkyrie deals 10% bonus Total DMG (5 stacks max). | 2nd
-**Lip Poison [E]:** Total DMG from summoned entities, ELFs, and Support Valkyries increases by 60%. ELFs | 3rd
-**Lodging [C]:** ELF Ultimates and Support Valkyries' support skills have 20% reduced CD | Optional
-**Nexus Signet 1: Infinite [X]** |
-**Dead [X]**: For every second in Mind Sync, Valkyrie herself, summoned entities, ELFs, and Support Valkyries deal 10% bonus Total DMG. 5 stacks max. 9 stacks max with any summoned entity present. Reset on exiting Mind Sync | 1st or 2nd
-**Unknown [X]**: Triggering Mind Sync again during Mind Sync reduces the CD of ELF Ultimates and Support Valkyries' support skills by 2s. With any summoned entity present, the CDs are reduced by 2s additionally. This effect can only be triggered once per 4s. | 1st or 2nd
-
-!!! note
-    Dead [X]'s impact is mainly from being a ramping up buff, so it's not so much of a problem to not get it early on. Unknown [X] has good use due to being able to spam AE and most importantly VC.
-
-####<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
-
-Signet | Priority
-----| :----:
-**Old Dreams Again**: Elemental Breach increases by 0.6% per second | 1st
-**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 2nd
-**Dark Garb No More**: Elemental DMG increases by 0.8% per second | 3rd
-**Nexus Signet 2: Suffering Mass** |
-**Broken Dream**: When possessing Soldier's Remembrance., increase the maximum stack of normal Vicissitude signets by 20 | Optional
-
-!!! note
-    Hua is the best 2nd Core to get from testing results, contesting very hard with Kalpas2. The reason is due to Mobius lacking breach, which becomes even more evident if you leave it for in exchange to getting Griseo done.
-
-####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
-
-Signet | Priority
-- | :----:
-**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
-**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
-**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
-**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
-
-####<p align="center">Griseo - Signet of Stars (4th Core)</p>
-
-Signet | Priority
-- | :----:
-**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st, YES
-**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | 2nd
-**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 3rd
-**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 4th
-**Nexus Signet 2: Faded Stars** |
-**Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 1st
-**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 2nd
-**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | 3rd
-
-!!! note
-    Red & Hot is the absolute first priority. But also, be mindful of what paints you get. Blue is essential to be able to use Petals in the Wind and Fallen Leaves.
-
-####<p align="center">Sakura - Signet of Setsuna (Felis Shop Signets)</p>
-
-Signet | Priority
-- | :----:
-**Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s. | 1st
-**Bountiful Blossom: Botan**: Triggering Ultimate Evasion Skill boosts Total DMG by 40% for 8s. | 2nd
-**Bountiful Blossom: Fuji**: Ultimate Evasion Skill has 1 more charge and 10% reduced CD. | 3rd
-**Nexus Signet 1: Setsuna Blade: Sakura ni Maku** | Not Necessary
-
-!!! note
-    Sakura signets are better picked off from shop and nothing else.
-
 ***
 
 ## Luna Kindred
@@ -4485,7 +4487,7 @@ Signet | Priority
 ## Midnight Absinthe (7D HoDom)
 Quick search: MA, Raven, Natasha Cioara
 
-![Bartender Raven stealin mah heart](https://elysian-realm.vercel.app/valkyries/midnight-absinthe.webp)
+![A attractive bird.](https://user-images.githubusercontent.com/114035701/203186211-86f5efc5-5953-476b-8c07-b28b049c55b7.png)
 
 ### <p align="center">-- Who needs IMG Weather?</p>
 
@@ -4613,7 +4615,7 @@ Signet | Priority
 ## Miss Pink Elf
 Quick Search: MPE, Elysia, Maid
 
-![Mommy? Mommy? sorry mommy. sorry sorry. yes mommy](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2022/01/08/00/27/50/95371062_p0_master1200.jpg)
+![Mommy? Mommy? sorry mommy. sorry sorry. yes mommy](https://user-images.githubusercontent.com/114035701/203184068-59923934-6591-48bd-b557-e03e05d3cb69.png)
 
 ###<p align="center">-- Miss Elysia Build 7D</p>
 
@@ -4872,7 +4874,7 @@ Signet | Priority
 ## Prinzessin der Verurteilung 
 Quick Search: PV, Fischl, Genshin, Oz
 
-![what can I say... she's cute, lv90 and was my main... no lood bareback btw smhsmh bonk](https://cdn.discordapp.com/attachments/967717692465365133/982328610830565456/fischl_genshin_impact_drawn_by_raiya_atelier__sample-f6a310e955ffcff6fe112b15b37914c7.jpg)
+![I swear to god she should get her Immernatreich outfit here in Honkai.](https://user-images.githubusercontent.com/114035701/203184761-6117ecc4-ce79-4a0b-890a-866b153601d2.png)
 
 ### <p align="center">-- General Build 7D</p>
 
@@ -5129,7 +5131,7 @@ Signet | Priority
 ## Reverist Calico 7D
 Quick search: RC, Neko, Cat, Pardo, Phyllis, Pardofelis
 
-![ok /srs, is this too lewd lmao. i rlly love this picture thoo](https://images-ext-1.discordapp.net/external/MqPd0RGKekUaBfA96jgtSJUPjPurqhqFWeEtBnx3izw/%3Fillust_id%3D97049680/https/embed.pixiv.net/decorate.php)
+![Truly the Herrscher of Coverage](https://user-images.githubusercontent.com/114035701/203186013-14223e00-1c09-46f6-af4b-0c76c15108b6.png)
 
 ### <p align="center">-- Pardo1 Variation 7D</p>
 
@@ -5533,7 +5535,7 @@ Signet | Priority
 ## Silverwing N-EX
 Quick search: SW, booba bronya, Hold-A
 
-![boobnya~ u wish u were that chair don't u](https://media.discordapp.net/attachments/977869364067987466/977969902038155314/108ba30c70292d8e89a4104f52ffae43a9a0b95b.jpeg?width=474&height=671)
+![Boobnya~ U wish u were that chair don't u](https://user-images.githubusercontent.com/114035701/203185560-7d624a22-c33a-4ef8-887d-b6bbbb5cc192.png)
 
 ### <p align="center">-- Tap and Hold A, Watch Youtube</p>
 
@@ -5653,7 +5655,7 @@ Signet | Priority
 ## Spina Astera
 Quick search: SpA, Rita, Fire Rita
 
-![I wish she could be my maid zzz... ahem no thirst i swear](https://cdn.discordapp.com/attachments/967717692465365133/982328632544489502/rita_rossweisse_and_rita_rossweisse_honkai_and_1_more_drawn_by_pillo__sample-98c9db220fdca44c0983ee59be210e8e.jpg)
+![I wish she could be my maid zzz... ahem no thirst i swear](https://user-images.githubusercontent.com/114035701/203186093-49c9fb7d-fe63-43be-a5d5-1b0e5dba41cd.png)
 
 ### <p align="center">-- Rita's Training Arc 7D</p>
 
@@ -5894,7 +5896,7 @@ Signet | Priority
 ## Starchasm Nyx
 Quick search: Seele
 
-![SHE LOOKS SO PRETTY IK](https://elysian-realm.vercel.app/valkyries/starchasm-nyx.webp)
+![SHE LOOKS SO DAMN PRETTY RIGHT?](https://user-images.githubusercontent.com/114035701/203184984-fc38e325-b65d-4a34-8aad-a1145a37e199.png)
 
 ### <p align="center">-- Veliona Tries to Survive</p>
 
@@ -6023,7 +6025,7 @@ Signet | Priority
 ## Starry Impression
 Quick Search: SI, Griseo, Grisekek, Painter, Bob Ross
 
-![A painting of a painter. Ain't it nice?](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2022/06/04/19/51/40/98823766_p0_master1200.jpg)
+![A painting of a painter. Ain't it nice?](https://user-images.githubusercontent.com/114035701/203185750-305f181a-4a12-4790-9eb6-10c8beaa26d3.png)
 
 ### <p align="center">-- Griseo Aboose 7D</p>
 
@@ -6281,7 +6283,7 @@ Signet | Priority
 ## Stygian Nymph 
 Quick search: SN, Saule, SNoDamage
 
-![Vercel SN](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2020/06/15/13/18/35/82340123_p0_master1200.jpg)
+![SN Tier. Yes. She has her own tier.](https://user-images.githubusercontent.com/114035701/203184882-e84531a4-4c17-4d2e-8aef-869cb1b0d7aa.png)
 
 ### <p align="center">-- [SS] Veliona After PTSD 7D</p>
 
@@ -6644,7 +6646,7 @@ Signet | Priority
 ## Twilight Paladin
 Quick search: TP, Teri, Theresa
 
-![wldnt mind her stepping on me, lemme be ur leg rest](https://cdn.discordapp.com/attachments/967717692465365133/982328710462050374/yande.re_696296_sample_armor_benghuai_xueyuan_heels_honkai_impact_horns_shijiuqaq_theresa_apocalypse_thighhighs.jpg)
+![Wouldn't mind her stepping on me, lemme be ur leg rest](https://user-images.githubusercontent.com/114035701/203185886-15e3023f-8e3e-496c-88c4-b5b8f1939218.png)
 
 ### <p align="center">-- Teri's Struggles</p>
 
@@ -6958,33 +6960,35 @@ Zero Blade#5805: avoids it as his bad reputation is to be kept untouched
 
 **Picture Credits:**
 
-1. [Argent Knight: Artemis](https://pixiv.net/en/artworks/91766001)
-2. [Bright Knight: Excelsis](https://pixiv.net/en/artworks/80946649)
+1. [Argent Knight: Artemis](https://www.pixiv.net/en/artworks/96290976)
+2. [Bright Knight: Excelsis](https://www.pixiv.net/en/artworks/81986704)
 3. [Dea Anchora](https://www.pixiv.net/en/artworks/90947488)
-4. [Disciplinary Perdition](https://www.pixiv.net/en/artworks/98398549)
-5. [Fallen Rosemary](https://www.pixiv.net/en/artworks/90487581)
+4. [Disciplinary Perdition](https://twitter.com/honkaiimpact3rd/status/1521670952865701888)
+5. [Fallen Rosemary](https://www.pixiv.net/en/artworks/84147101)
 6. [Fervent Tempo: Delta](https://www.pixiv.net/en/artworks/93250091)
-7. [Golden Diva](https://www.pixiv.net/en/artworks/98058332)
+7. [Golden Diva](https://bbs.mihoyo.com/bh3/article/20943121)
 8. [Goushinnso Memento](https://www.deviantart.com/billcarl8/art/Honkai-Impact-3-Live-Wallpaper-Free-757179955)
-9. [Herrscher of Flamescion](https://www.pixiv.net/en/artworks/91289343)
-10. [Herrscher of Reason](https://www.pixiv.net/en/artworks/76766584)
-11. [Herrscher of Sentience](https://www.pixiv.net/en/artworks/88230961)
-12. [Herrscher of Thunder](https://pixiv.net/en/artworks/92120105)
-13. [Jade Knight](https://www.pixiv.net/en/artworks/95438192)
-14. [Infinite Ouroboros](https://www.pixiv.net/en/artworks/94162385)
-15. [Luna Kindred](https://pixiv.net/en/artworks/70384862)
-16. [Midnight Absinthe](https://pixiv.net/en/artworks/90148463)
-17. [Miss Pink Elf](https://pixiv.net/en/artworks/95371062)
-18. [Palatinus Equinox](https://www.pixiv.net/artworks/96196806)
-19. [Prinzessin der Verurteilung](https://www.pixiv.net/artworks/98349647)
-20. [Reverist Calico](https://www.pixiv.net/en/artworks/97049680)
-21. [Ritual Imayoh](https://pixiv.net/en/artworks/79702200)
-22. [Silverwing N-EX](https://pixiv.net/en/artworks/95053289)
-23. [Spina Astera](https://twitter.com/Pillo_0000/status/1498568728165773315)
-24. [Starchasm Nyx](https://pixiv.net/en/artworks/92462642)
-25. [Starry Impression](https://www.pixiv.net/en/artworks/98823766)
-26. [Striker Fulminata](https://pixiv.net/en/artworks/80586473)
-27. [Stygian Nymph](https://pixiv.net/en/artworks/82340123)
-28. [Sweet 'n' Spicy](https://www.pixiv.net/en/artworks/93538694)
-29. [Twilight Paladin](https://pixiv.net/en/artworks/77212815)
-30. [Valkyrie Gloria](https://pixiv.net/en/artworks/80022875)
+9. [Herrscher of Flamescion](https://www.artstation.com/artwork/ea8NbX)
+10. [Herrscher of Humanity](https://twitter.com/kiwiiri/status/1557674965133955073)
+11. [Herrscher of Reason](https://www.pixiv.net/en/artworks/76766584)
+12. [Herrscher of Sentience](https://www.pixiv.net/en/artworks/87488958)
+13. [Herrscher of Thunder](https://www.pixiv.net/en/artworks/83295893)
+14. [Herrscher of Void](https://bbs.mihoyo.com/bh3/article/15211537)
+15. [Infinite Ouroboros](https://www.pixiv.net/en/artworks/98253306)
+16. [Jade Knight](https://static.zerochan.net/Li.Sushang.full.3769418.png)
+17. [Luna Kindred](https://pixiv.net/en/artworks/70384862)
+18. [Midnight Absinthe](https://www.pixiv.net/en/artworks/79351986)
+19. [Miss Pink Elf](https://www.artstation.com/artwork/oA3GZk)
+20. [Palatinus Equinox](https://www.pixiv.net/artworks/96196806)
+21. [Prinzessin der Verurteilung](https://www.pixiv.net/en/artworks/98494848)
+22. [Reverist Calico](https://www.pixiv.net/en/artworks/97265063)
+23. [Ritual Imayoh](https://pixiv.net/en/artworks/79702200)
+24. [Silverwing N-EX](https://www.pixiv.net/en/artworks/98011571)
+25. [Spina Astera](https://twitter.com/retty9349/status/1500003174891065345)
+26. [Starchasm Nyx](https://www.pixiv.net/en/artworks/89346170)
+27. [Starry Impression](https://www.pixiv.net/en/artworks/98799746)
+28. [Striker Fulminata](https://pixiv.net/en/artworks/80586473)
+29. [Stygian Nymph](https://twitter.com/honkaiimpact3rd/status/1432689634660683777)
+30. [Sweet 'n' Spicy](https://www.pixiv.net/en/artworks/93538694)
+31. [Twilight Paladin](https://www.pixiv.net/en/artworks/92772601)
+32. [Valkyrie Gloria](https://pixiv.net/en/artworks/80022875)
