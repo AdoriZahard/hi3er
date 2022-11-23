@@ -1943,7 +1943,7 @@ Signet | Priority
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
 S1 | Finality | DoEgo & 3-set Pristine | 4:12m (6.0 1st Half) | [https://youtu.be/OdJ-aHcehW0](https://youtu.be/OdJ-aHcehW0)
-S2 | Finality | CoC & Scott TM Rasp B | 7:39m (6.1 2nd Half) | Run to be Added on YT
+S2 | Finality | CoC & Scott TM Rasp B | 7:39m (6.1 2nd Half) | [https://youtu.be/CxXYamDEaMw](https://youtu.be/CxXYamDEaMw)
 
 !!! note 
     This build is downscaleable with lower clear times and lower gear requirement. 
