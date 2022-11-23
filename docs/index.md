@@ -41,7 +41,7 @@ Please note that this is only true for there reward scores, and not the actual p
 > Click [here](https://rentry.co/thebuttererguide) for more information on how to ER more efficiently.
 
 ## Update log
-- 2022-11-22: Updated HoE's Ballista Build
+- 2022-11-22: Updated HoE's Build
 - 2022-11-21: Updated every Valkyrie builds' recommended Load Buffs to current 6.1 2nd Half Weather. Updated almost all of the Valkyries' Images and their source. Updated HoE/HoH's Ultimate Build
 - 2022-11-20: Added 1 new build with 3 distinct runs for Mobius.
 - 2022-11-17: Added LWH Thales (F2P) run for HoFS Starfire Build. Added SS2+ Build for FR. Added new build for Mobius with Aponia signets.
@@ -1945,8 +1945,11 @@ Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 S1 | Finality | DoEgo & 3-set Pristine | 4:12m (6.0 1st Half) | [https://youtu.be/OdJ-aHcehW0](https://youtu.be/OdJ-aHcehW0)
 S2 | Finality | CoC & Scott TM Rasp B | 7:39m (6.1 2nd Half) | [https://youtu.be/CxXYamDEaMw](https://youtu.be/CxXYamDEaMw)
 
+!!! danger
+    Please do note that normally, Vill-V would also be included in Ballista build. However, specifically for the F2P Run using CoC & Scott TM Rasp B, I haven't used Vill-V at all, with the reason being playing around charging V-V support skill being a bit hard to play around properly alongside its buffs and the fact that if it's not DoEgo, HoE doesn't have 3 Actives instead of 2. In better geared runs, this build will use Vill-V.
+
 !!! note 
-    This build is downscaleable with lower clear times and lower gear requirement. 
+    HoE's downscalability is amazing by being able to clear really easily. Do not upgrade CoC for "better chances", use another bow like Whisper of the Past, Key of Ego or Mitternachts.
 
 Buff | Load
 :----: | :----: 
