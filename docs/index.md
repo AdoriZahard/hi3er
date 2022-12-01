@@ -41,6 +41,7 @@ Please note that this is only true for there reward scores, and not the actual p
 > Click [here](https://rentry.co/thebuttererguide) for more information on how to ER more efficiently.
 
 ## Update log
+- 2022-12-01: Updated 2 Builds
 - 2022-11-22: Updated HoE's Build
 - 2022-11-21: Updated every Valkyrie builds' recommended Load Buffs to current 6.1 2nd Half Weather. Updated almost all of the Valkyries' Images and their source. Updated HoE/HoH's Ultimate Build
 - 2022-11-20: Added 1 new build with 3 distinct runs for Mobius.
@@ -2677,10 +2678,10 @@ Signet | Priority
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-S | Finality | Senpri & 3-Set Shattered Swords | 8:34 (Updated 6.0 1st Half) | [https://youtu.be/YjfVFkgrusA](https://youtu.be/YjfVFkgrusA)
+S | Finality | Senpri & 3-Set Shattered Swords | 8:13 (6.1 2nd Half) | [https://www.youtube.com/watch?v=OobCxF58Ps4](https://www.youtube.com/watch?v=OobCxF58Ps4)
 
 !!! note
-    This build is downscaleable with lower clear times and lower gear requirement. You don't necessarily have to do Finality, as such, with lower difficulties, you'll either have faster, about the same or lower clear time depending on your gear requirement. This is also the 3rd in ranking of strength, only do it for fun.
+    In terms of downscalability, HoS is straight up horrible the worse her gears are, and even more noticeable when she isn't getting any Crit Rate at all from them. HoS already suffers from an horribly low Crit Rate, and you can expect a warm welcome from... an ocean of blue numbers... if not using either Sswords or SirinA (Sswords 10x times better)
 
 Buff | Load
 :----: | :----: 
@@ -2693,8 +2694,8 @@ For every 60 SP restored, Total DMG received by enemies on the field increases b
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
 Early | Veil of Tears | The Lonely Moon
-Mid | Fragile Friend | Out of Reach
-Late | Key to the Deep | Out of Reach
+Mid | Fragile Friend / Mad King's Mask / Rainbow of Absence | Out of Reach OR The Lonely Moon
+Late | Tin Flask or Key to the Deep | Out of Reach OR The Lonely Moon
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
@@ -2703,22 +2704,25 @@ Mid | SS | BR or BKE
 Late | SS | BR
 
 !!! note
-    BKE is only for the purposes of filling Heimdall's Heavy Trauma Bar, forcefully ending his Red Mode.
+    You can swap BR out for BK before Heimdall fight.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
 **Blessing of Victory**: In Herrscher Form, Combo ATK: Slashes can have up to 18 slashes. After reaching 7 slashes, every slash deals 600% ATK of Physical DMG. | **Start**
-**Blessing of Ego**: Casting Combo ATK summons an illusion (summoned entity) to replicate the attack. In Herrscher Form, the illusion only replicates the slashes each dealing 105% ATK of Physical DMG. The illusion has 400% of the Valkyrie's ATK. | No
 **Blessing of Dark Plumes**: Combo ATK restores 1 SP on hit and unleashes a plume attack on hit that deals 150% ATK of Physical DMG. CD: 0.5s | 1st
-**Blessing of Supremacy**: Shield: I'm Untouchable absorbs 100% of DMG taken and deals 5000% ATK of Physical DMG to enemies within 8 metres when it ends or resets. | Optional
-**Blessing of Legion**: Sword, spear and chain combo attacks restore 300 sword, spear and chain energy respectively and boost Total DMG by 60% for 8s. | No
+**Blessing of Supremacy**: Shield: I'm Untouchable absorbs 100% of DMG taken and deals 5000% ATK of Physical DMG to enemies within 8 metres when it ends or resets. | Optional 2nd
+**Blessing of Legion**: Sword, spear and chain combo attacks restore 300 sword, spear and chain energy respectively and boost Total DMG by 60% for 8s. | Optional 3rd
+**Blessing of Ego**: Casting Combo ATK summons an illusion (summoned entity) to replicate the attack. In Herrscher Form, the illusion only replicates the slashes each dealing 105% ATK of Physical DMG. The illusion has 400% of the Valkyrie's ATK. | No
 
 !!! note
-    This build only requires 2, Victory and Dark Plumes. Rerolling for double start with Dark Plumes is essential as you otherwise will have to deal with SP regen problems without it. If you get a 3rd Ego door during your run, you can take Supremacy for an even smoother run.
+    The normal, standard starter signets for HoS are Victory into Dark Plumes. This specific run uses Legion, which doesn't really have any difference. Just go Dark Plumes instead, it will give better results. Supremacy is also strongly recommended to take.
 
 ####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
+
+!!! note
+    Ideal Order from F1-F7: Double Ego Start (Victory + Dark Plumes) into Aponia Ultimate (SP Regen if Legion) F3, finish Aponia 2nd Core by F4, grab Aponia's Penance (TDM Taken first if Legion) at F5, go shop F6 and grab Kosma's Ultimate, Shieldbreak and Ultimate Evasion in order, can also grab Griseo's Red and Yellow but as long as you have Shieldbreak and means of applying Rend you'll be good to go. Finish Kosma 2nd Core by F7.
 
 Signet | Priority
 - | :----:
@@ -2726,28 +2730,29 @@ Signet | Priority
 **Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 2nd
 **Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 3rd
 **Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
-**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | YES
-**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | Optional
+**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 1st
+**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 2nd
 **You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | Filler
 
 !!! note
-    After Apo2 core, what follows is Kosma and Kalpas cores. Explanation in their respective sections.
+    Ultimate is high priority to +3. The reason you don't take Breach here is because of the 75% existing Impair that HoS already provides in her Ultimate. You'll basically be losing some value out of it.
 
 ####<p align="center">Kosma - Signet of Daybreak (2nd Core)</p>
 
 Signet | Priority
 - | :----:
-**Talons that Desecrate the Sanctuary**: Basic/Combo/Charged ATKs inflict a stack of Rend on hit, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. Stacking CD: 1s. | 1st
-**Horns that Rip the Bleak Sky**: Ultimate inflicts 15 stacks of Rend on all enemies, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. CD: 15s. | 2nd
+**Horns that Rip the Bleak Sky**: Ultimate inflicts 15 stacks of Rend on all enemies, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. CD: 15s. | 1st
+**Eyes that Overlook the Vicious Abyss**: Each stack of Rend on enemies makes Valkyries deal 10% bonus DMG to their shields. | 2nd
 **Wings that Mask the Sanguine Moon**: Ultimate Evasion Skill inflicts 15 stacks of Rend on all enemies, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. CD: 15s. | 3rd
-**Heart that Commited Seven Crimes**: Rend lasts 5s longer. | 4th, YES
+**Talons that Desecrate the Sanctuary**: Basic/Combo/Charged ATKs inflict a stack of Rend on hit, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. Stacking CD: 1s. | 4st
+**Heart that Commited Seven Crimes**: Rend lasts 5s longer. | 5th
 **Nexus Signet 2: Daybreak, Lone Beacon** |
 **Heart, Unshakable Character**: Each stack of Rend on Valkyrie makes her deal 1.5% more Physical and Elemental DMG. | 1st
 **Choice, Ensuing Regret**: When Combo and Charged ATKs hit, unleash Righteous Retribution once, dealing 3000% ATK of Adaptive DMG to nearby enemies as well as restoring 0.5% of HP for each stack of Rend on Valkyrie. CD: 10s. | Optional
 **Dawn, Perpetual Wait**: While Rended, recovering HP reduces Total DMG taken by 1% each time upto 30%, and losing HP increases Physical and Elemental Breach by 2% each time up to 30%. | Filler
 
 !!! note
-    Ensuing Regret takes priority only and only if you get Kalpas2 and you're going to get his Enhanceds, mainly his breach or the adaptive dmg. Otherwise Perpetual Wait is always the choice over this as it'll be more consistent and Kalpas2 is usually left for later floors. Be advised though, that these are not recommended to look after unless you have no choice due to RNG.
+    Phys/Elem DMG is high priority to +3. Can also upgrade Basic ATK to +3. The Healing signet is good to consider if you do take Kalpas' enhanceds (Which you shouldn't anyway).
 
 ####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
 
@@ -2762,21 +2767,9 @@ Signet | Priority
 **Hometown, Homeland, Friends, and Acquaintances**: The cap of Bloodboil Armor charges increases by 500. At over 1500 charges, Bloodboil Armor grants 25% Physical and Elemental Breach. | Filler
 
 !!! note
-    Kalpas Enhanceds are only to pair together with Kosma's Ensuing Regret, otherwise don't bother.
+    If you're not gonna take Kosma's healing, just don't bother taking Kalpas' enhanceds. They can be ignored.
 
-####<p align="center">Pardofelis - Signet of Reverie (4th Core)</p>
-
-Signet | Priority
-- | :----:
-**Motto of Meow**: Every 100 Shiny Silvers obtained this round boost Total DMG by 1%. | 1st
-**Back-Curled Tail**: Every 100 Shiny Silvers obtained this round boost Physical and Elemental DMG by 0.8%. | 2nd
-**Neighborhood Chatters**: Every 100 Shiny Silvers obtained this round boost max HP by 25 and max SP by 1. | 3rd
-**Nexus Signet 1: Empty Dreams, Self, Set, and Joy**: |
-
-!!! note
-    Pardofelis has amazing synergy with Kalpas for the purposes of increasing the max HP and thus getting more boosts out of his buffs.
-
-####<p align="center">Griseo - Signet of Stars (5th Core)</p>
+####<p align="center">Griseo - Signet of Stars (4th Core)</p>
 
 Signet | Priority
 - | :----:
@@ -2784,11 +2777,19 @@ Signet | Priority
 **Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | 2nd
 **Grey & Empty**: Enemies stay tainted for 5s longer. | 3rd
 **Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 4th
-**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | Optional 5th
+**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 5th
 **Nexus Signet 2: Faded Stars** |
+**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 1st
+**Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 2nd
 
 !!! note
-    Griseo signets are better bought from Felis shop. There's no need to finish 2nd Core. But nevertheless her signets provide a good help for this build.
+    The moment you get any of the basic paints from Griseo, the gameplay changes. It's essential to save the wep active and UE skill to time them together with her Ultimate. Taint Extension is also very crucial for this, as the ++2 alone will increase the duration from 8s to 15s, making up for an entire ult duration of 2 complete series of Victory Slashes.
+
+####<p align="center">Pardofelis - Signet of Reverie (Felis Shop Signets)</p>
+
+Signet | Priority
+- | :----:
+**Neighborhood Chatters**: Every 100 Shiny Silvers obtained this round boost max HP by 25 and max SP by 1. | 1st
 
 ***
 
@@ -3225,7 +3226,7 @@ Quick Search: HoV, Salty Tuna, Sirin
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-SSS | Finality | DoV & 3-set Sirin Ascendant | 3:57m (Updated 6.0, 2nd Half) | [https://youtu.be/fPhUSG4sug8](https://youtu.be/fPhUSG4sug8)
+SSS | Finality | DoV & 3-set SirinA | 7:37m (6.1 2nd Half) | [https://youtu.be/v1ucplqx8lw](https://youtu.be/v1ucplqx8lw)
 SSS | Finality | DoV & 3-set Elysia | 6:33m (Updated, 6.0 1st Half) | [https://youtu.be/m9ODUGWtI-8](https://youtu.be/m9ODUGWtI-8)
 SSS | Finality | DoV & 3-set Mich TB Polo M | 9:53m (2nd Half 5.9) | [https://youtu.be/5iB58b-fAQQ](https://youtu.be/5iB58b-fAQQ)
 S3 | Finality | Lv55 DoV & Sirin Ascendant | 7:26 (6.0 1st Half) | [https://youtu.be/oMdHkVnh7bE](https://youtu.be/oMdHkVnh7bE)
@@ -3812,6 +3813,7 @@ Quick search: Li Sus, Sushang, JK, Sussy
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
 SS0 | Finality | Nocturnal & Shenzhou | 3:37 (6.1 1st Half) | [https://youtu.be/Pld1F3JfVbw](https://youtu.be/Pld1F3JfVbw)
+S0 | Finality | GTX & Scott | 7:21 (6.1 2nd Half) | [https://youtu.be/CrV88ixC8S4](https://youtu.be/CrV88ixC8S4)
 
 !!! danger
     Sus is a pretty strong valkyrie in her own right, and her downscalability is one of the best amongst the available valkyries in ER.
