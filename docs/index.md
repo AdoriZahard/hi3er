@@ -3388,11 +3388,10 @@ Signet | Priority
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-SSS | Finality | DoV & 3-set Sirin Ascendant | 5:25 (6.0, 2nd Half) | [https://youtu.be/0ZiDYsghgFM](https://youtu.be/0ZiDYsghgFM)
-SSS | Finality | DoV & 3-set Sirin Ascendant | 6:40 (Updated 6.0, 1st Half) | [https://youtu.be/Oi9dDp6xo5A](https://youtu.be/Oi9dDp6xo5A)
+SSS | Finality | DoV & 3-set Sirin Ascendant | 9:13m (6.1 2nd Half) | [https://youtu.be/HWuMK0FEXBE](https://youtu.be/HWuMK0FEXBE)
 
 !!! note
-    This build is downscaleable with lower clear times and lower gear requirement. You don't necessarily have to do Finality, as such, with lower difficulties, you'll either have faster, about the same or lower clear time depending on your gear requirement. However, do note that this valkyrie requires at least Keys of Void to be played in ER. Without her signature weapon, she can't stay in permanent Herrscher Mode.
+    Other than the amazing downscalability that this Valkyrie has in both Ranks and Gears, having either her Non-Pri or Pri signature weapon is a given. She needs it as a bare minimum to be playable in ER. Keep this in mind.
 
 Buff | Load
 :----: | :----: 
@@ -3416,7 +3415,7 @@ Mid | VC or BKE | SS
 Late | VC or BR | SS
 
 !!! note
-    VC for the entirety of the run remains surprisingly strong and a consistent buffer for HoV. BR is only recommended to take if you get Coleus from a 3rd Ego door during your run, and for the Heph F17 fight.
+    VC is a given for Early. She's also really helpful due to the 27% Ranged DMG Taken, so her buff impact is pretty significant. BK is recommended to put before Heimdall fight. As for BR, you can pretty much swap VC out for her, especially if you get Kalpas.
 
 !!! note
     BKE is only for the purposes of filling Heimdall's Heavy Trauma Bar, forcefully ending his Red Mode.
@@ -3433,7 +3432,7 @@ Signet | Priority
 **Blessing of Innateness**: Reduces CD of Ultimate Evasion Skill, weapon skill and Ultimate by 6s each when summoning Space Core. In Herrscher Form, Basic ATKs directly connect to SEQ 3 for a short duration after triggering Ultimate Evasion. | **Start**
 
 !!! note
-    Innateness is a must, Law is the core of this build. You can also take 3rd and 4th Ego doors, which would respectively be Coleus and Virtuality. They aren't needed, however they are nice to have, especially Coleus for the gather. Virtuality on the other hand lets you play safely.
+   Ideal course of build up: 2 Ego Start, Entwined [P] by F2, finish Mobius 1st Core by F4 with Rodent [V] and Lip Poison [E], go shop F6, grab Griseo's Red & Black and Sakura's TDM Taken, TDM or Fuji and swap Forbidden Seed to Rainbow of Absence, finish Griseo 2nd Core by F7
 
 ####<p align="center">Mobius - Signet of Infinity (1st Core)</p>
 
@@ -3451,7 +3450,7 @@ Signet | Priority
 **Unknown [X]**: Triggering Mind Sync again during Mind Sync reduces the CD of ELF Ultimates and Support Valkyries' support skills by 2s. With any summoned entity present, the CDs are reduced by 2s additionally. This effect can only be triggered once per 4s. | Optional
 
 !!! note
-    Dead [X] is an absolute must especially with downscaled gears as it makes up for a really significant buff to damage for the remainder of the run once you get it. Lodging and Unknown can be taken when downscaling or when no better options.
+    Dead [X] is an absolute must especially with downscaled gears as it makes up for a really significant buff to damage for the remainder of the run once you get it. It's also high priority to upgrade to +3. Lodging and Unknown can be taken when downscaling or when no better options.
 
 ####<p align="center">Griseo - Signet of Stars (2nd Core)</p>
 
@@ -3467,7 +3466,7 @@ Signet | Priority
 **Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 3rd
 
 !!! note
-    Red & Hot is the absolute first priority, followed by Yellow & Warm and Black & Dark. A Flame Extinguished is ideal 1st in this build due to ease of proc for finishing with Ultimate and because of the 40% Phys Def reduction, however if you end up missing one of the 3 paints, take one of the other 3 enhanceds according to which ones you have.
+    Red is highest priority to +3. Yellow can also be +3, good to consider. A Flame Extinguished is ideal 1st in this build due to ease of proc for finishing with Ultimate and because of the 40% Phys Def reduction, however if you end up missing one of the 3 paints, take one of the other 3 enhanceds according to which ones you have.
 
 ####<p align="center">Hua - Signet of Vicissitude (3rd Core)</p>
 
@@ -3481,6 +3480,8 @@ Signet | Priority
 
 !!! note
     Hua here is mainly for the unconditional Breach which you'll want to prioritize to upgrade. It is also the safest way to play HoV thanks to her shield, and especially as Kalpas2 + BR is used for this. Virtuality helps to offset this to some extent however, if you don't manage to get Hua's 2nd core in the run. 
+!!! note
+    Do the Remembrance Sigil Abuse preferably, look out getting Hua's Phys/Elem DMG and Phys Breach to +3.
 
 ####<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
 
