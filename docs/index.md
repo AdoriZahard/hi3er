@@ -12,7 +12,7 @@
 ***
 
 <p align="center">**Note: The number behind the Signet Name represents the core**</p>
-<p align="center">**Eg: Su2 = Su - Signet of Bodhi Core 2 (Dictum of Bodhi)**</p>
+<p align="center">**Eg: Aponia2 = Aponia - Signet of Discipline Core 2 (You Shall Receive Disciplines' Blessing)**</p>
 
 <p align="center">The signets are arranged in order of priority</p>
 
@@ -2077,6 +2077,7 @@ Quick Search: HoR, Bronya
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
+SS1 | Finality | SoE:W & 3-set Willows | 6:18m (6.1 2nd Half) | [https://youtu.be/HFMISsD5Tjw](https://youtu.be/HFMISsD5Tjw)
 SS1 | Finality | SoE:W & 3-set Ana Schariac | 7:57m (6.1 1st Half) | [https://youtu.be/WtWG29ySI7s](https://youtu.be/WtWG29ySI7s)
 
 !!! note 
@@ -2678,7 +2679,7 @@ Signet | Priority
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-S | Finality | Senpri & 3-Set Shattered Swords | 8:13 (6.1 2nd Half) | [https://www.youtube.com/watch?v=OobCxF58Ps4](https://www.youtube.com/watch?v=OobCxF58Ps4)
+S | Finality | Senpri & 3-Set Shattered Swords | 8:13 (6.1 2nd Half) | [https://youtu.be/OobCxF58Ps4](https://youtu.be/OobCxF58Ps4)
 
 !!! note
     In terms of downscalability, HoS is straight up horrible the worse her gears are, and even more noticeable when she isn't getting any Crit Rate at all from them. HoS already suffers from an horribly low Crit Rate, and you can expect a warm welcome from... an ocean of blue numbers... if not using either Sswords or SirinA (Sswords 10x times better)
@@ -3227,8 +3228,8 @@ Quick Search: HoV, Salty Tuna, Sirin
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
 SSS | Finality | DoV & 3-set SirinA | 7:37m (6.1 2nd Half) | [https://youtu.be/v1ucplqx8lw](https://youtu.be/v1ucplqx8lw)
-SSS | Finality | DoV & 3-set Elysia | 6:33m (Updated, 6.0 1st Half) | [https://youtu.be/m9ODUGWtI-8](https://youtu.be/m9ODUGWtI-8)
-SSS | Finality | DoV & 3-set Mich TB Polo M | 9:53m (2nd Half 5.9) | [https://youtu.be/5iB58b-fAQQ](https://youtu.be/5iB58b-fAQQ)
+SSS | Finality | DoV & 3-set Elysia | 6:33m (6.0 1st Half) | [https://youtu.be/m9ODUGWtI-8](https://youtu.be/m9ODUGWtI-8)
+SSS | Finality | DoV & 3-set Mich TB Polo M | 9:53m (5.9 2nd Half) | [https://youtu.be/5iB58b-fAQQ](https://youtu.be/5iB58b-fAQQ)
 S3 | Finality | Lv55 DoV & Sirin Ascendant | 7:26 (6.0 1st Half) | [https://youtu.be/oMdHkVnh7bE](https://youtu.be/oMdHkVnh7bE)
 S3 | Finality | Lv55 DoV & 3-set Elysia | 10:08m (6.0 1st Half) | [https://youtu.be/WkSisfkTyA0](https://youtu.be/WkSisfkTyA0)
 
