@@ -2091,9 +2091,9 @@ SS1 | Finality | SoE:W & 3-set Ana Schariac | 7:57m (6.1 1st Half) | [https://yo
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
-Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
+After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
 
 !!! note 
     Effective for 6.1 2nd Half.
