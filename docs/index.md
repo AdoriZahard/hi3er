@@ -981,9 +981,10 @@ SSS | Finality | DoI & Handel | 9:03m (6.0 2nd Half) | [https://youtu.be/iWKlVGS
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
-Flame-Chasers deal 15% more Total DMG. | 10
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
+After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
 
 !!! note
     Effective for 6.1 2nd Half.
