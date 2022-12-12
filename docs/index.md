@@ -210,8 +210,8 @@ SS0 | Finality | Abyss Flower & 3-set Dante | 9:51m (6.1 1st Half) | [https://yo
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
 
 !!! note
     Effective for 6.1 2nd Half.
