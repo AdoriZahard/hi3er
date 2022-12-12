@@ -2827,8 +2827,9 @@ SS1 | Finality | 65 7T & Handel | 6:53 (6.0 1st Half) | [https://youtu.be/hRm5kg
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
+Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG. | 15
 
 !!! note 
     Effective for 6.1 2nd Half.
