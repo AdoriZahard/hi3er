@@ -594,9 +594,10 @@ SSS | Finality | Iris Pri & Handel | 4:40m (6.1 1st Half) | [https://youtu.be/6S
     In downscalability terms, her pri-arm is a given. She can work with lower gears like Zhenyi TB Handel/Benares M or Irene Adler, just expect varying performance.
 
 Buff | Load
-:----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+:----: | :----:
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
 
 !!! note
     Effective for 6.1 2nd Half.
