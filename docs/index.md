@@ -325,8 +325,9 @@ S0 | Finality | Saggitarius & Shakes Adrift | 13:42m (6.1 1st Half) | [https://y
 
 Buff | Load
 :----: | :----: 
-Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
 
 !!! note
     Effective for 6.1 2nd Half.
