@@ -822,7 +822,7 @@ Signet | Priority
 ***
 
 ## Fervent Tempo: Delta
-Quick Search: FT, Roza, Lili, Lily, Vodka Girls
+Quick Search: FT, Roza, Lili, Lily, Vodka Girls, MC augment
 
 ![She is horny cause she has horns. Its a fact.](https://boe-tea-pximg.herokuapp.com/c/600x1200_90_webp/img-master/img/2021/10/05/23/34/50/93250091_p0_master1200.jpg)
 
@@ -844,9 +844,8 @@ SSS | Finality | Sleeper's Dream & Michelangelo TB Dante M | 7:46m (6.1 1st Half
 
 Buff | Load
 :----: | :----: 
-Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration.
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
+Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG. | 15
 
 !!! note
     Effective for 6.1 2nd Half.
