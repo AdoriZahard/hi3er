@@ -3559,8 +3559,10 @@ S0 | Finality | Judah & Handel | 9:05m (6.1 1st Half) | [https://youtu.be/ARcTle
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
+After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
 
 !!! note
     Effective for 6.1 2nd Half.
@@ -3695,8 +3697,10 @@ S0 | Finality | Basilisk & Linnaeus | 6:02 (Updated, 6.0 1st Half) | [https://yo
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
+After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
 
 !!! note
     Effective for 6.1 2nd Half.
