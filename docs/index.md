@@ -44,6 +44,9 @@ Please note that this is only true for there reward scores, and not the actual p
 - 2022-12-12: Added VK and her 2 available builds.
 - 2022-09-22: Github page redesigned and replaces [https://rentry.co/hi3er](https://rentry.co/hi3er)
 
+!!! danger
+    Due to work making my available time really short, I'm sorry to inform that it will take a while before I can completely update the Website Guide for all and every Valkyrie's new recommended Load Buffs for 6.2. Please do ask other Captains in the Discord instead to check on the correct Load Buffs!
+
 **Table of Contents (In alphebetical order):**
 
 [TOC]
