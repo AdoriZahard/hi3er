@@ -62,9 +62,6 @@ Please note that this is only true for there reward scores, and not the actual p
 
 > Boss to be Chosen: Husk, then Vill-V or Kalpas
 
-!!! note
-    Aponia is just easier. Kosma is not recommended due to FR lacking enough hitcount potential which would take her too long during the hitcount phases.
-
 
 ####<p align="center">Setup</p>
 
@@ -203,7 +200,7 @@ After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering 
 When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2 Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -319,7 +316,7 @@ When Valkyries counter or are countered by enemies, they deal 10% more Total DMG
 When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -455,7 +452,7 @@ After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering 
 Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -587,7 +584,7 @@ When Valkyries counter or are countered by enemies, they deal 10% more Total DMG
 When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -712,7 +709,7 @@ When the stage timer is paused, Total DMG received by all enemies on the field i
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half
+    Effective for 6.2
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -835,7 +832,7 @@ When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s
 Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -974,7 +971,7 @@ When Valkyries counter or are countered by enemies, they deal 10% more Total DMG
 After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1106,7 +1103,7 @@ When Valkyries counter or are countered by enemies, they deal 10% more Total DMG
 Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1244,7 +1241,7 @@ Flame-Chasers deal 15% more Total DMG. | 10
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1384,7 +1381,7 @@ After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering 
 When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1514,7 +1511,7 @@ When Valkyries counter or are countered by enemies, they deal 10% more Total DMG
 When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1809,7 +1806,7 @@ After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering 
 When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half
+    Effective for 6.2
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1953,7 +1950,7 @@ Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Tr
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note 
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2084,7 +2081,7 @@ After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering 
 When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
 
 !!! note 
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2204,7 +2201,7 @@ Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Tr
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note 
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2322,7 +2319,7 @@ Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Tr
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note 
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2452,7 +2449,7 @@ Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG
 When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2569,7 +2566,7 @@ Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG
 When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2684,7 +2681,7 @@ Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG
 When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2820,7 +2817,7 @@ After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering 
 Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG. | 15
 
 !!! note 
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 !!! danger
     If not using 7T, then you should instead go with the 10 Load buff that gives 15% TDM as long as your valk doesn't take damage.
@@ -2963,7 +2960,7 @@ When the stage timer is paused, Total DMG received by all enemies on the field i
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note 
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3092,7 +3089,7 @@ When the stage timer is paused, Total DMG received by all enemies on the field i
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note 
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3241,7 +3238,7 @@ When Valkyries counter or are countered by enemies, they deal 10% more Total DMG
 When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3395,7 +3392,7 @@ When Valkyries counter or are countered by enemies, they deal 10% more Total DMG
 When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3553,7 +3550,7 @@ When Valkyries counter or are countered by enemies, they deal 10% more Total DMG
 After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3691,7 +3688,7 @@ When Valkyries counter or are countered by enemies, they deal 10% more Total DMG
 After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3825,7 +3822,7 @@ When the stage timer is paused, Total DMG received by all enemies on the field i
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3975,7 +3972,7 @@ When the stage timer is paused, Total DMG received by all enemies on the field i
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4122,7 +4119,7 @@ When the stage timer is paused, Total DMG received by all enemies on the field i
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4253,7 +4250,7 @@ When the stage timer is paused, Total DMG received by all enemies on the field i
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4400,7 +4397,7 @@ Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Tr
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4521,7 +4518,7 @@ Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it 
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4660,7 +4657,7 @@ Flame-Chasers deal 15% more Total DMG. | 10
 When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4793,7 +4790,7 @@ Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it 
 When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4909,7 +4906,7 @@ Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it 
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -5044,7 +5041,7 @@ Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it 
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -5167,7 +5164,7 @@ Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Tr
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -5288,7 +5285,7 @@ Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Tr
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -5436,7 +5433,7 @@ Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Tr
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -5570,7 +5567,7 @@ When the stage timer is paused, Total DMG received by all enemies on the field i
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -5693,7 +5690,7 @@ When the stage timer is paused, Total DMG received by all enemies on the field i
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -5811,7 +5808,7 @@ Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it 
 When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -5934,7 +5931,7 @@ Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Tr
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6061,7 +6058,7 @@ Flame-Chasers deal 15% more Total DMG. | 10
 Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6197,7 +6194,7 @@ Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Tr
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6319,7 +6316,7 @@ Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Tr
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6438,7 +6435,7 @@ For every 60 SP restored, Total DMG received by enemies on the field increases b
 
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6558,7 +6555,7 @@ Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Tr
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6682,7 +6679,7 @@ Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Tr
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half
+    Effective for 6.2
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6817,7 +6814,7 @@ Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it 
 For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
