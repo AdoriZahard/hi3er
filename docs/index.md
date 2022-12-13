@@ -82,7 +82,7 @@ After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering 
 When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
 
 !!! note
-    Effective for 6.1 2nd Half
+    Effective for 6.2
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
