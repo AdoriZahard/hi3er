@@ -5542,7 +5542,7 @@ Signet | Priority
 ## Silverwing N-EX
 Quick search: SW, booba bronya, Hold-A
 
-![Boobnya~ U wish u were that chair don't u](https://user-images.githubusercontent.com/114035701/203185560-7d624a22-c33a-4ef8-887d-b6bbbb5cc192.png)
+![Boobnya~ U wish u were that chair don't u](https://user-images.githubusercontent.com/11403570001/203185560-7d624a22-c33a-4ef8-887d-b6bbbb5cc192.png)
 
 ### <p align="center">-- Tap and Hold A, Watch Youtube</p>
 
