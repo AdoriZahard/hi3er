@@ -5547,9 +5547,9 @@ Quick search: SW, booba bronya, Hold-A
 ### <p align="center">-- Tap and Hold A, Watch Youtube</p>
 
 !!! note
-    Updated 6.1. SW is very straightforward. And a bit clunky too, but otherwise a strong non-Herrscher valkyrie for ER. However, I can't attest for her strength with downscaled gears. She's reliant on her signature weapon, and her own signature stigmata set provides too much stuff that she does utilize very well while other alternatives are sort of lacking. Nevermind Ana.
+    Updated 6.2. SW is very straightforward. And a bit clunky too, but otherwise a strong non-Herrscher valkyrie for ER. However, I can't attest for her strength with downscaled gears. She's reliant on her signature weapon, and her own signature stigmata set provides too much stuff that she does utilize very well while other alternatives are sort of lacking. Nevermind Ana.
 
->   Boss to be chosen: Hephaestus, then Vill-V
+>   Boss to be chosen: Husk, then Vill-V
 
 
 ####<p align="center">Setup</p>
@@ -5563,8 +5563,10 @@ S2 | Finality | FFF & Bronya N-EX | 7:48m (6.1 1st Half) | [https://youtu.be/vK_
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed
+Valkyrie deals 3% more Physical and Elemental DMG | 5
+ When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
+ Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
 
 !!! note
     Effective for 6.2.
