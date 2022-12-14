@@ -5563,8 +5563,7 @@ S2 | Finality | FFF & Bronya N-EX | 7:48m (6.1 1st Half) | [https://youtu.be/vK_
 
 Buff | Load
 :----: | :----: 
-For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed
-Valkyrie deals 3% more Physical and Elemental DMG | 5
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG | 5
  When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
  Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
 
