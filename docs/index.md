@@ -4660,9 +4660,10 @@ again refreshes its duration| 15
 
 Buff | Load
 :----: | :----:
-Valkyries gain an additional 10 SP for every 60 SP restored. | 5
-Flame-Chasers deal 15% more Total DMG. | 10
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration.| 15
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it
+again refreshes its duration| 15
 
 !!! note
     Effective for 6.2.
@@ -5441,9 +5442,10 @@ SSS | Corruption | DoV & 3-Set Elysia | 13:25m (2nd Half 5.9) | [https://youtu.b
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
-Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed
+Valkyrie deals 3% more Physical and Elemental DMG. | 5
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG | 10
 
 !!! note
     Effective for 6.2.
@@ -6207,9 +6209,10 @@ SSS | Finality | 7T & 3-set Dirac | 13:18m (6.1 1st Half) | [https://youtu.be/K-
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
-Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the
+duration | 10
+Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG | 15
 
 !!! note
     Effective for 6.2.
@@ -6315,7 +6318,7 @@ Quick search: SN, Saule, SNoDamage
 !!! note
     Updated 6.1. Truthfully, you should just avoid using this Valk for the purposes of the weekly ER clear. There are a lot of reasons. But she's simply, the worst performance valk in ER amidst the base S-ranks.
 
->   Boss to be chosen: Hephaestus, then Vill-V
+>   Boss to be chosen: Husk, then Vill-V
 
 
 ####<p align="center">Setup</p>
@@ -6330,8 +6333,9 @@ SS0 | Finality | PoA:Kindred & Allan Poe | 16:10m (6.1 1st Half) | [https://yout
 Buff | Load
 :----: | :----: 
 Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG | 10
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it
+again refreshes its duration | 15
 
 !!! note
     Effective for 6.2.
@@ -6552,7 +6556,7 @@ Quick search: SnS, Carole
 !!! note 
     Updated 6.1. Carole arguably sits in a tier of her own thanks to this, and a couple other reasons. While she actually has A LOT of frontloaded damage that hurts a shitton, both in her Charged ATKs and Ultimate, this is however eclipsed by the fact that she's actually TERRIBLE when dealing with the F17 Bosses. This can easily become a problem for you to get past, which would mean a failed run.
 
-> Boss to be Chosen: Husk? or Hephaestus, then Aponia or Vill-V
+> Boss to be Chosen: Husk? or Andrius, then Aponia or Vill-V
 
 !!! note
     I do not know how Carole performs against Husk, and I don't really want to try it out either. Not gonna deal with the IMG Taint and Husk's bullshit. Honestly, not sure which one between the two is less bullshit for Carole.
@@ -6568,9 +6572,9 @@ SSS | Finality | MKP & Paganini | 12:34m (6.1 1st Half) | [https://youtu.be/MdpF
 
 Buff | Load
 :----: | :----: 
-Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG | 15
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it
+again refreshes its duration | 15
 
 !!! note
     Effective for 6.2.
@@ -6814,7 +6818,7 @@ Quick search: VG, Dudu, Goose
 !!! note
     Updated for 6.1. Honestly, just pick someone better.
 
-> Boss to be Chosen: Husk or Hephaestus, Aponia
+> Boss to be Chosen: Andrius or Hephaestus, Aponia
 
 ####<p align="center">Setup</p>
 
@@ -6828,8 +6832,9 @@ SSS | Abstinence | Eos Gloria & LWH TB Thales M | 13:09m (2nd Half 5.9) | [https
 Buff | Load
 :----: | :----: 
 Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG | 10
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it
+again refreshes its duration | 15
 
 !!! note
     Effective for 6.2.
