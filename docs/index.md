@@ -1,7 +1,7 @@
 # Elysian Realm
 ***
-<p align="center">Please contact `boba#8849` or `Rafe#5610` if there are any typos</p>
-<p align="center">Contact `Adori - Columbina Supremacy#6481` or `Rafe#5610` until further notice (probably not Butter#2252) if there are any build questions/suggestions</p>
+<p align="center">Please contact `boba#8849` or `Rafe#5610` or `FrediSK#5056` if there are any typos or not updated load buffs.</p>
+<p align="center">Contact `Adori - Columbina Supremacy#6481` or `Rafe#5610` until further notice (probably not Butter#2252) if there are any build questions/suggestions.</p>
 ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 [Return to Honkai Rentry Index](https://rentry.org/honkai3)
 
@@ -2678,7 +2678,10 @@ S | Finality | Senpri & 3-Set Shattered Swords | 8:13 (6.1 2nd Half) | [https://
 Buff | Load
 :----: | :----: 
 Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG. | 15
-When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
+After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the
+duration. | 10
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed
+Valkyrie deals 3% more Physical and Elemental DMG | 5
 
 !!! note
     Effective for 6.2.
@@ -2818,9 +2821,6 @@ Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG
 
 !!! note 
     Effective for 6.2.
-
-!!! danger
-    If not using 7T, then you should instead go with the 10 Load buff that gives 15% TDM as long as your valk doesn't take damage.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3526,7 +3526,7 @@ Quick Search: IO, Snake, Snek, Mobius
 !!! note
     Updated for 6.1. Honestly, this is a really fun and genuine surprise that I wasn't expecting to hit this strong. Who would've thought that non-Linnaeus Mobius would be so damn strong nonetheless? Clearly, she doesn't need it, and neither does she gives a fuck about having DMG Reduction trying to weigh her down.
 
-> Boss to be Chosen: Hephaestus, then Vill-V or Aponia
+> Boss to be Chosen: Andrius, then Vill-V or Aponia
 
 !!! note
     Vill-V is the best choice easily if you have Miniature [X] available.
@@ -3801,7 +3801,7 @@ Quick search: Li Sus, Sushang, JK, Sussy
 !!! note 
     Updated for 6.1. This build basically focuses on A spam. It's her strongest general build, taking into account ranks, downscaling and weather-related buffs & debuffs. On the other hand, however, it is heavily reliant on gather. The strongest variation of Sussy's UBW build, which fully utilizes Aponia signets' strength alongside Griseo, resulting in a really deadly and strong as fuck build that melts through enemies easily like a rain of millions of knives going through butter.
 
-> Boss to be Chosen: Hephaestus, then Elysia, Mobius, Aponia or Vill-V
+> Boss to be Chosen: Husk, then Elysia, Mobius, Aponia or Vill-V
 
 !!! note
     There's no particular preference over each other in regards to the bosses. Aponia has the inconvenience of making Sushang's Sword Array dissapear so you have to fill Blade Mantra up to full to use it again as you won't have ult back by the time she transitions to P2. Mobius, on the other hand, is more comfortable with gather. V-V is easy, just lock on the turret until it's destroyed. Elysia, however, is the tankiest boss so if your damage isn't looking good enough, go with the other bosses instead.
@@ -3818,8 +3818,10 @@ S0 | Finality | GTX & Scott | 7:21 (6.1 2nd Half) | [https://youtu.be/CrV88ixC8S
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
+Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG. | 15
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed
+Valkyrie deals 3% more Physical and Elemental DMG. |5
 
 !!! note
     Effective for 6.2.
@@ -4392,9 +4394,11 @@ SSS | Abstinence | Hekate & Ely TB Dante M | 11:35m (6.0 1st Half) | [https://yo
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
-Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed
+Valkyrie deals 3% more Physical and Elemental DMG. | 5
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it
+again refreshes its duration | 15
 
 !!! note
     Effective for 6.2.
@@ -4499,9 +4503,9 @@ Quick search: MA, Raven, Natasha Cioara
 ### <p align="center">-- Who needs IMG Weather?</p>
 
 !!! note 
-    Updated 6.1. Honestly, considering only base A ranks and non-Flame Chasers, Raven is probably one of the strongest valkyries to clear ER. At least, in weathers that are not so unfavorable for her. She's rather excellent, albeit a bit awkward and her gameplay pretty much just revolves around controlling the appropiate timings.
+    Updated 6.2. Honestly, considering only base A ranks and non-Flame Chasers, Raven is probably one of the strongest valkyries to clear ER. At least, in weathers that are not so unfavorable for her. She's rather excellent, albeit a bit awkward and her gameplay pretty much just revolves around controlling the appropiate timings.
 
-> Boss to be Chosen: Hephaestus, then Vill-V
+> Boss to be Chosen: Andrius, then Vill-V
 
 ####<p align="center">Setup</p>
 
@@ -4514,8 +4518,11 @@ SSS | Finality | DoEgo & Aslaug | 12:08m (6.1) | [https://youtu.be/rkCnkA44e4s](
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed
+Valkyrie deals 3% more Physical and Elemental DMG. | 5
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG | 10
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it
+again refreshes its duration | 15
 
 !!! note
     Effective for 6.2.
@@ -4629,7 +4636,7 @@ Quick Search: MPE, Elysia, Maid
 !!! note
     Updated for 6.1. Be advised that MPE becomes weaker the less ranks and gears she has. Basically, her downscalability issues are pretty big depending on the difficulty.
 
-> Boss to be Chosen: Hephaestus, then Mobius or Vill-V
+> Boss to be Chosen:Husk, then Mobius or Vill-V
 
 ####<p align="center">Setup</p>
 
@@ -4643,9 +4650,10 @@ SSS | Finality | Call of Crescent & Michelangelo TB Polo M | 12:05m (6.1 1st Hal
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
-Flame-Chasers deal 15% more Total DMG. | 10
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it
+again refreshes its duration| 15
 
 !!! danger
     Alternative Load Buffs below are specifically for CoC & Michelangelo TB Polo M F2P build
@@ -4785,9 +4793,11 @@ SSS | Finality | Midnight Ataegina & BiankaT | 9:41m (6.0 1st Half) | [https://y
 
 Buff | Load
 :----: | :----: 
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed
+Valkyrie deals 3% more Physical and Elemental DMG. | 5
 Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it
+again refreshes its duration | 15
 
 !!! note
     Effective for 6.2.
@@ -4886,7 +4896,7 @@ Quick Search: PV, Fischl, Genshin, Oz
 ### <p align="center">-- General Build 7D</p>
 
 !!! note 
-    Updated 6.1. This is her best build up to date. 
+    Updated 6.2. This is her best build up to date. 
 
 > Boss to be Chosen: Husk, then Aponia
 
@@ -4902,8 +4912,9 @@ SSS | Finality | DoEgo & Zhenyi | 8:51m (6.0 2nd Half) | [https://youtu.be/t75Hy
 Buff | Load
 :----: | :----: 
 Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it
+again refreshes its duration | 15
 
 !!! note
     Effective for 6.2.
@@ -5037,8 +5048,9 @@ SSS | Finality | DoEgo & Zhenyi | 13:29m (6.1 1st Half) | [https://youtu.be/4DO9
 Buff | Load
 :----: | :----: 
 Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it
+again refreshes its duration | 15
 
 !!! note
     Effective for 6.2.
@@ -5145,7 +5157,7 @@ Quick search: RC, Neko, Cat, Pardo, Phyllis, Pardofelis
 !!! note
     Updated to 6.1. More tailored towards late-game. Strength comes in close to Pardo2 variation.
 
->   Boss to be chosen: Hephaestus, then Kalpas or Vill-V
+>   Boss to be chosen: Husk, then Kalpas or Vill-V
 
 ####<p align="center">Setup</p>
 
@@ -5159,9 +5171,10 @@ SSS | Finality | Purana & Ana Schariac | 8:08m (6.0 1st Half) | [https://youtu.b
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
-Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed
+Valkyrie deals 3% more Physical and Elemental DMG. | 5
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
+Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG | 15
 
 !!! note
     Effective for 6.2.
@@ -5415,7 +5428,7 @@ Quick search: RI, Kallen
 !!! note
     Updated to 6.1 for load buffs. The strength of this build is weakened for 6.0. Don't expect the same results as the example run shown below.
 
-> Boss to be Chosen: Hephaestus and Aponia
+> Boss to be Chosen: Andrius and Aponia
 
 ####<p align="center">Setup</p>
 
@@ -5542,7 +5555,7 @@ Signet | Priority
 ## Silverwing N-EX
 Quick search: SW, booba bronya, Hold-A
 
-![Boobnya~ U wish u were that chair don't u](https://user-images.githubusercontent.com/11403570001/203185560-7d624a22-c33a-4ef8-887d-b6bbbb5cc192.png)
+![Boobnya~ U wish u were that chair don't u](`https://user-images.githubusercontent.com/114035701/203185560-7d624a22-c33a-4ef8-887d-b6bbbb5cc192.png`)
 
 ### <p align="center">-- Tap and Hold A, Watch Youtube</p>
 
@@ -5671,7 +5684,7 @@ Quick search: SpA, Rita, Fire Rita
     Updated 6.1. SpA had enough of sitting in the bench just warming it while watching other valkyries push ahead of her, so she decided to finally take matters into her hands and train to become a better valkyrie and catch up to the others! And she sure did went a bit overboard... by becoming even stronger than before! SpA's strength in favorable weathers is pretty strong and she also becomes a fairly easy valk to clear ER with. Although she struggles even more against Psy mobs. 
 
 
->   Boss to be chosen: Hephaestus, then Aponia or Vill-V
+>   Boss to be chosen: Andrius, then Aponia or Vill-V
 
 !!! note
     You should consider Hephaestus' Overheat mechanic. You might not be able to kill him. If you're not confident in doing so, you can instead go with Husk, but he's more annoying due to SpA's lack of i-frames which makes her be reliant on manual dodging even more, as she already uses Kosma.
@@ -5687,8 +5700,10 @@ SS | Finality | Pisces & Ragna | 7:00m (6.1 1st Half) | [https://youtu.be/HvXbqt
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG.| 10
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration | 5
+ When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it
+ again refreshes its duration| 15
 
 !!! note
     Effective for 6.2.
@@ -5911,7 +5926,7 @@ Quick search: Seele
 !!! note
     Updated 6.1. Nyx is a sort of straightforward valkyrie to play in ER. Relying on the generation of Carmine Gashes to recover SP for herself and get ready to ult everytime, she actually has a quite comfortable downtime. However, this is locked behind the requirement of needing one of her Ego signets. For a full explanation, you can read the video run's description.
 
->   Boss to be chosen: Hephaestus, then Vill-V or Aponia
+>   Boss to be chosen: Husk, then Vill-V or Aponia
 
 !!! note
     Nyx might struggle finishing Aponia off before she goes flying in her P2. If u want faster clear time, V-V is the choice.
@@ -5927,9 +5942,11 @@ S0 | Finality | Sanguine & Verne | 8:48m (6.1 1st Half) | [https://youtu.be/9w0X
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
-Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the
+duration | 10
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it
+again refreshes its duration | 15
 
 !!! note
     Effective for 6.2.
@@ -6040,7 +6057,7 @@ Quick Search: SI, Griseo, Grisekek, Painter, Bob Ross
 !!! note
     Updated for 6.1.
 
-> Boss to be Chosen: Hephaestus, then Mobius, Aponia or Vill-V.
+> Boss to be Chosen: Husk, then Mobius, Aponia or Vill-V.
 
 ####<p align="center">Setup</p>
 
@@ -6054,9 +6071,9 @@ SSS | Finality | Elysian Astra & Cezanne | 7:16m (Updated, 6.0 1st Half) | [http
 Buff | Load
 :----: | :----: 
 Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
-Flame-Chasers deal 15% more Total DMG. | 10
-Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed
+Valkyrie deals 3% more Physical and Elemental DMG. | 5 
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG| 10
 
 !!! note
     Effective for 6.2.
