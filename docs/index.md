@@ -1508,7 +1508,8 @@ Buff | Load
 :----: | :----: 
 Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
 When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
-When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed
+Valkyrie deals 3% more Physical and Elemental DMG. | 5
 
 !!! note
     Effective for 6.2.
@@ -1645,11 +1646,12 @@ S0 | Finality | DoI & Shelley T Himeko M Scott B | 10:36m (6.0 2nd Half) | [http
 Buff | Load
 :----: | :----: 
 Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed
+Valkyrie deals 3% more Physical and Elemental DMG. | 5
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG | 5
 
 !!! note
-    Effective for 6.1.
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1784,7 +1786,7 @@ Quick Search: Elysia, HoH, HoHe, Manta Ray, H2O, Water
 !!! note 
     Updated for 6.1. The strongest variation with the only downside of having to go through Elysia's long animation times everytime. Also heavily favored currently by Load Buffs.
 
-> Boss to be Chosen: Hephaestus, then Elysia for fastest time or Mobius, Kalpas, Vill-V.
+> Boss to be Chosen: Husk, then Elysia for fastest time or Mobius, Kalpas, Vill-V.
 
 !!! note
     Mobius and Vill-V are the easiest ones.
@@ -2446,7 +2448,9 @@ S0 | Finality | Senpri & Ely TB PoloM | 8:29m (6.0 1st Half) |[https://youtu.be/
 Buff | Load
 :----: | :----: 
 Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG. | 15
-When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
+After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the
+duration | 10
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
 
 !!! note
     Effective for 6.2.
@@ -2563,7 +2567,9 @@ S | Finality | Senpri & Shattered Swords | 8:30m (2nd Half 5.9) | [https://youtu
 Buff | Load
 :----: | :----: 
 Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG. | 15
-When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
+After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the
+duration | 10
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
 
 !!! note
     Effective for 6.2.
@@ -2680,8 +2686,7 @@ Buff | Load
 Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG. | 15
 After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the
 duration. | 10
-For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed
-Valkyrie deals 3% more Physical and Elemental DMG | 5
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
 
 !!! note
     Effective for 6.2.
