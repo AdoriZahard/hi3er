@@ -79,7 +79,7 @@ After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering 
 When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
 
 !!! note
-    Effective for 6.2
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -179,7 +179,7 @@ Signet | Priority
 !!! note 
     Updated 6.1. Dudu got her own stand, and she's on her way to become a real Jojo of her own. Truly built different! Will her stand be as powerful as Jojo's Star Platinum? Oh, an enemy is approaching! How dare they approach her? They must be destroyed by Abyss Flower! Wait... it did really destroy them easily. She's... a monster! Anyway, her damage ceiling is astronomically high. She's a pretty straightforward valkyrie that doesn't have much problems clearing it, however, her requirement for this is to have 3-set Dante and AF is a given.
 
-> Boss to be Chosen: Hephaestus, then Aponia
+> Boss to be Chosen: Husk, then Aponia
 
 !!! note
     Aponia really was sent into the afterlife from standing in BK's way. There's no stopping her. Oh no.
@@ -213,12 +213,12 @@ Late | Key to the Deep | The Lonely Moon OR Dreamful Gold
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | SS | SN
-Mid | SS | SA
-Late | SS | BR
+Early | SA | BR
+Mid | SA | BR
+Late | SA | BR
 
 !!! note
-    SN is mainly to deal with the early Quantum mobs as they are too tanky for her without being collapsed. Afterwards, SN is swapped out for SA or BR, depends on your preference (gather and damage vs pure stonks damage)
+    These 2 aren't swapped out ever~
 
 Signet | Priority
 ------|:----:
@@ -296,7 +296,7 @@ Quick search: DA, dudu
 ### <p align="center">-- Tap B, Watch Youtube</p>
 
 !!! note 
-    Updated 6.1. You thought there could be no Tap B, Watch Youtube counterpart to SW's Tap A? Well, I'm here to prove you wrong! Here you go, a valk whose infamous ER gameplay revolves to just spam B like there's no end! Well, except... this valk really sucks. She has so many problems. Not advised to use for Weekly Clear unless your DA is built different.
+    Updated 6.2. You thought there could be no Tap B, Watch Youtube counterpart to SW's Tap A? Well, I'm here to prove you wrong! Here you go, a valk whose infamous ER gameplay revolves to just spam B like there's no end! Well, except... this valk really sucks. She has so many problems. Not advised to use for Weekly Clear unless your DA is built different.
 
 > Boss to be Chosen: Husk, then Vill-V
 
@@ -392,20 +392,7 @@ Signet | Priority
 **Nexus Signet 2: Echo of Gold** |
 **Echo of Silent Night**: After lasting over 7s, reduce ATK, DEF, ele resists of enemies nearby | YES
 
-####<p align="center">Griseo - Signet of Stars (4th Core)</p>
-
-Signet | Priority
------- | :----:
-**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration | 1st
-**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 2nd
-**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental MG (cannot stack). Triggering it again resets the duration | Optional 3rd
-**Grey & Empty**: Enemies stay tainted for 5s longer | Optional 4th
-**Nexus Signet 2: Faded Stars** | Not Necessary
-
-!!! note
-    Yellow is a must to upgrade to +3. Also, due to DA's long weapon active animation and also CD of its active, it is really not necessary to finish Griseo's 2nd Core as she can't effectively utilize Red Paint. The other cores are a far better priority.
-
-####<p align="center">Kalpas - Signet of Decimation (Felis Shop Signets)</p>
+####<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
 
 Signet | Priority
 - | :----:
@@ -417,6 +404,19 @@ Signet | Priority
 
 !!! note
     Kalpas signets are best taken from Shop and then unlocked with just one door later on.
+
+####<p align="center">Griseo - Signet of Stars (5th Core)</p>
+
+Signet | Priority
+------ | :----:
+**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration | 1st
+**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 2nd
+**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental MG (cannot stack). Triggering it again resets the duration | Optional 3rd
+**Grey & Empty**: Enemies stay tainted for 5s longer | Optional 4th
+**Nexus Signet 2: Faded Stars** | Not Necessary
+
+!!! note
+    Yellow is a must to upgrade to +3. Also, due to DA's long weapon active animation and also CD of its active, it is really not necessary to finish Griseo's 2nd Core as she can't effectively utilize Red Paint. The other cores are a far better priority.
 
 ***
 
@@ -430,7 +430,7 @@ Search Tags: DPe, DiP, Nun, Aponia
 !!! note 
     Updated 6.1. Aponia being one of the strongest Flamechasers available to do ER with, is also a valk that doesn't really demands much mechanical play. There's really not much to explain about her. Aponia in ER is basically a get 100 sp, use Ultimate, hold A for Thunderstorm and move or just watch a video while enemies die. Then gain SP again and repeat the same process. More explanation on her is given in the description of the video runs.
 
-> Boss to be Chosen: Husk, then Aponia
+> Boss to be Chosen: Husk, then Aponia or Vill-V
 
 !!! note
     Yeah. Fighting herself. That's how things should be. Right?
@@ -448,11 +448,11 @@ S0 | Finality | Lost Conviction & 3-set Handel | 7:47m (6.1 1st Half) | [https:/
 Buff | Load
 :----: | :----: 
 For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
-After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
 Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG. | 15
 
 !!! note
-    Effective for 6.2
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -562,7 +562,7 @@ Quick Search: FR, Rita, Maid
 !!! note 
     Updated 6.1. This is the strongest build that FR has available to her, which in turn also makes her become one of the strongest ER valks to clear with.
 
-> Boss to be Chosen: Hephaestus, then Elysia (for booling her), Vill-V or Aponia
+> Boss to be Chosen: Husk, then Elysia (for booling her), Vill-V or Aponia
 
 !!! note
     Your preference! Pick whichever you want to booli!
@@ -579,12 +579,12 @@ SSS | Finality | Iris Pri & Handel | 4:40m (6.1 1st Half) | [https://youtu.be/6S
 
 Buff | Load
 :----: | :----:
-Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
+After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
 When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
 
 !!! note
-    Effective for 6.2.
+    Effective for 6.2. Burst Mode Load Buff requires Kevin's Flock of the Deliverer in order to be used.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -645,7 +645,7 @@ Signet | Priority
 **Nexus Signet 1: Blade of the Deliverer**: |
 **Crusade of the Deliverer**: After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | 1st
 **Echo of the Deliverer**: Duration of Final Battle and all buffs provided by Normal Signets of Deliverance are extended to 8s. | 2nd
-**Flock of the Deliverer**: Final Battle is also considered burst mode. Total DMG increases by 20% in burst mode. | Optional 3rd
+**Flock of the Deliverer**: Final Battle is also considered burst mode. Total DMG increases by 20% in burst mode. | 3rd
 
 !!! note
     Crusade is priority to +3. It will be a massive boost if you gamble for it with the 3* Remembrance Sigil abuse for getting it at +2 straight away. Flock can be considered but otherwise not a priority.
@@ -688,7 +688,7 @@ Signet | Priority
 !!! danger
     This variant sacrifices some early game strength in exchange for enabling FR to dps in ER at below SS2 ranks.
 
-> Boss to be Chosen: Hephaestus, then Aponia or Kosma
+> Boss to be Chosen: Husk, then Aponia or Kosma
 
 !!! note
     Aponia is just easier. Kosma is not recommended due to FR lacking enough hitcount potential which would take her too long during the hitcount phases.
@@ -705,11 +705,12 @@ SSS | Finality | Iris Pri & Handel | 6:21m (6.1 1st Half) | [https://youtu.be/xp
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
+After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes the duration. | 15
 
 !!! note
-    Effective for 6.2
+    Effective for 6.2-
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -815,7 +816,7 @@ Quick Search: FT, Roza, Lili, Lily, Vodka Girls, MC augment
 !!! note 
     Updated 6.1. What has gotten to you, Roza? How'd you become so strong? So op! Actually, nevermind, she's still a bit... eh. But she sure as hell hits really hard! I still don't like, however, how her personal damage against bosses is kinda ass regardless. Imagine not being able to destroy Hephaestus before he overheats. That's just... lame if you ask me. Come on Roza, you can do better!
 
-> Boss to be Chosen: Hephaestus, then Vill-V
+> Boss to be Chosen: Husk, then Vill-V
 
 ####<p align="center">Setup</p>
 
@@ -842,12 +843,12 @@ Late | Key to the Deep | Dreamful Gold
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | SS | LE
-Mid | BK | BR
-Late | SS | BR
+Early | BR | LE
+Mid | SA / BK | BR
+Late | SA | BR
 
 !!! note
-    LE is a must for the early game since Roza will have SP issues without her otherwise, especially for F4 Double and would have to wait for Fervent Mode to run out since she can't farm SP from her attacks while in Fervent Mode while she doesn't have Thorns. By F5 Shop, LE can be swapped out for BR.
+    LE is a must for the early game since Roza will have SP issues without her otherwise, especially for F4 Double and would have to wait for Fervent Mode to run out since she can't farm SP from her attacks while in Fervent Mode while she doesn't have Thorns. By F5 Shop, LE can be swapped out for SA.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -949,10 +950,7 @@ Quick search: Eden, GD
 !!! note 
     Updated 6.1. As far as testing goes, this is the current best build for Eden, and other variations with different signets are either weaker, or just don't really work as well as they would seem to do in paper. Take Eden2 for instance, which supposedly GD would be perfectly fine with. Issue? It actually isn't that great. Only acceptable as a versatile option when you don't have any other better alternatives for doors, but otherwise, not recommended to do as early start, as it's garbage.
 
-> Boss to be Chosen: Husk or Hephaestus, then Aponia or Vill-V
-
-!!! note
-    Hephaestus is only recommended if you actually have both DoI & Handel to go with. Eden has the capability to kill Hephaestus before he goes into Overheat mode. If you do not have the confidence to kill it before it goes Overheat mode, then just go with Husk.
+> Boss to be Chosen: Husk, then Aponia or Vill-V
 
 ####<p align="center">Setup</p>
 
@@ -1082,10 +1080,7 @@ Quick search: Meme, Memento, Yae Sakura
 !!! note 
     Updated 6.1. Memento with Muramasa Bloodlust? What's that? We don't use that here! Instead, we give some real motivation to Sakura by giving her a nice gift to carve her path towards becoming a real Vergil! Who needs Naraka? Why craft it and pri-arm it when you can instead give 7T to Memento? That's much better! Trust me!
 
-> Boss to be Chosen: Hephaestus, then Aponia or Kalpas
-
-!!! note
-    Make sure to avoid being at less than 900 HP when going against Hephaestus. In this run I had forgotten about the fact and proceeded to go against him with less than 100 HP. I had to retry a lot until I managed to beat him lmao.
+> Boss to be Chosen: Husk, then Aponia or Kalpas
 
 ####<p align="center">Setup</p>
 
@@ -1220,7 +1215,7 @@ Signet | Priority
 !!! danger
     Do note that the best start for this build is Griseo's Red Paint at F2, so it's strongly recommended to mald for it instead of Ego signet.
 
-> Boss to be Chosen: Hephaestus, then Aponia or Kalpas
+> Boss to be Chosen: Husk, then Aponia or Kalpas
 
 !!! note
     Between Aponia or Kalpas, you can bully either of the two. Pick your preference.
@@ -1236,9 +1231,9 @@ SS0 | Finality | Muramasa Bloodlust & Ana Schariac | 10:30m (6.1) | [https://you
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
-Flame-Chasers deal 15% more Total DMG. | 10
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
+Valkyries who use chakrams, 2-handers, blades and fists deal 20% more Total DMG. | 15
 
 !!! note
     Effective for 6.2.
@@ -1359,7 +1354,7 @@ Quick Search: V-V, Vill-V, Bait, Helical Cripple
 !!! note 
     Updated 6.1. All in all, HC is one of the easiest valks to play in ER, and her gameplay doesn't involve anything complicated. The only thing of note to be mindful of is that she greatly values gather as it's better for her to be hitting every mob due to her AoE damage being pretty damn strong. 
 
-> Boss to be Chosen: Hephaestus, then Aponia or Kosma
+> Boss to be Chosen: Andrius, then Aponia or Kosma
 
 !!! note
     While HC can take Kosma and deal with the hitcount phases the easiest, you can also instead take Aponia, but do keep in mind to manually end your Burst Mode before transition phases to save SP and ult again.
@@ -1375,7 +1370,6 @@ SS1 | Finality | Tower of Past & 3-set Collodi | 5:15m (6.1 1st Half) | [https:/
 
 Buff | Load
 :----: | :----: 
-Enemies on 17F will be replaced by BIO-type Dominator of Wolves (has a shield weak against Fire DMG). | 0
 For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
 After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
 When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
@@ -1492,7 +1486,7 @@ Quick Search: HoFS, HoF, FK, KFC, Burnt Tuna, Flying Fish
 !!! note 
     Updated 6.1. So far, this is the strongest build. Simple explanation; Starfire is stronger early game, but can fall off a bit later in the game without Reburn and Tempered Warrior, which is also fixed. And then, as a result, you have a stronger general build that's ideally a stronger and perhaps more comfortable start, especially when you have the damage for it.
 
-> Boss to be Chosen: Hephaestus, then Aponia or Vill-V.
+> Boss to be Chosen: Husk, then Aponia or Vill-V.
 
 ####<p align="center">Setup</p>
 
@@ -1507,9 +1501,8 @@ S0 | Finality | DoI & Leuweenhoek TB Thales M | 14:09m (6.1 1st Half) | [https:/
 Buff | Load
 :----: | :----: 
 Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
 When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
-For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed
-Valkyrie deals 3% more Physical and Elemental DMG. | 5
 
 !!! note
     Effective for 6.2.
@@ -1631,7 +1624,7 @@ Signet | Priority
 !!! note 
     Updated 6.1. The strength of this build noticeably goes up in Kalpas +2 weathers.
 
-> Boss to be Chosen: Hephaestus, then Elysia, Aponia (easiest) or Vill-V.
+> Boss to be Chosen: Husk, then Elysia, Aponia (easiest) or Vill-V.
 
 ####<p align="center">Setup</p>
 
@@ -1646,9 +1639,8 @@ S0 | Finality | DoI & Shelley T Himeko M Scott B | 10:36m (6.0 2nd Half) | [http
 Buff | Load
 :----: | :----: 
 Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed
-Valkyrie deals 3% more Physical and Elemental DMG. | 5
-When Valkyries counter or are countered by enemies, they deal 10% more Total DMG | 5
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG | 10
 
 !!! note
     Effective for 6.2.
@@ -1947,9 +1939,9 @@ S2 | Finality | CoC & Scott TM Rasp B | 7:39m (6.1 2nd Half) | [https://youtu.be
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
-Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes the duration. | 15
 
 !!! note 
     Effective for 6.2.
