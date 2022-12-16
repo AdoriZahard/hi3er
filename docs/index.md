@@ -1922,7 +1922,7 @@ Signet | Priority
 !!! note
     Updated for 6.1. The slightly weaker variant with slightly less clear time, but nevertheless at the same strength as Ult build. 
 
-> Boss to be Chosen: Hephaestus, then Elysia for fastest time. The rest are also easy choices.
+> Boss to be Chosen: Husk, then Elysia for fastest time. The rest are also easy choices.
 
 ####<p align="center">Setup</p>
 
@@ -2056,13 +2056,14 @@ Quick Search: HoR, Bronya
 !!! note
     Updated 6.1. Do note that SoE feels a bit weak compared to DoR. Nevertheless, this is the strongest build done up until now from testing.
 
->   Boss to be chosen: Hephaestus, then Aponia
+>   Boss to be chosen: Husk, then Aponia
 
 ####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
 SS1 | Finality | SoE:W & 3-set Willows | 6:18m (6.1 2nd Half) | [https://youtu.be/HFMISsD5Tjw](https://youtu.be/HFMISsD5Tjw)
+SS1 | Finality | SoE:W & 3-set Willows | 7:03m (6.1 2nd Half, uses V-V2) | [https://youtu.be/-VX6VCHd3hU](https://youtu.be/-VX6VCHd3hU)
 SS1 | Finality | SoE:W & 3-set Ana Schariac | 7:57m (6.1 1st Half) | [https://youtu.be/WtWG29ySI7s](https://youtu.be/WtWG29ySI7s)
 
 !!! note 
@@ -2126,8 +2127,16 @@ Signet | Priority
 !!! note
     Punish Evil's spot can instead be used for completing Hua2.
 
+####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
 
-####<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
+Signet | Priority
+- | :----:
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
+**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
+
+####<p align="center">Hua - Signet of Vicissitude (3rd Core)</p>
 
 Signet | Priority
 - | :----:
@@ -2139,15 +2148,6 @@ Signet | Priority
 
 !!! note
     If you have no better choices for doors, you can try to take Broken Dream.
-
-####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
-
-Signet | Priority
-- | :----:
-**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
-**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
-**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
-**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
 
 ####<p align="center">Sakura - Signet of Setsuna (4th Core)</p>
 
@@ -2177,12 +2177,13 @@ Signet | Priority
 !!! note
     Updated 6.1. This is the strongest and easiest build for HoR compared to other options. Also, please note that this is DoR-only, as SoE has a substantial difference from this.
 
->   Boss to be chosen: Hephaestus, then Vill-V
+>   Boss to be chosen: Husk, then Vill-V
 
 ####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
+SS1 | Finality | 65 DoR & Willows | 6:18m (6.1 2nd Half) | [https://youtu.be/yjq6nY6ze-4](https://youtu.be/yjq6nY6ze-4)
 SS1 | Finality | 65 DoR & 3-set Ana Schariac | 6:49 (6.0 1st Half) | [https://youtu.be/uA5SCbf7Pcs](https://youtu.be/uA5SCbf7Pcs)
 
 !!! note 
@@ -2190,9 +2191,9 @@ SS1 | Finality | 65 DoR & 3-set Ana Schariac | 6:49 (6.0 1st Half) | [https://yo
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
-Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10 
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
+After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes the duration. | 15
 
 !!! note 
     Effective for 6.2.
@@ -2295,7 +2296,7 @@ Signet | Priority
 !!! note
     Updated 6.1. The weaker build version. This is only to be considered if you want to for some reason play HoR, but you do not possess either DoR or SoE.
 
->   Boss to be chosen: Hephaestus, then Vill-V
+>   Boss to be chosen: Husk, then Vill-V
 
 ####<p align="center">Setup</p>
 
@@ -2308,9 +2309,9 @@ SS1 | Finality | 65 DoR & 3-set Ana Schariac | 9:14 (6.0 1st Half) | [https://yo
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
-Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
+After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes the duration. | 15
 
 !!! note 
     Effective for 6.2.
@@ -2439,10 +2440,9 @@ S0 | Finality | Senpri & Ely TB PoloM | 8:29m (6.0 1st Half) |[https://youtu.be/
 
 Buff | Load
 :----: | :----: 
-Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG. | 15
-After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the
-duration | 10
 Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
+Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG. | 15
 
 !!! note
     Effective for 6.2.
@@ -2458,12 +2458,12 @@ Late | Good Old Days or Key to the Deep | The Lonely Moon
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | SS | SN
-Mid | SS | BKE
-Late | SS | BR
+Early | SA | BR
+Mid | SA | BKE
+Late | SA | BR
 
 !!! note
-    SN will help HoS to deal with the early floors' Quantum mobs. Afterwards, she can be swapped out for BR at F5 Shop. Remember to bring Heimdall to make sure you don't have any problems facing him.
+    Remember to bring Heimdall to make sure you don't have any problems facing him.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -2558,10 +2558,9 @@ S | Finality | Senpri & Shattered Swords | 8:30m (2nd Half 5.9) | [https://youtu
 
 Buff | Load
 :----: | :----: 
-Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG. | 15
-After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the
-duration | 10
 Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
+Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG. | 15
 
 !!! note
     Effective for 6.2.
@@ -2574,9 +2573,9 @@ Late | Good Old Days | The Lonely Moon
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | SS | BR
-Mid | SS | BR or BKE
-Late | SS | BR
+Early | SA | BR
+Mid | SA | BR or BKE
+Late | SA | BR
 
 !!! note
     BKE is only for the purposes of filling Heimdall's Heavy Trauma Bar, forcefully ending his Red Mode.
@@ -2675,10 +2674,9 @@ S | Finality | Senpri & 3-Set Shattered Swords | 8:13 (6.1 2nd Half) | [https://
 
 Buff | Load
 :----: | :----: 
-Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG. | 15
-After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the
-duration. | 10
 Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
+Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG. | 15
 
 !!! note
     Effective for 6.2.
@@ -2799,13 +2797,13 @@ Quick search: HoT, Mei, hot mei, dragon
 !!! danger
     Do note though, that this build is not recommended if your HoT is not S1+. Narukami Finisher is stronger.
 
->   Boss to be chosen: Hephaestus, then Elysia or Mobius/Vill-V 
+>   Boss to be chosen: Husk, then Elysia or Mobius/Vill-V 
 
 ####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-SS1 | Finality | 65 7T & Handel | 6:53 (6.0 1st Half) | [https://youtu.be/hRm5kgih2ao](https://youtu.be/hRm5kgih2ao)
+SS1 | Finality | 65 7T & Handel | 6:53m (6.0 1st Half) | [https://youtu.be/hRm5kgih2ao](https://youtu.be/hRm5kgih2ao)
 
 !!! note 
     This build's downscalability in terms of weapon and stigmatas has yet to be tested. I cannot say yet how it will do without 7T and Handel, especially 7T as it's what makes this build work, and Handel offers a massive damage boost compared to Benares Awakening or other cope stigmatas. However, if you do have them, even if underleveled, then you can downscale accordingly.
@@ -2938,7 +2936,7 @@ Signet | Priority
 !!! danger
     This build can't work if your HoT isn't at least S2 rank. S2 is essential to make Bombard work.
 
->   Boss to be chosen: Hephaestus, then Elysia or Mobius/Vill-V 
+>   Boss to be chosen: Husk, then Elysia or Mobius/Vill-V 
 
 ####<p align="center">Setup</p>
 
@@ -2947,14 +2945,16 @@ Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 SS1 | Finality | 65 7T & Handel | 4:53 (6.0 1st Half) | [https://youtu.be/5Ivtllc8h1Y](https://youtu.be/5Ivtllc8h1Y)
 SS1 | Finality | 65 DoS & Benares: Awakening | 6:25 (6.0 1st Half) | [https://youtu.be/FD6YiTvLYnQ](https://youtu.be/FD6YiTvLYnQ)
 SS1 | Finality | 65 DoS & Handel | 7:06 (6.0 1st Half) | [https://youtu.be/XDaxl4Aesxw](https://youtu.be/XDaxl4Aesxw)
+S2 | Finality | 65 DoS & Benares: Awakening | 9:36m (6.1 2nd Half) | [https://youtu.be/G9BY5bheIT8](https://youtu.be/G9BY5bheIT8)
 
 !!! note 
     This build's downscalability is pretty surprising. DoS & Benares: Awakening also wins second spot in terms of strength over DoS & Handel. Basically, you can work with either DoS or 7T, however DoS should win over 7T due to the buffs that DoS provides overall.
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
+Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG. | 15
 
 !!! note 
     Effective for 6.2.
@@ -3075,6 +3075,7 @@ Signet | Priority
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
 SS1 | Finality | 65 7T & Handel | 5:01 (6.0 1st Half) | [https://youtu.be/WSNNT-c0wns](https://youtu.be/WSNNT-c0wns)
+S2 | Finality | 65 7T & Handel | 7:14m (6.1 2nd Half) | [https://youtu.be/vnvqoPQ8KXk](https://youtu.be/vnvqoPQ8KXk)
 S0 | Finality | 65 7T & Handel | 8:17 (6.0 1st Half) | [https://youtu.be/3oqKVTRESns](https://youtu.be/3oqKVTRESns)
 
 !!! note 
@@ -3082,8 +3083,9 @@ S0 | Finality | 65 7T & Handel | 8:17 (6.0 1st Half) | [https://youtu.be/3oqKVTR
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
+Valkyries who use chakrams, 2-handers, blades and fists deal 20% more Total DMG. | 15
 
 !!! note 
     Effective for 6.2.
@@ -3207,7 +3209,7 @@ Quick Search: HoV, Salty Tuna, Sirin
 !!! note
     Updated for 6.1. Thanos Snap is the strongest build out of the two possible builds for HoV. Also, Mobius has been revived, and it is now used for the build.
 
-> Boss to be Chosen: Husk or Hephaestus, then Elysia (fastest clear/speedrun) or Aponia
+> Boss to be Chosen: Husk, then Elysia (fastest clear/speedrun) or Aponia
 
 !!! note
     Hephaestus is only ever taken if you want the fastest clear time for F17. If you aren't looking for that, then by any means, just stick with Husk instead, as it's the safer and more comfortable option.
@@ -3219,7 +3221,7 @@ Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 SSS | Finality | DoV & 3-set SirinA | 7:37m (6.1 2nd Half) | [https://youtu.be/v1ucplqx8lw](https://youtu.be/v1ucplqx8lw)
 SSS | Finality | DoV & 3-set Elysia | 6:33m (6.0 1st Half) | [https://youtu.be/m9ODUGWtI-8](https://youtu.be/m9ODUGWtI-8)
 SSS | Finality | DoV & 3-set Mich TB Polo M | 9:53m (5.9 2nd Half) | [https://youtu.be/5iB58b-fAQQ](https://youtu.be/5iB58b-fAQQ)
-S3 | Finality | Lv55 DoV & Sirin Ascendant | 7:26 (6.0 1st Half) | [https://youtu.be/oMdHkVnh7bE](https://youtu.be/oMdHkVnh7bE)
+S3 | Finality | Lv55 DoV & Sirin Ascendant | 8:51m (6.1 2nd Half) | [https://youtu.be/y2K5_xbVVAw](https://youtu.be/y2K5_xbVVAw)
 S3 | Finality | Lv55 DoV & 3-set Elysia | 10:08m (6.0 1st Half) | [https://youtu.be/WkSisfkTyA0](https://youtu.be/WkSisfkTyA0)
 
 !!! danger
@@ -3368,7 +3370,7 @@ Signet | Priority
 !!! note
     Updated for 6.1. Slower clear build, but in terms of strength, it's vastly superior.
 
-> Boss to be Chosen: Husk or Hephaestus, then Elysia, Aponia or Vill-V
+> Boss to be Chosen: Husk, then Elysia, Aponia or Vill-V
 
 !!! note
     Hephaestus is only ever taken if you want the fastest clear time for F17. If you aren't looking for that, then by any means, just stick with Husk instead, as it's the safer and more comfortable option.
@@ -3523,10 +3525,10 @@ Quick Search: IO, Snake, Snek, Mobius
 !!! note
     Updated for 6.1. Honestly, this is a really fun and genuine surprise that I wasn't expecting to hit this strong. Who would've thought that non-Linnaeus Mobius would be so damn strong nonetheless? Clearly, she doesn't need it, and neither does she gives a fuck about having DMG Reduction trying to weigh her down.
 
-> Boss to be Chosen: Andrius, then Vill-V or Aponia
+> Boss to be Chosen: Andrius OR Husk, then Vill-V or Aponia
 
 !!! note
-    Vill-V is the best choice easily if you have Miniature [X] available.
+    The choice between Andrius or Husk is difficult. Andrius has a really thick shield for non-fire Valkyries, making the fight harder even for Mobius. Husk on the other hand can be easier despite the type-counter. Vill-V is the best choice easily if you have Miniature [X] available.
 
 ####<p align="center">Setup</p>
 
@@ -3662,10 +3664,10 @@ Signet | Priority
 !!! note
     Updated for 6.1. This build has less dependancy on Kevin's short-lived buffs, instead having consistent buffs that stay present throughout whole floors, even outside of Ultimate.
 
-> Boss to be Chosen: Hephaestus, then Aponia or Vill-V
+> Boss to be Chosen: Andrius OR Husk, then Aponia or Vill-V
 
 !!! note
-    Aponia is preferred.
+    The choice between Andrius or Husk is difficult. Andrius has a really thick shield for non-fire Valkyries, making the fight harder even for Mobius. Husk on the other hand can be easier despite the type-counter. Vill-V is the best choice easily if you have Miniature [X] available.
 
 ####<p align="center">Setup</p>
 
@@ -3815,10 +3817,9 @@ S0 | Finality | GTX & Scott | 7:21 (6.1 2nd Half) | [https://youtu.be/CrV88ixC8S
 
 Buff | Load
 :----: | :----: 
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
 When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
 Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG. | 15
-For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed
-Valkyrie deals 3% more Physical and Elemental DMG. |5
 
 !!! note
     Effective for 6.2.
@@ -3967,8 +3968,9 @@ S0 | Finality | Lv55 Nocturnal & 3-set Ana | 5:44 (6.1 1st Half) | [https://yout
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
+Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG. | 15
 
 !!! note
     Effective for 6.2.
@@ -4114,8 +4116,9 @@ S0 | Finality | GTX & 3-set Scott | 8:57m (6.1 1st Half) | [https://youtu.be/Z9k
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
+Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG. | 15
 
 !!! note
     Effective for 6.2.
@@ -4245,8 +4248,9 @@ SS0 | Finality | Nocturnal & Shenzhou | To be Tested | To be Tested
 
 Buff | Load
 :----: | :----: 
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
+Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG. | 15
 
 !!! note
     Effective for 6.2.
@@ -4391,11 +4395,9 @@ SSS | Abstinence | Hekate & Ely TB Dante M | 11:35m (6.0 1st Half) | [https://yo
 
 Buff | Load
 :----: | :----: 
-For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed
-Valkyrie deals 3% more Physical and Elemental DMG. | 5
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
 When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
-When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it
-again refreshes its duration | 15
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes the duration. | 15
 
 !!! note
     Effective for 6.2.
@@ -4408,9 +4410,9 @@ Late | Key to the Deep or Proof of Good and Evil | The Lonely Moon
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | SS | LE
-Mid | SS | LE
-Late | SS | BR
+Early | BR | LE
+Mid | BR | LE
+Late | SA | BR
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -4515,11 +4517,10 @@ SSS | Finality | DoEgo & Aslaug | 12:08m (6.1) | [https://youtu.be/rkCnkA44e4s](
 
 Buff | Load
 :----: | :----: 
-For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed
-Valkyrie deals 3% more Physical and Elemental DMG. | 5
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
 When Valkyries counter or are countered by enemies, they deal 10% more Total DMG | 10
-When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it
-again refreshes its duration | 15
+After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
 
 !!! note
     Effective for 6.2.
@@ -4649,18 +4650,7 @@ Buff | Load
 :----: | :----: 
 Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
 When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
-When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it
-again refreshes its duration| 15
-
-!!! danger
-    Alternative Load Buffs below are specifically for CoC & Michelangelo TB Polo M F2P build
-
-Buff | Load
-:----: | :----:
-Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
-When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it
-again refreshes its duration| 15
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration| 15
 
 !!! note
     Effective for 6.2.
@@ -4673,9 +4663,9 @@ Late | Tin Flask or Key to the Deep | Falling in Past Light
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | VC | SS or LE
-Mid | BK / VC | SS or LE
-Late | BR | SS or LE
+Early | SA | BR or LE
+Mid | SA | BR or LE
+Late | SA | BR or LE
 
 !!! danger
     LE is picked if you want instant 100 SP Ultimate. This provides an advantage by further reducing the DMG Reduction that Elysia suffers in 6.1 weather for 3.6% less as opposed to 70 SP ult. LE is also swapped if you grab Eden's Initial/Max SP signet. However, if you don't feel confident on your damage and especially if you're downscaling hard, you can just swap her out for SS instead, as long as you have Aponia's SP regen backing you up.
@@ -4791,11 +4781,9 @@ SSS | Finality | Midnight Ataegina & BiankaT | 9:41m (6.0 1st Half) | [https://y
 
 Buff | Load
 :----: | :----: 
-For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed
-Valkyrie deals 3% more Physical and Elemental DMG. | 5
 Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it
-again refreshes its duration | 15
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration | 15
 
 !!! note
     Effective for 6.2.
@@ -4808,12 +4796,12 @@ Late | Key to the Deep | Falling in Past Light
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | SS | SN
-Mid | SS | BK / BR
-Late | SS | BR
+Early | SA | BR
+Mid | SA | BK / BR
+Late | SA | BR
 
 !!! note
-    SN is mainly for the Quantum Mobs early on and to provide a reliable gather as well. Afterwards, she can be swapped out for BR.
+    Can bring BK to Heimdall fight.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -4911,8 +4899,7 @@ Buff | Load
 :----: | :----: 
 Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
 When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
-When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it
-again refreshes its duration | 15
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration | 15
 
 !!! note
     Effective for 6.2.
@@ -5047,8 +5034,7 @@ Buff | Load
 :----: | :----: 
 Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
 When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
-When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it
-again refreshes its duration | 15
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration | 15
 
 !!! note
     Effective for 6.2.
@@ -5169,9 +5155,8 @@ SSS | Finality | Purana & Ana Schariac | 8:08m (6.0 1st Half) | [https://youtu.b
 
 Buff | Load
 :----: | :----: 
-For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed
-Valkyrie deals 3% more Physical and Elemental DMG. | 5
-When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
 Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG | 15
 
 !!! note
@@ -5277,7 +5262,7 @@ Signet | Priority
 !!! danger
     Updated to 6.1. Pardo2 variation basically just focuses on giving you a stronger headstart towards getting more signets and also getting more upgrades in comparison to Pardo1 variation. That's pretty much about it.
 
->   Boss to be chosen: Hephaestus, then Kalpas
+>   Boss to be chosen: Husk, then Kalpas
 
 ####<p align="center">Setup</p>
 
@@ -5291,9 +5276,9 @@ SSS | Finality | Purana & Ana Schariac | 7:41m (6.0 1st Half) | [https://youtu.b
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
-Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
+Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG | 15
 
 !!! note
     Effective for 6.2.
@@ -5424,9 +5409,9 @@ Quick search: RI, Kallen
 ### <p align="center">-- RI - *Aponia Build 6D*</p>
 
 !!! note
-    Updated to 6.1 for load buffs. The strength of this build is weakened for 6.0. Don't expect the same results as the example run shown below.
+    Updated to 6.2 for load buffs.
 
-> Boss to be Chosen: Andrius and Aponia
+> Boss to be Chosen: Husk and Aponia
 
 ####<p align="center">Setup</p>
 
@@ -5439,10 +5424,10 @@ SSS | Corruption | DoV & 3-Set Elysia | 13:25m (2nd Half 5.9) | [https://youtu.b
 
 Buff | Load
 :----: | :----: 
-For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed
-Valkyrie deals 3% more Physical and Elemental DMG. | 5
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
 Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
 When Valkyries counter or are countered by enemies, they deal 10% more Total DMG | 10
+After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
 
 !!! note
     Effective for 6.2.
@@ -5455,9 +5440,9 @@ Late | Resolve / Shattered Shackles / Key to the Deep | The Lonely Moon
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | VC | SS
-Mid | VC / BK | SS
-Late | VC | SS
+Early | SA | BR
+Mid | SA / BK | BR
+Late | SA | BR
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -5575,9 +5560,9 @@ S2 | Finality | FFF & Bronya N-EX | 7:48m (6.1 1st Half) | [https://youtu.be/vK_
 
 Buff | Load
 :----: | :----: 
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
 For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG | 5
- When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
- Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
 
 !!! note
     Effective for 6.2.
@@ -5593,12 +5578,12 @@ Late | Key to the Deep | The Lonely Moon / Dreamful Gold
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | AE | VC
+Early | AE | SN
 Mid | AE | BK
 Late | AE | VC & BR
 
 !!! note
-    VC is a must due to not only her low 30s CD, essential for synergy with her Ego signet Phantom Plumes, but also because it provides a gather which is always appreciated for SW. Remember to bring BK before Heimdall fight.
+    SN is a must due to not only her low 30s CD, essential for synergy with her Ego signet Phantom Plumes, but also because it provides a small gather which is always appreciated for SW. Remember to bring BK before Heimdall fight.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -5680,7 +5665,7 @@ Quick search: SpA, Rita, Fire Rita
 ### <p align="center">-- Rita's Training Arc 7D</p>
 
 !!! note
-    Updated 6.1. SpA had enough of sitting in the bench just warming it while watching other valkyries push ahead of her, so she decided to finally take matters into her hands and train to become a better valkyrie and catch up to the others! And she sure did went a bit overboard... by becoming even stronger than before! SpA's strength in favorable weathers is pretty strong and she also becomes a fairly easy valk to clear ER with. Although she struggles even more against Psy mobs. 
+    Updated 6.2. SpA had enough of sitting in the bench just warming it while watching other valkyries push ahead of her, so she decided to finally take matters into her hands and train to become a better valkyrie and catch up to the others! And she sure did went a bit overboard... by becoming even stronger than before! SpA's strength in favorable weathers is pretty strong and she also becomes a fairly easy valk to clear ER with. Although she struggles even more against Psy mobs. 
 
 
 >   Boss to be chosen: Andrius, then Aponia or Vill-V
@@ -5692,17 +5677,16 @@ Quick search: SpA, Rita, Fire Rita
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-SS | Finality | Pisces & Ragna | 7:00m (6.1 1st Half) | [https://youtu.be/HvXbqtefzNA](https://youtu.be/HvXbqtefzNA)
+SS | Finality | Pisces & Ragna | 5:59m (6.2) | [https://youtu.be/vttylaOS_jc](https://youtu.be/vttylaOS_jc)
 
 !!! note
     In terms of downscalability purposes, her weapon is pretty much a given and as for stigmatas she can do fine with Leuweenhoek TB Thales M.
 
 Buff | Load
 :----: | :----: 
+Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
 When Valkyries counter or are countered by enemies, they deal 10% more Total DMG.| 10
-Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration | 5
- When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it
- again refreshes its duration| 15
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
 
 !!! note
     Effective for 6.2.
