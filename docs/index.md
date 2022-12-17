@@ -285,6 +285,132 @@ Signet | Priority
 **Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 1st
 **Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 2nd
 
+***
+
+## Chrono Navi
+Quick Search: Ai, Ai-Chan, CN, Cabbage
+
+![Who would knew Ai-Chan could be so cute!?](https://user-images.githubusercontent.com/114035701/208253265-c16968a4-dfd0-4c0f-9f3d-d96b3daaa88a.png)
+
+### <p align="center">-- Deliverer of Disappointment</p>
+
+!!! note
+    Updated 6.2. Okay, so. Ai-Chan. She's pretty fun, and apparently she makes a really satisfactory sound everytime she deflects her chakrams. Which is kind of interesting for the gameplay itself. She also is comfortable to play due to the good gather that she has, albeit unreliable when the enemies are too far away. But she has a lot of problems that I have a hot take for.
+
+>   Boss to be chosen: Andrius, then Elysia (to booli her) or Vill-V
+
+####<p align="center">Setup</p>
+
+Rank | Difficulty Done | Recommended Gear | Clear Time | Run
+:------: | :------: | :------: | :------: | :------:
+SS2 | Finality | Rudder & Idol Set | 9:01m (6.2) | [https://www.youtube.com/watch?v=e6HBMOouOe4](https://www.youtube.com/watch?v=e6HBMOouOe4)
+
+!!! note 
+    In downscaling terms, do expect Ai-Chan's strength to drop considerably without her own Signature set, mainly because of how much damage her ignition does and also because of how much fire-related buffs her set gives that other Fire-related sets don't come close to.
+
+Buff | Load
+:----: | :----: 
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
+Valkyries who use chakrams, 2-handers, blades and fists deal 20% more Total DMG. | 15
+
+!!! note 
+    Effective for 6.2.
+
+Time | Remembrance Sigil | FC Support Skill
+:----: | :----: | :----:
+Early | Veil of Tears | Falling in Past Light OR Because of You (can also be at F5 Shop)
+Mid | Memory / Mad King's Mask / Forget-Me-Not | Because of You / Falling in Past Light
+Late | Tin Flask or Key to the Deep | Falling in Past Light
+
+!!! note
+    You can choose to either do a Because of You start to get the other 2 desired Ego signets by F7, or play the early safer by using Falling in Past Light in order to help getting the F4 double.
+
+Time | Support 1 | Support 2
+:----: | :----: | :----:
+Early | AE | BR
+Mid | AE | BR or BK
+Late | AE | BR
+
+!!! note
+    You'll never swap AE out. BR on the other hand can be swapped for BK if needed for Heimdall fight. This is especially recommended due to the usage of Kalpas2 and Ai-Chan lacking good, dependable i-frames alongside being easily interrupted which then makes her really easy to be killed by Heimdall in Red Mode. Without BK, you need good skill through properly evading and making use of her only 2 i-frames in order to get past his Red Mode forcefuly.
+
+####<p align="center">Elysia - Signet of ■■</p>
+
+Signet | Priority
+------|:----:
+**Blessing of Wisdom**: α/β/γ chakram deals an extra 100% ATK of Fire DMG. When knocking back 1 γ chakram unit, 2 β chakram units will be launched alongside it. On hit, α/β chakram unit restores 2 SP. | **Start**
+**Blessing of Truth**: Triggering Ultimate Evasion Skill fully restores Konstruktyom. When Konstruktyom is below 120, any evasion can trigger Ultimate Evasion Skill | 1st
+**Blessing of Inspiration**: Triggering an Ultimate Evasion by any means inflicts a Structural Impact on enemies hit and deals 3750% ATK of Ice DMG | 2nd
+**Blessing of Reason**: Every hit from hover guns reduces weapon active CD by 0.7s | No
+**Blessing of Creation**: In non-bike mode, Charged ATKs create 4 hover guns to attack, each dealing 160% ATK of Ice DMG on hit | No
+
+!!! note
+    This build mainly relies on 3 main Ego signets: Starting with Wisdom, this signet will carry you through your entire early game up until F11 where you need the double reward to get both Truth + Inspiration. The other signets are worthless.
+
+####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
+
+!!! note
+    Ideal order from F1-F7: Reset F2 for Griseo Red Paint start, then take Aponia's SP Regen by F3, unlock Aponia 2nd Core by F4 with Ultimate & 70 Load, go shop F5 and put Because of You, buy Aponia's Breach or Penance if you get them, otherwise take Hua's Elem Breach, Sakura's TDM Taken and TDM or Black & Dark from Griseo. Grab Aponia door F6, then unlock Hua 2nd Core by F7 double
+
+Signet | Priority
+- | :----:
+**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 1st
+**Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | 2nd
+**Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 3rd
+**Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
+**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | 1st
+**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 2nd
+**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | Optional 3rd
+
+!!! note
+    Punish Evil's spot can instead be used for completing Hua2.
+
+####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
+
+Signet | Priority
+- | :----:
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
+**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
+
+####<p align="center">Hua - Signet of Vicissitude (3rd Core)</p>
+
+Signet | Priority
+- | :----:
+**Old Dreams Again**: Elemental Breach increases by 0.6% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 1st
+**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 2nd
+**Dark Garb No More**: Elemental DMG increases by 0.8% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 3rd
+**Nexus Signet 2: Suffering Mass** |
+**Broken Dream**: With Soldier's Remembrance stacks, the max stacks of all buffs from Normal Signets of Vicissitude increase by 20. Losing all Soldier's Remembrance stacks reduces the max stacks by 10 but restores 1 Soldier's Remembrance stack. Can only be triggered once every battle. | Optional
+
+!!! note
+    If you have no better choices for doors, you can try to take Broken Dream.
+
+####<p align="center">Sakura - Signet of Setsuna (4th Core)</p>
+
+Signet | Priority
+- | :----:
+**Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s. | 2nd
+**Bountiful Blossom: Botan**: Triggering Ultimate Evasion Skill boosts Total DMG by 40% for 8s. | 1st
+**Bountiful Blossom: Fuji**: Ultimate Evasion Skill has 1 more charge and 10% reduced CD. | 3rd
+**Nexus Signet 1: Setsuna Blade: Sakura ni Maku** |
+
+####<p align="center">Griseo - Signet of Stars (5th Core)</p>
+
+Signet | Priority
+- | :----:
+**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st
+**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 2nd
+**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | 3rd
+**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 4th
+**Grey & Empty**: Enemies stay tainted for 5s longer. | Optional 5th
+**Nexus Signet 2: Faded Stars** |
+**Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 1st
+**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 2nd
+**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | Optional
+
 
 ***
 
@@ -7249,34 +7375,35 @@ Zero Blade#5805: avoids it as his bad reputation is to be kept untouched
 
 1. [Argent Knight: Artemis](https://www.pixiv.net/en/artworks/96290976)
 2. [Bright Knight: Excelsis](https://www.pixiv.net/en/artworks/81986704)
-3. [Dea Anchora](https://www.pixiv.net/en/artworks/90947488)
-4. [Disciplinary Perdition](https://twitter.com/honkaiimpact3rd/status/1521670952865701888)
-5. [Fallen Rosemary](https://www.pixiv.net/en/artworks/84147101)
-6. [Fervent Tempo: Delta](https://www.pixiv.net/en/artworks/93250091)
-7. [Golden Diva](https://bbs.mihoyo.com/bh3/article/20943121)
-8. [Goushinnso Memento](https://www.deviantart.com/billcarl8/art/Honkai-Impact-3-Live-Wallpaper-Free-757179955)
-9. [Herrscher of Flamescion](https://www.artstation.com/artwork/ea8NbX)
-10. [Herrscher of Humanity](https://twitter.com/kiwiiri/status/1557674965133955073)
-11. [Herrscher of Reason](https://www.pixiv.net/en/artworks/76766584)
-12. [Herrscher of Sentience](https://www.pixiv.net/en/artworks/87488958)
-13. [Herrscher of Thunder](https://www.pixiv.net/en/artworks/83295893)
-14. [Herrscher of Void](https://bbs.mihoyo.com/bh3/article/15211537)
-15. [Infinite Ouroboros](https://www.pixiv.net/en/artworks/98253306)
-16. [Jade Knight](https://static.zerochan.net/Li.Sushang.full.3769418.png)
-17. [Luna Kindred](https://pixiv.net/en/artworks/70384862)
-18. [Midnight Absinthe](https://www.pixiv.net/en/artworks/79351986)
-19. [Miss Pink Elf](https://www.artstation.com/artwork/oA3GZk)
-20. [Palatinus Equinox](https://www.pixiv.net/artworks/96196806)
-21. [Prinzessin der Verurteilung](https://www.pixiv.net/en/artworks/98494848)
-22. [Reverist Calico](https://www.pixiv.net/en/artworks/97265063)
-23. [Ritual Imayoh](https://pixiv.net/en/artworks/79702200)
-24. [Silverwing N-EX](https://www.pixiv.net/en/artworks/98011571)
-25. [Spina Astera](https://twitter.com/retty9349/status/1500003174891065345)
-26. [Starchasm Nyx](https://www.pixiv.net/en/artworks/89346170)
-27. [Starry Impression](https://www.pixiv.net/en/artworks/98799746)
-28. [Striker Fulminata](https://pixiv.net/en/artworks/80586473)
-29. [Stygian Nymph](https://twitter.com/honkaiimpact3rd/status/1432689634660683777)
-30. [Sweet 'n' Spicy](https://www.pixiv.net/en/artworks/93538694)
-31. [Twilight Paladin](https://www.pixiv.net/en/artworks/92772601)
-32. [Valkyrie Gloria](https://pixiv.net/en/artworks/80022875)
-33. [Vermilion Knight: Eclipse](https://www.pixiv.net/en/artworks/82236542)
+3. [Chrono Navi](https://www.pixiv.net/en/artworks/79491688)
+4. [Dea Anchora](https://www.pixiv.net/en/artworks/90947488)
+5. [Disciplinary Perdition](https://twitter.com/honkaiimpact3rd/status/1521670952865701888)
+6. [Fallen Rosemary](https://www.pixiv.net/en/artworks/84147101)
+7. [Fervent Tempo: Delta](https://www.pixiv.net/en/artworks/93250091)
+8. [Golden Diva](https://bbs.mihoyo.com/bh3/article/20943121)
+9. [Goushinnso Memento](https://www.deviantart.com/billcarl8/art/Honkai-Impact-3-Live-Wallpaper-Free-757179955)
+10. [Herrscher of Flamescion](https://www.artstation.com/artwork/ea8NbX)
+11. [Herrscher of Humanity](https://twitter.com/kiwiiri/status/1557674965133955073)
+12. [Herrscher of Reason](https://www.pixiv.net/en/artworks/76766584)
+13. [Herrscher of Sentience](https://www.pixiv.net/en/artworks/87488958)
+14. [Herrscher of Thunder](https://www.pixiv.net/en/artworks/83295893)
+15. [Herrscher of Void](https://bbs.mihoyo.com/bh3/article/15211537)
+16. [Infinite Ouroboros](https://www.pixiv.net/en/artworks/98253306)
+17. [Jade Knight](https://static.zerochan.net/Li.Sushang.full.3769418.png)
+18. [Luna Kindred](https://pixiv.net/en/artworks/70384862)
+19. [Midnight Absinthe](https://www.pixiv.net/en/artworks/79351986)
+20. [Miss Pink Elf](https://www.artstation.com/artwork/oA3GZk)
+21. [Palatinus Equinox](https://www.pixiv.net/artworks/96196806)
+22. [Prinzessin der Verurteilung](https://www.pixiv.net/en/artworks/98494848)
+23. [Reverist Calico](https://www.pixiv.net/en/artworks/97265063)
+24. [Ritual Imayoh](https://pixiv.net/en/artworks/79702200)
+25. [Silverwing N-EX](https://www.pixiv.net/en/artworks/98011571)
+26. [Spina Astera](https://twitter.com/retty9349/status/1500003174891065345)
+27. [Starchasm Nyx](https://www.pixiv.net/en/artworks/89346170)
+28. [Starry Impression](https://www.pixiv.net/en/artworks/98799746)
+29. [Striker Fulminata](https://pixiv.net/en/artworks/80586473)
+30. [Stygian Nymph](https://twitter.com/honkaiimpact3rd/status/1432689634660683777)
+31. [Sweet 'n' Spicy](https://www.pixiv.net/en/artworks/93538694)
+32. [Twilight Paladin](https://www.pixiv.net/en/artworks/92772601)
+33. [Valkyrie Gloria](https://pixiv.net/en/artworks/80022875)
+34. [Vermilion Knight: Eclipse](https://www.pixiv.net/en/artworks/82236542)
