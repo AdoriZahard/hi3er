@@ -41,6 +41,7 @@ Please note that this is only true for there reward scores, and not the actual p
 > Click [here](https://rentry.co/thebuttererguide) for more information on how to ER more efficiently.
 
 ## Update log
+- 2022-17-12: Added CN and her available build.
 - 2022-12-12: Added VK and her 2 available builds.
 - 2022-09-22: Github page redesigned and replaces [https://rentry.co/hi3er](https://rentry.co/hi3er)
 
@@ -339,23 +340,23 @@ Late | AE | BR
 
 Signet | Priority
 ------|:----:
-**Blessing of Wisdom**: α/β/γ chakram deals an extra 100% ATK of Fire DMG. When knocking back 1 γ chakram unit, 2 β chakram units will be launched alongside it. On hit, α/β chakram unit restores 2 SP. | **Start**
-**Blessing of Truth**: Triggering Ultimate Evasion Skill fully restores Konstruktyom. When Konstruktyom is below 120, any evasion can trigger Ultimate Evasion Skill | 1st
-**Blessing of Inspiration**: Triggering an Ultimate Evasion by any means inflicts a Structural Impact on enemies hit and deals 3750% ATK of Ice DMG | 2nd
-**Blessing of Reason**: Every hit from hover guns reduces weapon active CD by 0.7s | No
-**Blessing of Creation**: In non-bike mode, Charged ATKs create 4 hover guns to attack, each dealing 160% ATK of Ice DMG on hit | No
+**Blessing of Succession**: α/β/γ chakram deals an extra 100% ATK of Fire DMG. When knocking back 1 γ chakram unit, 2 β chakram units will be launched alongside it. On hit, α/β chakram unit restores 2 SP. | **Start**
+**Blessing of Time Crystal**: When chakram hits, gain 1 stack of Info Plus, which increases chakram's Fire DMG by 5%. It lasts 8s and can stack 40 times. Triggering it again refreshes it's duration. **1st**
+**Blessing of Constant**: On hit, α/β/γ Chakram generates 1 Splitting Chakram, which deals 150% ATK of Fire DMG and can ricochet 2 times (including ricocheting off the user). CD: 0.2s. | 2nd
+**Blessing of Final Dream**: When knocking back chakram with Basic ATK of weapon skill Counterattack Order, 1 Splitting Chakram will be launched alongside it, which deals 150% ATK of Fire DMG and can ricochet 3 times (including ricocheting off the user). | 3rd
+**Blessing of Bladepiece**: Deal 120% more ignite DMG, and 20% more Fire DMG to ignited enemies. Casting Ultimate refills KE. The fire ring contracts after spreading, pulling enemies while dealing 1600% ATK of Fire DMG to them. | No
 
 !!! note
-    This build mainly relies on 3 main Ego signets: Starting with Wisdom, this signet will carry you through your entire early game up until F11 where you need the double reward to get both Truth + Inspiration. The other signets are worthless.
+    Succession + Time Crystals are necessary to start with Ai-Chan. Without Time Crystals, she doesn't have damage to help her for the remainder of the run. The other 2 Ego Signets to get are Constant and Final Dream.
 
 ####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
 
 !!! note
-    Ideal order from F1-F7: Reset F2 for Griseo Red Paint start, then take Aponia's SP Regen by F3, unlock Aponia 2nd Core by F4 with Ultimate & 70 Load, go shop F5 and put Because of You, buy Aponia's Breach or Penance if you get them, otherwise take Hua's Elem Breach, Sakura's TDM Taken and TDM or Black & Dark from Griseo. Grab Aponia door F6, then unlock Hua 2nd Core by F7 double
+    Ideal Order from F1-F7: Double Ego start (Succession + Time Crystals) into Aponia Basic ATK F3, finish Aponia 2nd Core by F4 with Ultimate and SP Regen, grab Aponia's either Breach from F5 or F6 and go shop F5/F6, buy V-V's Pendulum and Conflict and Griseo's Red or V-V's Spider Web (ideally 2 from V-V and Griseo's Red), then grab Ego door at F7 from Because of You
 
 Signet | Priority
 - | :----:
-**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 1st
+**First, No Betrayal**: Exhortation increases by 5 per second and caps at 200. Basic ATK's Total DMG increases by 0.3% of Exhortation. Triggering Ultimate Evasion Skill reduces 50% Exhortation. | 1st
 **Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | 2nd
 **Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 3rd
 **Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
@@ -364,40 +365,37 @@ Signet | Priority
 **You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | Optional 3rd
 
 !!! note
-    Punish Evil's spot can instead be used for completing Hua2.
+    Basic ATK is high priority to +3. Do make sure to get Breach, it's very important. In this run, I had to grab Aponia door at F11 instead of Double Ego due to lacking Breach.
 
-####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
+####<p align="center">Vill-V - Signet of Helix (2nd Core)</p>
+
+Signet | Priority
+- | :----:
+**Act VI: Spider Web**: Using a weapon active boosts Valkyrie ranged Total DMG by 40% for 4.5s. Triggering it again resets the duration. | 1st
+**Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 2nd
+**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 3rd
+**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | Optional 4th
+**Nexus Signet 2: Intermezzo: Holistic Helix** |
+**Puppetry: Interlacing Cells**: Extends Global Time Fracture caused by Specail Weapon: No. 4's detonation by 3s. During Global Time Fracture, gain 30% Physical and Elemental Breach. | 1st
+**Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 2nd
+
+!!! note
+    Puppetry and Drama are both high priority to +3. Especially good if you can use 3* Remembrance Sigil Abuse to get both at +2.
+
+####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
 
 Signet | Priority
 - | :----:
 **Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
 **Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
 **Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
+**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
 **Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
-
-####<p align="center">Hua - Signet of Vicissitude (3rd Core)</p>
-
-Signet | Priority
-- | :----:
-**Old Dreams Again**: Elemental Breach increases by 0.6% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 1st
-**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 2nd
-**Dark Garb No More**: Elemental DMG increases by 0.8% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 3rd
-**Nexus Signet 2: Suffering Mass** |
-**Broken Dream**: With Soldier's Remembrance stacks, the max stacks of all buffs from Normal Signets of Vicissitude increase by 20. Losing all Soldier's Remembrance stacks reduces the max stacks by 10 but restores 1 Soldier's Remembrance stack. Can only be triggered once every battle. | Optional
 
 !!! note
     If you have no better choices for doors, you can try to take Broken Dream.
 
-####<p align="center">Sakura - Signet of Setsuna (4th Core)</p>
-
-Signet | Priority
-- | :----:
-**Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s. | 2nd
-**Bountiful Blossom: Botan**: Triggering Ultimate Evasion Skill boosts Total DMG by 40% for 8s. | 1st
-**Bountiful Blossom: Fuji**: Ultimate Evasion Skill has 1 more charge and 10% reduced CD. | 3rd
-**Nexus Signet 1: Setsuna Blade: Sakura ni Maku** |
-
-####<p align="center">Griseo - Signet of Stars (5th Core)</p>
+####<p align="center">Griseo - Signet of Stars (4th Core)</p>
 
 Signet | Priority
 - | :----:
@@ -411,6 +409,8 @@ Signet | Priority
 **Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 2nd
 **A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | Optional
 
+!!! note
+    Red is highest priority to +3. Yellow is good to +3. Strongly recommended to use 3* Remembrance Sigil Abuse for Red.
 
 ***
 
