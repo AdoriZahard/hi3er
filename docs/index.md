@@ -41,12 +41,10 @@ Please note that this is only true for there reward scores, and not the actual p
 > Click [here](https://rentry.co/thebuttererguide) for more information on how to ER more efficiently.
 
 ## Update log
+- 2022-18-12: Updated every Valkyrie's Load Buffs to current Weather. Also updated some builds (Signet Priority mainly and Reccomended Supports)
 - 2022-17-12: Added CN and her available build.
 - 2022-12-12: Added VK and her 2 available builds.
 - 2022-09-22: Github page redesigned and replaces [https://rentry.co/hi3er](https://rentry.co/hi3er)
-
-!!! danger
-    Due to work making my available time really short, I'm sorry to inform that it will take a while before I can completely update the Website Guide for all and every Valkyrie's new recommended Load Buffs for 6.2. Please do ask other Captains in the Discord instead to check on the correct Load Buffs!
 
 **Table of Contents (In alphebetical order):**
 
@@ -5912,7 +5910,7 @@ Signet | Priority
 !!! note
     Updated 6.1. This valk is fucking awful. Honest truth. Her early game absolutely sucks, even as SS-rank, and loses against valks like Fischl and Eden in that regard. She only starts ramping up in strength after Benares, but even then, she still sucks a bit as she becomes mediocre at best. If anything, I would honestly recommend to play other valks instead of this shitty valk. She just really sucks, nothing more.
 
->   Boss to be chosen: Hephaestus OR Husk, then Aponia or Vill-V
+>   Boss to be chosen: Andrius, then Aponia or Vill-V
 
 !!! note
     You should consider Hephaestus' Overheat mechanic. You might not be able to kill him. If you're not confident in doing so, you can instead go with Husk, but he's more annoying due to SpA's lack of i-frames which makes her be reliant on manual dodging even more, as she already uses Kosma.
@@ -5929,8 +5927,8 @@ SS | Finality | Pisces & Ragna | 10:16m (6.0 1st Half) | [https://youtu.be/IDZt4
 Buff | Load
 :----: | :----: 
 Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
-When the stage timer is paused, Total DMG received by all enemies on the field increases by 20% for 15s. Triggering it again resets the duration. | 15
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes the duration. | 15
 
 !!! note
     Effective for 6.2.
@@ -6051,11 +6049,9 @@ S0 | Finality | Sanguine & Verne | 8:48m (6.1 1st Half) | [https://youtu.be/9w0X
 
 Buff | Load
 :----: | :----: 
-Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the
-duration | 10
-When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it
-again refreshes its duration | 15
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
+After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration | 10
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration | 15
 
 !!! note
     Effective for 6.2.
@@ -6071,12 +6067,12 @@ Late | Tin Flask or Key to the Deep | The Lonely Moon
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | AE | SN
-Mid | BK | SN
-Late | AE | SN
+Early | AE | BR
+Mid | BK | BR
+Late | AE | BR
 
 !!! note
-    Remember to swap out AE for BK before facing Heimdall. Also, SN is used because of the load buff for 10% TDT.
+    Remember to swap out AE for BK before facing Heimdall.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -6172,7 +6168,8 @@ Quick Search: SI, Griseo, Grisekek, Painter, Bob Ross
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-SSS | Finality | Elysian Astra & Cezanne | 7:16m (Updated, 6.0 1st Half) | [https://youtu.be/WOaXlhdcyrc](https://youtu.be/WOaXlhdcyrc)
+SSS | Finality | Elysian Astra & Cezanne | 7:52m (6.1 2nd Half) | [https://youtu.be/UdcaTiMXf7Y](https://youtu.be/UdcaTiMXf7Y)
+SSS | Finality | Ranger's Cross & Elysia TB Paganini/Dante M | 12:15m (6.1 2nd Half) | [https://youtu.be/U3tTAQlLCLg](https://youtu.be/U3tTAQlLCLg)
 
 !!! note
     This build is downscaleable with lower clear time based on stats/gears/rank and lower difficulties. However, I can't say how she will work without Cezanne as most of Griseo's damage in ER comes from her bleed damage. A bit weird to work around. But there's probably a way to work around it, which I will look into later.
@@ -6180,9 +6177,9 @@ SSS | Finality | Elysian Astra & Cezanne | 7:16m (Updated, 6.0 1st Half) | [http
 Buff | Load
 :----: | :----: 
 Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed
-Valkyrie deals 3% more Physical and Elemental DMG. | 5 
-When Valkyries counter or are countered by enemies, they deal 10% more Total DMG| 10
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5 
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG | 10
+After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration. | 10
 
 !!! note
     Effective for 6.2.
@@ -6195,9 +6192,9 @@ Late | Key to the Deep | The Lonely Moon
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | SS | BR
-Mid | SS | BK
-Late | SS | BR
+Early | SA | BR
+Mid | SA | BK
+Late | SA | BR
 
 !!! note
     Remember to bring BK for Heimdall fight.
@@ -6234,7 +6231,17 @@ Signet | Priority
 !!! note
     By F4, if you get both Red and Yellow paint only, grab A Flame Extinguished. If you get Red and Blue, grab Petals in the Wind. If for some reason you only get Yellow & Blue, then Fallen Leaves.
 
-####<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
+
+Signet | Priority
+- | :----:
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
+**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | Optional
+**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
+
+####<p align="center">Hua - Signet of Vicissitude (3rd Core)</p>
 
 Signet | Priority
 ----| :----:
@@ -6246,16 +6253,6 @@ Signet | Priority
 
 !!! note
     Broken Dream remains a gamble to try and get from a door. Better taken from shop or unless you don't have other good door choices.
-
-####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
-
-Signet | Priority
-- | :----:
-**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
-**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
-**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
-**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | Optional
-**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
 
 ####<p align="center">Aponia - Signet of Discipline (4th Core)</p>
 
@@ -6317,8 +6314,7 @@ SSS | Finality | 7T & 3-set Dirac | 13:18m (6.1 1st Half) | [https://youtu.be/K-
 Buff | Load
 :----: | :----: 
 Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the
-duration | 10
+After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering it again resets the duration | 10
 Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG | 15
 
 !!! note
@@ -6335,12 +6331,12 @@ Late | Key to the Deep | Dreamful Gold
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | SS | SN
-Mid | SS | BK
-Late | SS | SA
+Early | SA | SN or LE
+Mid | SA | BK
+Late | SA | BR
 
 !!! note
-    SN is mainly to deal with the early Quantum mobs as they are too tanky for her without being collapsed. Afterwards, SN is swapped out for SA. Remember to bring BK to Heimdall fight.
+    SN is mainly to deal with the early Quantum mobs as they are too tanky for her without being collapsed. Afterwards, SN is swapped out. Remember to bring BK to Heimdall fight. LE on the other hand can be more helpful for Early game if you want to have some better uptime on StFu's Burst Mode.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -6440,9 +6436,8 @@ SS0 | Finality | PoA:Kindred & Allan Poe | 16:10m (6.1 1st Half) | [https://yout
 Buff | Load
 :----: | :----: 
 Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-When Valkyries counter or are countered by enemies, they deal 10% more Total DMG | 10
-When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it
-again refreshes its duration | 15
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration | 15
 
 !!! note
     Effective for 6.2.
@@ -6545,7 +6540,7 @@ Signet | Priority
 
 ### <p align="center">-- S2 Build 5D</p>
 
-> Boss to be Chosen: Husk or Hephaestus, then Vill-V
+> Boss to be Chosen: Husk, then Vill-V
 
 ####<p align="center">Setup</p>
 
@@ -6559,9 +6554,8 @@ S2 | Abstinence | Path of Acheron Pri & 3-set Allan Poe | 14m (2nd Half 5.9) | [
 Buff | Load
 :----: | :----: 
 Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
-
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes the duration. | 15
 
 !!! note
     Effective for 6.2.
@@ -6663,7 +6657,7 @@ Quick search: SnS, Carole
 !!! note 
     Updated 6.1. Carole arguably sits in a tier of her own thanks to this, and a couple other reasons. While she actually has A LOT of frontloaded damage that hurts a shitton, both in her Charged ATKs and Ultimate, this is however eclipsed by the fact that she's actually TERRIBLE when dealing with the F17 Bosses. This can easily become a problem for you to get past, which would mean a failed run.
 
-> Boss to be Chosen: Husk? or Andrius, then Aponia or Vill-V
+> Boss to be Chosen: Andrius, then Aponia or Vill-V
 
 !!! note
     I do not know how Carole performs against Husk, and I don't really want to try it out either. Not gonna deal with the IMG Taint and Husk's bullshit. Honestly, not sure which one between the two is less bullshit for Carole.
@@ -6679,9 +6673,8 @@ SSS | Finality | MKP & Paganini | 12:34m (6.1 1st Half) | [https://youtu.be/MdpF
 
 Buff | Load
 :----: | :----: 
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration | 15
 Valkyries who use chakrams, 2-handers, blades, and fists deal 20% more Total DMG | 15
-When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it
-again refreshes its duration | 15
 
 !!! note
     Effective for 6.2.
@@ -6789,7 +6782,7 @@ Quick search: TP, Teri, Theresa
 !!! note
     Updated 6.1. Sadly, TP's strength is pretty average. All around, she's average. Just a decent ER valkyrie that isn't either good nor bad. 
 
->   Boss to be chosen: Hephaestus, then Aponia or Vill-V
+>   Boss to be chosen: Husk, then Aponia or Vill-V
 
 
 ####<p align="center">Setup</p>
@@ -6803,9 +6796,9 @@ SSS | Finality | Hekate Sombre & Kafka | 11:26m (6.1 1st Half) | [https://youtu.
 
 Buff | Load
 :----: | :----: 
-Enemies damaged by weapon actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
-Valkyrie deals 20% more Total DMG for 8s when enemies are Frozen or Bleeding. Triggering it again resets the duration. | 10
-For every 60 SP restored, Total DMG received by enemies on the field increases by 10%. 2 stacks max. Duration: 15s. Triggering it again resets the duration. | 15
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
+When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes the duration. | 15
 
 !!! note
     Effective for 6.2
@@ -6821,12 +6814,12 @@ Late | Key to the Deep | Dreamful Gold
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | SS | SN
-Mid | SS | BK
-Late | SS | BR
+Early | SA | SN or BR
+Mid | SA | BK
+Late | SA | BR
 
 !!! note
-    SA provides some comfy gather alongside a nice Phys DMG boost. SN is mainly to deal with the early Quantum mobs as they are too tanky for her without being collapsed. Afterwards, she's swapped out for SS. 
+    SA provides some comfy gather alongside a nice Phys DMG boost. SN is mainly to deal with the early Quantum mobs as they are too tanky for her without being collapsed. Afterwards, she's swapped out for BR. 
 
 !!! danger
     Remember to bring BK before Heimdall fight.
@@ -6920,54 +6913,61 @@ Quick search: VG, Dudu, Goose
 
 ![Vercel VG](https://elysian-realm.vercel.app/valkyries/valkyrie-gloria.webp)
 
-### <p align="center">-- VG - *Abstinence Build 5D*</p>
+### <p align="center">-- Durandab Does it Again!</p>
 
 !!! note
-    Updated for 6.1. Honestly, just pick someone better.
+    Updated for 6.1. Honestly, just pick someone better. Please stay out of her and conserve your sanity if your VG is not SSS and especially if you do not have a ELF that has gather like Durandab. ELF Elysia would also work. Water's Edge as well, but its gather is weak if your Valk is not Ice.
 
-> Boss to be Chosen: Andrius or Hephaestus, Aponia
+> Boss to be Chosen: Husk, then Vill-V
+
+!!! danger
+    Do not take Andrius. Avoid him at all costs. He has Iron Body (immunity to Throw Attacks) while shielded. It's literally an unwinnable fight for VG.
 
 ####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-SSS | Abstinence | Eos Gloria & LWH TB Thales M | 13:09m (2nd Half 5.9) | [https://youtu.be/ILcGqhJskcs](https://youtu.be/ILcGqhJskcs)
+SSS | Finality | Eos Gloria & Ragna TB Thales M | 15:59m (6.2) | [https://youtu.be/GnRBPFn-WDA](https://youtu.be/GnRBPFn-WDA)
 
 !!! note
-    Downscaling would fit into lower difficulties with this one.
+    Ragna TB is much better than LWH TB due to the higher amount of buffs that Ragna TB provides over the latter. Other than that, in downscalability purposes, this valkyrie is too dogshit for ER.
 
 Buff | Load
 :----: | :----: 
 Time slowed enemies take 8% bonus Total DMG for 4s. Triggering it again resets the duration. | 5
-When Valkyries counter or are countered by enemies, they deal 10% more Total DMG | 10
-When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it
-again refreshes its duration | 15
+For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration | 15
 
 !!! note
     Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
-Early | Veil of Tears | The Lonely Moon
-Mid | Pseudo Miracle / Memory / Rainbow of Absence / Mad King's Mask | The Lonely Moon
-Late | Key to the Deep | The Lonely Moon
+Early | Veil of Tears | The Lonely Moon / Because of You (F5 Shop)
+Mid | Pseudo Miracle / Mad King's Mask / Rainbow of Absence | The Lonely Moon
+Late | Tin Flask or Key to the Deep | The Lonely Moon
+
+!!! note
+    The Lonely Moon is stricly necessary for VG in order to clear F4 Double. Regarding Because of You, VG honestly doesn't need any more than 3 Ego signets, so if you get an Ego door early on (F5 or F6), then take that door and just go with Falling in Past Light or TLM.
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
 Early | AE | LE
-Mid | AE | FR
-Late | AE | FR
+Mid | AE | MA
+Late | AE | MA
+
+!!! note
+    You never get AE out. LE is a must-have for Early game, and if needed, for Mid game. Once you're settled in SP Regen signets, you can swap LE out for MA.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
-
 Signet | Priority
 ------|:----:
-**Blessing of Impetus**: Entering Sprint triggers Stage 2 and until Sprint ends, attacks cost 40 Resolve more on hit to deal 2000% ATK of Fire DMG per second. | No
+**Blessing of Battle Song**: Weapon actives deal 200% bonus Total DMG. Hitting an enemy with Charged ATK in Aura Ignis resets weapon active CD. | **Start**
 **Blessing of Gloria**: The last hit of Charged ATK or Throw ATK inflicts Magnifica Mark on enemies which explodes after a short delay to deal 1500% ATK of Fire DMG. | 1st
 **Blessing of Sol**: Within 3s after performing Ultimate Evasion, Basic ATK Sequence 5 or the last hit of Charged ATK inflicts Magnifica Mark on enemies which explodes after a short delay to deal 1200% ATK of Fire DMG. | Optional 2nd
-**Blessing of Battle Song**: Weapon actives deal 200% bonus Total DMG. Hitting an enemy with Charged ATK in Aura Ignis resets weapon active CD. | Start
 **Blessing of Triumph**: Triggering Ultimate Evasion Skill or detonating Magnifica Mark restores 15 SP. | Filler
+**Blessing of Impetus**: Entering Sprint triggers Stage 2 and until Sprint ends, attacks cost 40 Resolve more on hit to deal 2000% ATK of Fire DMG per second. | No
 
 !!! note
     Battle Song + Gloria are a must. Sol can be optionally picked later. Triumph is not necessary. VG is another valk that loves her Ego signets, however, prioritize completing the important cores over the Ego signets.
@@ -6975,49 +6975,38 @@ Signet | Priority
 ####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
 
 !!! note
-    Ideal course of build up: Double Ego start > Apo2 Core by F4 > Apo2 Breach by F5 > V-V by F6 > Complete V-V 2nd Core by F7.
-
+    Ideal course of build up: Double Ego Start (Battle Song + Gloria) into Aponia Basic ATK by F3, finish Aponia 2nd Core at F4, go shop F5 or take Ego door F5, at shop buy V-V's Pendulum and Conflict and Griseo's either Red or Yellow. If no Ego door by this point, take Aponia's Breach F6 and grab the remaining 2 Aponia Enhanceds by F7 Double
 
 Signet | Priority
 - | :----:
-**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 1st
+**First, No Betrayal**: Exhortation increases by 5 per second and caps at 200. Basic ATK's Total DMG increases by 0.3% of Exhortation. Triggering Ultimate Evasion Skill reduces 50% Exhortation. | 1st
 **Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 2nd
 **Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | 3rd
-**First, No Betrayal**: Exhortation increases by 5 per second and caps at 200. Basic ATK's Total DMG increases by 0.3% of Exhortation. Triggering Ultimate Evasion Skill reduces 50% Exhortation. | Optional 4th
+**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 4th
 **Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
 **You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | 1st
-**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 2nd
-**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | Optional 3rd
+**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 2nd
+**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 3rd
 
-####<p align="center">Griseo - Signet of Stars (2nd Signet)</p>
+!!! note
+    Basic ATK is good to consider +3, but otherwise give higher priority to other signets. Noticeably, V-V's Drama and Griseo's Red and Yellow.
 
-
-Signet | Priority
-- | :----:
-**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st YES
-**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | 2nd YES
-**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 3rd YES
-**Nexus Signet 2: Faded Stars** |
-**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | Optional
-
-####<p align="center">Vill-V - Signet of Helix (3rd Core)</p>
-
+####<p align="center">Vill-V - Signet of Helix (2nd Core)</p>
 
 Signet | Priority
 - | :----:
 **Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 1st
 **Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 2nd
-**Act I: Magic**: Using a weapon active boosts its Total DMG by 10%. 6 stacks max. Reset at the end of each battle. | 3rd
-**Act VI: Sneer**: Using a weapon active restores 12 SP in 5s and reduces its CD by 15%. | Optional
+**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | 3rd
+**Act I: Magic**: Using a weapon active boosts its Total DMG by 10%. 6 stacks max. Reset at the end of each battle. | Optional 4th
 **Nexus Signet 2: Intermezzo: Holistic Helix** |
 **Puppetry: Interlacing Cells**: Extends Global Time Fracture caused by Special Weapon: No. 4's detonation by 3s. During Global Time Fracture, gain 30% Physical and Elemental Breach. | 1st
-**Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 2nd
-**Saga: Overlapping Needles**: Gravitational Field affects a larger area and gain a stronger pull. DMG-dealing hits deal and extra 500% ATK of Adaptive DMG. | Filler 
+**Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 2nd 
 
 !!! note
-    Interlacing Cells and Origin of Slumber take priority of upgrades.
+    Drama is high priority to +3.
 
-####<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
 
 
 Signet | Priority
@@ -7025,10 +7014,27 @@ Signet | Priority
 **Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
 **Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
 **Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
+**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
 **Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
 
 !!! note
-    Kalpas' signets are best taken from Felis shop. If you get 2 of Kalpas' signets from there, then proceed with getting his Core if possible.
+    You don't need the Core if you're using LWH instead of Ragna TB.
+
+####<p align="center">Griseo - Signet of Stars (4th Core)</p>
+
+Signet | Priority
+- | :----:
+**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st YES
+**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | 2nd YES
+**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 3rd
+**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 4th
+**Grey & Empty**: Enemies stay tainted for 5s longer | Optional 5th
+**Nexus Signet 2: Faded Stars** |
+**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 1st
+**Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 2nd
+
+!!! note
+    Red is highest priority to +3. Yellow is very good to +3. Black can also be considered to +3.
 
 ***
 
