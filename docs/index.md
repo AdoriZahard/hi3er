@@ -3934,7 +3934,7 @@ Quick search: Li Sus, Sushang, JK, Sussy
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
 SS0 | Finality | Nocturnal & Shenzhou | 3:37 (6.1 1st Half) | [https://youtu.be/Pld1F3JfVbw](https://youtu.be/Pld1F3JfVbw)
-S0 | Finality | GTX & Scott | 7:21 (6.1 2nd Half) | [https://youtu.be/CrV88ixC8S4](https://youtu.be/CrV88ixC8S4)
+S0 | Finality | GTX & Scott | 8:49m (6.2) | [https://youtu.be/4L4DtshNoG0](https://youtu.be/4L4DtshNoG0)
 
 !!! danger
     Sus is a pretty strong valkyrie in her own right, and her downscalability is one of the best amongst the available valkyries in ER.
