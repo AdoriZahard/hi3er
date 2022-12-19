@@ -339,7 +339,7 @@ Late | AE | BR
 Signet | Priority
 ------|:----:
 **Blessing of Succession**: α/β/γ chakram deals an extra 100% ATK of Fire DMG. When knocking back 1 γ chakram unit, 2 β chakram units will be launched alongside it. On hit, α/β chakram unit restores 2 SP. | **Start**
-**Blessing of Time Crystal**: When chakram hits, gain 1 stack of Info Plus, which increases chakram's Fire DMG by 5%. It lasts 8s and can stack 40 times. Triggering it again refreshes it's duration. **1st**
+**Blessing of Time Crystal**: When chakram hits, gain 1 stack of Info Plus, which increases chakram's Fire DMG by 5%. It lasts 8s and can stack 40 times. Triggering it again refreshes it's duration. | **1st**
 **Blessing of Constant**: On hit, α/β/γ Chakram generates 1 Splitting Chakram, which deals 150% ATK of Fire DMG and can ricochet 2 times (including ricocheting off the user). CD: 0.2s. | 2nd
 **Blessing of Final Dream**: When knocking back chakram with Basic ATK of weapon skill Counterattack Order, 1 Splitting Chakram will be launched alongside it, which deals 150% ATK of Fire DMG and can ricochet 3 times (including ricocheting off the user). | 3rd
 **Blessing of Bladepiece**: Deal 120% more ignite DMG, and 20% more Fire DMG to ignited enemies. Casting Ultimate refills KE. The fire ring contracts after spreading, pulling enemies while dealing 1600% ATK of Fire DMG to them. | No
