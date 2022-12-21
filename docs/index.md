@@ -41,6 +41,7 @@ Please note that this is only true for there reward scores, and not the actual p
 > Click [here](https://rentry.co/thebuttererguide) for more information on how to ER more efficiently.
 
 ## Update log
+- 2022-20-12: Updated HoH's Ultimate and Ballista Builds to 6.2. Revisited CN's build.
 - 2022-18-12: Updated every Valkyrie's Load Buffs to current Weather. Also updated some builds (Signet Priority mainly and Reccomended Supports)
 - 2022-17-12: Added CN and her available build.
 - 2022-12-12: Added VK and her 2 available builds.
@@ -291,10 +292,13 @@ Quick Search: Ai, Ai-Chan, CN, Cabbage
 
 ![Who would knew Ai-Chan could be so cute!?](https://user-images.githubusercontent.com/114035701/208253265-c16968a4-dfd0-4c0f-9f3d-d96b3daaa88a.png)
 
-### <p align="center">-- Deliverer of Disappointment</p>
+### <p align="center">-- Ignition is so fun!</p>
 
 !!! note
-    Updated 6.2. Okay, so. Ai-Chan. She's pretty fun, and apparently she makes a really satisfactory sound everytime she deflects her chakrams. Which is kind of interesting for the gameplay itself. She also is comfortable to play due to the good gather that she has, albeit unreliable when the enemies are too far away. But she has a lot of problems that I have a hot take for.
+    Updated 6.2. Okay, so. Ai-Chan. She's pretty fun, and apparently she makes a really satisfactory sound everytime she deflects her chakrams. Which is kind of interesting for the gameplay itself. She also is comfortable to play due to the good gather that she has, albeit unreliable when the enemies are too far away. But she has some serious problems which will be pointed out below this note.
+
+!!! danger
+    Ai-Chan needs S Rank as a bare minimum to be usable in ER. SS will improve her a bit, however her strength is largely tied to being 4/4. What this means is that she has a horrible downscalability, and you can expect this to be made **really clear** once this current shilling weather is gone. If your Ai-Chan does not have even a Pri Chakram to use, and your Stigmas aren't her Idol Set, do not expect her to perform very well.
 
 >   Boss to be chosen: Andrius, then Elysia (to booli her) or Vill-V
 
@@ -302,15 +306,15 @@ Quick Search: Ai, Ai-Chan, CN, Cabbage
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-SS2 | Finality | Rudder & Idol Set | 9:01m (6.2) | [https://www.youtube.com/watch?v=e6HBMOouOe4](https://www.youtube.com/watch?v=e6HBMOouOe4)
+SS3 | Finality | Rudder & Idol Set | 7:33m (6.2) | [https://youtu.be/Epz2Lsk42o4](https://youtu.be/Epz2Lsk42o4)
+S | Finality | Purana & Leuweenhoek TB Thales M | 13:57m (6.2) | [https://youtu.be/HyE8jeEUjkc](https://youtu.be/HyE8jeEUjkc)
 
 !!! note 
-    In downscaling terms, do expect Ai-Chan's strength to drop considerably without her own Signature set, mainly because of how much damage her ignition does and also because of how much fire-related buffs her set gives that other Fire-related sets don't come close to.
+    In downscaling terms, she's fucking horrible without her gears. Do expect Ai-Chan's strength to drop considerably without her own Signature set, mainly because of how much damage her ignition does and also because of how much fire-related buffs her set gives that other Fire-related sets don't come close to.
 
 Buff | Load
 :----: | :----: 
-For every support Valkyrie whose type is different from the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
-When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes the duration. | 15
 Valkyries who use chakrams, 2-handers, blades and fists deal 20% more Total DMG. | 15
 
 !!! note 
@@ -323,7 +327,7 @@ Mid | Memory / Mad King's Mask / Forget-Me-Not | Because of You / Falling in Pas
 Late | Tin Flask or Key to the Deep | Falling in Past Light
 
 !!! note
-    You can choose to either do a Because of You start to get the other 2 desired Ego signets by F7, or play the early safer by using Falling in Past Light in order to help getting the F4 double.
+    You can choose to either do a Because of You start to get the other 2 desired Ego signets by F7, or play the early safer by using Falling in Past Light in order to help getting the F4 double. 
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
@@ -345,12 +349,12 @@ Signet | Priority
 **Blessing of Bladepiece**: Deal 120% more ignite DMG, and 20% more Fire DMG to ignited enemies. Casting Ultimate refills KE. The fire ring contracts after spreading, pulling enemies while dealing 1600% ATK of Fire DMG to them. | No
 
 !!! note
-    Succession + Time Crystals are necessary to start with Ai-Chan. Without Time Crystals, she doesn't have damage to help her for the remainder of the run. The other 2 Ego Signets to get are Constant and Final Dream.
+    Succession + Time Crystals are necessary to start with Ai-Chan. Without Time Crystals, she doesn't have damage to help her for the remainder of the run. The other 2 Ego Signets to get are Constant and Final Dream, but Ai-Chan is completely fine with just Constant and no Final Dream. The last one is completely unnecessary, it does not improve Ai-Chan's damage noticeably at all. Just ignore it.
 
 ####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
 
 !!! note
-    Ideal Order from F1-F7: Double Ego start (Succession + Time Crystals) into Aponia Basic ATK F3, finish Aponia 2nd Core by F4 with Ultimate and SP Regen, grab Aponia's either Breach from F5 or F6 and go shop F5/F6, buy V-V's Pendulum and Conflict and Griseo's Red or V-V's Spider Web (ideally 2 from V-V and Griseo's Red), then grab Ego door at F7 from Because of You
+    Ideal Order from F1-F7: Double Ego start (Succession + Time Crystals) into Aponia Basic ATK F3, finish Aponia 2nd Core by F4 with Ultimate and SP Regen, grab Aponia's either Breach from F5 or F6 and go shop F5/F6, buy V-V's Pendulum, Conflict, Griseo's Red and Kalpas' TDM Taken or V-V's Spider Web (ideally 2 from V-V, Griseo's Red and Kalpas' TDM Taken), then grab Ego door at F7 from Because of You
 
 Signet | Priority
 - | :----:
@@ -365,7 +369,20 @@ Signet | Priority
 !!! note
     Basic ATK is high priority to +3. Do make sure to get Breach, it's very important. In this run, I had to grab Aponia door at F11 instead of Double Ego due to lacking Breach.
 
-####<p align="center">Vill-V - Signet of Helix (2nd Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
+
+Signet | Priority
+- | :----:
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
+**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
+**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
+
+!!! note
+    If you have no better choices for doors, you can try to take Broken Dream.
+
+####<p align="center">Vill-V - Signet of Helix (3rd Core)</p>
 
 Signet | Priority
 - | :----:
@@ -379,19 +396,6 @@ Signet | Priority
 
 !!! note
     Puppetry and Drama are both high priority to +3. Especially good if you can use 3* Remembrance Sigil Abuse to get both at +2.
-
-####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
-
-Signet | Priority
-- | :----:
-**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
-**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
-**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
-**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
-**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
-
-!!! note
-    If you have no better choices for doors, you can try to take Broken Dream.
 
 ####<p align="center">Griseo - Signet of Stars (4th Core)</p>
 
@@ -409,6 +413,12 @@ Signet | Priority
 
 !!! note
     Red is highest priority to +3. Yellow is good to +3. Strongly recommended to use 3* Remembrance Sigil Abuse for Red.
+
+####<p align="center">Pardofelis - Signet of Reverie (4th Core)</p>
+
+Signet | Priority
+---- | :----:
+**Neighborhood Chatters**: Every 100 Shiny Silvers obtained this round boost max HP by 25 and max SP by 1. | 1st
 
 ***
 
@@ -1900,22 +1910,22 @@ Quick Search: Elysia, HoH, HoHe, Manta Ray, H2O, Water
 ### <p align="center">-- Ultimate Build</p>
 
 !!! note 
-    Updated for 6.1. The strongest variation with the only downside of having to go through Elysia's long animation times everytime. Also heavily favored currently by Load Buffs.
+    Updated for 6.2. The strongest variation with the only downside of having to go through Elysia's long animation times everytime. Also heavily favored currently by Load Buffs. HoH still remains and stays strong on her position as ER's Cheatcode queen than to assert her dominance through her Ultimate Build? 
 
-> Boss to be Chosen: Husk, then Elysia for fastest time or Mobius, Kalpas, Vill-V.
+> Boss to be Chosen: Husk, then Elysia for fastest time, Mobius, Kalpas or Vill-V.
 
 !!! note
-    Mobius and Vill-V are the easiest ones.
+    Literally pick whoever you want to booli the most~
 
 ####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-S1 | Finality | DoEgo & 3-set Pristine | 3:47m (6.0 1st Half) | [https://youtu.be/Fgkcml9kPLw](https://youtu.be/Fgkcml9kPLw)
+S1 | Finality | DoEgo & 3-set Pristine | 3:25m (6.2) | [https://youtu.be/so6lrGU2Pfw](https://youtu.be/so6lrGU2Pfw)
 S2 | Finality | CoC & Scott TM Rasputin B | 7:59m (6.1 2nd Half) | [https://youtu.be/lNvGfE_4Czs](https://youtu.be/lNvGfE_4Czs)
 
 !!! note 
-    HoH's downscalability is amazing by being able to clear really easily. Do not upgrade CoC for "better chances", use another bow like Whisper of the Past, Key of Ego or Mitternachts.
+    HoH's downscalability is amazing, as she can still perform well even on poverty gears like CoC and Scott TM Rasp B. However, for this current weather, it's recommended to put something better due to the slight nerf to HoH's strength.
 
 Buff | Load
 :----: | :----: 
@@ -1924,13 +1934,16 @@ After entering burst mode, Total DMG dealt increases by 15% for 10s. Triggering 
 When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
 
 !!! note
-    Effective for 6.2
+    Effective for 6.2.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
-Early | Memory | Falling in Past Light
-Mid | Pseudo Miracle / Rainbow of Absence / Mad King's Mask / Forget-Me-Not | The Lonely Moon
+Early | Mad King's Mask | The Lonely Moon
+Mid | Pseudo Miracle / Rainbow of Absence / Memory / Forget-Me-Not | The Lonely Moon
 Late | Tin Flask or Key to the Deep | The Lonely Moon
+
+!!! note
+    TLM will give you a massive help in getting the F4 Double bonus cleared and will also provide an instant +2 to any Griseo signets you encounter in shop, or if you use the 3* Remembrance Sigil Abuse, it's possible to grab them at +3 right away which is really important to do!
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
@@ -1939,7 +1952,7 @@ Mid | AE/BK | BR
 Late | HB | BR
 
 !!! note 
-    HoE honestly doesn't need anyone else. You can bring BK for Heimdall, or if your HoH is strong enough, she can just bruteforce through him anyways. HB is for when you have so much breach already that AE's breach won't be impactful at all.
+    HoE honestly doesn't need anyone else. BR is necessary in order to do the early low HP abuse strat by spending 5+ minutes on a floor after clearing it and waiting on BR to use her off CD, repeating until you're below 200 HP. BR also has the added benefit of simply granting you way better chances at clearing through the early floors and even the remainder of the run as easily as possible. AE can be replaced for HB once you have too much excess Breach.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -1951,21 +1964,24 @@ Signet | Priority
 **Blessing of First Encounter**: Charged ATKs in Herrscher of Human Form pull enemies on both sides of the arrow slightly towards the center. Charged ATKs deal an additional 1200% ATK of Ice DMG. If a Charged ATK hits more than 10 times, enemies take 10% more Total DMG from Charged ATKs for every Nexus Signet owned (cannot stack). | No
 **Blessing of First Yearning**: In Herrscher of Human Form, Charged ATK Speed increases by 30% for 5s after triggering Ultimate Evasion Skill. When using Charged ATK, shooting speed continously increases, up to a maximum of 80%. Move Speed while using Charged ATKs increases by 100%. Resets when Charged ATK ends. When Charged ATK hits, Ultimate Evasion CD decreases by 2.5s and weapon skill CD decreases by 1s. Gain 1 stack of Crystal Ice Mirror for every Charged ATK that hits an enemy. Every stack of Crystal Ice Mirror increases DMG from Charged ATK's by 10%. | No
 
-####<p align="center">Hua - Signet of Vicissitude (1st Core)</p>
+!!! note
+    This build is best taken with 3 Ego signets, basically, double reroll is its most ideal start. Bloom + Journey is the startup while Awakening is the 3rd Ego signet taken by F2. Journey is simply 10x times better and far stronger, and the way you use it is save the Crystals (used on Evade mainly) to oneshot a wave, then use Active + Charged for 2nd Wave. Use Finisher early after that and get your 2nd Ult ASAP for another round of Crystals from Journey.
+
+####<p align="center">Kalpas - Signet of Decimation (1st Core)</p>
 
 !!! note
-    Ideal Order from F1-F7: Double Ego Start (Bloom + Journey + Awakening) into Hua's Elem Breach F3, then finish Hua 2nd Core by F4 with TDM and Elem DMG, grab Broken Dream at F5, go shop F6 and use 3* Remembrance Sigil Abuse for Vill-V's Conflict and Pendulum and Griseo's Red Paint or Sakura's TDM and TDM Taken, then finish Vill-V's 2nd Core by F7 Doubles
+    Ideal Order from F1-F7: Double Ego Start (Bloom + Journey) into Awakening at F2, grab Kalpas' TDM by F3 and use BR abuse to lower your HP to below 200, then finish Kalpas 2nd Core by F4 Double with Phys/Elem DMG and Max HP%, go shop F5 and grab Griseo's Red & Yellow or Black alongside V-V's Conflict and Pendulum or one of them and Sakura's either TDM or TDM Taken, unlock V-V 2nd Core F6 and grab V-V door F7 for Puppetry and Drama.
 
 Signet | Priority
 - | :----:
-**Old Dreams Again**: Elemental Breach increases by 0.6% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 1st
-**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 2nd
-**Dark Garb No More**: Elemental DMG increases by 0.8% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 3rd
-**Nexus Signet 2: Suffering Mass** |
-**Broken Dream**: With Soldier's Remembrance stacks, the max stacks of all buffs from Normal Signets of Vicissitude increase by 20. Losing all Soldier's Remembrance stacks reduces the max stacks by 10 but restores 1 Soldier's Remembrance stack. Can only be triggered once every battle. | Optional
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
+**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
+**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** | Optional
 
-!!! note 
-    Broken Dream is a good gamble to try and take as early as F5. However, if you don't want to risk it by potentially having to reset run if you want the best result possible, you can just chase the other cores instead.
+!!! note
+    HoE doesn't really need to finish Kalpas core but in this run we take it anyways.
 
 ####<p align="center">Vill-V - Signet of Helix (2nd Core)</p>
 
@@ -2000,20 +2016,7 @@ Signet | Priority
 **A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | Filler
 
 !!! note 
-    Red is the absolute highest priority to +3. Yellow +3 is also good, but you need Grey. You can also go for the 3* Remembrance Sigil abuse in order to maximize your gains with Griseo and get +3 on all of her signets, making it maximum stonks. A Flame Extinguished is not necessary due to excess breach, but can be taken for stronger Fallen Leaves and more damage.
-
-####<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
-
-Signet | Priority
-- | :----:
-**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
-**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
-**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 3rd
-**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 4th
-**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** | Optional
-
-!!! note
-    HoE doesn't really need to finish Kalpas core.
+    Red is the absolute highest priority to +3. Yellow +3 is also good, you can keep refreshing it through ending Ult early, if you don't want to, you can take Grey. You can also go for the 3* Remembrance Sigil abuse in order to maximize your gains with Griseo and get +3 on all of her signets, making it maximum stonks. A Flame Extinguished is not necessary due to excess breach, but can be taken for stronger Fallen Leaves and more damage.
 
 ####<p align="center">Sakura - Signet of Setsuna (5th Core)</p>
 
@@ -2026,7 +2029,20 @@ Signet | Priority
 **Nexus Signet 2: Setsuna Blade: Shinra Bansho** | Optional
 
 !!! note 
-    The choice between both Cores doesn't matter. 2nd Core can provide a bit of DMG.
+    It is not necessary to finish Sakura's Cores, but if you do, the choice between both Cores doesn't matter. 2nd Core can provide a bit of DMG.
+
+####<p align="center">Hua - Signet of Vicissitude (5th Core)</p>
+
+Signet | Priority
+- | :----:
+**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 1st
+**Dark Garb No More**: Elemental DMG increases by 0.8% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 2nd
+**Old Dreams Again**: Elemental Breach increases by 0.6% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 3rd
+**Nexus Signet 2: Suffering Mass** |
+**Broken Dream**: With Soldier's Remembrance stacks, the max stacks of all buffs from Normal Signets of Vicissitude increase by 20. Losing all Soldier's Remembrance stacks reduces the max stacks by 10 but restores 1 Soldier's Remembrance stack. Can only be triggered once every battle. | Optional
+
+!!! note 
+    Broken Dream is a good gamble to try and take. Hua is interchangeable with Pardo as you can instead opt to take Pardo's instead of Hua.
 
 ####<p align="center">Pardofelis - Signet of Reverie (6th Core)</p>
 
@@ -2039,27 +2055,30 @@ Signet | Priority
 **Nexus Signet 2: Empty Illusions, Empty Fantasies**: |
 
 !!! note 
-    You probably won't finish Pardofelis core, but getting its Max HP/SP signet is good for Kalpas synergy.
+    You probably won't finish Pardofelis core, although you can choose it over Hua's. Getting its Max HP/SP signet is good for Kalpas synergy.
 
 ### <p align="center">-- Ballista Build</p>
 
 !!! note
-    Updated for 6.1. The slightly weaker variant with slightly less clear time, but nevertheless at the same strength as Ult build. 
+    Updated for 6.2. The slightly weaker variant with slightly less clear time, but nevertheless at the same strength as Ult build. 
 
-> Boss to be Chosen: Husk, then Elysia for fastest time. The rest are also easy choices.
+> Boss to be Chosen: Husk, then Elysia for fastest time, Mobius, Kalpas or Vill-V.
+
+!!! note
+    Literally pick whoever you want to booli the most~
 
 ####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-S1 | Finality | DoEgo & 3-set Pristine | 4:12m (6.0 1st Half) | [https://youtu.be/OdJ-aHcehW0](https://youtu.be/OdJ-aHcehW0)
+S1 | Finality | DoEgo & 3-set Pristine | 4:24m (6.2) | [https://youtu.be/rTrXdCLpKl4](https://youtu.be/rTrXdCLpKl4)
 S2 | Finality | CoC & Scott TM Rasp B | 7:39m (6.1 2nd Half) | [https://youtu.be/CxXYamDEaMw](https://youtu.be/CxXYamDEaMw)
 
 !!! danger
     Please do note that normally, Vill-V would also be included in Ballista build. However, specifically for the F2P Run using CoC & Scott TM Rasp B, I haven't used Vill-V at all, with the reason being playing around charging V-V support skill being a bit hard to play around properly alongside its buffs and the fact that if it's not DoEgo, HoE doesn't have 3 Actives instead of 2. In better geared runs, this build will use Vill-V.
 
 !!! note 
-    HoE's downscalability is amazing by being able to clear really easily. Do not upgrade CoC for "better chances", use another bow like Whisper of the Past, Key of Ego or Mitternachts.
+    HoH's downscalability is amazing, as she can still perform well even on poverty gears like CoC and Scott TM Rasp B. However, for this current weather, it's recommended to put something better due to the slight nerf to HoH's strength.
 
 Buff | Load
 :----: | :----: 
@@ -2072,18 +2091,21 @@ When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
-Early | Veil of Tears | Falling in Past Light
-Mid | Pseudo Miracle / Mad King's Mask / Memory / Forget-Me-Not | Falling in Past Light
+Early | Mad King's Mask | The Lonely Moon
+Mid | Veil of Tears / Pseudo Miracle / Memory or Feast of Emptiness | Falling in Past Light
 Late | Key to the Deep | Falling in Past Light
+
+!!! note
+    Use 3* Remembrance Sigil Abuse to get other signets at +2 or +3. It's strongly recommended.
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
 Early | AE | BR
-Mid | AE/BK | BR
-Late | AE | BR
+Mid | AE | BR
+Late | AE or HB | BR
 
 !!! note
-    If you're playing downscaled gears HoE, make sure to bring BK for Heimdall fight. If your HoE is more than geared enough, you won't need BK, as she can easily bruteforce through Heimdall.
+    HoE honestly doesn't need anyone else. BR is necessary in order to do the early low HP abuse strat by spending 5+ minutes on a floor after clearing it and waiting on BR to use her off CD, repeating until you're below 200 HP. BR also has the added benefit of simply granting you way better chances at clearing through the early floors and even the remainder of the run as easily as possible. AE can be replaced for HB once you have too much excess Breach.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -2096,43 +2118,12 @@ Signet | Priority
 **Blessing of First Journey**: When switching to Herrscher Form, increase DMG taken by all enemies by 40% for 5s and gain 4 Pristine Crystals. Charged ATKs in Herrscher of Human Form and Ultimate Evasion Skill in Herrscher of Origin Form will clear all Pristine Crystals to deal 1200% x 4 ATK of Ice DMG. | No
 
 !!! note 
-    Ballista build only requires 2 Ego signets, allowing the opportunity for HoE to do Griseo Red Paint start instead.
+    Ballista build only requires 2 Ego signets (Encounter + Yearning), allowing the opportunity for HoE to do Griseo Red Paint start instead which is strongly recommended.
 
-####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (1st Core)</p>
 
 !!! note 
-    Ideal Order from F1-F7: Reroll start for Griseo Red Paint at F2 into Aponia's Basic ATK or SP Regen at F3, finish Aponia 2nd Core by F4 Doubles, grab Aponia's Breach at F5, go shop F6 and get either of Kalpas' DMG Boosts or Sakura's DMG boosts or Vill-V's Spider Web and Pendulum, then grab Aponia's remaining 2 Penance and TDM Taken from F7, preferentially with +2 (use 3* Remembrance Sigil Abuse). Can also upgrade Aponia's Basic ATK to +3.
-
-Signet | Priority
-- | :----:
-**First, No Betrayal**: Exhortation increases by 5 per second and caps at 200. Basic ATK's Total DMG increases by 0.3% of Exhortation. Triggering Ultimate Evasion Skill reduces 50% Exhortation. | 1st
-**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 2nd
-**Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 3rd
-**Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
-**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | 1st
-**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 2nd
-**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 3rd
-
-!!! note
-    Basic ATK is the highest priority to upgrade +3 alongside Griseo's Red Paint.
-
-####<p align="center">Vill-V - Signet of Helix (2nd Core)</p>
-
-Signet | Priority
-- | :----:
-**Act V: Spider Web**: Using a weapon active boosts Valkyrie ranged Total DMG by 40% for 4.5s. Triggering it again resets the duration. | 1st
-**Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 2nd
-**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 3rd
-**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | 4th
-**Act VI: Sneer**: Using a weapon active restores 12 SP in 5s and reduces its CD by 15%. | 5th
-**Nexus Signet 2: Intermezzo: Holistic Helix** |
-**Puppetry: Interlacing Cells**: Extends Global Time Fracture caused by Specail Weapon: No. 4's detonation by 3s. During Global Time Fracture, gain 30% Physical and Elemental Breach. | 1st
-**Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 2nd
-
-!!! note
-    Sneer is highly recommended in order to allow HoE to re-apply V-V's buffs fast enough everytime between each cycle of flashing Active and Ballista spam. Also, Drama is highest priority to +3.
-
-####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
+    Ideal Order from F1-F7: Reroll start for Griseo Red Paint at F2 into Kalpas' TDM F3 and abuse BR to get HP below 200, finish Kalpas 1st Core by F4, go shop F5 and grab Aponia's Basic ATK and 70 Initial Load from Shop alongside V-V's Conflict and Pendulum or Sakura's TDM and TDM Taken, grab Aponia door at F6 and unlock 2nd Core, then get Aponia's Breach and Penance from F7 Double
 
 Signet | Priority
 - | :----:
@@ -2145,6 +2136,36 @@ Signet | Priority
 !!! note
     Why Kalpas 1? Simply because it has the small added bonus of Fire DMG to aid a little with your already shitton overloaded damage. Kalpas2 doesn't really give anything.
 
+####<p align="center">Aponia - Signet of Discipline (2nd Core)</p>
+
+Signet | Priority
+- | :----:
+**First, No Betrayal**: Exhortation increases by 5 per second and caps at 200. Basic ATK's Total DMG increases by 0.3% of Exhortation. Triggering Ultimate Evasion Skill reduces 50% Exhortation. | 1st
+**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 2nd
+**Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 3rd
+**Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
+**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | 1st
+**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 2nd
+**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 3rd
+
+!!! note
+    Basic ATK is the highest priority to upgrade +3 alongside Griseo's Red Paint. In this run I took Ultimate while forgetting that it'd be crippling myself. Please do not take it.
+
+####<p align="center">Vill-V - Signet of Helix (2nd Core)</p>
+
+Signet | Priority
+- | :----:
+**Act V: Spider Web**: Using a weapon active boosts Valkyrie ranged Total DMG by 40% for 4.5s. Triggering it again resets the duration. | 1st
+**Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 2nd
+**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 3rd
+**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | 4th
+**Nexus Signet 2: Intermezzo: Holistic Helix** |
+**Puppetry: Interlacing Cells**: Extends Global Time Fracture caused by Specail Weapon: No. 4's detonation by 3s. During Global Time Fracture, gain 30% Physical and Elemental Breach. | 1st
+**Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 2nd
+
+!!! note
+    Drama is high priority to +3. Don't upgrade Puppetry. Spider Web also good to +3.
+
 ####<p align="center">Griseo - Signet of Stars (4th Core)</p>
 
 Signet | Priority
@@ -2154,6 +2175,9 @@ Signet | Priority
 **Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 3rd
 **Nexus Signet 2: Faded Stars** |
 **Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 1st
+
+!!! note
+    Red is the absolute highest priority to +3. 
 
 ####<p align="center">Sakura - Signet of Setsuna (5th Core)</p>
 
@@ -2167,6 +2191,19 @@ Signet | Priority
 
 !!! note 
     The choice between both Cores doesn't matter. 1st will be more impactful if you for some reason don't kill in the last seconds of Ult duration.
+
+####<p align="center">Pardofelis - Signet of Reverie (6th Core)</p>
+
+Signet | Priority
+- | :----:
+**Neighborhood Chatters**: Every 100 Shiny Silvers obtained this round boost max HP by 25 and max SP by 1. | 1st
+**Motto of Meow**: Every 100 Shiny Silvers obtained this round boost Total DMG by 1%. | 2nd
+**Back-Curled Tail**: Every 100 Shiny Silvers obtained this round boost Physical and Elemental DMG by 0.8%. | 3rd
+**Nexus Signet 1: Empty Dreams, Self, Set, and Joy**: |
+**Nexus Signet 2: Empty Illusions, Empty Fantasies**: |
+
+!!! note 
+    If you have 1000+ coins by F16 shop, take 1st Core and don't spend your coins. Otherwise and if you want to spend coins, take 2nd Core.
 
 ***
 
