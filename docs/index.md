@@ -41,6 +41,7 @@ Please note that this is only true for there reward scores, and not the actual p
 > Click [here](https://rentry.co/thebuttererguide) for more information on how to ER more efficiently.
 
 ## Update log
+- 2022-22-12: Updated VK's both Ultimate and Charged Builds.
 - 2022-20-12: Updated HoH's Ultimate and Ballista Builds to 6.2. Revisited CN's build.
 - 2022-18-12: Updated every Valkyrie's Load Buffs to current Weather. Also updated some builds (Signet Priority mainly and Reccomended Supports)
 - 2022-17-12: Added CN and her available build.
@@ -7083,7 +7084,7 @@ Quick search: VK, VKE, Himedead
 ### <p align="center">-- Ultimate Spam Build</p>
 
 !!! note
-    Updated 6.2. This build's best power comes at Kalpas +2 weathers since that's what makes it pop off straight away at Early game. Afterwards, this build scales really fucking hard towards Mid and Late floors, especially once you get Aponia2 and Kevin1's cores down with Griseo's Yellow in the mix. The damage just skyrockets and she becomes an insane ER clearer.
+    Updated 6.2. Alright. This is by far the best result I've gotten out of VK's Ultimate Build. This is a good showcase of how absurdly strong her power is during this shilled weather, placing her easily as basically a cheatcode to clear ER with in the current patch.
 
 >   Boss to be chosen: Andrius, then Vill-V or Elysia (to booli her)
 
@@ -7092,11 +7093,11 @@ Quick search: VK, VKE, Himedead
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-S3 | Finality | Blood Dance & Leuweenhoek TB Himeko M | 7:58m (6.2) | Pending Upload
-S3 | Finality | Shuhadaku of Uriel & Aslaug TB Himeko M | 10:09m (6.1 2nd Half, Outdated) | [https://youtu.be/mC1VlmCe46g](https://youtu.be/mC1VlmCe46g)
+S3 | Finality | Shuhadaku of Uriel & Aslaug TB Himeko M | 4:41m (6.2) | [https://youtu.be/Oq-EE1zbGNQ](https://youtu.be/Oq-EE1zbGNQ)
+S3 | Finality | Blood Dance & Leuweenhoek TB Himeko M | 7:58m (6.2) | [https://youtu.be/VaQ6j6fEaGk](https://youtu.be/VaQ6j6fEaGk)
 
 !!! note
-    For Ultimate Build, Aslaug TB and Himeko M is her BiS. As alternatives, Leuweenhoek TB Thales M can be used. Uriel is also a given for this build, being its BiS. Other than that, VK's downscalability is really good, since she has a lot of good Stigma alternatives, with LWH TB Thales M being her best F2P craftable stigs. She also doesn't lose in weapon options, with Blood Dance being her BiS F2P weapon (obtainable from Exchange Shop). 
+    For Ultimate Build, Aslaug TB and Himeko M is her BiS. As alternatives, Leuweenhoek TB Thales M can be used. Uriel is also a given for this build, being its BiS. Other than that, VK's downscalability is really good, since she has a lot of good Stigma alternatives, with LWH TB Thales M being her best F2P craftable stigs. She also doesn't lose in weapon options, with Blood Dance being her BiS F2P weapon (obtainable from Exchange Shop).
 
 Buff | Load
 :----: | :----: 
@@ -7135,7 +7136,7 @@ Signet | Priority
 **Blessing of Sharp Flames**: Charged ATK's Schielhau deals an extra 600 + 800% ATK of Fire DMG. Charged ATK SEQ 1 pulls surrounding enemies, CD: 3s. | No
 
 !!! note
-    It's important to note here that the 2nd Ego signet that you'll choose depends on whether or not you have Uriel or An Utu. With Uriel, your VK should be strong enough to have so much damage overflow that simply getting Wild Flare will be enough for the entirety of the remainder of the run. However, if you either don't have it, or you want the comfortable option, you can just take Burning Flow and later on if you do get a 3rd Ego door, take Wild Flare.
+    It's important to note here that the 2nd Ego signet that you'll choose depends on whether or not you have Uriel or An Utu. With Uriel, your VK should be strong enough to have so much damage overflow that simply getting Wild Flare will be enough for the entirety of the remainder of the run. However, if you either don't have it, or you want the comfortable option, you can just take Burning Flow and later on if you do get a 3rd Ego door, take Wild Flare. Additionally, if your pick is Wild Flare, then Burning Flow becomes a good 3rd Ego signet to take if you get a 3rd Ego door later in your run.
 
 !!! note
     Additionally, if your pick is Wild Flare, then Burning Flow becomes a good 3rd Ego signet to take if you get a 3rd Ego door later in your run.
@@ -7220,19 +7221,22 @@ Signet | Priority
 ### <p align="center">-- Charged ATK Spam Build</p>
 
 !!! note
-    Updated 6.2. This build has yet to be tested for 6.2's new weather due to lacking time. I'm sorry. I will be trying to update this as soon as of Tuesday 13th~
+    Updated 6.2. Not enjoying the Ultimate build perhaps, are we? Maybe because of its reliance on gather in order to unga bunga your way through every floor's waves and waves of mobs coming up to try and stop you?  Or.. maybe you just want to have some fun with Charged Build together with its... ahem... quite horrible and uncomfortable at times, gather signet and Charged ATKs on steroids?
 
 >   Boss to be chosen: Andrius, then Vill-V or Elysia (to booli her)
+
+!!! note
+    V-V is the easiest and fastest one VK can kill off if you don't want to do Elysia
 
 
 ####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-S3 | Finality | Shuhadaku of Uriel & Ragna TB Thales M | 9:47m (6.1 2nd Half, Outdated) | [https://youtu.be/UZQKEiyTab4](https://youtu.be/UZQKEiyTab4)
+S3 | Finality | Shuhadaku of Uriel & Ragna TB Thales M | 4:55m (6.2) | [https://youtu.be/bVrev_CfDdA](https://youtu.be/bVrev_CfDdA)
 
 !!! note
-    For Charged ATK Build, Ragna TB Thales M is her BiS. You can go with other alternatives like Leuweenhoek TB, or any of Ragna TM/MB and try to fill the missing slot with Leuweenhoek. That's probably your best bet. As for the weapon choice; Surtr is better fit for this build. Uriel, however, has the added Fire DMG Vulnerability on Active which is also really big. Just go with whichever you have.
+    For Charged Build, these are her BiS stigmas. Other than that, VK's downscalability is really good, since she has a lot of good Stigma alternatives, with LWH TB Thales M being her best F2P craftable stigs. She also doesn't lose in weapon options, with Blood Dance being her BiS F2P weapon (obtainable from Exchange Shop).
 
 Buff | Load
 :----: | :----: 
@@ -7244,12 +7248,12 @@ Valkyries who use chakrams, 2-handers, blades and fists deal 20% more Total DMG.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
-Early | Veil of Tears | Boundless Feeling OR The Lonely Moon
-Mid | Mad King's Mask / Memory / Rainbow of Absence | The Lonely Moon
+Early | Mad King's Mask | An Old Pal's Legacy
+Mid |  Memory / Veil of Tears / Rainbow of Absence | The Lonely Moon
 Late | Key to the Deep or Tin Flask | The Lonely Moon
 
 !!! note
-    The Lonely Moon is your best helper against F4 Double, and will give you the best chances at getting the Double Bonus. 
+    An Old Pal's Legacy is variably the best start in order to start with +3 Kalpas signets straight away. This is especially true with Charged Build, as this variant is way stronger than Ultimate for Early game as the damage it offers is more consistent and solid. Of course, it still loses against Ultimate's hard scaling towards Mid and Late game, but Early game is a win for Charged.
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
@@ -7258,7 +7262,7 @@ Mid | AE | BR
 Late | AE | BR 
 
 !!! note
-    Those 2 are never swapped out. Not even for Heimdall, because VK already has Heavy Trauma included in her attacks; it's only in her Ultimates.
+   Those 2 are never swapped out. They both provide just all that VK needs for this build. VK has Heavy Trauma included in her Ultimate attacks for Heimdall.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -7271,28 +7275,12 @@ Signet | Priority
 **Blessing of Burning Flow**: Evasion can be connected into Guren Flash. Guren Flash is cast faster and restores 20 SP. Within 10s of triggering Ultimate Evasion Skill, Total DMG increases by 40%. Triggering it again refreshes the duration. | No
 
 !!! note
-    Only 2 Ego signets are needed for this build: Blaze + Sharp Flames. A 3rd Ego signet can be picked for Wild Flare, which will make the build even stronger if you manage to get it during your run.
+    Only 2 Ego signets are needed for this build: Blaze + Sharp Flames. If you get a 3rd Ego door, it's strongly recommended to take it for Wild Flare because it activates with Chargeds as well, and it also synergizes very well with Uriel. The Fire DMG Vulnerability that it provides is also quite literally one of the strongest buffs you can get for VK.
 
-####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
-
-!!! note
-    Basic ATK is highest priority to +3.
-
-Signet | Priority
-- | :----:
-**First, No Betrayal**: Exhortation increases by 5 per second and caps at 200. Basic ATK's Total DMG increases by 0.3% of Exhortation. Triggering Ultimate Evasion Skill reduces 50% Exhortation. | 1st
-**Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 2nd
-**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 3rd
-**Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | Optional 4th
-**Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
-**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | 1st
-**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 2nd
-**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 3rd
+####<p align="center">Kalpas - Signet of Decimation (1st Core)</p>
 
 !!! note
-    Basic ATK is highest priority to +3.
-
-####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
+    Ideal course of build up: 2 Ego start (Blaze + Sharp Flames) into Kalpas' TDM F3, finish Kalpas 2nd Core by F4 with Phys/Elem DMG and Max HP%, go shop F5 and use 3* Remembrance Sigil Abuse to grab Hua's Elem Breach and TDM at +2 and Aponia's Basic ATK and 70 Initial Load or just Basic ATK, grab F6 door to either complete Hua 2nd Core or Aponia 2nd Core, then complete the remaining core between both by F7 Double
 
 Signet | Priority
 - | :----:
@@ -7300,13 +7288,12 @@ Signet | Priority
 **Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
 **Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
 **Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
-**Nexus Signet 1: Fight, Struggle, and Decimation** |
-**Inhuman, Unevil and Ungodly**: Losing HP recharges points for Blood Boil. CD: 1s. | Optional 1st
+**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
 
 !!! note
-    VK doesn't have healing in this build anyway, so Kalpas 1st Core is better fit.
+    Getting Kalpas' basic signets at +3 is the best start VK can get. Once she gets the Core done, that's literally her powerspike.
 
-####<p align="center">Hua - Signet of Vicissitude (3rd Core)</p>
+####<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
 
 Signet | Priority
 ----| :----:
@@ -7317,24 +7304,37 @@ Signet | Priority
 **Broken Dream**: When possessing Soldier's Remembrance., increase the maximum stack of normal Vicissitude signets by 20 | Optional
 
 !!! note
-    TDM and Elem DMG are good consideration to +3. You can leave Breach at +0. Make sure to do 3* Remembrance Sigil Abuse too, so you can try and save your coins for other signets instead.
+    Finishing Hua 2nd Core by F6 will be yet another massive powerspike, but this is particularly true with this 4/4 build. Broken Dream is yet another powerspike as well. Afterwards, it's good priority to +3 both TDM and Elem DMG.
+
+####<p align="center">Aponia - Signet of Discipline (3rd Core)</p>
+
+Signet | Priority
+- | :----:
+**First, No Betrayal**: Exhortation increases by 5 per second and caps at 200. Basic ATK's Total DMG increases by 0.3% of Exhortation. Triggering Ultimate Evasion Skill reduces 50% Exhortation. | 1st
+**Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 2nd
+**Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | 3rd
+**Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
+**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | 1st
+**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 2nd
+**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 3rd
+
+!!! note
+    Basic ATK is highest priority to +3. This is the 3rd powerspike that VK gets in this build.
 
 ####<p align="center">Griseo - Signet of Stars (4th Core)</p>
 
 Signet | Priority
 ------ | :----:
-**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration | 1st
+**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental MG (cannot stack). Triggering it again resets the duration | 1st
 **Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 2nd
-**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental MG (cannot stack). Triggering it again resets the duration | 3rd
-**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 4th
-**Grey & Empty**: Enemies stay tainted for 5s longer | Optional 5th
+**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration | 3rd
+**Grey & Empty**: Enemies stay tainted for 5s longer | 4th
+**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 5th
 **Nexus Signet 2: Faded Stars** | Not Necessary
 **Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 1st
-**Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 2nd
-**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | Optional 3rd
 
 !!! note
-    Red is absolute priority to +3. Yellow is good to consider +3 but after other important upgrades. Griseo's signets are also a massive upgrade if 3* Remembrance Sigil abuse for free +2.
+    Red is highest priority to +3, especially if you have Uriel. You can re-apply Red paint to new waves by using Uriel's 2nd Active so keep that in mind. Finishing Griseo 2nd Core is not that big of a priority, as you can shift your focus to Pardofelis instead.
 
 ####<p align="center">Pardofelis - Signet of Reverie (5th Core)</p>
 
