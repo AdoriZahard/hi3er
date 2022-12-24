@@ -4819,18 +4819,21 @@ When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
-Early | Pseudo Miracle | Falling in Past Light 
-Mid | Veil of Tears / Mad King's Mask / Rainbow of Absence | Falling in Past Light
+Early | Veil of Tears | The Lonely Moon OR Falling in Past Light
+Mid | Mad King's Mask / Pseudo Miracle / Rainbow of Absence | Falling in Past Light
 Late | Tin Flask or Key to the Deep | Falling in Past Light
+
+!!! note
+    You can choose between 2 Support Skills based on your preference. The Lonely Moon will guarantee you getting F4 Double. Falling in Past Light is also fine, but you have to micro-manage its recharging by playing around its 6s CD in order to use it up to 3 times at most during the F4. If you can't micromanage it, you'll only get to use it 2 times by the time the Bonus timer ends. 
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | SA | BR or LE
-Mid | SA | BR or LE
+Early | SA | LE
+Mid | SA / BK | BR or LE
 Late | SA | BR or LE
 
 !!! danger
-    LE is picked if you want instant 100 SP Ultimate. This provides an advantage by further reducing the DMG Reduction that Elysia suffers in 6.1 weather for 3.6% less as opposed to 70 SP ult. LE is also swapped if you grab Eden's Initial/Max SP signet. However, if you don't feel confident on your damage and especially if you're downscaling hard, you can just swap her out for SS instead, as long as you have Aponia's SP regen backing you up.
+    LE is picked if you want instant 100 SP Ultimate. LE is also swapped if you grab Eden's Initial/Max SP signet. However, if you don't feel confident on your damage and especially if you're downscaling hard, you can just swap her out for BR instead, as long as you have Aponia's SP regen backing you up.
 
 !!! note
     BKE is only for the purposes of filling Heimdall's Heavy Trauma Bar, forcefully ending his Red Mode.
@@ -4849,10 +4852,35 @@ Signet | Priority
 !!! note
     This build requires only 2, Zenith and Purity. Beauty is not necessary, however it's free 35% TDM Taken to take, which is really strong for early and for the rest of the run, so it is strongly advised that you do F2 Ego start. Otherwise, prefer to go for a Griseo F2 start for taking her Red paint.
 
-####<p align="center">Vill-V - Signet of Helix (1st Core)</p>
+####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
 
 !!! note
-    Ideal Order from F1-F7: F2 Ego start for Beauty, then grab V-V's Conflict of Spider Web by F3, finish V-V 2nd core by F4, V-V F5 for either Puppetry or Drama, shop F6, swap Pseudo Miracle for Veil of Tears, get Griseo Red paint from Shop and Kalpas TDM or Phys/Elem DMG (If you get Kalpas DMG boosts, abuse trick with swapping BR, using her, removing her, rinse and repeat until you are below 300 HP to continue), and grab V-V F7 for missing Puppetry or Drama and get any missing priority basic signet from V-V.
+    Ideal Order from F1-F7: F2 Ego start for Beauty, grab Aponia's Basic ATK at F3, finish Aponia 2nd Core by F4 with 3rd and 5th, grab Aponia's Breach from F5 and go shop F6, use 3* Remembrance Sigil Abuse to gamble for a +2 Griseo Red Paint, then the same for Kalpas' TDM, Phys/Elem DMG and V-V's Conflict or Spider Web. Can also upgrade Aponia's Basic ATK to +3. Finish Kalpas 2nd Core by F7 Double.
+
+Signet | Priority
+- | :----:
+**First, No Betrayal**: Exhortation increases by 5 per second and caps at 200. Basic ATK's Total DMG increases by 0.3% of Exhortation. Triggering Ultimate Evasion Skill reduces 50% Exhortation. | 1st
+**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 2nd
+**Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 3rd
+**Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
+**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | 1st
+**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 2nd
+**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 3rd
+
+####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
+
+Signet | Priority
+- | :----:
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
+**Desireless, Mindless, and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | Optional 4th
+**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
+
+!!! note
+    If needed, you can choose to intentionally die and make use of Elysia's passive revival to immediately recharge Bloodboil Armor to the max so you can further get stronger and make sure to finish the run.
+
+####<p align="center">Vill-V - Signet of Helix (3rd Core)</p>
 
 Signet | Priority
 - | :----:
@@ -4866,32 +4894,7 @@ Signet | Priority
 **Saga: Overlapping Needles**: Gravitational Field affects a larger area and gain a stronger pull. DMG-dealing hits deal and extra 500% ATK of Adaptive DMG. | Optional 3rd
 
 !!! note
-    Magic is often better not taken, but otherwise great to have, as Whisper's weakspot hits are actually a lot of damage later on.
-
-####<p align="center">Aponia - Signet of Discipline (2nd Core)</p>
-
-Signet | Priority
-- | :----:
-**First, No Betrayal**: Exhortation increases by 5 per second and caps at 200. Basic ATK's Total DMG increases by 0.3% of Exhortation. Triggering Ultimate Evasion Skill reduces 50% Exhortation. | 1st
-**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 2nd
-**Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 3rd
-**Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
-**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | 1st
-**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 2nd
-**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 3rd
-
-####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
-
-Signet | Priority
-- | :----:
-**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
-**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
-**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
-**Desireless, Mindless, and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | Optional 4th
-**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
-
-!!! note
-    If needed, you can choose to intentionally die and make use of Elysia's passive revival to immediately recharge Bloodboil Armor to the max so you can further get stronger and make sure to finish the run.
+    This time, Drama is high priority to +3. Puppetry isn't upgraded at all due to excess Breach.
 
 ####<p align="center">Griseo - Signet of Stars (4th Core)</p>
 
