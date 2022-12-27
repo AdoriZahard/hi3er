@@ -41,6 +41,7 @@ Please note that this is only true for there reward scores, and not the actual p
 > Click [here](https://rentry.co/thebuttererguide) for more information on how to ER more efficiently.
 
 ## Update log
+- 2022-27-12: Updated HoH, HC, VK Charged and Sushang with new Video Runs updated for 6.2.
 - 2022-22-12: Updated VK's both Ultimate and Charged Builds.
 - 2022-20-12: Updated HoH's Ultimate and Ballista Builds to 6.2. Revisited CN's build.
 - 2022-18-12: Updated every Valkyrie's Load Buffs to current Weather. Also updated some builds (Signet Priority mainly and Reccomended Supports)
@@ -1498,7 +1499,7 @@ Quick Search: V-V, Vill-V, Bait, Helical Cripple
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-SS1 | Finality | Tower of Past & 3-set Collodi | 5:15m (6.1 1st Half) | [https://youtu.be/cwbYxS_h_VE](https://youtu.be/cwbYxS_h_VE)
+SS1 | Finality | Tower of Past & 3-set Collodi | 4:30m (6.2) | [https://youtu.be/fERspn2Jiww](https://youtu.be/fERspn2Jiww)
 
 !!! note
     With lower ranks, you can expect HC to perform worse, however her strength is probably more dependant on her stigma set, and more importantly, her own weapon. Without her weapon, she probably struggles aside from gameplay changes.
@@ -1923,6 +1924,7 @@ Quick Search: Elysia, HoH, HoHe, Manta Ray, H2O, Water
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
 S1 | Finality | DoEgo & 3-set Pristine | 3:25m (6.2) | [https://youtu.be/so6lrGU2Pfw](https://youtu.be/so6lrGU2Pfw)
+S0 | Finality | DoEgo & Ana Schariac | 7:29m (6.2) | [https://youtu.be/hPpEOO-q2MA](https://youtu.be/hPpEOO-q2MA)
 S2 | Finality | CoC & Scott TM Rasputin B | 7:59m (6.1 2nd Half) | [https://youtu.be/lNvGfE_4Czs](https://youtu.be/lNvGfE_4Czs)
 
 !!! note 
@@ -3971,7 +3973,7 @@ Quick search: Li Sus, Sushang, JK, Sussy
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-SS0 | Finality | Nocturnal & Shenzhou | 3:37 (6.1 1st Half) | [https://youtu.be/Pld1F3JfVbw](https://youtu.be/Pld1F3JfVbw)
+SS0 | Finality | Nocturnal & Shenzhou | 3:35m (6.2) | [https://youtu.be/DBThFHSxM0E](https://youtu.be/DBThFHSxM0E)
 S0 | Finality | GTX & Scott | 8:49m (6.2) | [https://youtu.be/4L4DtshNoG0](https://youtu.be/4L4DtshNoG0)
 
 !!! danger
@@ -6470,6 +6472,10 @@ Quick search: SN, Saule, SNoDamage
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
 SS0 | Finality | PoA:Kindred & Allan Poe | 16:10m (6.1 1st Half) | [https://youtu.be/KDbo2fZi94E](https://youtu.be/KDbo2fZi94E)
+SS0 | Finality | PoA:Kindred & Allan Poe | 21:21m (6.2, SPECIAL) | [https://youtu.be/tPgxNQQrfHY](https://youtu.be/tPgxNQQrfHY)
+
+!!! danger
+    The 2nd run is a Special one that uses Pardo2 Gacha Strategy.
 
 !!! note
     For downscalability purposes, she's by far one of the worst valks as she gets increasingly worse the lower your gears are.
@@ -7237,6 +7243,8 @@ Signet | Priority
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
 S3 | Finality | Shuhadaku of Uriel & Ragna TB Thales M | 4:55m (6.2) | [https://youtu.be/bVrev_CfDdA](https://youtu.be/bVrev_CfDdA)
+SS | Finality | Cleaver of Shamash & Wang Zhaojun | 11:09m (6.2) | [https://youtu.be/en2-SpYMwDM](https://youtu.be/en2-SpYMwDM)
+
 
 !!! note
     For Charged Build, these are her BiS stigmas. Other than that, VK's downscalability is really good, since she has a lot of good Stigma alternatives, with LWH TB Thales M being her best F2P craftable stigs. She also doesn't lose in weapon options, with Blood Dance being her BiS F2P weapon (obtainable from Exchange Shop).
