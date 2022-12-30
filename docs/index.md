@@ -1663,7 +1663,7 @@ Quick Search: HoFS, HoF, FK, KFC, Burnt Tuna, Flying Fish
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
 S0 | Finality | DoI & 3-set Himeko | 4:18m (6.0 2nd Half) | [(https://youtu.be/-fVlZ3l135k](https://youtu.be/-fVlZ3l135k)
-S0 | Finality | DoI & Leuweenhoek TB Thales M | 14:09m (6.1 1st Half) | [https://youtu.be/woycwAya1cg](https://youtu.be/woycwAya1cg)
+S0 | Finality | DoI & Leuweenhoek TB Thales M | 11:59m (6.2) | [https://youtu.be/v0_RfiIOrCk](https://youtu.be/v0_RfiIOrCk)
 
 !!! note 
     For downscalability purposes, HoFS is actually pretty damn awful with lower stigmatas. 
