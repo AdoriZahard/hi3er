@@ -11,36 +11,63 @@
 
 ***
 
-<p align="center">**Note: The number behind the Signet Name represents the core**</p>
+<p align="center"> **Note: The number behind the Signet Name represents the core** </p>
 <p align="center">**Eg: Aponia2 = Aponia - Signet of Discipline Core 2 (You Shall Receive Disciplines' Blessing)**</p>
 
 <p align="center">The signets are arranged in order of priority</p>
 
-Difficulties have changed and here are their values:
+***
 
-- 1D Void = 90D
-- 2D Shroud = 100D
-- 3D Inferno = 110D
-- 4D Submergence = 120D
-- 5D Abstinence = 130D
-- 6D Corruption = 140D
-- 7D Finality = 150D
+Each Difficulty has a noticeable spike and increase in the HP, amidst other things, of the mobs and bosses. This guide does and tests EVERY valk at the maximum Difficulty (Finality, 2.75x) and uses the results of those runs as a reference or measure the strength, potential of a Valkyrie with specific Gears and Ranks. This then also is used as a sort of proof of what the Valkyrie is capable of in the weather in which the video run has been done, or how much clear time you should expect for that valkyrie to do assuming your Valkyrie's Rank, Gears and other impactful buffs (such as Dkey ATK and Dorm Level ATK) are close to or almost equal to the tested run.
 
-Please note that this is only true for there reward scores, and not the actual previous difficulties pre v5.6
+You can also use the clear times (do prefer to use the ones for the current patch instead of previous patches) as another measurement of how well the Valkyrie does and also use it as a reference for when you're downscaling (when your Valkyrie's Ranks or Gears are lower/weaker than the tested ones).
 
-**What do these mean?**
+- 1D Void = 1.00x
+- 2D Shroud = 1.5x
+- 3D Inferno = 1.75x
+- 4D Submergence = 2x
+- 5D Abstinence = 2.25x
+- 6D Corruption = 2.5x
+- 7D Finality = 2.75x
+
+Clearing Abstinence gives ALL the rewards. 
+Corruption additionally gives the FC Emblem that grants 12% TDM and 400 HP when equipped, only applicable to Elysian Realm. This emblem is strongly recommended.
+Finality gives nothing, we use it for the purpose of testing the Valkyries' strength and as a reference for downscaled difficulty runs if you need it.
+
+***
+
+**What do these mean?**1
 
 - Yes = At some point get this signet. It doesn't matter when, just that you obtain it, as its a signet needed to make the build work.
-- 1st/2nd/etc = Get this 1st/2nd/etc
-- Start = Start with this signet
-- Optional = You can take it, but not necessary (mostly if your stigmatas' are bad)
+- 1st/2nd/etc = Get this 1st/2nd/etc.
+- Start = Start with this signet.
+- Optional = You can take it at later floors or get them from Felis Shop Signets, as long as you get them in the end.
 - Filler = Only consider going for this if the other portals suck.
 - No = Don't get this.
 
 > How to signet build? Which F17 Boss to take? When do I visit shop?
 > Click [here](https://rentry.co/thebuttererguide) for more information on how to ER more efficiently.
 
+***
+
+## Elysian Realm's 6.2 ER Tierlist
+<p align="center"> By: Adori - Columbina Supremacy#6481</p>
+
+!!! note
+    Please make sure to read the explanation below regarding the method in which the Tierlist was made before DMing me for whatever reason you might want to, thank you~
+
+There are 2 methods used to determine the Valkyries' placement. Also, from Left to Right = Stronger to Weaker.
+- Their strength in the current weather and how well they do.
+- How well can they downscale (F2P or F2P with some mixed signature gears).
+
+![my-image (2)](https://user-images.githubusercontent.com/114035701/210025833-b351f318-aaf6-4dd4-a182-9f0f4e1db770.png)
+
+A lot of factors can go into the strength of a Valkyrie as well. Please keep that in mind, as not every run will have good signet RNG. Gameplay will not always be perfectly optimized. Divine Key ATK, Dorm Level ATK and Dorm Buffs will also always be varying and thus will affect your Valkyrie's DMG. ATK difference is also another factor.
+
+***
+
 ## Update log
+- 2022-29-12: Revamped some sections of the guide. Added 6.2 ER Tierlist section. Added Explanation section at the very end of the guide for 3* Remembrance Sigil Abuse.
 - 2022-27-12: Updated HoH, HC, VK Charged and Sushang with new Video Runs updated for 6.2.
 - 2022-22-12: Updated VK's both Ultimate and Charged Builds.
 - 2022-20-12: Updated HoH's Ultimate and Ballista Builds to 6.2. Revisited CN's build.
@@ -7361,36 +7388,33 @@ Signet | Priority
 
 ***
 
-##  Difference between Kalpas1 and Kalpas2: 
-<p align="center">By: Butter#2252</p>
+## Explanations 
 
-Kalpas 2 core makes you lose 5k Hp or more to give you a 40% boost from kalpas signets (increases to 8k hp lost and 80% boost from kalpas with 25% bonus hp signet). Any healing you get turns into more hp for the hp cap, meaning more hp for kalpas core two (which can further increase the 80% boost to 100% with hp% signet)
+### <p align="center">-- 3* Remembrance Sigil Abuse "Cheatcode":
 
-***
-##  Difference between Su1 and Su2: 
-######<p align="center">**Su 1 vs Su 2 enhanced only**</p>
-<p align="center">By: Butter#2252</p>
+This is a trick that I've started implementing at some point from one of my runs. The reason is because, if successful, it further increases your chances at being able to clear your run successfully, and can even shorten your clear time by improving it in a noticeable way compared to how it would go in a normal run without making use of this trick. 
 
-**Su 1 enhanced signets:**
-Maxim of Anitya: enemies hit by karma wheels can not regenerate sheilds for 3 seconds.
+So, what's it about? Basically, you replace both your **General** and **Support** Remembrance Sigils for the 3* Star ones of the desired FC's signets of choice. As an example, here's Griseo's 3* Star Remembrance Sigil together with her own Support Skill.
 
-Maxim of Anatman: the next attack with in 8 seconds by an enemy hit by karma wheel has that attack lose 50% total damage. 
+![image](https://user-images.githubusercontent.com/114035701/210024009-d81787df-5521-4f3f-baaf-596811f221c3.png)
 
-Maxim of Santam: karma wheels deal 100% bonus damage to  shielded and  500% additional adaptive damage to unshielded enemies.
+This is an intended design. Every one of the FC's 3* Star Remembrance Sigils aside from their own Support Skills give an additional +1 starting level to the signets picked or shown at Felis Shop (Only when you reroll at the moment of having them equipped) as shown in their descriptions.
 
-Maxim of Anitya does not remove shields it just makes the enemy not able to recover them which is only useful against heimdel and that it.  Maxim of Anatman looks good but then you remember that it only affects ONE attack and since most enemies have multi hit moves you are still going to take the full damage of the other oh and this doesn’t work with fu hua core 2 enhanced signet worldly troubles. Maxim of Santam is the only good one as it’s more damage but that’s it.
+![image](https://user-images.githubusercontent.com/114035701/210024362-0efb7658-b1e2-4b01-aada-55924eab7c78.png)
 
-——————————
+It's very simple, but the core of it basically relies on having good luck with the RNG at the moment of rerolling for signets at Felis Shop. It's still, however, a very strongly recommended gamble to do in every one of your runs WITH the exception of when your money is running low or when the cost for rerolling the Shop signets is already at 160 at which point you drop it off.
 
-**Su 2 enhanced signets:**
+With both 3* Star Remembrance Sigils, you can get the desired FC signets starting at +2 once they appear in Felis Shop from a reroll.
 
-Dictum of Anitya: for every debuff in the enemy Bodhi open eye will deal 150% more damage
+![Autodesk Flow Design 2022 12 29 - 21 37 26 03](https://user-images.githubusercontent.com/114035701/210024520-ea0aa54a-eddd-4251-95a2-ed52db1280c4.gif)
 
-Dictum of Anatman: Bodhi open eye debuffs last 3 seconds longer and for every debuff on the enemy, they receive 5% more total damage taken from the enemy
+This also works with Doors, and it's especially recommended to gamble for this for the Double Floors, even more so if you've already unlocked that FC's Core and it has at least 2 Enhanceds that are **priority** to get and very **desirable** to get at increased upgrade levels. Another good reason is that, by design, even when in the current weather the FC's signets get a +2 level on choosing them, this **only** applies to the Basic Signets, not the Enhanceds.
 
-Dictum of Santam: Bodhi open eye will apply 3 random debuffs for 3 seconds
+![Autodesk Flow Design 2022 12 29 - 22 02 03 05](https://user-images.githubusercontent.com/114035701/210024817-a737c485-64eb-46d6-8a21-fd2c40fc9082.gif)
 
-Dictum is the king of enemy total damage taken as the trance debuff which is part of the core is a debuff it already means anatman makes them have 5% more. Then santam applies 3 random of the following debuffs (stun, paralyze, Ignite, freeze, impair, weaken, attack slow and move slow) that’s 7 more debuffs! Now anatman and anitya also counts anything that is labeled as a debuff so this includes: Trance, Intoxication (eden 1), weapon skill debuffs, shield shattered (Carole), HoT mark, Analyzed (HoR), Coma (HoS), Immobilized (jailer, AE ult), etc. with all of that said you can see how good Su 2 is with its enhanced than Su 1. Also with all 8 debuffs the enemy has gained 40% more total damage taken. And that’s level 1. At level 3 that’s 64% damage taken.
+Additionally, Herrscher of Humanity can also further abuse this. Since she already passively gets +1 starting level to every FC signet picked, having both 3* Remembrance Sigils of a FC will make that FC's signets to start at the max +3 level instead of the normal +2. HoH's cheat doesn't apply to Enhanceds however.
+
+![Autodesk Flow Design 2022 12 29 - 22 11 35 07 (2)](https://user-images.githubusercontent.com/114035701/210025263-a656fdbc-9131-47a8-a680-2ff867af7f0b.gif)
 
 ***
 
