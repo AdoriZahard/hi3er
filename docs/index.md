@@ -57,7 +57,9 @@ Finality gives nothing, we use it for the purpose of testing the Valkyries' stre
     Please make sure to read the explanation below regarding the method in which the Tierlist was made before DMing me for whatever reason you might want to, thank you~
 
 There are 2 methods used to determine the Valkyries' placement. Also, from Left to Right = Stronger to Weaker.
+
 - Their strength in the current weather and how well they do.
+
 - How well can they downscale (F2P or F2P with some mixed signature gears).
 
 ![my-image (2)](https://user-images.githubusercontent.com/114035701/210025833-b351f318-aaf6-4dd4-a182-9f0f4e1db770.png)
