@@ -7396,7 +7396,7 @@ This is a trick that I've started implementing at some point from one of my runs
 
 So, what's it about? Basically, you replace both your **General** and **Support** Remembrance Sigils for the 3* Star ones of the desired FC's signets of choice. As an example, here's Griseo's 3* Star Remembrance Sigil together with her own Support Skill.
 
-![image](https://user-images.githubusercontent.com/114035701/210024009-d81787df-5521-4f3f-baaf-596811f221c3.png)
+![Autodesk Flow Design 2022 12 29 - 21 25 47 01](https://user-images.githubusercontent.com/114035701/210026345-b2dceb34-e3a0-4a6b-8ed1-adf7ca6ca493.gif)
 
 This is an intended design. Every one of the FC's 3* Star Remembrance Sigils aside from their own Support Skills give an additional +1 starting level to the signets picked or shown at Felis Shop (Only when you reroll at the moment of having them equipped) as shown in their descriptions.
 
