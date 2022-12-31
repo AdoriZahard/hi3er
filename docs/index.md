@@ -69,7 +69,7 @@ A lot of factors can go into the strength of a Valkyrie as well. Please keep tha
 ***
 
 ## Update log
-- 2022-30-12: Updated RI and LK. 
+- 2022-30-12: Updated RI and LK. Updated and corrected one of CN's recommended signets.
 - 2022-29-12: Revamped some sections of the guide. Added 6.2 ER Tierlist section. Added Explanation section at the very end of the guide for 3* Remembrance Sigil Abuse.
 - 2022-27-12: Updated HoH, HC, VK Charged and Sushang with new Video Runs updated for 6.2.
 - 2022-22-12: Updated VK's both Ultimate and Charged Builds.
@@ -338,6 +338,7 @@ Quick Search: Ai, Ai-Chan, CN, Cabbage
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
+SSS | Finality | Rudder & Idol Set | 5:31m (6.2) | [https://youtu.be/SMflvermHCI](https://youtu.be/SMflvermHCI)
 SS3 | Finality | Rudder & Idol Set | 7:33m (6.2) | [https://youtu.be/Epz2Lsk42o4](https://youtu.be/Epz2Lsk42o4)
 S | Finality | Purana & Leuweenhoek TB Thales M | 13:57m (6.2) | [https://youtu.be/HyE8jeEUjkc](https://youtu.be/HyE8jeEUjkc)
 
@@ -354,12 +355,12 @@ Valkyries who use chakrams, 2-handers, blades and fists deal 20% more Total DMG.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
-Early | Veil of Tears | Falling in Past Light OR Because of You (can also be at F5 Shop)
-Mid | Memory / Mad King's Mask / Forget-Me-Not | Because of You / Falling in Past Light
-Late | Tin Flask or Key to the Deep | Falling in Past Light
+Early | Veil of Tears | The Lonely Moon OR Because of You (can also be at F5 Shop)
+Mid | Memory / Mad King's Mask / Forget-Me-Not | Because of You / The Lonely Moon
+Late | Tin Flask or Key to the Deep | The Lonely Moon
 
 !!! note
-    You can choose to either do a Because of You start to get the other 2 desired Ego signets by F7, or play the early safer by using Falling in Past Light in order to help getting the F4 double. 
+    Pick your choice here. The Lonely Moon is the best Support Skill you can bring with you. As an alternative, you can also bring Falling in Past Light or Because of You as start instead. However, in the case of going with Because of You start, it's strongly recommended to get 2 Vill-V signets at F5 Shop and unlock V-V 1st Core at F6.
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
@@ -386,7 +387,7 @@ Signet | Priority
 ####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
 
 !!! note
-    Ideal Order from F1-F7: Double Ego start (Succession + Time Crystals) into Aponia Basic ATK F3, finish Aponia 2nd Core by F4 with Ultimate and SP Regen, grab Aponia's either Breach from F5 or F6 and go shop F5/F6, buy V-V's Pendulum, Conflict, Griseo's Red and Kalpas' TDM Taken or V-V's Spider Web (ideally 2 from V-V, Griseo's Red and Kalpas' TDM Taken), then grab Ego door at F7 from Because of You
+    Ideal Order from F1-F7: Double Ego start (Succession + Time Crystals) into Aponia F3 (doesn't matter if you pick First, Fourth or Fifth), finish Aponia 2nd Core by F4 with First, Fourth and Fifth, go shop F5 and use 3* Remembrance Sigil Abuse to buy 2 or 3 Vill-V signets and 1 or 2 Kalpas signets. Proceed to finish Vill-V 1st Core by F6 and then either finish Kalpas 2nd Core by F7 Double or, if using Because of You start, take the Ego door for your remaining 2 Ego signets
 
 Signet | Priority
 - | :----:
@@ -399,9 +400,22 @@ Signet | Priority
 **You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | Optional 3rd
 
 !!! note
-    Basic ATK is high priority to +3. Do make sure to get Breach, it's very important. In this run, I had to grab Aponia door at F11 instead of Double Ego due to lacking Breach.
+    Basic ATK is high priority to +3. Do make sure to get Breach at least before Heimdall fight, it's very important. Also, please do note that you have to let Aponia's Adaptive DMG hit everytime before you keep halvening the load constantly with Weapon Active. You can afterwards grab SP Regen signet to better help with the Load halvening problems.
 
-####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
+####<p align="center">Vill-V - Signet of Helix (2nd Core)</p>
+
+Signet | Priority
+- | :----:
+**Act V: Spider Web**: Using a weapon active boosts Valkyrie ranged Total DMG by 40% for 4.5s. Triggering it again resets the duration. | 1st
+**Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 2nd
+**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 3rd
+**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | Optional 4th
+**Nexus Signet 1: Interlude: Reversed Spiral** |
+
+!!! note
+    You finish Vill-V 1st Core and you don't invest any more in it. Move forward onto the rest of the core signets instead.
+
+####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
 
 Signet | Priority
 - | :----:
@@ -413,21 +427,6 @@ Signet | Priority
 
 !!! note
     If you have no better choices for doors, you can try to take Broken Dream.
-
-####<p align="center">Vill-V - Signet of Helix (3rd Core)</p>
-
-Signet | Priority
-- | :----:
-**Act V: Spider Web**: Using a weapon active boosts Valkyrie ranged Total DMG by 40% for 4.5s. Triggering it again resets the duration. | 1st
-**Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 2nd
-**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 3rd
-**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | Optional 4th
-**Nexus Signet 2: Intermezzo: Holistic Helix** |
-**Puppetry: Interlacing Cells**: Extends Global Time Fracture caused by Specail Weapon: No. 4's detonation by 3s. During Global Time Fracture, gain 30% Physical and Elemental Breach. | 1st
-**Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 2nd
-
-!!! note
-    Puppetry and Drama are both high priority to +3. Especially good if you can use 3* Remembrance Sigil Abuse to get both at +2.
 
 ####<p align="center">Griseo - Signet of Stars (4th Core)</p>
 
@@ -446,7 +445,20 @@ Signet | Priority
 !!! note
     Red is highest priority to +3. Yellow is good to +3. Strongly recommended to use 3* Remembrance Sigil Abuse for Red.
 
-####<p align="center">Pardofelis - Signet of Reverie (4th Core)</p>
+####<p align="center">Hua - Signet of Vicissitude (5th Core)</p>
+
+Signet | Priority
+----| :----:
+**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks | 1st
+**Dark Garb No More**: Elemental DMG increases by 0.8% per second | 2nd
+**Old Dreams Again**: Elemental Breach increases by 0.6% per second | 3rd
+**Nexus Signet 2: Suffering Mass** |
+**Broken Dream**: When possessing Soldier's Remembrance., increase the maximum stack of normal Vicissitude signets by 20 | Optional
+
+!!! note
+    You can build Hua2 before Griseo2 if you want to, but that will depend on whether you get 2 Hua signets from shop and can unlock her at next door or not.
+
+####<p align="center">Pardofelis - Signet of Reverie (Felis Shop Signets)</p>
 
 Signet | Priority
 ---- | :----:
