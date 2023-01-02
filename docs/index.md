@@ -58,11 +58,8 @@ Finality gives nothing, we use it for the purpose of testing the Valkyries' stre
 
 ***
 
-## Elysian Realm's 6.2 ER Tierlist
+## Elysian Realm's 6.2 2nd Half ER Tierlist
 <p align="center"> By: Adori - Columbina Supremacy#6481</p>
-
-!!! danger
-    Update for 2nd Half is WIP!
 
 !!! note
     Please make sure to read the explanation below regarding the method in which the Tierlist was made before DMing me for whatever reason you might want to, thank you~
@@ -73,14 +70,14 @@ There are 2 methods used to determine the Valkyries' placement. Also, from Left 
 
 - How well can they downscale (F2P or F2P with some mixed signature gears).
 
-![my-image (2)](https://user-images.githubusercontent.com/114035701/210025833-b351f318-aaf6-4dd4-a182-9f0f4e1db770.png)
+![my-image (3)](https://user-images.githubusercontent.com/114035701/210264378-e564bce8-4275-4e28-908d-b636ef271fb1.png)
 
 A lot of factors can go into the strength of a Valkyrie as well. Please keep that in mind, as not every run will have good signet RNG. Gameplay will not always be perfectly optimized. Divine Key ATK, Dorm Level ATK and Dorm Buffs will also always be varying and thus will affect your Valkyrie's DMG. ATK difference is also another factor.
 
 ***
 
 ## Update log
-- 2022-02-01: Updated every Valkyrie's Load Buff. Added Sushang's Mobius Infinity Blade Works build.
+- 2022-02-01: Updated every Valkyrie's Load Buff. Updated ER Tierlist for 2nd Half. Added Sushang's Mobius Infinity Blade Works build. 
 - 2022-30-12: Updated RI and LK. Updated and corrected one of CN's recommended signets.
 - 2022-29-12: Revamped some sections of the guide. Added 6.2 ER Tierlist section. Added Explanation section at the very end of the guide for 3* Remembrance Sigil Abuse.
 - 2022-27-12: Updated HoH, HC, VK Charged and Sushang with new Video Runs updated for 6.2.
@@ -102,7 +99,7 @@ A lot of factors can go into the strength of a Valkyrie as well. Please keep tha
 ### <p align="center">-- General Build</p>
 
 !!! note 
-    Updated 6.1. AKA is yet another one of these valkyries that needs quite the particular investment for comfily using in ER. She wants a minimum rank of S2, and she also wants her pri-arm, without which she struggles quite noticeably. However, there's also something else that adds up into her performance at ER. She's also a highly difficult mechanical valk to optimally play with, as she does have quite a lot of tricks going for her. Most notably, animation cancels, which arguably do provide quite a big and drastic DPS increase for her, both inside and outside ER.
+    Updated 6.2. AKA is yet another one of these valkyries that needs quite the particular investment for comfily using in ER. She wants a minimum rank of S2, and she also wants her pri-arm, without which she struggles quite noticeably. However, there's also something else that adds up into her performance at ER. She's also a highly difficult mechanical valk to optimally play with, as she does have quite a lot of tricks going for her. Most notably, animation cancels, which arguably do provide quite a big and drastic DPS increase for her, both inside and outside ER.
 
 > Boss to be Chosen: Husk, then Vill-V or Kalpas
 
@@ -122,7 +119,7 @@ When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s
 After the deployed Valkyrie deals MELEE DMG, she will deal 20% more Physical and Elemental DMG for 10s. Triggering it again refreshes the duration. | 15
 
 !!! note
-    Effective for 6.2.
+    Effective for 6.2 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -220,7 +217,7 @@ Signet | Priority
 ### <p align="center">-- Dudu becomes a Jojo Fan</p>
 
 !!! note 
-    Updated 6.1. Dudu got her own stand, and she's on her way to become a real Jojo of her own. Truly built different! Will her stand be as powerful as Jojo's Star Platinum? Oh, an enemy is approaching! How dare they approach her? They must be destroyed by Abyss Flower! Wait... it did really destroy them easily. She's... a monster! Anyway, her damage ceiling is astronomically high. She's a pretty straightforward valkyrie that doesn't have much problems clearing it, however, her requirement for this is to have 3-set Dante and AF is a given.
+    Updated 6.2. Dudu got her own stand, and she's on her way to become a real Jojo of her own. Truly built different! Will her stand be as powerful as Jojo's Star Platinum? Oh, an enemy is approaching! How dare they approach her? They must be destroyed by Abyss Flower! Wait... it did really destroy them easily. She's... a monster! Anyway, her damage ceiling is astronomically high. She's a pretty straightforward valkyrie that doesn't have much problems clearing it, however, her requirement for this is to have 3-set Dante and AF is a given.
 
 > Boss to be Chosen: Husk, then Aponia
 
@@ -242,7 +239,7 @@ When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s
 After the deployed Valkyrie deals MELEE DMG, she will deal 20% more Physical and Elemental DMG for 10s. Triggering it again refreshes the duration. | 15
 
 !!! note
-    Effective for 6.2 Half. 
+    Effective for 6.2 2nd Half. 
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -255,9 +252,9 @@ Late | Key to the Deep | The Lonely Moon OR Dreamful Gold
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | SA | BR
-Mid | SA | BR
-Late | SA | BR
+Early | SS | SA
+Mid | SS | SA
+Late | SS | SA
 
 !!! note
     These 2 aren't swapped out ever~
@@ -348,9 +345,9 @@ Quick Search: Ai, Ai-Chan, CN, Cabbage
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-SSS | Finality | Rudder & Idol Set | 5:31m (6.2) | [https://youtu.be/SMflvermHCI](https://youtu.be/SMflvermHCI)
-SS3 | Finality | Rudder & Idol Set | 7:33m (6.2) | [https://youtu.be/Epz2Lsk42o4](https://youtu.be/Epz2Lsk42o4)
-S | Finality | Purana & Leuweenhoek TB Thales M | 13:57m (6.2) | [https://youtu.be/HyE8jeEUjkc](https://youtu.be/HyE8jeEUjkc)
+SSS | Finality | Rudder & Idol Set | 5:31m (6.2 1st Half) | [https://youtu.be/SMflvermHCI](https://youtu.be/SMflvermHCI)
+SS3 | Finality | Rudder & Idol Set | 7:33m (6.2 1st Half) | [https://youtu.be/Epz2Lsk42o4](https://youtu.be/Epz2Lsk42o4)
+S | Finality | Purana & Leuweenhoek TB Thales M | 13:57m (6.2 1st Half) | [https://youtu.be/HyE8jeEUjkc](https://youtu.be/HyE8jeEUjkc)
 
 !!! note 
     In downscaling terms, she's fucking horrible without her gears. Do expect Ai-Chan's strength to drop considerably without her own Signature set, mainly because of how much damage her ignition does and also because of how much fire-related buffs her set gives that other Fire-related sets don't come close to.
@@ -361,7 +358,7 @@ When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s
 After the deployed Valkyrie deals MELEE DMG, she will deal 20% more Physical and Elemental DMG for 10s. Triggering it again refreshes the duration. | 15
 
 !!! note 
-    Effective for 6.2.
+    Effective for 6.2 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -503,7 +500,7 @@ When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s
 After the deployed Valkyrie deals MELEE DMG, she will deal 20% more Physical and Elemental DMG for 10s. Triggering it again refreshes the duration. | 15
 
 !!! note
-    Effective for 6.2.
+    Effective for 6.2 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -612,10 +609,10 @@ Search Tags: DPe, DiP, Nun, Aponia
 
 ![Nunny mommy purify me](https://user-images.githubusercontent.com/114035701/203185088-212465ee-f659-4c66-b665-4c500804a8a7.png)
 
-### <p align="center">-- General Build</p>
+### <p align="center">-- You need some Discipline</p>
 
 !!! note 
-    Updated 6.1. Aponia being one of the strongest Flamechasers available to do ER with, is also a valk that doesn't really demands much mechanical play. There's really not much to explain about her. Aponia in ER is basically a get 100 sp, use Ultimate, hold A for Thunderstorm and move or just watch a video while enemies die. Then gain SP again and repeat the same process. More explanation on her is given in the description of the video runs.
+    Updated 6.2. Aponia being one of the strongest Flamechasers available to do ER with, is also a valk that doesn't really demands much mechanical play. There's really not much to explain about her. Aponia in ER is basically a get 100 sp, use Ultimate, hold A for Thunderstorm and move or just watch a video while enemies die. Then gain SP again and repeat the same process. More explanation on her is given in the description of the video runs.
 
 > Boss to be Chosen: Husk, then Aponia or Vill-V
 
@@ -627,10 +624,11 @@ Search Tags: DPe, DiP, Nun, Aponia
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-S0 | Finality | Lost Conviction & 3-set Handel | 7:27m (6.2) | [https://youtu.be/VmMqliVZHOI](https://youtu.be/VmMqliVZHOI)
+S0 | Finality | Lost Conviction & Zeno | 6:49m (6.2 1st Half) | [https://youtu.be/YIsbVqUHC6E](https://youtu.be/YIsbVqUHC6E)
+S0 | Finality | Lost Conviction & 3-set Handel | 7:27m (6.2 1st Half) | [https://youtu.be/VmMqliVZHOI](https://youtu.be/VmMqliVZHOI)
 
 !!! danger
-    In downscalability terms, Aponia does seem pretty decent as seen on the above run using Handel instead of Zeno. However, do expect worse performance with lower gears, but she can scale accordingly without problems.
+    In downscalability terms, Aponia has pretty solid choices going for her with Handel being rightfully strong. If no Handel, however, expect her to not do so well.
 
 Buff | Load
 :----: | :----: 
@@ -638,7 +636,7 @@ Max SP +30. | 5
 When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
 
 !!! note
-    Effective for 6.2.
+    Effective for 6.2. Aponia's pretty fucked up this 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -746,7 +744,7 @@ Quick Search: FR, Rita, Maid
 ### <p align="center">-- Above SS2 Build</p>
 
 !!! note 
-    Updated 6.1. This is the strongest build that FR has available to her, which in turn also makes her become one of the strongest ER valks to clear with.
+    Updated 6.2. This is the strongest build that FR has available to her, which in turn also makes her become one of the strongest ER valks to clear with.
 
 > Boss to be Chosen: Husk, then Elysia (for booling her), Vill-V or Aponia
 
@@ -773,7 +771,7 @@ When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s
 After the deployed Valkyrie deals MELEE DMG, she will deal 20% more Physical and Elemental DMG for 10s. Triggering it again refreshes the duration. | 15
 
 !!! note
-    Effective for 6.2.
+    Effective for 6.2 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -898,7 +896,7 @@ When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s
 After the deployed Valkyrie deals MELEE DMG, she will deal 20% more Physical and Elemental DMG for 10s. Triggering it again refreshes the duration. | 15
 
 !!! note
-    Effective for 6.2-
+    Effective for 6.2 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
