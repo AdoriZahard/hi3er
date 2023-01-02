@@ -61,6 +61,9 @@ Finality gives nothing, we use it for the purpose of testing the Valkyries' stre
 ## Elysian Realm's 6.2 ER Tierlist
 <p align="center"> By: Adori - Columbina Supremacy#6481</p>
 
+!!! danger
+    Update for 2nd Half is WIP!
+
 !!! note
     Please make sure to read the explanation below regarding the method in which the Tierlist was made before DMing me for whatever reason you might want to, thank you~
 
