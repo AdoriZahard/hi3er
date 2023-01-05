@@ -2020,41 +2020,10 @@ Signet | Priority
 !!! note
     This build is best taken with 3 Ego signets, basically, double reroll is its most ideal start. Bloom + Journey is the startup while Awakening is the 3rd Ego signet taken by F2. Journey is simply 10x times better and far stronger, and the way you use it is save the Crystals (used on Evade mainly) to oneshot a wave, then use Active + Charged for 2nd Wave. Use Finisher early after that and get your 2nd Ult ASAP for another round of Crystals from Journey.
 
-####<p align="center">Kalpas - Signet of Decimation (1st Core)</p>
+####<p align="center">Griseo - Signet of Stars (1st Core)</p>
 
 !!! note
-    Ideal Order from F1-F7: Double Ego Start (Bloom + Journey) into Awakening at F2, grab Kalpas' TDM by F3 and use BR abuse to lower your HP to below 200, then finish Kalpas 2nd Core by F4 Double with Phys/Elem DMG and Max HP%, go shop F5 and grab Griseo's Red & Yellow or Black alongside V-V's Conflict and Pendulum or one of them and Sakura's either TDM or TDM Taken, unlock V-V 2nd Core F6 and grab V-V door F7 for Puppetry and Drama.
-
-Signet | Priority
-- | :----:
-**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
-**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
-**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
-**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
-**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** | Optional
-
-!!! note
-    HoE doesn't really need to finish Kalpas core but in this run we take it anyways.
-
-####<p align="center">Vill-V - Signet of Helix (2nd Core)</p>
-
-Signet | Priority
-- | :----:
-**Act V: Spider Web**: Using a weapon active boosts Valkyrie ranged Total DMG by 40% for 4.5s. Triggering it again resets the duration. | 1st
-**Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 2nd
-**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 3rd
-**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | 4th
-**Nexus Signet 2: Intermezzo: Holistic Helix** |
-**Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 1st
-**Puppetry: Interlacing Cells**: Extends Global Time Fracture caused by Specail Weapon: No. 4's detonation by 3s. During Global Time Fracture, gain 30% Physical and Elemental Breach. | 2nd
-
-!!! note 
-    Although Puppetry will give excess breach, it's still recommended due to extending the Time Fracture to abuse Drama's additional TDT. Thus, in this case, Drama is the highest priority to +3 and Puppetry is ignored.
-
-####<p align="center">Griseo - Signet of Stars (3rd Core)</p>
-
-!!! note 
-    Ideal Order from F1-F7: Double Reroll start into Griseo Red Paint by 2F, Griseo 2nd Core with Black & Dark and Yellow & Warm, shop by F5 or F6 and try to grab Petals in the Wind (purple). Then Vill-V 2nd Core by F7 double.
+    Ideal Order from F1-F7: Double Ego Start (Bloom + Journey) into Awakening at F2, get Griseo's Red at F3, finish Griseo 2nd Core by F4 Double with Yellow and Black, then grab Griseo's Petals in the Wind or Fallen leaves F5, go shop F6 and buy Griseo's Blue Paint, use 3* Remembrance Sigil Abuse to try and get Kalpas' both TDM and Elem DMG boosts at +3 followed by either Sakura TDM or TDM Taken, or one of Hua or Vill-V's signets. Then grab Griseo door for F7 Double to get the remaining 2 Enhanceds.
 
 Signet | Priority
 - | :----:
@@ -2071,6 +2040,47 @@ Signet | Priority
 !!! note 
     Red is the absolute highest priority to +3. Yellow +3 is also good, you can keep refreshing it through ending Ult early, if you don't want to, you can take Grey. You can also go for the 3* Remembrance Sigil abuse in order to maximize your gains with Griseo and get +3 on all of her signets, making it maximum stonks. A Flame Extinguished is not necessary due to excess breach, but can be taken for stronger Fallen Leaves and more damage.
 
+####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
+
+Signet | Priority
+- | :----:
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
+**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
+**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** | Optional
+
+!!! note
+    HoE doesn't really need to finish Kalpas core but in this run we take it anyways.
+
+####<p align="center">Hua - Signet of Vicissitude (3rd Core)</p>
+
+Signet | Priority
+- | :----:
+**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 1st
+**Dark Garb No More**: Elemental DMG increases by 0.8% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 2nd
+**Old Dreams Again**: Elemental Breach increases by 0.6% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 3rd
+**Nexus Signet 2: Suffering Mass** |
+**Broken Dream**: With Soldier's Remembrance stacks, the max stacks of all buffs from Normal Signets of Vicissitude increase by 20. Losing all Soldier's Remembrance stacks reduces the max stacks by 10 but restores 1 Soldier's Remembrance stack. Can only be triggered once every battle. | Optional
+
+!!! note 
+    Broken Dream is a good gamble to try and take. Hua is interchangeable with Pardo as you can instead opt to take Pardo's instead of Hua.
+
+####<p align="center">Vill-V - Signet of Helix (4th Core)</p>
+
+Signet | Priority
+- | :----:
+**Act V: Spider Web**: Using a weapon active boosts Valkyrie ranged Total DMG by 40% for 4.5s. Triggering it again resets the duration. | 1st
+**Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 2nd
+**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 3rd
+**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | 4th
+**Nexus Signet 2: Intermezzo: Holistic Helix** |
+**Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 1st
+**Puppetry: Interlacing Cells**: Extends Global Time Fracture caused by Specail Weapon: No. 4's detonation by 3s. During Global Time Fracture, gain 30% Physical and Elemental Breach. | 2nd
+
+!!! note 
+    Although Puppetry will give excess breach, it's still recommended due to extending the Time Fracture to abuse Drama's additional TDT. Thus, in this case, Drama is the highest priority to +3 and Puppetry is ignored.
+
 ####<p align="center">Sakura - Signet of Setsuna (5th Core)</p>
 
 Signet | Priority
@@ -2084,31 +2094,11 @@ Signet | Priority
 !!! note 
     It is not necessary to finish Sakura's Cores, but if you do, the choice between both Cores doesn't matter. 2nd Core can provide a bit of DMG.
 
-####<p align="center">Hua - Signet of Vicissitude (5th Core)</p>
-
-Signet | Priority
-- | :----:
-**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 1st
-**Dark Garb No More**: Elemental DMG increases by 0.8% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 2nd
-**Old Dreams Again**: Elemental Breach increases by 0.6% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 3rd
-**Nexus Signet 2: Suffering Mass** |
-**Broken Dream**: With Soldier's Remembrance stacks, the max stacks of all buffs from Normal Signets of Vicissitude increase by 20. Losing all Soldier's Remembrance stacks reduces the max stacks by 10 but restores 1 Soldier's Remembrance stack. Can only be triggered once every battle. | Optional
-
-!!! note 
-    Broken Dream is a good gamble to try and take. Hua is interchangeable with Pardo as you can instead opt to take Pardo's instead of Hua.
-
 ####<p align="center">Pardofelis - Signet of Reverie (6th Core)</p>
 
 Signet | Priority
 - | :----:
 **Neighborhood Chatters**: Every 100 Shiny Silvers obtained this round boost max HP by 25 and max SP by 1. | 1st
-**Motto of Meow**: Every 100 Shiny Silvers obtained this round boost Total DMG by 1%. | 2nd
-**Back-Curled Tail**: Every 100 Shiny Silvers obtained this round boost Physical and Elemental DMG by 0.8%. | 3rd
-**Nexus Signet 1: Empty Dreams, Self, Set, and Joy**: |
-**Nexus Signet 2: Empty Illusions, Empty Fantasies**: |
-
-!!! note 
-    You probably won't finish Pardofelis core, although you can choose it over Hua's. Getting its Max HP/SP signet is good for Kalpas synergy.
 
 ### <p align="center">-- Ballista Build</p>
 
