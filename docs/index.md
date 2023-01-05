@@ -2663,7 +2663,7 @@ Mid | SA | BKE
 Late | SA | BR
 
 !!! note
-    Remember to bring Heimdall to make sure you don't have any problems facing him.
+    Remember to bring BK for Heimdall to make sure you don't have any problems facing him.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
