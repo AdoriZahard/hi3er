@@ -70,11 +70,12 @@ There are 2 methods used to determine the Valkyries' placement. Also, from Left 
 
 - How well can they downscale (F2P or F2P with some mixed signature gears).
 
-![my-image](https://user-images.githubusercontent.com/114035701/211170880-5cfbc350-bfa1-483a-ae50-dee4d2f72e3c.png)
+![my-image (1)](https://user-images.githubusercontent.com/114035701/211171389-393af22d-3018-472b-9f68-ad7b7b3fa037.png)
 
 A lot of factors can go into the strength of a Valkyrie as well. Please keep that in mind, as not every run will have good signet RNG. Gameplay will not always be perfectly optimized. Divine Key ATK, Dorm Level ATK and Dorm Buffs will also always be varying and thus will affect your Valkyrie's DMG. ATK difference is also another factor.
 
 ***
+
 
 ## Update log
 - 2022-02-01: Updated every Valkyrie's Load Buff. Updated ER Tierlist for 2nd Half. Added Sushang's Mobius Infinity Blade Works build. 
