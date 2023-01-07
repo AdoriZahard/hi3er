@@ -70,7 +70,7 @@ There are 2 methods used to determine the Valkyries' placement. Also, from Left 
 
 - How well can they downscale (F2P or F2P with some mixed signature gears).
 
-![my-image (3)](https://user-images.githubusercontent.com/114035701/210264378-e564bce8-4275-4e28-908d-b636ef271fb1.png)
+![my-image](https://user-images.githubusercontent.com/114035701/211170880-5cfbc350-bfa1-483a-ae50-dee4d2f72e3c.png)
 
 A lot of factors can go into the strength of a Valkyrie as well. Please keep that in mind, as not every run will have good signet RNG. Gameplay will not always be perfectly optimized. Divine Key ATK, Dorm Level ATK and Dorm Buffs will also always be varying and thus will affect your Valkyrie's DMG. ATK difference is also another factor.
 
