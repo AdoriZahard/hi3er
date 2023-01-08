@@ -78,6 +78,7 @@ A lot of factors can go into the strength of a Valkyrie as well. Please keep tha
 
 
 ## Update log
+- 2022-08-01: Updated HC build.
 - 2022-07-01: Updated some of the Valks' builds. Added JST Mobius build to Pardofelis and HoH. Updated MPE build.
 - 2022-02-01: Updated every Valkyrie's Load Buff. Updated ER Tierlist for 2nd Half. Added Sushang's Mobius Infinity Blade Works build. 
 - 2022-30-12: Updated RI and LK. Updated and corrected one of CN's recommended signets.
@@ -1539,21 +1540,22 @@ Quick Search: V-V, Vill-V, Bait, Helical Cripple
 ### <p align="center">-- Not Helical Cripple</p>
 
 !!! note 
-    Updated 6.1. All in all, HC is one of the easiest valks to play in ER, and her gameplay doesn't involve anything complicated. The only thing of note to be mindful of is that she greatly values gather as it's better for her to be hitting every mob due to her AoE damage being pretty damn strong. 
+    Updated 6.2. All in all, HC is one of the easiest valks to play in ER, and her gameplay doesn't involve anything complicated. The only thing of note to be mindful of is that she greatly values gather as it's better for her to be hitting every mob due to her AoE damage being pretty damn strong. 
 
-> Boss to be Chosen: Andrius, then Aponia or Kosma
+> Boss to be Chosen: Andrius, then Vill-V, Aponia or Kosma
 
 !!! note
-    While HC can take Kosma and deal with the hitcount phases the easiest, you can also instead take Aponia, but do keep in mind to manually end your Burst Mode before transition phases to save SP and ult again.
+    Pick whichever you want to booli the most!
 
 ####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
 SS1 | Finality | Tower of Past & 3-set Collodi | 4:30m (6.2 1st Half) | [https://youtu.be/fERspn2Jiww](https://youtu.be/fERspn2Jiww)
+S2 | Finality | Tower of Past & 3-set Collodi | 5:38m (6.2 2nd Half) | [https://youtu.be/jT9TpcfFA4M](https://youtu.be/jT9TpcfFA4M)
 
 !!! note
-    With lower ranks, you can expect HC to perform worse, however her strength is probably more dependant on her stigma set, and more importantly, her own weapon. Without her weapon, she probably struggles aside from gameplay changes.
+    You can expect HC to perform worse without her gears. Rank-wise, she's fine and there's not really much of a change. Basically, gears is the biggest impact in downscalability for HC.
 
 Buff | Load
 :----: | :----: 
@@ -1562,25 +1564,25 @@ Dealing Crit DMG boosts Valkyrie Physical and Elemental DMG by 15% for 4s. Trigg
 When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes its duration. | 15
 
 !!! note
-    Effective for 6.2.
+    Effective for 6.2 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
-Early | Pseudo Miracle | Falling in Past Light
-Mid | Forbidden Seed / Memory / Rainbow of Absence | Boundless Logos
-Late | Tin Flask or Key to the Deep | Boundless Logos
+Early | Rainbow of Absence | The Lonely Moon
+Mid | Pseudo Miracle / Forbidden Seed / Memory | Falling in Past Light
+Late | Tin Flask or Key to the Deep | Falling in Past Light
 
 !!! note
-    The Lonely Moon can instead be used if you're somehow having trouble with F4 Double.
+    The Lonely Moon will help you guarantee getting F4 Double easily.
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
 Early | AE | BR
-Mid | AE / BK or VK | BR
+Mid | AE | BK / BR
 Late | AE | BR
 
 !!! note
-    In the SS1 run, I picked VK as she gives 20% Fire Taken. However, do note that VK is harder to use for the purpose of denying Heimdall's Red Mode. This is because VK applies mid Heavy Trauma throughout many successive hits that NEED to connect with Heimdall. If you do not want to be resetting the fight until VK successfully does her job, then just pick BK instead.
+    Be sure to swap BR out for BK for Heimdall fight. Heimdall is too annoying for V-V to deal with since V-V hardly has any i-frames, even more so without Hua2's protection.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -1592,18 +1594,27 @@ Signet | Priority
 **Blessing of Assemblage**: Once Loud Armaments is destroyed, enter burst mode. Can summon a Blazing Spiral that lasts for 5s. It will continuously pull enemies and make them take 30% more Total DMG. A Blazing Spiral deals 500% ATK of Fire DMG when created, which increases by 300% ATK for every Loud Armaments destroyed. | Optional 2nd
 **Blessing of Transmission**: In Special Weapon: No. 9, Interlude Salute and Evasion deal 50% more Total DMG. Casting Interlude Salue restores 5 SP. Every 3 casts of Interlude Salute refreshes weapon active CD, but exiting the combat vehicle resets the counter. | No
 
-####<p align="center">Vill-V - Signet of Helix (1st Core)</p>
+!!! note
+    This build relies on 3 Ego signets: Facade, Sleight and Reversal. During the run, you can pick a 4th Ego for Assemblage if you want the gather that it provides, but give more priority to important Cores.
+
+####<p align="center">Griseo - Signet of Stars (1st Core)</p>
 
 !!! note
-    Ideal course of build up: 3 Ego Start (Facade + Sleight into Reversal), V-V's Spider Web or Pendulum F3, then finish V-V 1st Core by F4, go shop by F5, use 3* Remembrance Sigil Abuse to try and get Kalpas TDM and Phys/Elem DMG at +2 and Griseo Red and Yellow Paint, then finish Kalpas 2nd Core by F6 and finish Griseo 2nd Core by F7 Double.
+    Ideal course of build up: 3 Ego Start (Facade + Sleight into Reversal) into Griseo Red Paint by F3, finish Griseo 2nd Core by F4 Double, grab Petals in the Wind by F5 and go shop F6, buy missing Black & Dark from Griseo and use 3* Remembrance Sigil Abuse to get Kalpas' DMG boosts or Vill-V's signets. Then grab Griseo door by F7 Double for Fallen Leaves and, if it's the only one missing, A Flame Extinguished as well.
 
 Signet | Priority
 - | :----:
-**Act V: Spider Web**: Using a weapon active boosts Valkyrie ranged Total DMG by 40% for 4.5s. Triggering it again resets the duration. | 1st
-**Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 2nd
-**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 3rd
-**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | 4th
-**Nexus Signet 1: Interlude: Reversed Spiral** |
+**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st
+**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | 2nd
+**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 3rd
+**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 4th
+**Nexus Signet 2: Faded Stars** |
+**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 1st
+**Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 2nd
+**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | Optional 3rd
+
+!!! note
+    Red is highest priority to +3. Yellow is good to +3. It is not necessary to finish Griseo 2nd Core.
 
 ####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
 
@@ -1613,42 +1624,27 @@ Signet | Priority
 **Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
 **Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
 **Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | Optional
-**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
+**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** | (Not Necessary)
 
 !!! note
-    As HC has no in-built healing in her kit she can permanently stay at low HP, however you can stay at around 700 for better survival odds, especially against Heimdall.
+    As HC has no in-built healing in her kit (only comes from Collodi) she can permanently stay at low HP, however you can stay at around 700 for better survival odds, especially against Heimdall.
 
-####<p align="center">Griseo - Signet of Stars (3rd Core)</p>
+####<p align="center">Vill-V - Signet of Helix (3rd Core)</p>
 
 Signet | Priority
 - | :----:
-**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st
-**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | 2nd
-**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 3rd
-**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 4th
-**Grey & Empty**: Enemies stay tainted for 5s longer. | Optional 5th
-**Nexus Signet 2: Faded Stars** |
-**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 1st
-**Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 2nd
-**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | Optional 3rd
+**Act V: Spider Web**: Using a weapon active boosts Valkyrie ranged Total DMG by 40% for 4.5s. Triggering it again resets the duration. | 1st
+**Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 2nd
+**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 3rd
+**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | 4th
+**Nexus Signet 2: Intermezzo: Holistic Helix** |
+**Puppetry: Interlacing Cells**: Extends Global Time Fracture caused by Special Weapon: No. 4's detonation by 3s. During Global Time Fracture, gain 30% Physical and Elemental Breach. | 1st
+**Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 2nd
 
 !!! note
-    Red is highest priority to +3. Yellow is good to +3. It is not necessary to finish Griseo 2nd Core.
+    Both Puppetry and Drama are high priority to +3, but priority lowers for Puppetry if you get Hua2 + A Flame Extinguished. Avoid getting past 70% Breach.
 
-####<p align="center">Hua - Signet of Vicissitude (4th Core)</p>
-
-Signet | Priority
-----| :----:
-**Old Dreams Again**: Elemental Breach increases by 0.6% per second | 1st
-**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks | 3rd
-**Dark Garb No More**: Elemental DMG increases by 0.8% per second | 2nd
-**Nexus Signet 2: Suffering Mass** |
-**Broken Dream**: When possessing Soldier's Remembrance., increase the maximum stack of normal Vicissitude signets by 20 | Optional
-
-!!! note
-    If you don't get any better options for doors, you can try and gamble for Broken Dream. TDM and Elem DMG are good to +3.
-
-####<p align="center">Mobius - Signet of Infinity (5th Core)</p>
+####<p align="center">Mobius - Signet of Infinity (4th Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -1660,7 +1656,27 @@ Signet | Priority
 **Unknown [X]**: Triggering Mind Sync again during Mind Sync reduces the CD of ELF Ultimates and Support Valkyries' support skills by 2s. With any summoned entity present, the CDs are reduced by 2s additionally. This effect can only be triggered once per 4s. | Optional
 
 !!! note
-    Dead [X] is a pretty nice powerspike for HC, so strongly recommended to try and get.
+    Dead [X] is a pretty nice powerspike for HC, so strongly recommended to try and get. Also high priority to +3.
+
+####<p align="center">Hua - Signet of Vicissitude (5th Core)</p>
+
+Signet | Priority
+----| :----:
+**Old Dreams Again**: Elemental Breach increases by 0.6% per second | 1st
+**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks | 3rd
+**Dark Garb No More**: Elemental DMG increases by 0.8% per second | 2nd
+**Nexus Signet 2: Suffering Mass** |
+**Broken Dream**: When possessing Soldier's Remembrance., increase the maximum stack of normal Vicissitude signets by 20 | Optional
+
+!!! note
+    You can finish Hua 2nd Core before Mobius if you want to ensure safety against Heimdall. If you don't get any better options for doors, you can try and gamble for Broken Dream. TDM and Elem DMG are good to +3.
+
+####<p align="center">Sakura - Signet of Setsuna (Felis Shop Signets)</p>
+
+Signet | Priority
+------ | :----:
+**Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s | 1st
+**Bountiful Blossom: Botan**: Triggering Ultimate Evasion Skill boosts Total DMG by 40% for 8s. | 2nd
 
 ***
 
