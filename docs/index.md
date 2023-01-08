@@ -78,7 +78,7 @@ A lot of factors can go into the strength of a Valkyrie as well. Please keep tha
 
 
 ## Update log
-- 2022-08-01: Updated HC build.
+- 2022-08-01: Updated HC build. Added CN's Infinity Build.
 - 2022-07-01: Updated some of the Valks' builds. Added JST Mobius build to Pardofelis and HoH. Updated MPE build.
 - 2022-02-01: Updated every Valkyrie's Load Buff. Updated ER Tierlist for 2nd Half. Added Sushang's Mobius Infinity Blade Works build. 
 - 2022-30-12: Updated RI and LK. Updated and corrected one of CN's recommended signets.
@@ -234,7 +234,7 @@ Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 SS0 | Finality | Abyss Flower & 3-set Dante | 9:51m (6.1 1st Half) | [https://youtu.be/Ja3yyEc2mQI](https://youtu.be/Ja3yyEc2mQI)
 
 !!! danger
-    Truthfully, you shouldn't even bother with this Valkyrie if you don't have BOTH of the shit she needs, which is basically AF and 3-set Dante. AF is a given, and evne more so in the current weather since it is what enables BK to abuse the 20% TDT on Timestop Load Buff. As for the 3-set Dante? There's just... no replacement for it. Other than maybe coping with 3-set Dirac. But, again, let's be honest... that's, uh, pretty awkward to cope with. BK really needs the impair right from the get go.
+    Truthfully, you shouldn't even bother with this Valkyrie if you don't have BOTH of the shit she needs, which is basically AF and 3-set Dante. AF is a given. As for the 3-set Dante? There's just... no replacement for it. Other than maybe coping with 3-set Dirac. But, again, let's be honest... that's, uh, pretty awkward to cope with. BK really needs the impair right from the get go.
 
 Buff | Load
 :----: | :----: 
@@ -473,6 +473,158 @@ Signet | Priority
 Signet | Priority
 ---- | :----:
 **Neighborhood Chatters**: Every 100 Shiny Silvers obtained this round boost max HP by 25 and max SP by 1. | 1st
+
+### <p align="center">-- [Special] Mobius - Infinity Ignition</p>
+
+!!! note
+    Updated 6.2. This build requires JST TM. It's essential in order to make it work. However, it's way stronger and more reliable than Leuweenhoek TB Thales M.
+
+!!! danger
+    Ai-Chan needs S Rank as a bare minimum to be usable in ER. SS will improve her a bit, however her strength is largely tied to being 4/4. What this means is that she has a horrible downscalability, and you can expect this to be made **really clear** once this current shilling weather is gone. If your Ai-Chan does not have even a Pri Chakram to use, and your Stigmas aren't her Idol Set, do not expect her to perform very well.
+
+>   Boss to be chosen: Andrius, then Elysia (to booli her) or Vill-V
+
+####<p align="center">Setup</p>
+
+Rank | Difficulty Done | Recommended Gear | Clear Time | Run
+:------: | :------: | :------: | :------: | :------:
+SSS | Finality | Rudder & JST TM Idol B | 7:21m (6.2 1st Half) | [https://youtu.be/uQ6pWfyZUO8](https://youtu.be/uQ6pWfyZUO8)
+
+!!! note 
+    In downscalability terms, JST TM's strength has proven to be stronger and way more reliable than the general fire stigma set LWH Thales. As such, if you have JST TM, it's strongly recommended to use it if you do not have the complete Idol Set. B piece can also be filled by Irene Adler B.
+
+Buff | Load
+:----: | :----: 
+When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes the duration. | 15
+After the deployed Valkyrie deals MELEE DMG, she will deal 20% more Physical and Elemental DMG for 10s. Triggering it again refreshes the duration. | 15
+
+!!! note 
+    Effective for 6.2 2nd Half.
+
+Time | Remembrance Sigil | FC Support Skill
+:----: | :----: | :----:
+Early | Forbidden Seed | The Lonely Moon
+Mid | Light as a Bodhi Leaf / Veil of Tears / Pseudo Miracle / Rainbow of Absence | Because of You (F5 Shop) / The Lonely Moon
+Late | Tin Flask or Key to the Deep | The Lonely Moon
+
+!!! note
+    The Lonely Moon is the best Support Skill you can bring with you and is needed in order to help you guarantee F4 Double, especially since you want to finish Mobius1 as soon as you can.
+
+Time | Support 1 | Support 2
+:----: | :----: | :----:
+Early | AE | BR
+Mid | AE | BR or BK
+Late | AE | BR
+
+!!! note
+    You'll never swap AE out. BR on the other hand can be swapped for BK if needed for Heimdall fight. 
+
+####<p align="center">Elysia - Signet of ■■</p>
+
+Signet | Priority
+------|:----:
+**Blessing of Succession**: α/β/γ chakram deals an extra 100% ATK of Fire DMG. When knocking back 1 γ chakram unit, 2 β chakram units will be launched alongside it. On hit, α/β chakram unit restores 2 SP. | **Start**
+**Blessing of Time Crystal**: When chakram hits, gain 1 stack of Info Plus, which increases chakram's Fire DMG by 5%. It lasts 8s and can stack 40 times. Triggering it again refreshes it's duration. | **1st**
+**Blessing of Constant**: On hit, α/β/γ Chakram generates 1 Splitting Chakram, which deals 150% ATK of Fire DMG and can ricochet 2 times (including ricocheting off the user). CD: 0.2s. | 2nd
+**Blessing of Final Dream**: When knocking back chakram with Basic ATK of weapon skill Counterattack Order, 1 Splitting Chakram will be launched alongside it, which deals 150% ATK of Fire DMG and can ricochet 3 times (including ricocheting off the user). | 3rd
+**Blessing of Bladepiece**: Deal 120% more ignite DMG, and 20% more Fire DMG to ignited enemies. Casting Ultimate refills KE. The fire ring contracts after spreading, pulling enemies while dealing 1600% ATK of Fire DMG to them. | No
+
+!!! note
+    Succession + Time Crystals are necessary to start with Ai-Chan. Without Time Crystals, she doesn't have damage to help her for the remainder of the run. The other 2 Ego Signets to get are Constant and Final Dream, but Ai-Chan is completely fine with just Constant and no Final Dream. The last one is completely unnecessary, it does not improve Ai-Chan's damage noticeably at all. Just ignore it.
+
+####<p align="center">Mobius - Signet of Infinity (1st Core)</p>
+
+!!! note
+    Ideal Order from F1-F7: Double Ego start (Succession + Time Crystals) into one of Mobius' 3 priority signets F3, finish Mobius 1st Core by F4 Double with the remaining 2 priority signets, go shop F5 and use 3* Remembrance Sigil Abuse to grab Su's TDM and 25 Hits followed by Aponia's Basic ATK and, if possible, Griseo's Red Paint. Finish Su 2nd Core by F6 and finish Aponia 2nd Core by F7 Double
+
+Signet | Priority
+------ | :----:
+**Entwined [P]:** :For every summoned entity, ELF, or Support Valkyrie present, enemies take 8% bonus Total DMG (5 stacks max) | 1st
+**Rodent [V]**: For every summoned entity, ELF, or Support Valkyrie present, Valkyrie deals 10% bonus Total DMG (5 stacks max). | 2nd
+**Lip Poison [E]:** Total DMG from summoned entities, ELFs, and Support Valkyries increases by 60%. ELFs | 3rd
+**Lodging [C]:** ELF Ultimates and Support Valkyries' support skills have 20% reduced CD | Optional 4th
+**Nexus Signet 1: Infinite [X]** |
+**Dead [X]**: For every second in Mind Sync, Valkyrie herself, summoned entities, ELFs, and Support Valkyries deal 10% bonus Total DMG. 5 stacks max. 9 stacks max with any summoned entity present. Reset on exiting Mind Sync | 1st
+**Newborn [X]**: Triggering Mind Sync again during Mind Sync no longer resets the duration but extends the duration by 4.0s instead. With any summoned entity present, the duration is extended by 5s additionally. | Optional 2nd
+
+!!! note
+    You can consider picking Newborn [X] if you want to make sure to keep Mind Sync alive. Dead [X] is high priority to +3.
+
+####<p align="center">Su - Signet of Bodhi (2nd Core)</p>
+
+Signet | Priority
+- | :----:
+**Motto of Pubbe-Nivasanussati**: Combo hits are reset at 150 to boost Total DMG by 55% for 10s. | 2nd
+**Motto of Asavakkhaya**: Attacks grant 25 bonus combo hits on hit. CD: 5s. | 2nd
+**Motto of Dibba-Cakkhu**: Combo hits are reset at 150 to boost Total DMG taken by all enemies by 35% for 10s. | 3rd
+**Motto of Iddhi-Vidha**: Combo hits are increased to 60 when below 60. CD: 10s. | 4th
+**Nexus Signet 2: Dictum of Bodhi** |
+**Dictum of Santam**: Bodhi: Eyes Open inflicts 3 random debuffs lasting 3s on hit. | Optional 1st
+**Dictum of Anatman**: The Bodhi: Eyes Open lasts for 3s longer. For every debuff on the target enemy, it takes 5% bonus Total DMG. | Optional 2nd
+
+!!! note
+    Su provides a good powerspike, noticeably against single-target damage (bosses mainly). The 2 Enhanceds is up to you; you can take them if you want, but be advised that they don't really have a noticeable impact as much as getting the other signets' Enhanceds.
+
+####<p align="center">Aponia - Signet of Discipline (3rd Core)</p>
+
+Signet | Priority
+- | :----:
+**First, No Betrayal**: Exhortation increases by 5 per second and caps at 200. Basic ATK's Total DMG increases by 0.3% of Exhortation. Triggering Ultimate Evasion Skill reduces 50% Exhortation. | 1st
+**Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 3rd
+**Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | 3rd
+**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | Optional 4th
+**Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
+**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | 1st
+**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 2nd
+**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 3rd
+
+!!! note
+    Basic ATK is high priority to +3. Do make sure to get Breach at least before Heimdall fight, it's very important. Also, please do note that you have to let Aponia's Adaptive DMG hit everytime before you keep halvening the load constantly with Weapon Active. You can afterwards grab SP Regen signet to better help with the Load halvening problems.
+
+####<p align="center">Vill-V - Signet of Helix (4th Core)</p>
+
+Signet | Priority
+- | :----:
+**Act I: Magic**: Using a weapon active boosts its Total DMG by 10%. 6 stacks max. Reset at the end of each battle. | 1st
+**Act VI: Spider Web**: Using a weapon active boosts Valkyrie ranged Total DMG by 40% for 4.5s. Triggering it again resets the duration. | 2nd
+**Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 2nd
+**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 2nd
+**Nexus Signet 2: Intermezzo: Holistic Helix** |
+**Puppetry: Interlacing Cells**: Extends Global Time Fracture caused by Specail Weapon: No. 4's detonation by 3s. During Global Time Fracture, gain 30% Physical and Elemental Breach. | 1st
+**Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 2nd
+
+!!! note
+    You might not be able to get Vill-V's 2 Enhanceds.
+    
+####<p align="center">Griseo - Signet of Stars (5th Core)</p>
+
+Signet | Priority
+- | :----:
+**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st
+**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | 2nd
+**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 3rd
+**Grey & Empty**: Enemies stay tainted for 5s longer. | 4th
+**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 5th
+**Nexus Signet 2: Faded Stars** |
+**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 1st
+**Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 2nd
+**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | Optional 3rd
+
+!!! note
+    Red is highest priority to +3. Yellow also good to consider for +3. If you end up finishing Griseo 2nd Core, you can consider getting the Enhanceds. Strongly recommended to use 3* Remembrance SIgil Abuse for this.
+
+####<p align="center">Eden - Signet of Gold (Felis Shop Signets, 6th Core)</p>
+
+Signet | Priority
+---- | :----:
+**Recitatif of Eden**: Every 10 SP left boosts Total DMG by 3.0% | 1st
+**Recitatif of Creeks**: Every 10 SP left boosts Physical & Elemental DMG by 2.5% | 2nd
+**Recitatif of Good Wine**: Restore 1.5 SP per second. | 3rd
+**Recitatif of Fine Jade**: Initial SP and max SP increase by 30 | Optional 4th
+**Nexus Signet 1: Aria of Gold** |
+
+!!! note
+    Mainly from Felis Shop Signets, also strongly recommended to use 3* Remembrance Sigil Abuse to get them.
 
 ***
 
