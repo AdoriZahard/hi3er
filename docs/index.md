@@ -2009,7 +2009,7 @@ When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
-Early | Mad King's Mask | The Lonely Moon
+Early | Rainbow of Absence | The Lonely Moon
 Mid | Pseudo Miracle / Rainbow of Absence / Memory / Forget-Me-Not | The Lonely Moon
 Late | Tin Flask or Key to the Deep | The Lonely Moon
 
