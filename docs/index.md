@@ -2271,7 +2271,7 @@ Signet | Priority
 
 **
 
-### <p align="center">-- [Special] Mobius and ELysia Become Besties</p>
+### <p align="center">-- [Special] Mobius and Elysia Become Besties</p>
 
 !!! note
     Updated to 6.2. You need JST TM to make this work~
