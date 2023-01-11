@@ -7517,12 +7517,12 @@ After the deployed Valkyrie deals MELEE DMG, she will deal 20% more Physical and
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
-Early | Mad King's Mask | An Old Pal's Legacy
-Mid |  Memory / Veil of Tears / Rainbow of Absence | The Lonely Moon
+Early | Veil of Tears | The Lonely Moon
+Mid |  Mad King's Mask / Memory / Rainbow of Absence | The Lonely Moon
 Late | Key to the Deep or Tin Flask | The Lonely Moon
 
 !!! note
-    An Old Pal's Legacy is variably the best start in order to start with +3 Kalpas signets straight away. This is especially true with Charged Build, as this variant is way stronger than Ultimate for Early game as the damage it offers is more consistent and solid. Of course, it still loses against Ultimate's hard scaling towards Mid and Late game, but Early game is a win for Charged.
+    Aponia2 is the best start this build can take.
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
