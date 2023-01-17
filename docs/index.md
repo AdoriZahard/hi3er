@@ -3907,8 +3907,8 @@ Signet | Priority
 **Blessing of Continuation**: In Continuation form, weapon active's attack time is increased to 5s, during which she recovers 10 Mech Propulsion per second. Casting Combo ATK refreshes weapon active CD. | **Start**
 **Blessing of Konstruktion**: In Continuation form, Combo ATK pulls nearby enemies. While casting weapon active, small missiles are fired continuously, each dealing 120% ATK of Ice DMG as weapon active damage. Enemies hit by them receive 10% more Total DMG for 15s. Triggering it again refreshes its duration. | **Start**
 **Blessing of Vector**: Weapon active and Ultimate deal 40% more Total DMG. In Continuation form, if weapon active, Combo ATK, or Ultimate hits an IMG-type Nihilus Seed whose current phase has below 40% HP, this phase is insta-killed. | 1st
-**Blessing of Genuine Solution**: After casting Ultimate, leave the Mecha as it flies into enemies and self-destructs, dealing 4000% ATK of Ice DMG over a large area as Ultimate damage. In Continuation form, Ultimate CD is reduced by 50%. | **Start**
-**Blessing of Intellect Core**: After casting Ultimate, leave the Mecha as it flies into enemies and creates 3 additional explosions, each dealing 2000% ATK of Ice DMG as Ultimate damage. Recover 30 SP after casting Ultimate. | **Start**
+**Blessing of Genuine Solution**: After casting Ultimate, leave the Mecha as it flies into enemies and self-destructs, dealing 4000% ATK of Ice DMG over a large area as Ultimate damage. In Continuation form, Ultimate CD is reduced by 50%. | No
+**Blessing of Intellect Core**: After casting Ultimate, leave the Mecha as it flies into enemies and creates 3 additional explosions, each dealing 2000% ATK of Ice DMG as Ultimate damage. Recover 30 SP after casting Ultimate. | No
 
 !!! note
     HTR only needs 3 Ego signets for the current weather. Laser Spam build utilizes Continuation and Konstruktion as her starter Ego signets, while Vector is strongly recommended due to the Weather being filled with IMG Enemies.
