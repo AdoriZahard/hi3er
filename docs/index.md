@@ -1,4 +1,4 @@
-# Elysian Realm
+# 6.3 Elysian Realm
 ***
 <p align="center">Please contact `Rafe#5610` or `FrediSK#5056` or `boba#8849` if there are any typos or not updated load buffs.</p>
 <p align="center">Contact `Adori - Columbina Supremacy#6481` or `Rafe#5610` until further notice (probably not Butter#2252) if there are any build questions/suggestions.</p>
@@ -76,7 +76,7 @@ A lot of factors can go into the strength of a Valkyrie as well. Please keep tha
 
 
 ## Update log
-- 2023-01-18: Added 6S Section with her available build. (On Progress) Half of the Load Buffs changed and updated.
+- 2023-01-18: Updated every Valkyrie's recommended Load Buffs. Added 6S Section with her available build.
 - 2023-01-17: Added HTR Section with both of her available Builds.
 - 2022-09-22: Github page redesigned and replaces [https://rentry.co/hi3er](https://rentry.co/hi3er)
 
@@ -120,7 +120,7 @@ When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Tot
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
 Early | Veil of Tears | The Lonely Moon OR Because of You
-Mid | Forbidden Seed / Memory / Rainbow of Absence | Because of You (F5 Shop) / Boundless Logos
+Mid | Gold Goblet / Forbidden Seed / Rainbow of Absence | Boundless Logos
 Late | The First Scale | Boundless Logos
 
 !!! note
@@ -140,9 +140,9 @@ Late | AE | HB
 Signet | Priority
 ------|:----:
 **Blessing of Frost Scythe**: Tap [ATK] after evasion to hurl Frost Guisarmier which spins for 5s, gathers enemies nearby, and deal 5400% ATK of Ice DMG. CD: 10s | **Start**
-**Blessing of Stellar Trials**: Inflicting Ice Cell also creates a Frost Ring centered around the target lasting 2s which deals 480% ATK of Ice DMG per 0.3s to enemies nearby | 1st
-**Blessing of Winter Harvest**: Enemies recovering from Ice Cell are inflicted with 1 stack of Hypothermia | 2nd
-**Blessing of Cold Moon**: Inflicting Ice Cell also creates a self-centered Frost Ring lasting 6s which deals 180% ATK of Ice DMG per 0.3s to enemies nearby | 3rd
+**Blessing of Stellar Trials**: Inflicting Ice Cell also creates a Frost Ring centered around the target lasting 2s which deals 480% ATK of Ice DMG per 0.3s to enemies nearby | **Start**
+**Blessing of Winter Harvest**: Enemies recovering from Ice Cell are inflicted with 1 stack of Hypothermia | 1st
+**Blessing of Cold Moon**: Inflicting Ice Cell also creates a self-centered Frost Ring lasting 6s which deals 180% ATK of Ice DMG per 0.3s to enemies nearby | 2nd
 **Blessing of Uranian Mirror**: Burst mode consumes 100% more SP and Valkyrie deals 90% bonus Total DMG in burst mode | No
 
 !!! note
@@ -163,7 +163,18 @@ Signet | Priority
 **You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 2nd
 **You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 3rd
 
-####<p align="center">Mobius - Signet of Infinity (2nd Core)</p>
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
+
+Signet | Priority
+- | :----:
+**Recitatif of Eden**: Every 10 SP left boosts Total DMG by 3.0%. | 1st
+**Recitatif of Creeks**: Every 10 SP left boosts Physical & Elemental DMG by 2.5%. | 2nd
+**Recitatif of Good Wine**: Restore 1.5 SP per second. | 3rd
+**Recitatif of Fine Jade**: Initial SP and max SP increase by 30. | Optional 4th
+**Nexus Signet 2: Echo of Gold** |
+**Echo of Withered Soil**: After lasting over 1s, Final Echo boosts SP cap by 50% and restores 1% SP per second until it ends. | 1st
+
+####<p align="center">Mobius - Signet of Infinity (3rd Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -176,19 +187,6 @@ Signet | Priority
 
 !!! note
     Lip Poison gives a good damage increase to AKA's Crescent Harvest (her Summoned Entity). Dead [X] is also strongly recommended to get as a sharp damage increase for AKA.
-
-####<p align="center">Hua - Signet of Vicissitude (3rd Core)</p>
-
-Signet | Priority
-----| :----:
-**Old Dreams Again**: Elemental Breach increases by 0.6% per second | 1st
-**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks | 2nd
-**Dark Garb No More**: Elemental DMG increases by 0.8% per second | 3rd
-**Nexus Signet 2: Suffering Mass** |
-**Broken Dream**: When possessing Soldier's Remembrance., increase the maximum stack of normal Vicissitude signets by 20 | Optional
-
-!!! note
-    If you don't get any better options for doors, you can try and gamble for Broken Dream
 
 ####<p align="center">Griseo - Signet of Stars (4th Core)</p>
 
@@ -241,7 +239,7 @@ When spending at least 100/125 SP at once, all enemies take 10%/20% more Total D
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
 Early | Veil of Tears | The Lonely Moon
-Mid | Forget-Me-Not / Gold Goblet / Rainbow of Absence | Because of You (F5 Shop)
+Mid | Forget-Me-Not / Gold Goblet / Rainbow of Absence | The Lonely Moon OR Dreamful Gold
 Late | Key to the Deep | The Lonely Moon OR Dreamful Gold
 
 !!! note
@@ -259,9 +257,9 @@ Late | SS | SA
 Signet | Priority
 ------|:----:
 **Blessing of Gambit**: Triggering Retaliation or Ultimate Evasion boosts Physical DMG by 25% for 8s. If triggered outside Burst mode, Valkyrie gains Iron Body for 8s; if triggered in Burst mode, Valkyrie additionally unleashes a counterattack cross strike before Phantom Cleave to deal 1200% ATK of Physical DMG | **Start** 
-**Blessing of Paragon**: Ultimate grants 5 stacks of Paragon, each of which boosts Total DMG by 4% for 15s | 1st
-**Blessing of Glory**: In Burst mode, Weapon Active has 70% shorter CD and can deal 2400% ATK of bonus Physical DMG at the cost of 12 SP. Weapon Active gains 4% Total DMG boost per second, and the boost resets when Burst mode is activated again | 2nd
-**Blessing of Formation**: Basic ATK SEQ 5 creates a 3-sec Grav Singularity that pulls in surrounding enemies and deals 2100% ATK of Physical DMG to them. Basic ATK SEQ 4 & 5 and the explosion of the Grav Singularity boost Valkyrie's Total DMG by 3% for 40s (15 stacks max) | Optional 3rd
+**Blessing of Paragon**: Ultimate grants 5 stacks of Paragon, each of which boosts Total DMG by 4% for 15s | **Start**
+**Blessing of Glory**: In Burst mode, Weapon Active has 70% shorter CD and can deal 2400% ATK of bonus Physical DMG at the cost of 12 SP. Weapon Active gains 4% Total DMG boost per second, and the boost resets when Burst mode is activated again | 1st
+**Blessing of Formation**: Basic ATK SEQ 5 creates a 3-sec Grav Singularity that pulls in surrounding enemies and deals 2100% ATK of Physical DMG to them. Basic ATK SEQ 4 & 5 and the explosion of the Grav Singularity boost Valkyrie's Total DMG by 3% for 40s (15 stacks max) | No
 **Blessing of Holy Lance**: During Basic ATK SEQ 4, tap [ATK] repeatedly to thrust the lance at enemies in an increasingly violent manner to deal a total of 6000% ATK of Physical DMG, and Valkyrie is immune to frontal and flank attacks. When Valkyrie's SEQ 4 attack reaches its peak, Basic ATK SEQ 5 will be enhanced to deal 3500% ATK of bonus Physical DMG to enemies in a large area | No
 
 !!! note
@@ -359,12 +357,12 @@ Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. |
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
-Early | Veil of Tears | The Lonely Moon OR Because of You (can also be at F5 Shop)
-Mid | Memory / Mad King's Mask / Forget-Me-Not | Because of You / The Lonely Moon
+Early | Veil of Tears | The Lonely Moon
+Mid | Light as a Bodhi Leaf / Rainbow of Absence / Pseudo Miracle | The Lonely Moon
 Late | Tin Flask or Key to the Deep | The Lonely Moon
 
 !!! note
-    Pick your choice here. The Lonely Moon is the best Support Skill you can bring with you. As an alternative, you can also bring Falling in Past Light or Because of You as start instead. However, in the case of going with Because of You start, it's strongly recommended to get 2 Vill-V signets at F5 Shop and unlock V-V 1st Core at F6.
+    Pick your choice here. The Lonely Moon is the best Support Skill you can bring with you.
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
@@ -380,9 +378,9 @@ Late | AE | BR
 Signet | Priority
 ------|:----:
 **Blessing of Succession**: α/β/γ chakram deals an extra 100% ATK of Fire DMG. When knocking back 1 γ chakram unit, 2 β chakram units will be launched alongside it. On hit, α/β chakram unit restores 2 SP. | **Start**
-**Blessing of Time Crystal**: When chakram hits, gain 1 stack of Info Plus, which increases chakram's Fire DMG by 5%. It lasts 8s and can stack 40 times. Triggering it again refreshes it's duration. | **1st**
-**Blessing of Constant**: On hit, α/β/γ Chakram generates 1 Splitting Chakram, which deals 150% ATK of Fire DMG and can ricochet 2 times (including ricocheting off the user). CD: 0.2s. | 2nd
-**Blessing of Final Dream**: When knocking back chakram with Basic ATK of weapon skill Counterattack Order, 1 Splitting Chakram will be launched alongside it, which deals 150% ATK of Fire DMG and can ricochet 3 times (including ricocheting off the user). | 3rd
+**Blessing of Time Crystal**: When chakram hits, gain 1 stack of Info Plus, which increases chakram's Fire DMG by 5%. It lasts 8s and can stack 40 times. Triggering it again refreshes it's duration. | **Start**
+**Blessing of Constant**: On hit, α/β/γ Chakram generates 1 Splitting Chakram, which deals 150% ATK of Fire DMG and can ricochet 2 times (including ricocheting off the user). CD: 0.2s. | 1st
+**Blessing of Final Dream**: When knocking back chakram with Basic ATK of weapon skill Counterattack Order, 1 Splitting Chakram will be launched alongside it, which deals 150% ATK of Fire DMG and can ricochet 3 times (including ricocheting off the user). | 2nd
 **Blessing of Bladepiece**: Deal 120% more ignite DMG, and 20% more Fire DMG to ignited enemies. Casting Ultimate refills KE. The fire ring contracts after spreading, pulling enemies while dealing 1600% ATK of Fire DMG to them. | No
 
 !!! note
@@ -391,7 +389,7 @@ Signet | Priority
 ####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
 
 !!! note
-    Ideal Order from F1-F7: Double Ego start (Succession + Time Crystals) into Aponia F3 (doesn't matter if you pick First, Fourth or Fifth), finish Aponia 2nd Core by F4 with First, Fourth and Fifth, go shop F5 and use 3* Remembrance Sigil Abuse to buy 2 or 3 Vill-V signets and 1 or 2 Kalpas signets. Proceed to finish Vill-V 1st Core by F6 and then either finish Kalpas 2nd Core by F7 Double or, if using Because of You start, take the Ego door for your remaining 2 Ego signets
+    Ideal Order from F1-F7: 3 Ego Start (Sucession + Time Crystals + Constant) into Aponia F3 (doesn't matter if you pick First, Fourth or Fifth), finish Aponia 2nd Core by F4 with First, Fourth and Fifth, go shop F5 and use 3* Remembrance Sigil Abuse to buy 2 or 3 Vill-V signets and 1 or 2 Kalpas signets. Proceed to finish Vill-V 1st Core by F6 and then either finish Kalpas 2nd Core by F7 Double or, if using Because of You start, take the Ego door for your remaining 2 Ego signets
 
 Signet | Priority
 - | :----:
@@ -406,33 +404,22 @@ Signet | Priority
 !!! note
     Basic ATK is high priority to +3. Do make sure to get Breach at least before Heimdall fight, it's very important. Also, please do note that you have to let Aponia's Adaptive DMG hit everytime before you keep halvening the load constantly with Weapon Active. You can afterwards grab SP Regen signet to better help with the Load halvening problems.
 
-####<p align="center">Vill-V - Signet of Helix (2nd Core)</p>
+####<p align="center">Su - Signet of Bodhi (2nd Core)</p>
 
 Signet | Priority
 - | :----:
-**Act V: Spider Web**: Using a weapon active boosts Valkyrie ranged Total DMG by 40% for 4.5s. Triggering it again resets the duration. | 1st
-**Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 2nd
-**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 3rd
-**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | Optional 4th
-**Nexus Signet 1: Interlude: Reversed Spiral** |
+**Motto of Pubbe-Nivasanussati**: Combo hits are reset at 150 to boost Total DMG by 55% for 10s. | 2nd
+**Motto of Asavakkhaya**: Attacks grant 25 bonus combo hits on hit. CD: 5s. | 2nd
+**Motto of Dibba-Cakkhu**: Combo hits are reset at 150 to boost Total DMG taken by all enemies by 35% for 10s. | 3rd
+**Motto of Iddhi-Vidha**: Combo hits are increased to 60 when below 60. CD: 10s. | 4th
+**Nexus Signet 2: Dictum of Bodhi** |
+**Dictum of Santam**: Bodhi: Eyes Open inflicts 3 random debuffs lasting 3s on hit. | Optional 1st
+**Dictum of Anatman**: The Bodhi: Eyes Open lasts for 3s longer. For every debuff on the target enemy, it takes 5% bonus Total DMG. | Optional 2nd
 
 !!! note
-    You finish Vill-V 1st Core and you don't invest any more in it. Move forward onto the rest of the core signets instead.
+    Su provides a good powerspike, noticeably against single-target damage (bosses mainly). The 2 Enhanceds is up to you; you can take them if you want, but be advised that they don't really have a noticeable impact as much as getting the other signets' Enhanceds.
 
-####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
-
-Signet | Priority
-- | :----:
-**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
-**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
-**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
-**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
-**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
-
-!!! note
-    If you have no better choices for doors, you can try to take Broken Dream.
-
-####<p align="center">Griseo - Signet of Stars (4th Core)</p>
+####<p align="center">Griseo - Signet of Stars (3rd Core)</p>
 
 Signet | Priority
 - | :----:
@@ -444,29 +431,35 @@ Signet | Priority
 **Nexus Signet 2: Faded Stars** |
 **Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 1st
 **Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 2nd
-**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | Optional
+**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | 3rd
 
 !!! note
     Red is highest priority to +3. Yellow is good to +3. Strongly recommended to use 3* Remembrance Sigil Abuse for Red.
 
-####<p align="center">Hua - Signet of Vicissitude (5th Core)</p>
+####<p align="center">Vill-V - Signet of Helix (4th Core)</p>
 
 Signet | Priority
-----| :----:
-**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks | 1st
-**Dark Garb No More**: Elemental DMG increases by 0.8% per second | 2nd
-**Old Dreams Again**: Elemental Breach increases by 0.6% per second | 3rd
-**Nexus Signet 2: Suffering Mass** |
-**Broken Dream**: When possessing Soldier's Remembrance., increase the maximum stack of normal Vicissitude signets by 20 | Optional
+- | :----:
+**Act V: Spider Web**: Using a weapon active boosts Valkyrie ranged Total DMG by 40% for 4.5s. Triggering it again resets the duration. | 1st
+**Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 2nd
+**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 3rd
+**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | Optional 4th
+**Nexus Signet 2: Intermezzo: Holistic Helix** |
+**Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 1st
+**Puppetry: Interlacing Cells**: Extends Global Time Fracture caused by Specail Weapon: No. 4's detonation by 3s. During Global Time Fracture, gain 30% Physical and Elemental Breach. | 2nd
 
 !!! note
-    You can build Hua2 before Griseo2 if you want to, but that will depend on whether you get 2 Hua signets from shop and can unlock her at next door or not.
+    Drama is high priority to +3.
 
-####<p align="center">Pardofelis - Signet of Reverie (Felis Shop Signets)</p>
+####<p align="center">Kalpas - Signet of Decimation (5th Core)</p>
 
 Signet | Priority
----- | :----:
-**Neighborhood Chatters**: Every 100 Shiny Silvers obtained this round boost max HP by 25 and max SP by 1. | 1st
+- | :----:
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
+**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
+**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
 
 ### <p align="center">-- [Special] Mobius - Infinity Ignition</p>
 
@@ -498,7 +491,7 @@ Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. |
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
 Early | Forbidden Seed | The Lonely Moon
-Mid | Light as a Bodhi Leaf / Veil of Tears / Pseudo Miracle / Rainbow of Absence | Because of You (F5 Shop) / The Lonely Moon
+Mid | Veil of Tears / Light as a Bodhi Leaf / Rainbow of Absence / Pseudo Miracle | The Lonely Moon
 Late | Tin Flask or Key to the Deep | The Lonely Moon
 
 !!! note
@@ -518,9 +511,9 @@ Late | AE | BR
 Signet | Priority
 ------|:----:
 **Blessing of Succession**: α/β/γ chakram deals an extra 100% ATK of Fire DMG. When knocking back 1 γ chakram unit, 2 β chakram units will be launched alongside it. On hit, α/β chakram unit restores 2 SP. | **Start**
-**Blessing of Time Crystal**: When chakram hits, gain 1 stack of Info Plus, which increases chakram's Fire DMG by 5%. It lasts 8s and can stack 40 times. Triggering it again refreshes it's duration. | **1st**
-**Blessing of Constant**: On hit, α/β/γ Chakram generates 1 Splitting Chakram, which deals 150% ATK of Fire DMG and can ricochet 2 times (including ricocheting off the user). CD: 0.2s. | 2nd
-**Blessing of Final Dream**: When knocking back chakram with Basic ATK of weapon skill Counterattack Order, 1 Splitting Chakram will be launched alongside it, which deals 150% ATK of Fire DMG and can ricochet 3 times (including ricocheting off the user). | 3rd
+**Blessing of Time Crystal**: When chakram hits, gain 1 stack of Info Plus, which increases chakram's Fire DMG by 5%. It lasts 8s and can stack 40 times. Triggering it again refreshes it's duration. | **Start**
+**Blessing of Constant**: On hit, α/β/γ Chakram generates 1 Splitting Chakram, which deals 150% ATK of Fire DMG and can ricochet 2 times (including ricocheting off the user). CD: 0.2s. | 1st
+**Blessing of Final Dream**: When knocking back chakram with Basic ATK of weapon skill Counterattack Order, 1 Splitting Chakram will be launched alongside it, which deals 150% ATK of Fire DMG and can ricochet 3 times (including ricocheting off the user). | 2nd
 **Blessing of Bladepiece**: Deal 120% more ignite DMG, and 20% more Fire DMG to ignited enemies. Casting Ultimate refills KE. The fire ring contracts after spreading, pulling enemies while dealing 1600% ATK of Fire DMG to them. | No
 
 !!! note
@@ -575,22 +568,7 @@ Signet | Priority
 !!! note
     Basic ATK is high priority to +3. Do make sure to get Breach at least before Heimdall fight, it's very important. Also, please do note that you have to let Aponia's Adaptive DMG hit everytime before you keep halvening the load constantly with Weapon Active. You can afterwards grab SP Regen signet to better help with the Load halvening problems.
 
-####<p align="center">Vill-V - Signet of Helix (4th Core)</p>
-
-Signet | Priority
-- | :----:
-**Act I: Magic**: Using a weapon active boosts its Total DMG by 10%. 6 stacks max. Reset at the end of each battle. | 1st
-**Act VI: Spider Web**: Using a weapon active boosts Valkyrie ranged Total DMG by 40% for 4.5s. Triggering it again resets the duration. | 2nd
-**Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 2nd
-**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 2nd
-**Nexus Signet 2: Intermezzo: Holistic Helix** |
-**Puppetry: Interlacing Cells**: Extends Global Time Fracture caused by Specail Weapon: No. 4's detonation by 3s. During Global Time Fracture, gain 30% Physical and Elemental Breach. | 1st
-**Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 2nd
-
-!!! note
-    You might not be able to get Vill-V's 2 Enhanceds.
-    
-####<p align="center">Griseo - Signet of Stars (5th Core)</p>
+####<p align="center">Griseo - Signet of Stars (4th Core)</p>
 
 Signet | Priority
 - | :----:
@@ -607,18 +585,20 @@ Signet | Priority
 !!! note
     Red is highest priority to +3. Yellow also good to consider for +3. If you end up finishing Griseo 2nd Core, you can consider getting the Enhanceds. Strongly recommended to use 3* Remembrance SIgil Abuse for this.
 
-####<p align="center">Eden - Signet of Gold (Felis Shop Signets, 6th Core)</p>
+####<p align="center">Vill-V - Signet of Helix (5th Core)</p>
 
 Signet | Priority
----- | :----:
-**Recitatif of Eden**: Every 10 SP left boosts Total DMG by 3.0% | 1st
-**Recitatif of Creeks**: Every 10 SP left boosts Physical & Elemental DMG by 2.5% | 2nd
-**Recitatif of Good Wine**: Restore 1.5 SP per second. | 3rd
-**Recitatif of Fine Jade**: Initial SP and max SP increase by 30 | Optional 4th
-**Nexus Signet 1: Aria of Gold** |
+- | :----:
+**Act I: Magic**: Using a weapon active boosts its Total DMG by 10%. 6 stacks max. Reset at the end of each battle. | 1st
+**Act VI: Spider Web**: Using a weapon active boosts Valkyrie ranged Total DMG by 40% for 4.5s. Triggering it again resets the duration. | 2nd
+**Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 2nd
+**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 2nd
+**Nexus Signet 2: Intermezzo: Holistic Helix** |
+**Puppetry: Interlacing Cells**: Extends Global Time Fracture caused by Specail Weapon: No. 4's detonation by 3s. During Global Time Fracture, gain 30% Physical and Elemental Breach. | 1st
+**Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 2nd
 
 !!! note
-    Mainly from Felis Shop Signets, also strongly recommended to use 3* Remembrance Sigil Abuse to get them.
+    You might not be able to get Vill-V's 2 Enhanceds.
 
 ***
 
@@ -675,9 +655,9 @@ Late | AE | MA
 Signet | Priority
 ------|:----:
 **Blessing of Stars**: Ultimate deals 50% bonus Total DMG | **Start**
-**Blessing of Gale**: In Astral Hamess, all attacks ignite enemies hit and ignited enemies take 25% bonus Total DMG for 10s | 1st
-**Blessing of Sheen**: Voidstar Anchor EX and Astral Flares EX do not suspend Astrum cosumption, but Seirios Ballista doesnt end Astral Harness and clear Astrum. Seirios Ballista costs 65 SP at most | 2nd
-**Blessing of Halo**: Voidstar Anchor, Voidstar Anchor EX, Astral Flares, and Astral Flares EX deal 2000% ATK of Fire DMG to enemies within 8 meters of the target hit, gather them, and restore 50 Astrum. CD: 10s | 3rd
+**Blessing of Gale**: In Astral Hamess, all attacks ignite enemies hit and ignited enemies take 25% bonus Total DMG for 10s | **Start**
+**Blessing of Sheen**: Voidstar Anchor EX and Astral Flares EX do not suspend Astrum cosumption, but Seirios Ballista doesnt end Astral Harness and clear Astrum. Seirios Ballista costs 65 SP at most | 1st
+**Blessing of Halo**: Voidstar Anchor, Voidstar Anchor EX, Astral Flares, and Astral Flares EX deal 2000% ATK of Fire DMG to enemies within 8 meters of the target hit, gather them, and restore 50 Astrum. CD: 10s | 2nd
 **Blessing of Brilliance**: Voidstar Anchor and Astral Flares EX cost no SP and restore 3 SP. Every 30 SP restored deals 800% ATK of Fire DMG to enemies within 10 meters. CD: 6s | No
 
 !!! note
@@ -813,7 +793,7 @@ Signet | Priority
 **Blessing of Admonition**: Aponia gains 40% Total DMG Reduction. In Predictor's Sentence form, Lightning DMG increases 30% every 0.5s for a maximum of 180%. Inhibitor's Adjudication deals an additional 400% Lightning DMG | **Start**
 **Blessing of Shelter**: In Predictor's Sentence form, Redemption cost per second reduced by 55%; Total DMG dealt by Thunderstorm and Inhibitor's Adjudication increases 70% and count as Ultimates | **Start**
 **Blessing of Inclusiveness**: Restores 12 SP and reduces Ultimate CD by 6s when illusion uses QTE. Increases Ultimate's Total DMG by 60%. Ultimate restores up to 100% Redemption when used | 1st
-**Blessing of Rescue**: Illusory Summoned Entity will deal Paralyse Trauma alongside DMG. DMG dealt by your Ultimate Evasion Skill increases 120%. Lightning DMG dealt by you or your illusion increases 70% | Optional
+**Blessing of Rescue**: Illusory Summoned Entity will deal Paralyse Trauma alongside DMG. DMG dealt by your Ultimate Evasion Skill increases 120%. Lightning DMG dealt by you or your illusion increases 70% | Optional 2nd
 **Blessing of Atonement**: Aponia illusory Summoned Entity wherever she does, dealing 385% Lightning DMG every second to surrounding enemies. The illusion's Total DMG increases 100% and restores 12 SP after leaving Predictor's Sentence form | No
 
 !!! note
@@ -944,18 +924,18 @@ Late | AE or BR | LE or BR
 Signet | Priority
 ------|:----:
 **Blessing of Valfreyja**: In Valfreyja form, Lightning DMG is increased by 40%. After casting Helvegr, Trickster's attack will pull enemies again; After 3s, it will release a blast that deals 2200% ATK of Lightning DMG to nearby enemies, and reconjure Ulf/Ormr/Strix Rune. | **Start**
-**Blessing of Nocturne**: Using God Eater increases Charged ATK's Total DMG by 70%, reduces Ultimate's CD by 5s, and increases Ultimate's Total DMG by for 10s. Triggering it again resets its duration. | 1st
-**Blessing of Spirit Servants**: When Garmr/Strix/Linnorm hits, increases Lightning DMG by 8% for 15s. It stacks 8 times. Triggering it again resets the duration. | Optional 2nd
-**Blessing of Soul Siphon**: In Valfreyja form, Basic ATK siphons extra Disir. It has 2 charges, which reset upon casting God Eater. Ormr Rune deals extra 100% ATK of Lightning DMG. Ulf Rune increases Lightning DMG by 50%. | No
+**Blessing of Nocturne**: Using God Eater increases Charged ATK's Total DMG by 70%, reduces Ultimate's CD by 5s, and increases Ultimate's Total DMG by for 10s. Triggering it again resets its duration. | **Start**
+**Blessing of Soul Siphon**: In Valfreyja form, Basic ATK siphons extra Disir. It has 2 charges, which reset upon casting God Eater. Ormr Rune deals extra 100% ATK of Lightning DMG. Ulf Rune increases Lightning DMG by 50%. | 1st
+**Blessing of Spirit Servants**: When Garmr/Strix/Linnorm hits, increases Lightning DMG by 8% for 15s. It stacks 8 times. Triggering it again resets the duration. | No
 **Blessing of God Eater**: When God Eater hits, a lightning bolt strikes, dealing 5x100% ATK of Lightning DMG to enemies nearby, and fully recharges Strix. | No
 
 !!! note
-    Only 2 Ego signets are needed for this build: Valfreyja and Nocturne. It is a must to reset for Double Ego start to get those 2 right away and get the build going.
+    Only 2 Ego signets are needed for this build: Valfreyja and Nocturne. For this weather, you can go extra and get Soul Siphon at F3 Start to make FR even stronger.
 
 ####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
 
 !!! note
-    Ideal course of build up: 2 Ego start (Valfreyja + Nocturne) into Aponia's Basic ATK F3, finish Aponia 2nd Core by F4, go shop F5 and abuse 3* Remembrance Sigils to gamble for either Kevin's TDM/Elem Breach or Griseo's Red and Yellow. Can also take Aponia's Ultimate from here. Grab Aponia's Breach at F6 and grab the remaining 2 Aponia Enhanceds (or 1 + Ultimate) from F7 Doubles
+    Ideal course of build up: 3 Ego Start (Valfreyja + Nocturne + Soul Siphon) into Aponia's Basic ATK F3, finish Aponia 2nd Core by F4, go shop F5 and abuse 3* Remembrance Sigils to gamble for either Kevin's TDM/Elem Breach or Griseo's Red and Yellow. Can also take Aponia's Ultimate from here. Grab Aponia's Breach at F6 and grab the remaining 2 Aponia Enhanceds (or 1 + Ultimate) from F7 Doubles
 
 Signet | Priority
 - | :----:
@@ -1030,7 +1010,6 @@ Signet | Priority
 !!! note
     Aponia is just easier. Kosma is not recommended due to FR lacking enough hitcount potential which would take her too long during the hitcount phases.
 
-
 ####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
@@ -1051,7 +1030,7 @@ When spending at least 100/125 SP at once, all enemies take 10%/20% more Total D
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
 Early | Veil of Tears | Because of You OR The Lonely Moon
-Mid | Memory / Mad King's Mask / Rainbow of Absence | The Lonely Moon
+Mid | Memory / Mad King's Mask / Rainbow of Absence | The Lonely Moon / Because of You (F5 Shop)
 Late | Tin Flask or Key to the Deep | The Lonely Moon
 
 !!! note
@@ -1069,13 +1048,13 @@ Late | AE | BR
 Signet | Priority
 ------|:----:
 **Blessing of Soul Siphon**: In Valfreyja form, Basic ATK siphons extra Disir. It has 2 charges, which reset upon casting God Eater. Ormr Rune deals extra 100% ATK of Lightning DMG. Ulf Rune increases Lightning DMG by 50%. | **Start**
-**Blessing of Valfreyja**: In Valfreyja form, Lightning DMG is increased by 40%. After casting Helvegr, Trickster's attack will pull enemies again; After 3s, it will release a blast that deals 2200% ATK of Lightning DMG to nearby enemies, and reconjure Ulf/Ormr/Strix Rune. | 1st
-**Blessing of Nocturne**: Using God Eater increases Charged ATK's Total DMG by 70%, reduces Ultimate's CD by 5s, and increases Ultimate's Total DMG by for 10s. Triggering it again resets its duration. | 2nd
-**Blessing of God Eater**: When God Eater hits, a lightning bolt strikes, dealing 5x100% ATK of Lightning DMG to enemies nearby, and fully recharges Strix. | 3rd
+**Blessing of Valfreyja**: In Valfreyja form, Lightning DMG is increased by 40%. After casting Helvegr, Trickster's attack will pull enemies again; After 3s, it will release a blast that deals 2200% ATK of Lightning DMG to nearby enemies, and reconjure Ulf/Ormr/Strix Rune. | **Start**
+**Blessing of Nocturne**: Using God Eater increases Charged ATK's Total DMG by 70%, reduces Ultimate's CD by 5s, and increases Ultimate's Total DMG by for 10s. Triggering it again resets its duration. | 1st
+**Blessing of God Eater**: When God Eater hits, a lightning bolt strikes, dealing 5x100% ATK of Lightning DMG to enemies nearby, and fully recharges Strix. | 2nd
 **Blessing of Spirit Servants**: When Garmr/Strix/Linnorm hits, increases Lightning DMG by 8% for 15s. It stacks 8 times. Triggering it again resets the duration. | No
 
 !!! note
-    This build mainly relies on 2 Ego signets that are necessary to start with: Soul Siphon into Valfreyja. Soul Siphon is the signet that will allow FR to chain unlimited Charged ATKs. Valfreyja will be your other main source of big damage. Then, the other 2 Ego signets that become a huge powerspike for FR are Nocturne and God Eater, gotten through Because of You.
+    This build mainly relies on 2 Ego signets that are necessary to start with: Soul Siphon into Valfreyja. Soul Siphon is the signet that will allow FR to chain unlimited Charged ATKs. Valfreyja will be your other main source of big damage. Then, the other 2 Ego signets that become a huge powerspike for FR are Nocturne and God Eater.
 
 ####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
 
@@ -1192,10 +1171,10 @@ Late | SA | BR
 Signet | Priority
 ------|:----:
 **Blessing of Silence**: Ultimate's CD is reduced by 30% and Ultimate's Total DMG is increased by 300%. Weapon Active CD is reduced by 2s each time Ultimate deals DMG. Strike Back EX is usable during the entirety of Fortress Mode. | **Start**
-**Blessing of Mixing**: Charged ATK and Ultimate pull enemies in a large area and increase their Total DMG taken by 30% for 8s. Triggering it again refreshes the duration. | 1st
-**Blessing of Thorns**: Basic ATK and Charged ATK deal 20% more Physical DMG and restore 1 SP on every hit. At 150 SP or higher, casting Ultimate costs an extra 50 SP, and during this Ultimate enemies take 20% more Total DMG. | 2nd
-**Blessing of Fervor**: In Fervent Mode, nearby enemies take 20% more Physical DMG and Fervent Juice is consumed 50% faster (cannot stack). | 3rd
-**Blessing of Solitude**: In Fervent Mode, Basic ATK deals an extra 20% Physical DMG. Ultimate last SEQ deals an extra 200% Physical DMG. | Optional 4th
+**Blessing of Mixing**: Charged ATK and Ultimate pull enemies in a large area and increase their Total DMG taken by 30% for 8s. Triggering it again refreshes the duration. | **Start**
+**Blessing of Thorns**: Basic ATK and Charged ATK deal 20% more Physical DMG and restore 1 SP on every hit. At 150 SP or higher, casting Ultimate costs an extra 50 SP, and during this Ultimate enemies take 20% more Total DMG. | 1st
+**Blessing of Fervor**: In Fervent Mode, nearby enemies take 20% more Physical DMG and Fervent Juice is consumed 50% faster (cannot stack). | 2nd
+**Blessing of Solitude**: In Fervent Mode, Basic ATK deals an extra 20% Physical DMG. Ultimate last SEQ deals an extra 200% Physical DMG. | No
 
 !!! note
     The 2 must-have for start are Silence and Mixing. Silence is essential since FT doesn't have any damage early on without her Ultimate, it is her main DPS source, her Basic ATK only start hurting in late. Also due to Sleepri active. Mixing provides the much-needed gather that FT wants, especially with the knockback that her attacks have. The other 2 Ego signets needed are Fervor and Thorns. 5th Ego isn't necessary.
@@ -1203,7 +1182,7 @@ Signet | Priority
 ####<p align="center">Aponia - Signet of Discipline (1st Core)</p>
 
 !!! note
-    Ideal Order from F1-F7: Double Ego start (Silence + Mixing) into Aponia's SP Regen or Ultimate F3, unlock Aponia 2nd Core by F4 Double, go shop F5 and put Because of You, buy Griseo's Red and Yellow paint or Red and Eden's Sp/s, grab Aponia's Breach from F6 and get the remaining 2 Aponia Enhanceds from F7.
+    Ideal Order from F1-F7: 3 Ego Start (Silence + Mixing + Thorns) into Aponia's SP Regen or Ultimate F3, unlock Aponia 2nd Core by F4 Double, go shop F5 and put Because of You, buy Griseo's Red and Yellow paint or Red and Eden's Sp/s, grab Aponia's Breach from F6 and get the remaining 2 Aponia Enhanceds from F7.
 
 Signet | Priority
 - | :----:
