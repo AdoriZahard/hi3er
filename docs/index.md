@@ -5673,7 +5673,10 @@ Quick search: RC, Neko, Cat, Pardo, Phyllis, Pardofelis
 !!! note
     Updated to 6.3. More tailored towards late-game. Strength comes in close to Pardo2 variation.
 
->   Boss to be chosen: Husk, then Kalpas or Vill-V
+>   Boss to be chosen: Husk Mysticism or RPC, then Kalpas or Vill-V
+
+!!! note
+    Mysticism easier if you get Gris2 along the way, RPC is pretty much easy for Ice valk. Pick whichever you want to booli the most~
 
 ####<p align="center">Setup</p>
 
@@ -5687,17 +5690,16 @@ SSS | Finality | Purana & Ana Schariac | 8:08m (6.0 1st Half) | [https://youtu.b
 
 Buff | Load
 :----: | :----: 
-Max SP +30. | 5
-Dealing Crit DMG boosts Valkyrie Physical and Elemental DMG by 15% for 4s. Triggering it again resets the duration. | 10
-After the deployed Valkyrie deals MELEE DMG, she will deal 20% more Physical and Elemental DMG for 10s. Triggering it again refreshes the duration. | 15
+When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
+Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
 
 !!! note
-    Effective for 6.2 2nd Half. The CDMG Load Buff becomes useable once you finish Vill-V 1st Core.
+    Effective for 6.3.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
-Early | Veil of Tears | Boundless Feeling OR The Lonely Moon / Falling in Past Light
-Mid | Pseudo Miracle /  Gold Goblet / Feast of Emptiness / Rainbow of Absence | Falling in Past Light
+Early | Veil of Tears | Boundless Feeling OR The Lonely Moon
+Mid | Pseudo Miracle /  Gold Goblet / Feast of Emptiness / Rainbow of Absence | Dreamful Gold
 Late | Key to the Deep | Dreamful Gold
 
 !!! note
@@ -5758,17 +5760,16 @@ Signet | Priority
 !!! note
     You MUST get these three signets from Griseo using Felis Shop at any costs. Always try to get them, especially while having The Lonely Moon equipped to make sure you'll get them at +3.
 
-####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
-Signet | Priority
-- | :----:
-**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
-**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
-**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
-**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | Optional 4th
-**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** | 
+####<p align="center">Eden - Signet of Gold (2nd Core)</p>
 
-!!! note
-    It's strongly recommended to use 3* Remembrance Sigil Abuse to get Kalpas' first 3 priority signets at +2. Afterwards, you can upgrade both DMG boosts to +3.
+Signet | Priority
+---- | :----:
+**Recitatif of Eden**: Every 10 SP left boosts Total DMG by 3.0% | 1st
+**Recitatif of Creeks**: Every 10 SP left boosts Physical & Elemental DMG by 2.5% | 2nd
+**Recitatif of Good Wine**: Restore 1.5 SP per second. | 3rd
+**Recitatif of Fine Jade**: Initial SP and max SP increase by 30 | Optional 4th
+**Nexus Signet 2: Echo of Gold**|
+**Echo of Withered Soil**: After lasting over 1s, Final Echo boosts SP cap by 50% and restores 1% SP per second until it ends. | Optional 1st
 
 ####<p align="center">Pardofelis - Signet of Reverie (4th Core)</p>
 
@@ -5791,28 +5792,31 @@ Signet | Priority
 **Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 1st
 **Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 2nd
 **Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | 3rd
-**Nexus Signet 1: Interlude: Reversed Spiral** |
+**Nexus Signet 2: Intermezzo: Holistic Helix** |
+**Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 1st
+**Puppetry: Interlacing Cells**: Extends Global Time Fracture caused by Special Weapon: No. 4's detonation by 3s. During Global Time Fracture, gain 30% Physical and Elemental Breach. | 2nd
 
 !!! note
     The moment you finish Vill-V 1st Core you'll be able to utilize the Load Buff giving you +15% Phys/Elem DMG for 4s everytime the Blades are cast. You can micromanage this to make sure every one of your damages (in particular, your Ultimate) will be boosted by this.
 
-####<p align="center">Eden - Signet of Gold (6th Core)</p>
-
+####<p align="center">Kalpas - Signet of Decimation (6th Core)</p>
 Signet | Priority
----- | :----:
-**Recitatif of Eden**: Every 10 SP left boosts Total DMG by 3.0% | 1st
-**Recitatif of Creeks**: Every 10 SP left boosts Physical & Elemental DMG by 2.5% | 2nd
-**Recitatif of Good Wine**: Restore 1.5 SP per second. | 3rd
-**Recitatif of Fine Jade**: Initial SP and max SP increase by 30 | Optional 4th
-**Nexus Signet 2: Echo of Gold**|
-**Echo of Withered Soil**: After lasting over 1s, Final Echo boosts SP cap by 50% and restores 1% SP per second until it ends. | Optional 1st
+- | :----:
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
+**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | Optional 4th
+**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** | 
+
+!!! note
+    It's strongly recommended to use 3* Remembrance Sigil Abuse to get Kalpas' first 3 priority signets at +2. Afterwards, you can upgrade both DMG boosts to +3.
 
 ### <p align="center">-- (Pardo2) Weakest Flamechaser my ass!</p>
 
 !!! danger
-    Updated to 6.1. Pardo2 variation basically just focuses on giving you a stronger headstart towards getting more signets and also getting more upgrades in comparison to Pardo1 variation. That's pretty much about it.
+    Updated to 6.3. Pardo2 variation basically just focuses on giving you a stronger headstart towards getting more signets and also getting more upgrades in comparison to Pardo1 variation. That's pretty much about it.
 
->   Boss to be chosen: Husk, then Kalpas
+>   Boss to be chosen: Husk Mysticism or RPC, then Elysia, Kalpas or Vill-V
 
 ####<p align="center">Setup</p>
 
@@ -5826,12 +5830,11 @@ SSS | Finality | Purana & Ana Schariac | 7:41m (6.0 1st Half) | [https://youtu.b
 
 Buff | Load
 :----: | :----: 
-Max SP +30. | 5
-Dealing Crit DMG boosts Valkyrie Physical and Elemental DMG by 15% for 4s. Triggering it again resets the duration. | 10
-After the deployed Valkyrie deals MELEE DMG, she will deal 20% more Physical and Elemental DMG for 10s. Triggering it again refreshes the duration. | 15
+When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
+Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
 
 !!! note
-    Effective for 6.2 2nd Half.
+    Effective for 6.3.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -5908,7 +5911,9 @@ Signet | Priority
 **Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 1st
 **Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 2nd
 **Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | 3rd
-**Nexus Signet 1: Interlude: Reversed Spiral** |
+**Nexus Signet 2: Intermezzo: Holistic Helix** |
+**Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 1st
+**Puppetry: Interlacing Cells**: Extends Global Time Fracture caused by Special Weapon: No. 4's detonation by 3s. During Global Time Fracture, gain 30% Physical and Elemental Breach. | 2nd
 
 !!! note
     Drama is priority to +3. 
@@ -5950,9 +5955,9 @@ Signet | Priority
 ### <p align="center">-- [Special] Mobius - Infinity's Cat</p>
 
 !!! note
-    Updated to 6.2. From the same idea from where Infinity Blade Works Sushang came from, here comes another one fresh out of the oven, but this time, the protagonist is none other than everyone's favorite Catgirl Flamechaser, our dear and beloved Pardofelis!
+    Updated to 6.3. From the same idea from where Infinity Blade Works Sushang came from, here comes another one fresh out of the oven, but this time, the protagonist is none other than everyone's favorite Catgirl Flamechaser, our dear and beloved Pardofelis!
 
->   Boss to be chosen: Husk, then Kalpas or Vill-V
+>   Boss to be chosen: Husk Mysticism or RPC, then Kalpas or Vill-V
 
 ####<p align="center">Setup</p>
 
@@ -5965,12 +5970,11 @@ SSS | Finality | Purana & Jin Shengtan TM Irene Adler B | 7:13m (6.2 2nd Half) |
 
 Buff | Load
 :----: | :----: 
-Max SP +30. | 5
-Dealing Crit DMG boosts Valkyrie Physical and Elemental DMG by 15% for 4s. Triggering it again resets the duration. | 10
-After the deployed Valkyrie deals MELEE DMG, she will deal 20% more Physical and Elemental DMG for 10s. Triggering it again refreshes the duration. | 15
+When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
+Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
 
 !!! note
-    Effective for 6.2 2nd Half. The CDMG Load Buff becomes useable once you finish Vill-V 1st Core.
+    Effective for 6.3.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6040,7 +6044,21 @@ Signet | Priority
 !!! note
     Either Ultimate or Basic ATK are fine to +3 but you can focus on other Cores instead. Don't forget about Griseo's Red paint taking highest priority to +3.
 
-####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
+####<p align="center">Vill-V - Signet of Helix (3rd Core)</p>
+
+Signet | Priority
+- | :----:
+**Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 1st
+**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 2nd
+**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | 3rd
+**Nexus Signet 2: Intermezzo: Holistic Helix** |
+**Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 1st
+**Puppetry: Interlacing Cells**: Extends Global Time Fracture caused by Special Weapon: No. 4's detonation by 3s. During Global Time Fracture, gain 30% Physical and Elemental Breach. | 2nd
+
+!!! note
+    Drama is high priority to +3. Puppetry can remain at +0.
+
+####<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
 
 Signet | Priority
 - | :----:
@@ -6052,18 +6070,6 @@ Signet | Priority
 
 !!! note
     It's strongly recommended to use 3* Remembrance Sigil Abuse to get Kalpas' first 3 priority signets at +2. Afterwards, you can upgrade both DMG boosts to +3.
-
-####<p align="center">Vill-V - Signet of Helix (4th Core)</p>
-
-Signet | Priority
-- | :----:
-**Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 1st
-**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 2nd
-**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | 3rd
-**Nexus Signet 1: Interlude: Reversed Spiral** |
-
-!!! note
-    The moment you finish Vill-V 1st Core you'll be able to utilize the Load Buff giving you +15% Phys/Elem DMG for 4s everytime the Blades are cast. You can micromanage this to make sure every one of your damages (in particular, your Ultimate) will be boosted by this.
 
 ####<p align="center">Griseo - Signet of Stars (5th Core)</p>
 
@@ -6113,9 +6119,9 @@ Quick search: RI, Kallen
 ### <p align="center">-- Kallen actually not dead? </p>
 
 !!! note
-    Updated to 6.2.
+    Updated to 6.3.
 
-> Boss to be Chosen: Husk, then Aponia or Vill-V
+> Boss to be Chosen: Husk Mysticism, then Aponia or Vill-V
 
 !!! note
     For Husk you'll NEED both Hua's Resolve and Hometown (Support Skill) if you want to make sure you'll be able to survive against it, especially if your Evade skills aren't very on-point and good.
@@ -6131,12 +6137,11 @@ SSS | Finality | DoV & Elysia TB Dante M | 11:58m (6.2) | [https://youtu.be/JygE
 
 Buff | Load
 :----: | :----: 
-Valkyries who use cannons, pistols, blades, and fists deal 6% more Total DMG. | 5
-Dealing Crit DMG boosts Valkyrie Physical and Elemental DMG by 15% for 4s. Triggering it again resets the duration. | 10
-After the deployed Valkyrie deals MELEE DMG, she will deal 20% more Physical and Elemental DMG for 10s. Triggering it again refreshes the duration. | 15
+Valkyrie deals 15% bonus Total DMG. This effect is negated for 5s after taking DMG. Triggering it again resets the duration. | 10
+Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
 
 !!! note
-    Effective for 6.2 2nd Half.
+    Effective for 6.3.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6190,20 +6195,7 @@ Signet | Priority
 !!! note
     Basic ATK is high priority to +3. Between SP Regen and Ultimate, it's your choice. SP Regen for comfortability and being able to use Ult reasonably frequently, Ultimate for halvening Load for the TDM Taken from Fifth.
 
-####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
-
-Signet | Priority
-- | :----:
-**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
-**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
-**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
-**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | Optional 4th
-**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** | Optional
-
-!!! note
-    RI doesn't have any self-healing so Kalpas core isn't necessary to complete, as such, it's fine to grab the 3 main Signets from Shop. It's also a must to grab both his DMG Boosts as early as possible.
-
-####<p align="center">Hua - Signet of Vicissitude (3rd Core)</p>
+####<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
 
 Signet | Priority
 - | :----:
@@ -6216,6 +6208,19 @@ Signet | Priority
 
 !!! note
     Hua is ESSENTIAL to finish before Heimdall fight. Getting her signets at +2 from 3* Remembrance Sigil Abuse is also strongly recommended. Afterwards, Broken Dream is a good choice and Go With The Flow is recommended if you want better chances at surviving against Husk.
+
+####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
+
+Signet | Priority
+- | :----:
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
+**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | Optional 4th
+**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** | Optional
+
+!!! note
+    RI doesn't have any self-healing so Kalpas core isn't necessary to complete, as such, it's fine to grab the 3 main Signets from Shop. It's also a must to grab both his DMG Boosts as early as possible.
 
 ####<p align="center">Mobius - Signet of Infinity (4th Core)</p>
 
@@ -6257,9 +6262,9 @@ Quick search: SW, booba bronya, Hold-A
 ### <p align="center">-- Tap and Hold A, Watch Youtube</p>
 
 !!! note
-    Updated 6.2. SW is very straightforward. And a bit clunky too, but otherwise a strong non-Herrscher valkyrie for ER. However, I can't attest for her strength with downscaled gears. She's reliant on her signature weapon, and her own signature stigmata set provides too much stuff that she does utilize very well while other alternatives are sort of lacking. Nevermind Ana.
+    Updated 6.3. SW is very straightforward. And a bit clunky too, but otherwise a strong non-Herrscher valkyrie for ER. However, I can't attest for her strength with downscaled gears. She's reliant on her signature weapon, and her own signature stigmata set provides too much stuff that she does utilize very well while other alternatives are sort of lacking. Nevermind Ana.
 
->   Boss to be chosen: Husk, then Vill-V
+>   Boss to be chosen: RPC, then Vill-V
 
 
 ####<p align="center">Setup</p>
@@ -6273,12 +6278,12 @@ S2 | Finality | FFF & Bronya N-EX | 7:48m (6.1 1st Half) | [https://youtu.be/vK_
 
 Buff | Load
 :----: | :----: 
-Max SP +30. | 5
-Valkyries who use cannons, pistols, blades, and fists deal 6% more Total DMG. | 5
-When Valkyries counter or are countered by enemies, they deal 10% more Total DMG. | 10
+Recover 1 SP per second when HP is full. | 5
+Valkyrie deals 15% bonus Total DMG. This effect is negated for 5s after taking DMG. Triggering it again resets the duration. | 10
+Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
 
 !!! note
-    Effective for 6.2 2nd Half.
+    Effective for 6.3.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6506,10 +6511,10 @@ Quick search: SpA, Rita, Fire Rita
 ### <p align="center">-- Rita's Training Arc 7D</p>
 
 !!! note
-    Updated 6.2. SpA had enough of sitting in the bench just warming it while watching other valkyries push ahead of her, so she decided to finally take matters into her hands and train to become a better valkyrie and catch up to the others! And she sure did went a bit overboard... by becoming even stronger than before! SpA's strength in favorable weathers is pretty strong and she also becomes a fairly easy valk to clear ER with. Although she struggles even more against Psy mobs. 
+    Updated 6.3. SpA had enough of sitting in the bench just warming it while watching other valkyries push ahead of her, so she decided to finally take matters into her hands and train to become a better valkyrie and catch up to the others! And she sure did went a bit overboard... by becoming even stronger than before! SpA's strength in favorable weathers is pretty strong and she also becomes a fairly easy valk to clear ER with. Although she struggles even more against Psy mobs. 
 
 
->   Boss to be chosen: Andrius, then Aponia or Vill-V
+>   Boss to be chosen: Husk Mysticism, then Aponia or Vill-V
 
 !!! note
     You should consider Hephaestus' Overheat mechanic. You might not be able to kill him. If you're not confident in doing so, you can instead go with Husk, but he's more annoying due to SpA's lack of i-frames which makes her be reliant on manual dodging even more, as she already uses Kosma.
@@ -6525,11 +6530,12 @@ SS | Finality | Pisces & Ragna | 5:59m (6.2 1st Half) | [https://youtu.be/vttyla
 
 Buff | Load
 :----: | :----: 
-When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes the duration. | 15
-After the deployed Valkyrie deals MELEE DMG, she will deal 20% more Physical and Elemental DMG for 10s. Triggering it again refreshes the duration. | 15
+Recover 1 SP per second when HP is full. | 5
+When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
+When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.2 2nd Half.
+    Effective for 6.3.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6624,12 +6630,9 @@ Signet | Priority
 ### <p align="center">-- Kosma Build 7D</p>
 
 !!! note
-    Updated 6.1. This valk is fucking awful. Honest truth. Her early game absolutely sucks, even as SS-rank, and loses against valks like Fischl and Eden in that regard. She only starts ramping up in strength after Benares, but even then, she still sucks a bit as she becomes mediocre at best. If anything, I would honestly recommend to play other valks instead of this shitty valk. She just really sucks, nothing more.
+    Updated 6.3. This valk is fucking awful. Honest truth. Her early game absolutely sucks, even as SS-rank, and loses against valks like Fischl and Eden in that regard. She only starts ramping up in strength after Benares, but even then, she still sucks a bit as she becomes mediocre at best. If anything, I would honestly recommend to play other valks instead of this shitty valk. She just really sucks, nothing more.
 
->   Boss to be chosen: Andrius, then Aponia or Vill-V
-
-!!! note
-    You should consider Hephaestus' Overheat mechanic. You might not be able to kill him. If you're not confident in doing so, you can instead go with Husk, but he's more annoying due to SpA's lack of i-frames which makes her be reliant on manual dodging even more, as she already uses Kosma.
+>   Boss to be chosen: Husk Mysticism, then Elysia, Aponia or Vill-V.
 
 ####<p align="center">Setup</p>
 
@@ -6642,11 +6645,12 @@ SS | Finality | Pisces & Ragna | 10:16m (6.0 1st Half) | [https://youtu.be/IDZt4
 
 Buff | Load
 :----: | :----: 
-When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes the duration. | 15
-After the deployed Valkyrie deals MELEE DMG, she will deal 20% more Physical and Elemental DMG for 10s. Triggering it again refreshes the duration. | 15
+Recover 1 SP per second when HP is full. | 5
+When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
+When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
 
 !!! note
-    Effective for 6.2 2nd Half.
+    Effective for 6.3.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6746,9 +6750,9 @@ Quick search: Seele
 ### <p align="center">-- Veliona Tries to Survive</p>
 
 !!! note
-    Updated 6.1. Nyx is a sort of straightforward valkyrie to play in ER. Relying on the generation of Carmine Gashes to recover SP for herself and get ready to ult everytime, she actually has a quite comfortable downtime. However, this is locked behind the requirement of needing one of her Ego signets. For a full explanation, you can read the video run's description.
+    Updated 6.3. Nyx is a sort of straightforward valkyrie to play in ER. Relying on the generation of Carmine Gashes to recover SP for herself and get ready to ult everytime, she actually has a quite comfortable downtime. However, this is locked behind the requirement of needing one of her Ego signets. For a full explanation, you can read the video run's description.
 
->   Boss to be chosen: Husk, then Vill-V or Aponia
+>   Boss to be chosen: RPC, then Vill-V or Aponia
 
 !!! note
     Nyx might struggle finishing Aponia off before she goes flying in her P2. If u want faster clear time, V-V is the choice.
@@ -6764,11 +6768,12 @@ S0 | Finality | Sanguine & Verne | 8:48m (6.1 1st Half) | [https://youtu.be/9w0X
 
 Buff | Load
 :----: | :----: 
-When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes the duration. | 15
-After the deployed Valkyrie deals MELEE DMG, she will deal 20% more Physical and Elemental DMG for 10s. Triggering it again refreshes the duration. | 15
+Recover 1 SP per second when HP is full. | 5
+Valkyrie deals 15% bonus Total DMG. This effect is negated for 5s after taking DMG. Triggering it again resets the duration. | 10
+When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
 
 !!! note
-    Effective for 6.2 2nd Half.
+    Effective for 6.3.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
