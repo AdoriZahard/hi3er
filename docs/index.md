@@ -76,6 +76,7 @@ A lot of factors can go into the strength of a Valkyrie as well. Please keep tha
 
 
 ## Update log
+- 2023-01-20: Updated HoR, HoFS, HoV, SN Video Runs (6.3). Signet Priority still not updated, please watch these videos.
 - 2023-01-18: Updated every Valkyrie's recommended Load Buffs. Added 6S Section with her available build.
 - 2023-01-17: Added HTR Section with both of her available Builds.
 - 2022-09-22: Github page redesigned and replaces [https://rentry.co/hi3er](https://rentry.co/hi3er)
@@ -1819,7 +1820,7 @@ Quick Search: HoFS, HoF, FK, KFC, Burnt Tuna, Flying Fish
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-S0 | Finality | DoI & 3-set Himeko | 4:18m (6.0 2nd Half) | [(https://youtu.be/-fVlZ3l135k](https://youtu.be/-fVlZ3l135k)
+S0 | Finality | DoI & 3-set Himeko | 5:41m (6.3) | [https://youtu.be/-sc2n9DsgxI](https://youtu.be/-sc2n9DsgxI)
 S0 | Finality | DoI & Leuweenhoek TB Thales M | 11:59m (6.2 1st Half) | [https://youtu.be/v0_RfiIOrCk](https://youtu.be/v0_RfiIOrCk)
 
 !!! note 
@@ -2553,6 +2554,7 @@ Quick Search: HoR, Bronya
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
+S2 | Fianlity | Lv50 SoE:W & Scott | 12:46m (6.3) | [https://youtu.be/kMo88GHWPYg](https://youtu.be/kMo88GHWPYg)
 SS1 | Finality | SoE:W & 3-set Willows | 6:18m (6.1 2nd Half) | [https://youtu.be/HFMISsD5Tjw](https://youtu.be/HFMISsD5Tjw)
 SS1 | Finality | SoE:W & 3-set Willows | 7:03m (6.1 2nd Half, uses V-V2) | [https://youtu.be/-VX6VCHd3hU](https://youtu.be/-VX6VCHd3hU)
 SS1 | Finality | SoE:W & 3-set Ana Schariac | 7:57m (6.1 1st Half) | [https://youtu.be/WtWG29ySI7s](https://youtu.be/WtWG29ySI7s)
@@ -3992,7 +3994,7 @@ Quick Search: HoV, Salty Tuna, Sirin
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-SSS | Finality | DoV & 3-set SirinA | 7:37m (6.1 2nd Half) | [https://youtu.be/v1ucplqx8lw](https://youtu.be/v1ucplqx8lw)
+SSS | Finality | DoV & 3-set SirinA | 6:48m (6.3) | [https://youtu.be/n10QRLSA7b4](https://youtu.be/n10QRLSA7b4)
 SSS | Finality | DoV & 3-set Elysia | 6:33m (6.0 1st Half) | [https://youtu.be/m9ODUGWtI-8](https://youtu.be/m9ODUGWtI-8)
 S3 | Finality | Lv55 DoV & Sirin Ascendant | 8:51m (6.1 2nd Half) | [https://youtu.be/y2K5_xbVVAw](https://youtu.be/y2K5_xbVVAw)
 S3 | Finality | Lv55 DoV & 3-set Elysia | 10:08m (6.0 1st Half) | [https://youtu.be/WkSisfkTyA0](https://youtu.be/WkSisfkTyA0)
@@ -7108,7 +7110,7 @@ Quick search: SN, Saule, SNoDamage
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-SS0 | Finality | PoA:Kindred & Allan Poe | 16:10m (6.1 1st Half) | [https://youtu.be/KDbo2fZi94E](https://youtu.be/KDbo2fZi94E)
+SS0 | Finality | PoA:Kindred & Allan Poe | 11:32m (6.3) | [https://youtu.be/ZwdBoE8IdE4](https://youtu.be/ZwdBoE8IdE4)
 SS0 | Finality | PoA:Kindred & Allan Poe | 21:21m (6.2 1st Half, SPECIAL) | [https://youtu.be/tPgxNQQrfHY](https://youtu.be/tPgxNQQrfHY)
 
 !!! danger
