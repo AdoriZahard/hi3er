@@ -11,6 +11,10 @@
 
 ***
 
+####<p align="center">Announcement</p>
+
+This ER Guide will no longer be maintained and updated by the main and original person in charge (Adori - Columbina Supremacy#6481) from retirement.
+
 <p align="center"> **Note: The number behind the Signet Name represents the core** </p>
 <p align="center">**Eg: Aponia2 = Aponia - Signet of Discipline Core 2 (You Shall Receive Disciplines' Blessing)**</p>
 
@@ -8214,7 +8218,7 @@ Additionally, Herrscher of Humanity can also further abuse this. Since she alrea
 ***
 
 ## Creditors and what they did:
-- Adori - Columbina Supremacy#6481: Tester, theorycrafter and current big updater of builds from 5.9 onwards+. Also [youtuber](https://www.youtube.com/@AdoriColumbina)
+- (Retired) Adori - Columbina Supremacy#6481: Tester, theorycrafter and current big updater of builds from 5.9 onwards+. Also [youtuber](https://www.youtube.com/@AdoriColumbina)
 - Butter#2252: provided data
 - boba#8849: helped format stuff correctly and tested builds
 - Rafe#5610: helped rekindled the GC again and is also a rentry editor
