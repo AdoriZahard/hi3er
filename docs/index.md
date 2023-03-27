@@ -56,7 +56,7 @@ Finality gives nothing, we use it for the purpose of testing the Valkyries' stre
 
 ## Warnings to look out for current Weather:
 
-- None at the moment
+- Do note the -30% DMG reduction for valkyries of certain weapon types
 
 ***
 
