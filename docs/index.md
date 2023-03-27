@@ -116,9 +116,9 @@ SS0 | Finality | Skadi Pri & 3-set Ana | 10:08m (6.1 1st Half) | [https://youtu.
 
 Buff | Load
 :----: | :----: 
-Recover 1 SP per second when HP is full. | 5
-Valkyrie deals 15% bonus Total DMG. This effect is negated for 5s after taking DMG. Triggering it again resets the duration. | 10
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+VEnemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note
     Effective for 6.3.
@@ -235,9 +235,9 @@ SS0 | Finality | Abyss Flower & 3-set Dante | 8:29m (6.3) | [https://youtu.be/h9
 
 Buff | Load
 :----: | :----: 
-Recover 1 SP per second when HP is full. | 5
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
 
 !!! note
     Effective for 6.3.
@@ -361,8 +361,9 @@ S | Finality | Purana & Leuweenhoek TB Thales M | 13:57m (6.2 1st Half) | [https
 
 Buff | Load
 :----: | :----: 
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note 
     Effective for 6.3.
@@ -494,8 +495,9 @@ SSS | Finality | Rudder & JST TM Idol B | 7:21m (6.2 1st Half) | [https://youtu.
 
 Buff | Load
 :----: | :----: 
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note 
     Effective for 6.3.
@@ -637,9 +639,9 @@ S0 | Finality | Saggitarius & Shakes Adrift | 13:42m (6.1 1st Half) | [https://y
 
 Buff | Load
 :----: | :----: 
-Recover 1 SP per second when HP is full. | 5
-Valkyrie deals 15% bonus Total DMG. This effect is negated for 5s after taking DMG. Triggering it again resets the duration. | 10
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
     Effective for 6.3.
@@ -774,8 +776,9 @@ S0 | Finality | Lost Conviction & 3-set Handel | 7:27m (6.2 1st Half) | [https:/
 
 Buff | Load
 :----: | :----: 
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
     Effective for 6.3.
@@ -909,8 +912,9 @@ SSS | Finality | Iris Pri & Handel | 5:37m (6.2, SPECIAL Thorny Crown) | [https:
 
 Buff | Load
 :----: | :----:
-Valkyrie deals 15% bonus Total DMG. This effect is negated for 5s after taking DMG. Triggering it again resets the duration. | 10
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
     Effective for 6.3.
@@ -1033,8 +1037,9 @@ SSS | Finality | Iris Pri & Handel | 6:21m (6.1 1st Half) | [https://youtu.be/xp
 
 Buff | Load
 :----: | :----: 
-Valkyrie deals 15% bonus Total DMG. This effect is negated for 5s after taking DMG. Triggering it again resets the duration. | 10
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
     Effective for 6.3.
@@ -1156,10 +1161,10 @@ SSS | Finality | Sleeper's Dream & Michelangelo TB Dante M | 7:46m (6.1 1st Half
 
 Buff | Load
 :----: | :----: 
-For every support Valkyrie whose type is the same as the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
-Valkyrie deals 15% bonus Total DMG. This effect is negated for 5s after taking DMG. Triggering it again resets the duration. | 10
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
-
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 !!! note
     Effective for 6.3.
 
@@ -1291,8 +1296,9 @@ SSS | Finality | DoI & Handel | 9:03m (6.0 2nd Half) | [https://youtu.be/iWKlVGS
 
 Buff | Load
 :----: | :----: 
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note
     Effective for 6.3.
@@ -1423,9 +1429,9 @@ SS0 | Finality | 7T & Ana Schariac | 10:18m (6.1 1st Half) | [https://youtu.be/2
 
 Buff | Load
 :----: | :----: 
-Recover 1 SP per second when HP is full. | 5
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
 
 !!! note
     Effective for 6.3.
@@ -1569,8 +1575,9 @@ SS0 | Finality | Muramasa Bloodlust & Ana Schariac | 10:30m (6.1) | [https://you
 
 Buff | Load
 :----: | :----: 
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
+hysical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
 
 !!! note
     Effective for 6.3.
@@ -1708,8 +1715,9 @@ S2 | Finality | Tower of Past & 3-set Collodi | 5:38m (6.2 2nd Half) | [https://
 
 Buff | Load
 :----: | :----: 
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
 
 !!! note
     Effective for 6.3.
@@ -1852,10 +1860,9 @@ S0 | Finality | DoI & Leuweenhoek TB Thales M | 11:59m (6.2 1st Half) | [https:/
 
 Buff | Load
 :----: | :----: 
-For every support Valkyrie whose type is the same as the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
-
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
 
 !!! note
     Effective for 6.3.
@@ -1982,9 +1989,9 @@ S0 | Finality | DoI & Shelley T Himeko M Scott B | 10:36m (6.0 2nd Half) | [http
 
 Buff | Load
 :----: | :----: 
-For every support Valkyrie whose type is the same as the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
 
 !!! note
     Effective for 6.3.
