@@ -100,7 +100,7 @@ A lot of factors can go into the strength of a Valkyrie as well. Please keep tha
 ### <p align="center">-- General Build</p>
 
 !!! note 
-    Updated 6.3. AKA is yet another one of these valkyries that needs quite the particular investment for comfily using in ER. She wants a minimum rank of S2, and she also wants her pri-arm, without which she struggles quite noticeably. However, there's also something else that adds up into her performance at ER. She's also a highly difficult mechanical valk to optimally play with, as she does have quite a lot of tricks going for her. Most notably, animation cancels, which arguably do provide quite a big and drastic DPS increase for her, both inside and outside ER.
+    Updated 6.4. AKA is yet another one of these valkyries that needs quite the particular investment for comfily using in ER. She wants a minimum rank of S2, and she also wants her pri-arm, without which she struggles quite noticeably. However, there's also something else that adds up into her performance at ER. She's also a highly difficult mechanical valk to optimally play with, as she does have quite a lot of tricks going for her. Most notably, animation cancels, which arguably do provide quite a big and drastic DPS increase for her, both inside and outside ER.
 
 > Boss to be Chosen: RPC, then Vill-V or Kalpas
 
@@ -117,11 +117,11 @@ SS0 | Finality | Skadi Pri & 3-set Ana | 10:08m (6.1 1st Half) | [https://youtu.
 Buff | Load
 :----: | :----: 
 Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
-VEnemies hit by weapon active take 5% bonus total dmg for 5s | 5
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
 For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -217,7 +217,7 @@ Signet | Priority
 ### <p align="center">-- Dudu becomes a Jojo Fan</p>
 
 !!! note 
-    Updated 6.3. Dudu got her own stand, and she's on her way to become a real Jojo of her own. Truly built different! Will her stand be as powerful as Jojo's Star Platinum? Oh, an enemy is approaching! How dare they approach her? They must be destroyed by Abyss Flower! Wait... it did really destroy them easily. She's... a monster! Anyway, her damage ceiling is astronomically high. She's a pretty straightforward valkyrie that doesn't have much problems clearing it, however, her requirement for this is to have 3-set Dante and AF is a given.
+    Updated 6.4. Dudu got her own stand, and she's on her way to become a real Jojo of her own. Truly built different! Will her stand be as powerful as Jojo's Star Platinum? Oh, an enemy is approaching! How dare they approach her? They must be destroyed by Abyss Flower! Wait... it did really destroy them easily. She's... a monster! Anyway, her damage ceiling is astronomically high. She's a pretty straightforward valkyrie that doesn't have much problems clearing it, however, her requirement for this is to have 3-set Dante and AF is a given.
 
 > Boss to be Chosen: Husk Mysticism, then Aponia
 
@@ -240,7 +240,7 @@ Time slowed enemies take 8% bonus total dmg for 4s | 5
 Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -341,7 +341,7 @@ Quick Search: Ai, Ai-Chan, CN, Cabbage
 ### <p align="center">-- Ignition is so fun!</p>
 
 !!! note
-    Updated 6.3. Okay, so. Ai-Chan. She's pretty fun, and apparently she makes a really satisfactory sound everytime she deflects her chakrams. Which is kind of interesting for the gameplay itself. She also is comfortable to play due to the good gather that she has, albeit unreliable when the enemies are too far away. But she has some serious problems which will be pointed out below this note.
+    Updated 6.4. Okay, so. Ai-Chan. She's pretty fun, and apparently she makes a really satisfactory sound everytime she deflects her chakrams. Which is kind of interesting for the gameplay itself. She also is comfortable to play due to the good gather that she has, albeit unreliable when the enemies are too far away. But she has some serious problems which will be pointed out below this note.
 
 !!! danger
     Ai-Chan needs S Rank as a bare minimum to be usable in ER. SS will improve her a bit, however her strength is largely tied to being 4/4. What this means is that she has a horrible downscalability, and you can expect this to be made **really clear** once this current shilling weather is gone. If your Ai-Chan does not have even a Pri Chakram to use, and your Stigmas aren't her Idol Set, do not expect her to perform very well.
@@ -366,7 +366,7 @@ Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
 For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note 
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -500,7 +500,7 @@ Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
 For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note 
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -624,7 +624,7 @@ Quick search: DA, dudu
 ### <p align="center">-- Tap B, Watch Youtube</p>
 
 !!! note 
-    Updated 6.3. You thought there could be no Tap B, Watch Youtube counterpart to SW's Tap A? Well, I'm here to prove you wrong! Here you go, a valk whose infamous ER gameplay revolves to just spam B like there's no end! Well, except... this valk really sucks. She has so many problems. Not advised to use for Weekly Clear unless your DA is built different.
+    Updated 6.4. You thought there could be no Tap B, Watch Youtube counterpart to SW's Tap A? Well, I'm here to prove you wrong! Here you go, a valk whose infamous ER gameplay revolves to just spam B like there's no end! Well, except... this valk really sucks. She has so many problems. Not advised to use for Weekly Clear unless your DA is built different.
 
 > Boss to be Chosen: Husk Mysticism, then Vill-V
 
@@ -644,7 +644,7 @@ Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate eva
 Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -756,7 +756,7 @@ Search Tags: DPe, DiP, Nun, Aponia
 ### <p align="center">-- You need some Discipline</p>
 
 !!! note 
-    Updated 6.3. Aponia being one of the strongest Flamechasers available to do ER with, is also a valk that doesn't really demands much mechanical play. There's really not much to explain about her. Aponia in ER is basically a get 100 sp, use Ultimate, hold A for Thunderstorm and move or just watch a video while enemies die. Then gain SP again and repeat the same process. More explanation on her is given in the description of the video runs.
+    Updated 6.4. Aponia being one of the strongest Flamechasers available to do ER with, is also a valk that doesn't really demands much mechanical play. There's really not much to explain about her. Aponia in ER is basically a get 100 sp, use Ultimate, hold A for Thunderstorm and move or just watch a video while enemies die. Then gain SP again and repeat the same process. More explanation on her is given in the description of the video runs.
 
 > Boss to be Chosen: Husk Mysticism, then Aponia or Vill-V
 
@@ -781,7 +781,7 @@ Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take
 Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -889,7 +889,7 @@ Quick Search: FR, Rita, Maid
 ### <p align="center">-- Above SS2 Build</p>
 
 !!! note 
-    Updated 6.3. This is the strongest build that FR has available to her, which in turn also makes her become one of the strongest ER valks to clear with.
+    Updated 6.4. This is the strongest build that FR has available to her, which in turn also makes her become one of the strongest ER valks to clear with.
 
 > Boss to be Chosen: Husk Mysticism, then Elysia (for booling her), Vill-V or Aponia
 
@@ -917,7 +917,7 @@ For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1016,7 +1016,7 @@ Signet | Priority
 ### <p align="center">-- Below SS2 Build</p>
 
 !!! note 
-    Updated 6.3. Do note that FR needs her Pri-arm if you want to use her for ER. Due to the complex mechanics that FR has, she's one of the harder valks to properly play into ER. In fact, much like certain other valks, her performance won't only depend on her gears and ranks, but also will depend on how optimally you can play her. As long as you can consistently and properly do her Evade cancels (especially taking note of Strix-the bird rune- getting off CD to spam him) into Charged ATKs one after another, you can expect things to go well. Her greatest dps is between her ult and the successive Charged ATK chain. 
+    Updated 6.4. Do note that FR needs her Pri-arm if you want to use her for ER. Due to the complex mechanics that FR has, she's one of the harder valks to properly play into ER. In fact, much like certain other valks, her performance won't only depend on her gears and ranks, but also will depend on how optimally you can play her. As long as you can consistently and properly do her Evade cancels (especially taking note of Strix-the bird rune- getting off CD to spam him) into Charged ATKs one after another, you can expect things to go well. Her greatest dps is between her ult and the successive Charged ATK chain. 
 
 !!! danger
     This variant sacrifices some early game strength in exchange for enabling FR to dps in ER at below SS2 ranks.
@@ -1042,7 +1042,7 @@ For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1146,7 +1146,7 @@ Quick Search: FT, Roza, Lili, Lily, Vodka Girls, MC augment
 ### <p align="center">-- Roza being Cracked 7D</p>
 
 !!! note 
-    Updated 6.3. What has gotten to you, Roza? How'd you become so strong? So op! Actually, nevermind, she's still a bit... eh. But she sure as hell hits really hard! I still don't like, however, how her personal damage against bosses is kinda ass regardless. Imagine not being able to destroy Hephaestus before he overheats. That's just... lame if you ask me. Come on Roza, you can do better!
+    Updated 6.4. What has gotten to you, Roza? How'd you become so strong? So op! Actually, nevermind, she's still a bit... eh. But she sure as hell hits really hard! I still don't like, however, how her personal damage against bosses is kinda ass regardless. Imagine not being able to destroy Hephaestus before he overheats. That's just... lame if you ask me. Come on Roza, you can do better!
 
 > Boss to be Chosen: Husk Mysticism, then Vill-V
 
@@ -1166,7 +1166,7 @@ Time slowed enemies take 8% bonus total dmg for 4s | 5
 Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
 For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1281,7 +1281,7 @@ Quick search: Eden, GD
 ### <p align="center">-- General Build</p>
 
 !!! note 
-    Updated 6.3. As far as testing goes, this is the current best build for Eden, and other variations with different signets are either weaker, or just don't really work as well as they would seem to do in paper. Take Eden2 for instance, which supposedly GD would be perfectly fine with. Issue? It actually isn't that great. Only acceptable as a versatile option when you don't have any other better alternatives for doors, but otherwise, not recommended to do as early start, as it's garbage.
+    Updated 6.4. As far as testing goes, this is the current best build for Eden, and other variations with different signets are either weaker, or just don't really work as well as they would seem to do in paper. Take Eden2 for instance, which supposedly GD would be perfectly fine with. Issue? It actually isn't that great. Only acceptable as a versatile option when you don't have any other better alternatives for doors, but otherwise, not recommended to do as early start, as it's garbage.
 
 > Boss to be Chosen: Husk Mysticism, then Aponia or Vill-V
 
@@ -1301,7 +1301,7 @@ Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
 For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1410,7 +1410,7 @@ Quick search: Meme, Memento, Yae Sakura
 ### <p align="center">-- What do I even get?</p>
 
 !!! note 
-    Updated 6.3. Honestly... I'm a bit confused on what to recommend here. But this build worked. It just... worked.
+    Updated 6.4. Honestly... I'm a bit confused on what to recommend here. But this build worked. It just... worked.
 
 > Boss to be Chosen: RPC, then Aponia or Kalpas
 
@@ -1434,7 +1434,7 @@ Time slowed enemies take 8% bonus total dmg for 4s | 5
 Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1554,7 +1554,7 @@ Signet | Priority
 ### <p align="center">-- (Muramasa) Vergil plays on Easy difficulty</p>
 
 !!! note 
-    Updated 6.3. Memento didn't had enough fun with 7T and thought it was too simple and easy for her, so she got rid of it and decided to go to a back alley, proceeded to buy a 3* weapon of doubtful quality from a merchant by the name of Senti, got back home and chose the highest difficulty to prove she isn't any weaker and can also do it herself. Was it worth the 500,000,000 yen that the 3* weapon cost her? Did she get scammed by Senti? Or does that not matter? Turns out even the highest difficulty couldn't stop her and she became an unstoppable force of nature! What an absolute madlad!
+    Updated 6.4. Memento didn't had enough fun with 7T and thought it was too simple and easy for her, so she got rid of it and decided to go to a back alley, proceeded to buy a 3* weapon of doubtful quality from a merchant by the name of Senti, got back home and chose the highest difficulty to prove she isn't any weaker and can also do it herself. Was it worth the 500,000,000 yen that the 3* weapon cost her? Did she get scammed by Senti? Or does that not matter? Turns out even the highest difficulty couldn't stop her and she became an unstoppable force of nature! What an absolute madlad!
 
 !!! danger
     Do note that the best start for this build is Griseo's Red Paint at F2, so it's strongly recommended to mald for it instead of Ego signet.
@@ -1580,7 +1580,7 @@ Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
 Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1696,7 +1696,7 @@ Quick Search: V-V, Vill-V, Bait, Helical Cripple
 ### <p align="center">-- Not Helical Cripple</p>
 
 !!! note 
-    Updated 6.3. All in all, HC is one of the easiest valks to play in ER, and her gameplay doesn't involve anything complicated. The only thing of note to be mindful of is that she greatly values gather as it's better for her to be hitting every mob due to her AoE damage being pretty damn strong. 
+    Updated 6.4. All in all, HC is one of the easiest valks to play in ER, and her gameplay doesn't involve anything complicated. The only thing of note to be mindful of is that she greatly values gather as it's better for her to be hitting every mob due to her AoE damage being pretty damn strong. 
 
 > Boss to be Chosen: Husk Mysticism, then Vill-V, Aponia or Kosma
 
@@ -1720,7 +1720,7 @@ Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
 Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1844,7 +1844,7 @@ Quick Search: HoFS, HoF, FK, KFC, Burnt Tuna, Flying Fish
 ### <p align="center">-- Starfire Build</p>
 
 !!! note 
-    Updated 6.3. So far, this is the strongest build. Simple explanation; Starfire is stronger early game, but can fall off a bit later in the game without Reburn and Tempered Warrior, which is also fixed. And then, as a result, you have a stronger general build that's ideally a stronger and perhaps more comfortable start, especially when you have the damage for it.
+    Updated 6.4. So far, this is the strongest build. Simple explanation; Starfire is stronger early game, but can fall off a bit later in the game without Reburn and Tempered Warrior, which is also fixed. And then, as a result, you have a stronger general build that's ideally a stronger and perhaps more comfortable start, especially when you have the damage for it.
 
 > Boss to be Chosen: Husk Mysticism, then Aponia or Vill-V.
 
@@ -1865,7 +1865,7 @@ Time slowed enemies take 8% bonus total dmg for 4s | 5
 Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -1994,7 +1994,7 @@ Time slowed enemies take 8% bonus total dmg for 4s | 5
 Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2127,7 +2127,7 @@ Quick Search: Elysia, HoH, HoHe, Manta Ray, H2O, Water
 ### <p align="center">-- Ultimate Build</p>
 
 !!! note 
-    Updated for 6.3. The strongest variation with the only downside of having to go through Elysia's long animation times everytime. Also heavily favored currently by Load Buffs. HoH still remains and stays strong on her position as ER's Cheatcode queen than to assert her dominance through her Ultimate Build? 
+    Updated for 6.4. The strongest variation with the only downside of having to go through Elysia's long animation times everytime. Also heavily favored currently by Load Buffs. HoH still remains and stays strong on her position as ER's Cheatcode queen than to assert her dominance through her Ultimate Build? 
 
 > Boss to be Chosen: RPC, then Elysia for fastest time, Mobius, Kalpas or Vill-V.
 
@@ -2147,12 +2147,12 @@ S2 | Finality | CoC & Scott TM Rasputin B | 7:59m (6.1 2nd Half) | [https://yout
 
 Buff | Load
 :----: | :----: 
-For every support Valkyrie whose type is the same as the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2287,12 +2287,12 @@ S2 | Finality | DoEgo & JST TM Pristine B | 4:23m (6.2 2nd Half) | [https://yout
 
 Buff | Load
 :----: | :----: 
-For every support Valkyrie whose type is the same as the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2413,7 +2413,7 @@ Signet | Priority
 ### <p align="center">-- Ballista Build</p>
 
 !!! note
-    Updated for 6.3. The slightly weaker variant with slightly less clear time, but nevertheless at the same strength as Ult build. 
+    Updated for 6.4. The slightly weaker variant with slightly less clear time, but nevertheless at the same strength as Ult build. 
 
 > Boss to be Chosen: RPC, then Elysia for fastest time, Mobius, Kalpas or Vill-V.
 
@@ -2435,12 +2435,12 @@ S2 | Finality | CoC & Scott TM Rasp B | 7:39m (6.1 2nd Half) | [https://youtu.be
 
 Buff | Load
 :----: | :----: 
-For every support Valkyrie whose type is the same as the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
-Valkyrie deals 15% bonus Total DMG. This effect is negated for 5s after taking DMG. Triggering it again resets the duration. | 10
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
 
 !!! note 
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2568,7 +2568,7 @@ Quick Search: HoR, Bronya
 ### <p align="center">-- [SoE-Only] Ultimate Build</p>
 
 !!! note
-    Updated 6.3. Do note that SoE feels a bit weak compared to DoR. Nevertheless, this is the strongest build done up until now from testing.
+    Updated 6.4. Do note that SoE feels a bit weak compared to DoR. Nevertheless, this is the strongest build done up until now from testing.
 
 >   Boss to be chosen: RPC, then Aponia
 
@@ -2586,11 +2586,12 @@ SS1 | Finality | SoE:W & 3-set Ana Schariac | 7:57m (6.1 1st Half) | [https://yo
 
 Buff | Load
 :----: | :----: 
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note 
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2695,7 +2696,7 @@ Signet | Priority
 ### <p align="center">-- [DOR-Only] Weapon Active Spam Build</p>
 
 !!! note
-    Updated 6.3. This is the strongest and easiest build for HoR compared to other options. Also, please note that this is DoR-only, as SoE has a substantial difference from this.
+    Updated 6.4. This is the strongest and easiest build for HoR compared to other options. Also, please note that this is DoR-only, as SoE has a substantial difference from this.
 
 >   Boss to be chosen: RPC, then Vill-V
 
@@ -2711,11 +2712,12 @@ SS1 | Finality | 65 DoR & 3-set Ana Schariac | 6:49 (6.0 1st Half) | [https://yo
 
 Buff | Load
 :----: | :----: 
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note 
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2828,11 +2830,12 @@ SS1 | Finality | 65 DoR & 3-set Ana Schariac | 9:14 (6.0 1st Half) | [https://yo
 
 Buff | Load
 :----: | :----: 
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note 
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -2942,7 +2945,7 @@ Quick Search: HoS, Senti, Hua, Fuhua, Bonk
 ### <p align="center">-- HoS - *General Build* 7D</p>
 
 !!! note
-    Updated 6.3. The strongest build available to HoS. If you're aiming to attempt to clear ER with Sentience, then use this one.
+    Updated 6.4. The strongest build available to HoS. If you're aiming to attempt to clear ER with Sentience, then use this one.
 
 > Boss to be Chosen: Husk Mysticism, then Vill-V (easiest) or Aponia
 
@@ -2958,11 +2961,12 @@ S0 | Finality | Senpri & Ely TB PoloM | 8:29m (6.0 1st Half) |[https://youtu.be/
 
 Buff | Load
 :----: | :----: 
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3057,7 +3061,7 @@ Signet | Priority
 ### <p align="center">-- HoS - Ego Mobius Build</p>
 
 !!! note
-    Updated 6.3. If you're curious about the reason why this build is one of the less popular builds, it's simply because of the high investment that it demands in terms of Ego signets required. To begin with, while it requires the Ego (Clone) signet in order to start being used, it meant that Dark Plumes had to be left out. No SP Regen and free 30% TDM Taken was just bad. That was the weakness of this build; it just was hard to sustain and took too long to come online into the game.
+    Updated 6.4. If you're curious about the reason why this build is one of the less popular builds, it's simply because of the high investment that it demands in terms of Ego signets required. To begin with, while it requires the Ego (Clone) signet in order to start being used, it meant that Dark Plumes had to be left out. No SP Regen and free 30% TDM Taken was just bad. That was the weakness of this build; it just was hard to sustain and took too long to come online into the game.
 
 > Boss to be Chosen: Husk Mysticism, then Elysia, Vill-V or Aponia
 
@@ -3075,11 +3079,12 @@ S0 | Finality | Senpri & Shattered Swords | 6:25m (6.3) | [https://youtu.be/OorR
 
 Buff | Load
 :----: | :----: 
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3205,11 +3210,12 @@ S | Finality | Senpri & 3-Set Shattered Swords | 8:13 (6.1 2nd Half) | [https://
 
 Buff | Load
 :----: | :----: 
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3322,7 +3328,7 @@ Quick search: HoT, Mei, hot mei, dragon
 ### <p align="center">-- 4-5 Revived Build</p>
 
 !!! note
-    Updated 6.3. This is the 3rd strongest build, and also competes with the others in being the most braindead to play... sort of. The strength of this build is that it is very solid and has damage on everything. 4-5, 7T actives, Dragon slam, Finisher, Shinzan. Overall, it's pretty good.
+    Updated 6.4. This is the 3rd strongest build, and also competes with the others in being the most braindead to play... sort of. The strength of this build is that it is very solid and has damage on everything. 4-5, 7T actives, Dragon slam, Finisher, Shinzan. Overall, it's pretty good.
 
 !!! danger
     Do note though, that this build is not recommended if your HoT is not S1+. Narukami Finisher is stronger.
@@ -3340,12 +3346,12 @@ SS1 | Finality | 65 7T & Handel | 6:53m (6.0 1st Half) | [https://youtu.be/hRm5k
 
 Buff | Load
 :----: | :----: 
-For every support Valkyrie whose type is the same as the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
-Valkyrie deals 15% bonus Total DMG. This effect is negated for 5s after taking DMG. Triggering it again resets the duration. | 10
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Time slowed enemies take 8% bonus total dmg for 4s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note 
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3461,7 +3467,7 @@ Signet | Priority
 ### <p align="center">-- Bombard Build</p>
 
 !!! note
-    Updated 6.3. The 2nd strongest build. This build also has a surprisingly good time with DoS & Benares Awakening. It also seems to prefer DoS, but nonetheless 7T still does really well.
+    Updated 6.4. The 2nd strongest build. This build also has a surprisingly good time with DoS & Benares Awakening. It also seems to prefer DoS, but nonetheless 7T still does really well.
 
 !!! danger
     This build can't work if your HoT isn't at least S2 rank. S2 is essential to make Bombard work.
@@ -3482,12 +3488,12 @@ S2 | Finality | 65 DoS & Benares: Awakening | 9:36m (6.1 2nd Half) | [https://yo
 
 Buff | Load
 :----: | :----: 
-For every support Valkyrie whose type is the same as the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
-Valkyrie deals 15% bonus Total DMG. This effect is negated for 5s after taking DMG. Triggering it again resets the duration. | 10
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note 
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3594,7 +3600,7 @@ Signet | Priority
 ### <p align="center">-- Narukami Finisher Build</p>
 
 !!! note
-    Updated for 6.3. The strongest build out of all 3 that also strongly competes really closely with Bombard, but is the definite winner for any rank of HoT.
+    Updated for 6.4. The strongest build out of all 3 that also strongly competes really closely with Bombard, but is the definite winner for any rank of HoT.
 
 >   Boss to be chosen: Hephaestus, then Elysia or Mobius/Vill-V 
 
@@ -3611,12 +3617,12 @@ S0 | Finality | 65 7T & Handel | 8:17 (6.0 1st Half) | [https://youtu.be/3oqKVTR
 
 Buff | Load
 :----: | :----: 
-For every support Valkyrie whose type is the same as the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
-Valkyrie deals 15% bonus Total DMG. This effect is negated for 5s after taking DMG. Triggering it again resets the duration. | 10
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
 
 !!! note 
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4026,7 +4032,7 @@ Quick Search: HoV, Salty Tuna, Sirin
 ### <p align="center">-- Thanos Snap</p>
 
 !!! note
-    Updated for 6.3. Thanos Snap is the strongest build out of the two possible builds for HoV.
+    Updated for 6.4. Thanos Snap is the strongest build out of the two possible builds for HoV.
 
 > Boss to be Chosen: Husk Mysticism, then Elysia (fastest clear/speedrun) or Aponia
 
@@ -4047,12 +4053,13 @@ S3 | Finality | Lv55 DoV & 3-set Elysia | 10:08m (6.0 1st Half) | [https://youtu
 
 Buff | Load
 :----: | :----: 
-For every support Valkyrie whose type is the same as the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4182,7 +4189,7 @@ Signet | Priority
 ### <p align="center">-- Gate of Babylon Build 7D</p>
 
 !!! note
-    Updated for 6.3. Slower clear build, but in terms of strength, it's vastly superior.
+    Updated for 6.4. Slower clear build, but in terms of strength, it's vastly superior.
 
 > Boss to be Chosen: Husk Mysticism, then Elysia, Aponia or Vill-V
 
@@ -4200,12 +4207,13 @@ SSS | Finality | DoV & 3-set Sirin Ascendant | 9:13m (6.1 2nd Half) | [https://y
 
 Buff | Load
 :----: | :----: 
-For every support Valkyrie whose type is the same as the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4334,12 +4342,12 @@ Quick Search: IO, Snake, Snek, Mobius
 
 ![Mommmy Mobius eat me up and experiment with me pls~](https://user-images.githubusercontent.com/114035701/203185419-1d1ff28c-4648-4812-98af-2150cce7c136.png)
 
-### <p align="center">-- DMG Reduction? Where?</p>
+### <p align="center">-- General</p>
 
 !!! note
-    Updated for 6.3. Honestly, this is a really fun and genuine surprise that I wasn't expecting to hit this strong. Who would've thought that non-Linnaeus Mobius would be so damn strong nonetheless? Clearly, she doesn't need it, and neither does she gives a fuck about having DMG Reduction trying to weigh her down.
+    Updated for 6.4. Honestly, this is a really fun and genuine surprise that I wasn't expecting to hit this strong. Who would've thought that non-Linnaeus Mobius would be so damn strong nonetheless? Clearly, she doesn't need it, and neither does she gives a fuck about having DMG Reduction trying to weigh her down.
 
-> Boss to be Chosen: Husk Mysticism, then Vill-V or Aponia
+> Boss to be Chosen: RPC, then Vill-V or Aponia
 
 !!! note
     The choice between Andrius or Husk is difficult. Andrius has a really thick shield for non-fire Valkyries, making the fight harder even for Mobius. Husk on the other hand can be easier despite the type-counter. Vill-V is the best choice easily if you have Miniature [X] available.
@@ -4357,11 +4365,12 @@ S0 | Finality | Judah & Handel | 9:05m (6.1 1st Half) | [https://youtu.be/ARcTle
 
 Buff | Load
 :----: | :----: 
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4480,7 +4489,7 @@ Quick search: Li Sus, Sushang, JK, Sussy
 ### <p align="center">-- Unlimited Blade Works Build - Aponia Variation</p>
 
 !!! note 
-    Updated for 6.3. This build basically focuses on A spam. It's her strongest general build, taking into account ranks, downscaling and weather-related buffs & debuffs. On the other hand, however, it is heavily reliant on gather. The strongest variation of Sussy's UBW build, which fully utilizes Aponia signets' strength alongside Griseo, resulting in a really deadly and strong as fuck build that melts through enemies easily like a rain of millions of knives going through butter.
+    Updated for 6.4. This build basically focuses on A spam. It's her strongest general build, taking into account ranks, downscaling and weather-related buffs & debuffs. On the other hand, however, it is heavily reliant on gather. The strongest variation of Sussy's UBW build, which fully utilizes Aponia signets' strength alongside Griseo, resulting in a really deadly and strong as fuck build that melts through enemies easily like a rain of millions of knives going through butter.
 
 > Boss to be Chosen: RPC, then Elysia, Mobius, Aponia or Vill-V
 
@@ -4499,11 +4508,12 @@ S0 | Finality | GTX & Scott | 8:49m (6.2 1st Half) | [https://youtu.be/4L4DtshNo
 
 Buff | Load
 :----: | :----: 
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4623,7 +4633,7 @@ Signet | Priority
 ### <p align="center">-- [Special] Mobius - Infinity Blade Works</p>
 
 !!! note 
-    Updated for 6.3. This is a special, niche build that can only work as long as you have the specific required gear for it, which is Jin Shengtan TM. Without it, then this build can't work as it's practically based around that & the usage of Mobius1 which would otherwise be impossible for Sushang to use.
+    Updated for 6.4. This is a special, niche build that can only work as long as you have the specific required gear for it, which is Jin Shengtan TM. Without it, then this build can't work as it's practically based around that & the usage of Mobius1 which would otherwise be impossible for Sushang to use.
 
 > Boss to be Chosen: Husk, then Elysia, Mobius, Aponia or Vill-V
 
@@ -4641,12 +4651,13 @@ S2 | Finality | Nocturnal & Jin Shengtan TM Pristine B | 5:49m (6.2) | [https://
 
 Buff | Load
 :----: | :----: 
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4774,11 +4785,12 @@ SS0 | Finality | Nocturnal & Shenzhou | To be Tested | To be Tested
 
 Buff | Load
 :----: | :----: 
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -4920,12 +4932,13 @@ SSS | Finality | Hekate & Ely TB Dante M | 20:58m (6.2 1st Half) | [https://yout
 
 Buff | Load
 :----: | :----: 
-For every support Valkyrie whose type is the same as the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
-Valkyrie deals 15% bonus Total DMG. This effect is negated for 5s after taking DMG. Triggering it again resets the duration. | 10
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -5045,7 +5058,7 @@ Quick search: MA, Raven, Natasha Cioara
 ### <p align="center">-- Who needs IMG Weather?</p>
 
 !!! note 
-    Updated 6.3. Honestly, considering only base A ranks and non-Flame Chasers, Raven is probably one of the strongest valkyries to clear ER. At least, in weathers that are not so unfavorable for her. She's rather excellent, albeit a bit awkward and her gameplay pretty much just revolves around controlling the appropiate timings.
+    Updated 6.4. Honestly, considering only base A ranks and non-Flame Chasers, Raven is probably one of the strongest valkyries to clear ER. At least, in weathers that are not so unfavorable for her. She's rather excellent, albeit a bit awkward and her gameplay pretty much just revolves around controlling the appropiate timings.
 
 > Boss to be Chosen: Andrius, then Vill-V
 
@@ -5060,11 +5073,12 @@ SSS | Finality | DoEgo & Aslaug | 12:08m (6.1) | [https://youtu.be/rkCnkA44e4s](
 
 Buff | Load
 :----: | :----: 
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -5173,7 +5187,7 @@ Quick Search: MPE, Elysia, Maid
 ###<p align="center">-- Miss Elysia Build 7D</p>
 
 !!! note
-    Updated for 6.3. Be advised that MPE becomes weaker the less ranks and gears she has. Basically, her downscalability issues are pretty big depending on the difficulty.
+    Updated for 6.4. Be advised that MPE becomes weaker the less ranks and gears she has. Basically, her downscalability issues are pretty big depending on the difficulty.
 
 > Boss to be Chosen: Husk Mysticism, then Vill-V or Mobius
 
@@ -5192,12 +5206,13 @@ SSS | Finality | Call of Crescent & Michelangelo TB Polo M | 12:05m (6.1 1st Hal
 
 Buff | Load
 :----: | :----: 
-For every support Valkyrie whose type is the same as the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -5338,12 +5353,13 @@ SSS | Finality | Midnight Ataegina & BiankaT | 6:14m (6.3) | [https://youtu.be/y
 
 Buff | Load
 :----: | :----: 
-Recover 1 SP per second when HP is full. | 5
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -5464,11 +5480,13 @@ SSS | Finality | Midnight Ataegina & BiankaT | 6:37m (6.3) | [https://youtu.be/H
 
 Buff | Load
 :----: | :----: 
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
-    Effective for 6.3. Whichever of the 10 doesn't matter; both can have the same consistency, but you can go with the Time-Slowed one if you don't have confidence in avoiding being hit.
+    Updated for 6.4. Whichever of the 10 doesn't matter; both can have the same consistency, but you can go with the Time-Slowed one if you don't have confidence in avoiding being hit.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -5579,7 +5597,7 @@ Quick Search: PV, Fischl, Genshin, Oz
 ### <p align="center">-- General Build 7D</p>
 
 !!! note 
-    Updated 6.3. This is her best build up to date. 
+    Updated 6.4. This is her best build up to date. 
 
 > Boss to be Chosen: Husk Mysticism, then Aponia
 
@@ -5594,11 +5612,12 @@ SSS | Finality | DoEgo & Zhenyi | 8:51m (6.0 2nd Half) | [https://youtu.be/t75Hy
 
 Buff | Load
 :----: | :----: 
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -5710,7 +5729,7 @@ Signet | Priority
 ### <p align="center">-- (Meme) Mobius 2 Build</p>
 
 !!! note 
-    Updated 6.3. Hey! It's a new Fischl video run! She's op, right? Right? Wait, what's that? Is that... Mobius 2nd Core!? B-but, I thought that core was garbage! How!? What the fuck, is it actually good!? Spoiler: It is not. It's just a meme build.
+    Updated 6.4. Hey! It's a new Fischl video run! She's op, right? Right? Wait, what's that? Is that... Mobius 2nd Core!? B-but, I thought that core was garbage! How!? What the fuck, is it actually good!? Spoiler: It is not. It's just a meme build.
 
 !!! danger
     Do this build only for the fun of it, that's its purpose.
@@ -5728,11 +5747,12 @@ SSS | Finality | DoEgo & Zhenyi | 13:29m (6.1 1st Half) | [https://youtu.be/4DO9
 
 Buff | Load
 :----: | :----: 
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -5853,11 +5873,12 @@ SSS | Finality | Purana & Ana Schariac | 8:08m (6.0 1st Half) | [https://youtu.b
 
 Buff | Load
 :----: | :----: 
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -5993,11 +6014,12 @@ SSS | Finality | Purana & Ana Schariac | 7:41m (6.0 1st Half) | [https://youtu.b
 
 Buff | Load
 :----: | :----: 
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6133,11 +6155,12 @@ SSS | Finality | Purana & Jin Shengtan TM Irene Adler B | 7:13m (6.2 2nd Half) |
 
 Buff | Load
 :----: | :----: 
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6300,11 +6323,13 @@ SSS | Finality | DoV & Elysia TB Dante M | 11:58m (6.2) | [https://youtu.be/JygE
 
 Buff | Load
 :----: | :----: 
-Valkyrie deals 15% bonus Total DMG. This effect is negated for 5s after taking DMG. Triggering it again resets the duration. | 10
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6425,7 +6450,7 @@ Quick search: SW, booba bronya, Hold-A
 ### <p align="center">-- Tap and Hold A, Watch Youtube</p>
 
 !!! note
-    Updated 6.3. SW is very straightforward. And a bit clunky too, but otherwise a strong non-Herrscher valkyrie for ER. However, I can't attest for her strength with downscaled gears. She's reliant on her signature weapon, and her own signature stigmata set provides too much stuff that she does utilize very well while other alternatives are sort of lacking. Nevermind Ana.
+    Updated 6.4. SW is very straightforward. And a bit clunky too, but otherwise a strong non-Herrscher valkyrie for ER. However, I can't attest for her strength with downscaled gears. She's reliant on her signature weapon, and her own signature stigmata set provides too much stuff that she does utilize very well while other alternatives are sort of lacking. Nevermind Ana.
 
 >   Boss to be chosen: RPC, then Vill-V
 
@@ -6441,12 +6466,12 @@ S2 | Finality | FFF & Bronya N-EX | 7:48m (6.1 1st Half) | [https://youtu.be/vK_
 
 Buff | Load
 :----: | :----: 
-Recover 1 SP per second when HP is full. | 5
-Valkyrie deals 15% bonus Total DMG. This effect is negated for 5s after taking DMG. Triggering it again resets the duration. | 10
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6546,7 +6571,7 @@ Quick search: 6S, Purple Kallen, YaexKallen, Simped by Otto, Deadllen, ER Releas
 ### <p align="center">-- Otto had to wake up to see this one</p>
 
 !!! note
-    Updated 6.3. 6S' gameplay is a bit complicated to optimally play, but at the same time it's simple. It's explained in the linked Video Run's description. I strongly recommend you to read it and watch the gameplay a bit in order to get more knowledgeable in regards to 6S's strength and amazing potential at ER.
+    Updated 6.4. 6S' gameplay is a bit complicated to optimally play, but at the same time it's simple. It's explained in the linked Video Run's description. I strongly recommend you to read it and watch the gameplay a bit in order to get more knowledgeable in regards to 6S's strength and amazing potential at ER.
 
 >   Boss to be chosen: RPC, then Elysia or Vill-V.
 
@@ -6565,11 +6590,12 @@ SS0 | Finality | DoI & Willows | 4:22m (6.3) | [https://youtu.be/W85CnANl6c0](ht
 
 Buff | Load
 :----: | :----: 
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6674,7 +6700,7 @@ Quick search: SpA, Rita, Fire Rita
 ### <p align="center">-- Rita's Training Arc 7D</p>
 
 !!! note
-    Updated 6.3. SpA had enough of sitting in the bench just warming it while watching other valkyries push ahead of her, so she decided to finally take matters into her hands and train to become a better valkyrie and catch up to the others! And she sure did went a bit overboard... by becoming even stronger than before! SpA's strength in favorable weathers is pretty strong and she also becomes a fairly easy valk to clear ER with. Although she struggles even more against Psy mobs. 
+    Updated 6.4. SpA had enough of sitting in the bench just warming it while watching other valkyries push ahead of her, so she decided to finally take matters into her hands and train to become a better valkyrie and catch up to the others! And she sure did went a bit overboard... by becoming even stronger than before! SpA's strength in favorable weathers is pretty strong and she also becomes a fairly easy valk to clear ER with. Although she struggles even more against Psy mobs. 
 
 
 >   Boss to be chosen: Husk Mysticism, then Aponia or Vill-V
@@ -6693,12 +6719,12 @@ SS | Finality | Pisces & Ragna | 5:59m (6.2 1st Half) | [https://youtu.be/vttyla
 
 Buff | Load
 :----: | :----: 
-Recover 1 SP per second when HP is full. | 5
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Time slowed enemies take 8% bonus total dmg for 4s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6793,7 +6819,7 @@ Signet | Priority
 ### <p align="center">-- Kosma Build 7D</p>
 
 !!! note
-    Updated 6.3. This valk is fucking awful. Honest truth. Her early game absolutely sucks, even as SS-rank, and loses against valks like Fischl and Eden in that regard. She only starts ramping up in strength after Benares, but even then, she still sucks a bit as she becomes mediocre at best. If anything, I would honestly recommend to play other valks instead of this shitty valk. She just really sucks, nothing more.
+    Updated 6.4. This valk is fucking awful. Honest truth. Her early game absolutely sucks, even as SS-rank, and loses against valks like Fischl and Eden in that regard. She only starts ramping up in strength after Benares, but even then, she still sucks a bit as she becomes mediocre at best. If anything, I would honestly recommend to play other valks instead of this shitty valk. She just really sucks, nothing more.
 
 >   Boss to be chosen: Husk Mysticism, then Elysia, Aponia or Vill-V.
 
@@ -6808,12 +6834,12 @@ SS | Finality | Pisces & Ragna | 10:16m (6.0 1st Half) | [https://youtu.be/IDZt4
 
 Buff | Load
 :----: | :----: 
-Recover 1 SP per second when HP is full. | 5
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Time slowed enemies take 8% bonus total dmg for 4s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -6913,7 +6939,7 @@ Quick search: Seele
 ### <p align="center">-- Veliona Tries to Survive</p>
 
 !!! note
-    Updated 6.3. Nyx is a sort of straightforward valkyrie to play in ER. Relying on the generation of Carmine Gashes to recover SP for herself and get ready to ult everytime, she actually has a quite comfortable downtime. However, this is locked behind the requirement of needing one of her Ego signets. For a full explanation, you can read the video run's description.
+    Updated 6.4. Nyx is a sort of straightforward valkyrie to play in ER. Relying on the generation of Carmine Gashes to recover SP for herself and get ready to ult everytime, she actually has a quite comfortable downtime. However, this is locked behind the requirement of needing one of her Ego signets. For a full explanation, you can read the video run's description.
 
 >   Boss to be chosen: RPC, then Vill-V or Aponia
 
@@ -6931,12 +6957,12 @@ S0 | Finality | Sanguine & Verne | 8:48m (6.1 1st Half) | [https://youtu.be/9w0X
 
 Buff | Load
 :----: | :----: 
-Recover 1 SP per second when HP is full. | 5
-Valkyrie deals 15% bonus Total DMG. This effect is negated for 5s after taking DMG. Triggering it again resets the duration. | 10
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -7039,7 +7065,7 @@ Quick Search: SI, Griseo, Grisekek, Painter, Bob Ross
 ### <p align="center">-- Griseo Aboose</p>
 
 !!! note
-    Updated for 6.3.
+    Updated for 6.4.
 
 > Boss to be Chosen: Husk Mysticism, then Mobius, Aponia or Vill-V.
 
@@ -7055,12 +7081,13 @@ SSS | Finality | Ranger's Cross & Elysia TB Paganini/Dante M | 12:15m (6.1 2nd H
 
 Buff | Load
 :----: | :----: 
-For every support Valkyrie whose type is the same as the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
-Valkyrie deals 15% bonus Total DMG. This effect is negated for 5s after taking DMG. Triggering it again resets the duration. | 10
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -7165,7 +7192,7 @@ Quick search: StFu, Mei
 ### <p align="center">-- Just Stfu</p>
 
 !!! note 
-    Updated 6.3. If anyone tells you that StFu can't do ER, you can show this to them! Or... you can do it yourself! Provided you actually wouldn't mind balding for making this valkyrie work, that is... Wait, this valk actually isn't that bad! Okay, but seriously. What can I say? StFu's strength as a valkyrie for ER is also pretty mid, but leaning towards somewhat strong. Though this comes with quite a number of downsides that StFu has, naturally making her not a better choice than other particular valks.
+    Updated 6.4. If anyone tells you that StFu can't do ER, you can show this to them! Or... you can do it yourself! Provided you actually wouldn't mind balding for making this valkyrie work, that is... Wait, this valk actually isn't that bad! Okay, but seriously. What can I say? StFu's strength as a valkyrie for ER is also pretty mid, but leaning towards somewhat strong. Though this comes with quite a number of downsides that StFu has, naturally making her not a better choice than other particular valks.
 
 > Boss to be Chosen: Husk Mysticism, then Aponia or Vill-V
 
@@ -7180,12 +7207,13 @@ SSS | Finality | 7T & 3-set Dirac | 13:18m (6.1 1st Half) | [https://youtu.be/K-
 
 Buff | Load
 :----: | :----: 
-For every support Valkyrie whose type is the same as the deployed Valkyrie, the deployed Valkyrie deals 3% more Physical and Elemental DMG. | 5
-Valkyrie deals 15% bonus Total DMG. This effect is negated for 5s after taking DMG. Triggering it again resets the duration. | 10
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -7286,7 +7314,7 @@ Quick search: SN, Saule, SNoDamage
 ### <p align="center">-- [SS] Veliona After PTSD 7D</p>
 
 !!! note
-    Updated 6.3. Truthfully, you should just avoid using this Valk for the purposes of the weekly ER clear. There are a lot of reasons. But she's simply, the worst performance valk in ER amidst the base S-ranks.
+    Updated 6.4. Truthfully, you should just avoid using this Valk for the purposes of the weekly ER clear. There are a lot of reasons. But she's simply, the worst performance valk in ER amidst the base S-ranks.
 
 >   Boss to be chosen: Husk Mysticism, then Vill-V
 
@@ -7305,12 +7333,13 @@ SS0 | Finality | PoA:Kindred & Allan Poe | 21:21m (6.2 1st Half, SPECIAL) | [htt
 
 Buff | Load
 :----: | :----: 
-Recover 1 SP per second when HP is full. | 5
-Valkyrie deals 15% bonus Total DMG. This effect is negated for 5s after taking DMG. Triggering it again resets the duration. | 10
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -7420,12 +7449,13 @@ S2 | Abstinence | Path of Acheron Pri & 3-set Allan Poe | 14m (2nd Half 5.9) | [
 
 Buff | Load
 :----: | :----: 
-Recover 1 SP per second when HP is full. | 5
-Valkyrie deals 15% bonus Total DMG. This effect is negated for 5s after taking DMG. Triggering it again resets the duration. | 10
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -7528,7 +7558,7 @@ Quick search: SnS, Carole
 ### <p align="center">-- Scamrole!</p>
 
 !!! note 
-    Updated 6.3. Carole arguably sits in a tier of her own thanks to this, and a couple other reasons. While she actually has A LOT of frontloaded damage that hurts a shitton, both in her Charged ATKs and Ultimate, this is however eclipsed by the fact that she's actually TERRIBLE when dealing with the F17 Bosses. This can easily become a problem for you to get past, which would mean a failed run.
+    Updated 6.4. Carole arguably sits in a tier of her own thanks to this, and a couple other reasons. While she actually has A LOT of frontloaded damage that hurts a shitton, both in her Charged ATKs and Ultimate, this is however eclipsed by the fact that she's actually TERRIBLE when dealing with the F17 Bosses. This can easily become a problem for you to get past, which would mean a failed run.
 
 > Boss to be Chosen: Husk Mysticism, then Aponia or Vill-V
 
@@ -7543,11 +7573,13 @@ SSS | Finality | MKP & Paganini | 12:34m (6.1 1st Half) | [https://youtu.be/MdpF
 
 Buff | Load
 :----: | :----: 
-Valkyrie deals 15% bonus Total DMG. This effect is negated for 5s after taking DMG. Triggering it again resets the duration. | 10
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -7663,7 +7695,7 @@ Quick search: TP, Teri, Theresa
 ### <p align="center">-- Teri's Struggles</p>
 
 !!! note
-    Updated 6.3. Sadly, TP's strength is pretty average. All around, she's average. Just a decent ER valkyrie that isn't either good nor bad. 
+    Updated 6.4. Sadly, TP's strength is pretty average. All around, she's average. Just a decent ER valkyrie that isn't either good nor bad. 
 
 >   Boss to be chosen: Husk Mysticism, then Aponia or Vill-V
 
@@ -7682,12 +7714,13 @@ SSS | Finality | Hekate Sombre & Kafka | 11:25m (6.3) | [https://youtu.be/xmXJjr
 
 Buff | Load
 :----: | :----: 
-Recover 1 SP per second when HP is full. | 5
-Valkyrie deals 15% bonus Total DMG. This effect is negated for 5s after taking DMG. Triggering it again resets the duration. | 10
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Time slowed enemies take 8% bonus total dmg for 4s | 5
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -7802,7 +7835,7 @@ Quick search: VG, Dudu, Goose
 ### <p align="center">-- Durandab Does it Again!</p>
 
 !!! note
-    Updated for 6.3. Honestly, just pick someone better. Please stay out of her and conserve your sanity if your VG is not SSS and especially if you do not have a ELF that has gather like Durandab. ELF Elysia would also work. Water's Edge as well, but its gather is weak if your Valk is not Ice.
+    Updated for 6.4. Honestly, just pick someone better. Please stay out of her and conserve your sanity if your VG is not SSS and especially if you do not have a ELF that has gather like Durandab. ELF Elysia would also work. Water's Edge as well, but its gather is weak if your Valk is not Ice.
 
 > Boss to be Chosen: Husk Mysticism, then Vill-V
 
@@ -7817,11 +7850,12 @@ SSS | Finality | Eos Gloria & Ragna TB Thales M | 15:59m (6.2) | [https://youtu.
 
 Buff | Load
 :----: | :----: 
-When Charged ATK hits, gain 20% Elemental Breach and 15% Physical Breach for 15s. Triggering it again refreshes the duration. | 15
-After the deployed Valkyrie deals MELEE DMG, she will deal 20% more Physical and Elemental DMG for 10s. Triggering it again refreshes the duration. | 15
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -7928,7 +7962,7 @@ Quick search: VK, VKE, Himedead
 ### <p align="center">-- Ultimate Spam Build</p>
 
 !!! note
-    Updated 6.3. Alright. This is by far the best result I've gotten out of VK's Ultimate Build. This is a good showcase of how absurdly strong her power is during this shilled weather, placing her easily as basically a cheatcode to clear ER with in the current patch.
+    Updated 6.4. Alright. This is by far the best result I've gotten out of VK's Ultimate Build. This is a good showcase of how absurdly strong her power is during this shilled weather, placing her easily as basically a cheatcode to clear ER with in the current patch.
 
 >   Boss to be chosen: Husk Mysticism, then Vill-V or Elysia (to booli her)
 
@@ -7944,11 +7978,12 @@ S3 | Finality | Blood Dance & Leuweenhoek TB Himeko M | 7:58m (6.2 1st Half) | [
 
 Buff | Load
 :----: | :----: 
-Valkyrie deals 15% bonus Total DMG. This effect is negated for 5s after taking DMG. Triggering it again resets the duration. | 10
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -8064,7 +8099,7 @@ Signet | Priority
 ### <p align="center">-- Charged ATK Spam Build</p>
 
 !!! note
-    Updated 6.3. Not enjoying the Ultimate build perhaps, are we? Maybe because of its reliance on gather in order to unga bunga your way through every floor's waves and waves of mobs coming up to try and stop you?  Or.. maybe you just want to have some fun with Charged Build together with its... ahem... quite horrible and uncomfortable at times, gather signet and Charged ATKs on steroids?
+    Updated 6.4. Not enjoying the Ultimate build perhaps, are we? Maybe because of its reliance on gather in order to unga bunga your way through every floor's waves and waves of mobs coming up to try and stop you?  Or.. maybe you just want to have some fun with Charged Build together with its... ahem... quite horrible and uncomfortable at times, gather signet and Charged ATKs on steroids?
 
 >   Boss to be chosen: Husk Mysticism, then Vill-V or Elysia (to booli her)
 
@@ -8081,11 +8116,12 @@ SS | Finality | Cleaver of Shamash & Wang Zhaojun | 11:09m (6.2 1st Half) | [htt
 
 Buff | Load
 :----: | :----: 
-Valkyrie deals 15% bonus Total DMG. This effect is negated for 5s after taking DMG. Triggering it again resets the duration. | 10
-When enemies are ignited, frozen or time-slowed, the Valkyrie deals 15% more Total DMG for 8s. Triggering it again refreshes its duration. | 10
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 !!! note
-    Effective for 6.3.
+    Updated for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
