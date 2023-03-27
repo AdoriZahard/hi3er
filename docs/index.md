@@ -3729,7 +3729,7 @@ Quick Search: HoTR, HTR, Truth, Gundam Bronya
 ### <p align="center">-- Ultimate Build</p>
 
 !!! note 
-    Updated for 6.3. This build is slower than the other available to HTR, however both are equally as good and fun to use. Be free to go with whichever you feel like!
+    Updated for 6.4. This build is slower than the other available to HTR, however both are equally as good and fun to use. Be free to go with whichever you feel like!
 
 > Boss to be Chosen: Husk Mysticism OR RPC, then Elysia for fastest time OR Vill-V.
 
@@ -3748,11 +3748,12 @@ S0 | Finality | SoE:W & Pristine | 6:58m (6.3) | [https://youtu.be/XtWf6BpGW3A](
 
 Buff | Load
 :----: | :----: 
-When spending at least 100/125 SP at once, all enemies take 10%/20% more Total DMG for 15s (cannot stack). Triggering it again resets the duration. | 15
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Time slowed enemies take 8V bonus total dmg for 4s | 5
 
 !!! note
-    Effective for 6.3.
+    Effective for 6.4.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
@@ -3874,7 +3875,7 @@ Signet | Priority
 ### <p align="center">-- Laser Spam Build</p>
 
 !!! note 
-    Updated for 6.3. This is the faster and more comfier build. Easier and stronger, too. But feel free to go with whichever you feel like using!
+    Updated for 6.4. This is the faster and more comfier build. Easier and stronger, too. But feel free to go with whichever you feel like using!
 
 > Boss to be Chosen: Husk Mysticism OR RPC, then Elysia for fastest time OR Vill-V.
 
@@ -3892,12 +3893,12 @@ S2 | Finality | DoA & Bronya Zaychik | 4:18m (6.3) | [https://youtu.be/oNUMPhmOp
 
 Buff | Load
 :----: | :----: 
-Valkyrie deals 15% bonus Total DMG. This effect is negated for 5s after taking DMG. Triggering it again resets the duration. | 10
-Valkyries who use pistols, chakrams, cannons or fists deal 20% more Total DMG. | 15
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
+ Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+ Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
 
 !!! note
-    Effective for 6.3. Be careful and try to avoid getting hit to not lose the buff.
-
+    Effective for 6.4
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
 Early | Memory | Hometown
