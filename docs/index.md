@@ -2560,6 +2560,54 @@ Signet | Priority
 
 ***
 
+## Herrscher of Origin
+Quick Search: HoO, MGR Raiden 
+
+![The hotter Origin](https://www.miyoushe.com/bh3/article/35023182)
+
+### <p align="center">-- Ultimate Build</p>
+
+!!! note
+    Updated 6.4. 2nd strongest, technically,
+
+>   Boss to be chosen: RPC, then Aponia or Vill-V
+
+####<p align="center">Setup</p>
+
+Rank | Difficulty Done | Recommended Gear | Clear Time | Run
+:------: | :------: | :------: | :------: | :------:
+S2 | Fianlity | Lv65 DoU & Raiden Mei | 4:22 (6.4) | [https://youtu.be/8ByKcvgNqIA](https://youtu.be/8ByKcvgNqIA)
+
+
+Buff | Load
+:----: | :----: 
+Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
+Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
+
+!!! note 
+    Updated for 6.4.
+
+Time | Remembrance Sigil | FC Support Skill
+:----: | :----: | :----:
+Early | Memory | Hometown
+Mid | Veil of Tears / Forget-Me-Not / Rainbow of Absence | The Lonely Moon OR Tsukimi Himiko
+Late | Tin Flask or Key to the Deep | The Lonely Moon OR Tsukimi Himiko
+
+!!! note
+    Hometown is necessary to get a starting +3 on Hua's signets.
+
+Time | Support 1 | Support 2
+:----: | :----: | :----:
+Early | AE | LE
+Mid | AE | BK
+Late | AE | BR
+
+!!! note
+    Remember to switch BK in by F10 just before Heimdall fight. Without BK, you'll have a really hard time against Heimdall otherwise. Then, you can switch her out for BR if you already have SP Regen covered.
+    
+***
+
 ## Herrscher of Reason
 Quick Search: HoR, Bronya
 
