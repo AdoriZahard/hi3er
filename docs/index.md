@@ -2563,7 +2563,7 @@ Signet | Priority
 ## Herrscher of Origin
 Quick Search: HoO, MGR Raiden 
 
-![The hotter Origin](https://www.miyoushe.com/bh3/article/35023182)
+![The hotter Origin](https://upload-bbs.miyoushe.com/upload/2023/01/30/253002377/3d080d9ef46beef357069ef23cc377a5_3444480369514624780.jpg)
 
 ### <p align="center">-- Ultimate Build</p>
 
