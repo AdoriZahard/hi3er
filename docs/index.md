@@ -1,4 +1,4 @@
-# 6.3 Elysian Realm
+# 6.4 Elysian Realm
 ***
 <p align="center">Please contact `Rafe#5610` or `FrediSK#5056` or `boba#8849` if there are any typos or not updated load buffs.</p>
 <p align="center">Contact `Adori - Columbina Supremacy#6481` or `Rafe#5610` until further notice (probably not Butter#2252) if there are any build questions/suggestions.</p>
@@ -2604,7 +2604,7 @@ Mid | AE | BK
 Late | AE | BR
 
 !!! note
-    Remember to switch BK in by F10 just before Heimdall fight. Without BK, you'll have a really hard time against Heimdall otherwise. Then, you can switch her out for BR if you already have SP Regen covered.
+    Can take BKE at f10 shop for Heimdal. HoO however is good at bruteforcing through his red mode
     
 ***
 
