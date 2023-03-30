@@ -2590,22 +2590,31 @@ For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
-Early | Memory | Hometown
-Mid | Veil of Tears / Forget-Me-Not / Rainbow of Absence | The Lonely Moon OR Tsukimi Himiko
-Late | Tin Flask or Key to the Deep | The Lonely Moon OR Tsukimi Himiko
+Early |Veil of Tears | The Lonely Moon
+Mid | Memory / Rainbow of Absence | The Lonely Moon OR Hometown
+Late | Tin Flask or Resolve | The Lonely Moon OR Falling in Past Light
 
 !!! note
-    Hometown is necessary to get a starting +3 on Hua's signets.
+    Hometown is useful to get a starting +3 on Hua's signets.
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | AE | LE
-Mid | AE | BK
+Early | AE | BR
+Mid | AE | BK/BKE
 Late | AE | BR
 
 !!! note
     Can take BKE at f10 shop for Heimdal. HoO however is good at bruteforcing through his red mode
-    
+
+ ####<p align="center">Elysia - Signet of ■■</p>
+
+Signet | Priority
+------|:----:
+**Blessing of Ultra**: Ultimate can slash up to 8 more times and deal an extra 500% ATK of Lightning DMG. | **Start**
+**Blessing of Inscription**: Ultimate's CD reduces by 30% and it deals 100% bonus Total DMG. If it kills an enemy, Valkyrie recovers 5 SP per second for 7s. Triggering it again refreshes its duration. | 1st
+**Blessing of Lethal Smite**: TStacking Twisted Origin grants 1 charge. At 2 charges, Malice Expunged consumes all charges to deal 1000% ATK of bonus Lightning DMG, gather enemies in a large area, and make enemies hit take 30% bonus Lightning DMG for 10s. Triggering it again resets the duration. | Optional
+**Blessing of Nature**: Stacking Twisted Origin boosts Total DMG from Basic ATK and Combo ATK by 25% for 8s (5 stacks max), reduces weapon active CD by 3s, and grants 3s of Iron Body plus 80% DMG reduction. | No
+**Blessing of Expungement**: Malice Expunged deals 15 x 200% ATK of bonus Lightning DMG. When triggered, it reduces weapon active CD by 2s and increases Valkyrie's Total DMG by 40% for 10s. Triggering it again resets the duration. | No
 ***
 
 ## Herrscher of Reason
@@ -8320,7 +8329,7 @@ Additionally, Herrscher of Humanity can also further abuse this. Since she alrea
 - VampyHime#9207: was a beta tester and translator for beta, actual build testing and also provide theoretical build
 - Camelva#7085: helped with build testing and data gathering
 - Starlight#9581: ER help section with story progression
-- FrediSK#5056: picture dealer who found pics for most, also helped with kalpas boss
+- FrediSK#5056: picture dealer who found pics for most, also helped with kalpas boss, last updater
 - Korath#5931: kalpas boss help
 - Kaga#1780 (Citrus): helped get builds out there for people to see, theory crafter, tester and beta tester. They are also a [youtuber](https://www.youtube.com/c/CitrusCh)
 - Nana#3086: Helped with builds
