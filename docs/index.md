@@ -63,6 +63,9 @@ Finality gives nothing, we use it for the purpose of testing the Valkyries' stre
 ## Elysian Realm's 6.2 2nd Half ER Tierlist
 <p align="center"> By: Adori - Columbina Supremacy#6481</p>
 
+!!! danger
+    This list has not been updated for the current ER weather.
+
 !!! note
     Please make sure to read the explanation below regarding the method in which the Tierlist was made before DMing me for whatever reason you might want to, thank you~
 
@@ -85,9 +88,6 @@ A lot of factors can go into the strength of a Valkyrie as well. Please keep tha
 - 2023-01-18: Updated every Valkyrie's recommended Load Buffs. Added 6S Section with her available build.
 - 2023-01-17: Added HTR Section with both of her available Builds.
 - 2022-09-22: Github page redesigned and replaces [https://rentry.co/hi3er](https://rentry.co/hi3er)
-
-!!! note
-    Tomorrow Tuesday 18th I will try to update every Valkyrie's Load Buffs and their Ego signets choices accordingly. Please be patient, as this takes a lot of time and effort. In the meanwhile, you can ask in Discord to other fellow knowledgeable captains regarding ER questions, or directly DM me. Thank you for your understanding and patience.
 
 **Table of Contents (In alphebetical order):**
 
@@ -2615,6 +2615,53 @@ Signet | Priority
 **Blessing of Lethal Smite**: TStacking Twisted Origin grants 1 charge. At 2 charges, Malice Expunged consumes all charges to deal 1000% ATK of bonus Lightning DMG, gather enemies in a large area, and make enemies hit take 30% bonus Lightning DMG for 10s. Triggering it again resets the duration. | Optional
 **Blessing of Nature**: Stacking Twisted Origin boosts Total DMG from Basic ATK and Combo ATK by 25% for 8s (5 stacks max), reduces weapon active CD by 3s, and grants 3s of Iron Body plus 80% DMG reduction. | No
 **Blessing of Expungement**: Malice Expunged deals 15 x 200% ATK of bonus Lightning DMG. When triggered, it reduces weapon active CD by 2s and increases Valkyrie's Total DMG by 40% for 10s. Triggering it again resets the duration. | No
+
+####<p align="center">Aponia - Signet of Discipline (2nd Core)</p>
+
+Signet | Priority
+--- | :----:
+**Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | 1st
+**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 2nd
+**Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 3rd
+**Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
+**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 1st
+**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | Optional
+**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | Optional
+
+!!! note
+    Ultimate is high priority to +3. Do keep in mind to let Aponia2's Adaptive DMG hit before using weapon skill or ult. Don't take Aponia's breach if you take Kevin's.
+
+####<p align="center">Kevin - Signet of Deliverance (2nd Core)</p>
+
+Signet | Priority
+---- | :----:
+**Goblet of the Giver**: Ultimate boosts Total DMG by 35% for 5s | 1st
+**Brand of the Undead**: Ultimate boosts Elemental DMG by 30% for 5s | 2nd
+**Artifact of the Inhibitor**: Ultimate boosts Elemental Breach by 25% for 5s | Optional 3rd
+**Rochet of the Pilgrim**: Ultimate restores 3 SP per second for 5s. | Optional 3rd
+**Nexus Signet 1: Blade of the Deliverer** |
+**Flock of the Deliverer**: Final Battle is also considered burst mode. Total DMG increases by 20% in burst mode. | Optional 1st
+
+!!! note
+    TDM and Elem DMG are high priority to +3.  Between the Breach or SP/s, it doesn't matter, both are useless either way, you just want to prioritize finishing the Core especially if you can by Double Bonus floors. Flock is very good to take if you can and highly recommended.
+
+####<p align="center">Griseo - Signet of Stars (4th Core)</p>
+
+Signet | Priority
+--- | :----:
+**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st
+**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | 2nd
+**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 3rd
+**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 4th
+**Grey & Empty**: Enemies stay tainted for 5s longer. | No
+**Nexus Signet 2: Faded Stars** |
+**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 1st
+**Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 2nd
+**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | Optional 3rd
+
+!!! note
+    Red and Yellow are absolute highest priority to +3. Black is good to +3. It's very strongly recommended to use 3* Remembrance Sigil Abuse to try and get Petals and Fallen both at +2.
+
 ***
 
 ## Herrscher of Reason
@@ -2633,7 +2680,7 @@ Quick Search: HoR, Bronya
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-S2 | Fianlity | Lv50 SoE:W & Scott | 12:46m (6.3) | [https://youtu.be/kMo88GHWPYg](https://youtu.be/kMo88GHWPYg)
+S2 | Finality | Lv50 SoE:W & Scott | 12:46m (6.3) | [https://youtu.be/kMo88GHWPYg](https://youtu.be/kMo88GHWPYg)
 SS1 | Finality | SoE:W & 3-set Willows | 6:18m (6.1 2nd Half) | [https://youtu.be/HFMISsD5Tjw](https://youtu.be/HFMISsD5Tjw)
 SS1 | Finality | SoE:W & 3-set Willows | 7:03m (6.1 2nd Half, uses V-V2) | [https://youtu.be/-VX6VCHd3hU](https://youtu.be/-VX6VCHd3hU)
 SS1 | Finality | SoE:W & 3-set Ana Schariac | 7:57m (6.1 1st Half) | [https://youtu.be/WtWG29ySI7s](https://youtu.be/WtWG29ySI7s)
