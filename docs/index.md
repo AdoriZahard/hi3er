@@ -8058,6 +8058,135 @@ Signet | Priority
 
 ***
 
+## Valkyrie Quicksand
+Quick search: VQ, Susannah, sus2, SuzyQ
+
+!!! note
+	You know, Bear sure is quite a strong B-Rank Valkyrie alright... Wait, wasn't she supposed to be just B-Rank!? How come she's so strong in ER too!?
+
+	VQ's early game is actually a bit weak, her real strength starts to show right after finishing her first core and by mid floors. Then, she scales rather hard towards the late floors.
+
+### <p align="center">-- Ultimate Build</p>
+
+!!! note
+	If you're wondering about how the strength of VQ's Ult build compares to her other possible build, the Combo one, the answer is that at SS rank, they're both at equal strength; with Ultimate winning slightly. However, at SSS rank, Combo wins by a very drastically large margin leaving Ult build behind.
+
+	Ult build, however, is very braindead and rather comfy. It also is really strong against Heimdall by virtue of Susannah having complete i-frames during her Ultimate, whereas Combo build has tight i-frames that require Susannah to evade in-between in order to not lose Hua stacks (or if without it, she dies easily) against Heimdall's attacks in red mode.
+
+	Other than that, Susannah's gameplay is really simple too. Here it's just have some means of gather (if you don't have a gather ELF, I recommend you to bring SN over BR; however, if you're lacking damage, keep BR), then use Active into Combo (make sure Active hits to fully recharge bar), then farm enough SP for Ultimate and use it, then repeat the whole sequence until enemies die.
+
+> Boss to be Chosen: Couatl, then Elysia (fastest), Vill-V or Aponia.
+
+#### <p align="center">Setup</p>
+
+Rank | Difficulty Done | Recommended Gear | Clear Time | Run
+:----: | :----: | :----: | :----: | :----:
+SS0 | Finality | 65 Lustrous Bloom & Aladdin | 5m (6.4 2nd Half) | [https://www.youtube.com/watch?v=djfNHCkWAZk](https://www.youtube.com/watch?v=djfNHCkWAZk)
+
+Buff | Load
+:----: | :----:
+10% Total DMG taken for each stack of bleeding (max x3) | 15
+20% Phys DMG taken for 10s after Combo ATK | 15
+
+Time | Remembrance Sigil | FC Support Skill
+:----: | :----: | :----:
+Early | Memory | The Lonely Moon
+
+!!! note
+	Hua is the best start for Susannah in 6.4p2 due to +2 and thanks to the +1 on the first 5 signets you get, easily allowing to get her signets at +3 without using Hometown. TLM helps A LOT in this build as long as you time it right for the waves and against Couatl.
+
+Time | Support 1 | Support 2
+:----: | :----: | :----:
+Early | SS | LE
+Mid | SS | BR / BK
+Late | SS | SN
+
+!!! note
+	You never swap SS out. LE is mandatory for Early game to help with spamming Ult. Then swap LE out for BR at F6 Shop for the remainder of the run. For Heimdall, you can choose to bring BK if you're not confident in dealing with him since VQ doesn't have any way to break his shields. For Couatl, bring SN.
+
+#### <p align="center">Elysia - Signet of ■■</p>
+
+Signet | Priority
+------|:----:
+**Blessing of Tambourine**: Decreases Ultimate CD by 55%. When Ultimate gets a Perfect judgment, additionally recover 10 SP and 2 Rhythm. Each Perfect increases Total DMG by 8% when ultimate ends for 30s; this increase can stack 5 times. Triggering it again refreshes its duration. | Start
+**Blessing of Whimsy**: Casting Ultimate increases Rhythm by 8. Ultimate deals an extra 400% ATK of Physical DMG and inflicts 4 Bleed Trauma per hit. | 1st
+**Blessing of Dappled Shade**: Weapon active has an 80% shorter CD, deals an extra 200% ATK of Physical DMG, increases Rhythm by 3, and inflicts 6 Bleed Trauma.  The enemies it hits also take 10% more Bleed DMG for 8s. Triggering it again refreshes its duration. | Filler
+**Blessing of Rarities**: When weapon active hits, the target drops 10 Shiny Silvers, up to 5 drops per floor (independent); the host also deals 15% more Physical DMG for 10s, up to 3 stacks (CD: 1s). Triggering it again refreshes its duration. | Filler
+**Blessing of Luster**: The gems tossed at the end of Combo ATK will leave a gem nebula after exploding. The gem nebula will continuously pull nearby enemies and explode 2 times, dealing 200% x 4 + 500% x 4 ATK of Bleed DMG and inflicting 12 Bleed Trauma. | No
+
+!!! note
+	Tambourine + Whimsy are all VQ needs. Make sure to do F2 Ego reset to get Whimsy as it's what makes this build work and nothing else.
+
+!!! note
+	Ideal course of build up in 6.4p2: 2 Ego Start (Tambourine + Whimsy) into Hua's TDM by F3, finish Hua 2nd Core by F4 double, grab Broken Dream F5, go shop F6 and use 3* Remembrance Sigil Abuse to ideally grab Griseo's Yellow at +3 and Aponia's Third, then finish Aponia 2nd Core by F7 Double.
+
+#### <p align="center">Hua - Signet of Vicissitude</p>
+
+Signet | Priority
+----| :----:
+**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 1st
+**Days Gone**: Physical DMG increases by 0.8% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 2nd
+**No One To Share**: Physical Breach increases by 0.6% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 3rd
+**Nexus Signet 2: Suffering Mass** |
+**Broken Dream**: When possessing Soldier's Remembrance., increase the maximum stack of normal Vicissitude signets by 20 | 1st
+
+#### <p align="center">Aponia - Signet of Discipline</p>
+
+Signet | Priority
+--- | :----:
+**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 1st
+**Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | 2nd
+**Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 3rd
+**Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
+**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | 1st
+**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 2nd
+**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | Optional
+
+!!! note
+	Ultimate is high priority to +3.
+
+#### <p align="center">Pardofelis - Signet of Reverie</p>
+
+Signet | Priority
+--- | :----:
+**Motto of Meow**: Every 100 Shiny Silvers obtained this round boost Total DMG by 1%. | 1st
+**Back-Curled Tail**: Every 100 Shiny Silvers obtained this round boost Physical and Elemental DMG by 0.8%. | 2nd
+**Flexible P&C**: Every 100 Shiny Silvers obtained this round restore 1 HP and 0.1 SP. Taking DMG disables this effect for 5s. | 3rd
+**Shiny & Valuable**: Enemy kills grant bonus Shiny Silvers. Non-boss enemies grant 5 each. Boss enemies grant each (independent effect). | Optional
+**Merchant's Philosophy**: After finishing each floor, the number of currently owned Shiny Silvers grows by 10% for up to 100 (independent effect). | Optional
+**Nexus Signet 1: Empty Dreams, Self, Set, and Joy**: |
+
+#### <p align="center">Griseo - Signet of Stars</p>
+
+Signet | Priority
+------ | :----:
+**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration | 1st
+**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental MG (cannot stack). Triggering it again resets the duration | 2nd
+**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 3rd
+**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 4th
+**Grey & Empty**: Enemies stay tainted for 5s longer | No
+**Nexus Signet 2: Faded Stars** |
+**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 1st
+**Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 2nd
+**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | Optional
+
+!!! note
+    Yellow and Red are highest priority to +3. Black is also good to +3. It's strongly recommended to try and get both Petals and Fallen starting at +2 by a Double Bonus floor using the 3* Remembrance Sigil Abuse.
+
+#### <p align="center">Eden - Signet of Gold (Mostly Felis Shop Signets)</p>
+
+Signet | Priority
+---- | :----:
+**Recitatif of Fine Jade**: Initial SP and max SP increase by 30 | 1st
+**Recitatif of Eden**: Every 10 SP left boosts Total DMG by 3.0% | 2nd
+**Recitatif of Creeks**: Every 10 SP left boosts Physical & Elemental DMG by 2.5% | 3rd
+**Nexus Signet 2: Echo of Gold** | Not Necessary
+
+!!! note
+	You can opt to grab and finish Eden2 if you can, but this would require god-like RNG. Nevertheless a good core to finish due to easily being able to maintain it. Also, the Initial/Max SP signet is very good to grab early if u want so u can have Ult ready sooner.
+
+***
+
 ## Vermilion Knight: Eclipse
 Quick search: VK, VKE, Himedead
 
