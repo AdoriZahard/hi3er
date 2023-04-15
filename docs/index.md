@@ -2576,7 +2576,7 @@ Quick Search: HoO, MGR Raiden
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-S2 | Fianlity | Lv65 DoU & Raiden Mei | 4:22 (6.4) | [https://youtu.be/8ByKcvgNqIA](https://youtu.be/8ByKcvgNqIA)
+S2 | Finality | Lv65 DoU & Raiden Mei | 4:22 (6.4) | [https://youtu.be/8ByKcvgNqIA](https://youtu.be/8ByKcvgNqIA)
 
 
 Buff | Load
@@ -2606,7 +2606,7 @@ Late | AE | BR
 !!! note
     Can take BKE at f10 shop for Heimdal. HoO however is good at bruteforcing through his red mode
 
- ####<p align="center">Elysia - Signet of ■■</p>
+####<p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
@@ -8380,6 +8380,7 @@ Additionally, Herrscher of Humanity can also further abuse this. Since she alrea
 - Korath#5931: kalpas boss help
 - Kaga#1780 (Citrus): helped get builds out there for people to see, theory crafter, tester and beta tester. They are also a [youtuber](https://www.youtube.com/c/CitrusCh)
 - Nana#3086: Helped with builds
+- jicama#6299: updates based on Adori's youtube guides
 
 **Unnamed people who helped:**
 
