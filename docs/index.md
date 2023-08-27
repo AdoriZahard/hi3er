@@ -1,7 +1,7 @@
 # 6.4 Elysian Realm
 ***
-<p align="center">Please contact `Rafe#5610` or `FrediSK#5056` or `boba#8849` if there are any typos or not updated load buffs.</p>
-<p align="center">Contact `Adori - Columbina Supremacy#6481` or `Rafe#5610` until further notice (probably not Butter#2252) if there are any build questions/suggestions.</p>
+<p align="center">Please contact `adoriz` or `.syblue` if there are any typos or not updated load buffs.</p>
+<p align="center">Contact `adoriz` or `.syblue` until further notice if there are any build questions/suggestions.</p>
 ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 [Return to Honkai Rentry Index](https://rentry.org/honkai3)
 
@@ -10,10 +10,6 @@
 ![elf ely kawaii~](https://cdn.discordapp.com/attachments/977869364067987466/982387513928843284/Screenshot_683.png)
 
 ***
-
-####<p align="center">Announcement</p>
-
-This ER Guide will no longer be maintained and updated by the main and original person in charge (Adori - Columbina Supremacy#6481) from retirement.
 
 <p align="center"> **Note: The number behind the Signet Name represents the core** </p>
 <p align="center">**Eg: Aponia2 = Aponia - Signet of Discipline Core 2 (You Shall Receive Disciplines' Blessing)**</p>
@@ -83,11 +79,7 @@ A lot of factors can go into the strength of a Valkyrie as well. Please keep tha
 
 
 ## Update log
-- 2023-01-24: Added PE Knight Form Build. Updated most of the Valkyries' Builds (Signet Priority changed) that have already been covered in my Channel's runs done for this patch.
-- 2023-01-20: Updated HoR, HoFS, HoV, SN Video Runs (6.3). Signet Priority still not updated, please watch these videos.
-- 2023-01-18: Updated every Valkyrie's recommended Load Buffs. Added 6S Section with her available build.
-- 2023-01-17: Added HTR Section with both of her available Builds.
-- 2022-09-22: Github page redesigned and replaces [https://rentry.co/hi3er](https://rentry.co/hi3er)
+- 2023-08-??
 
 **Table of Contents (In alphebetical order):**
 
@@ -3846,18 +3838,18 @@ Quick Search: HoTR, HTR, Truth, Gundam Bronya
 ### <p align="center">-- Ultimate Build</p>
 
 !!! note 
-    Updated for 6.4. This build is slower than the other available to HTR, however both are equally as good and fun to use. Be free to go with whichever you feel like!
+    Updated for 6.8. Ultimate Build is a bit slower than Laser Build, but otherwise still as strong in performance.
 
-> Boss to be Chosen: Husk Mysticism OR RPC, then Elysia for fastest time OR Vill-V.
+> Boss to be Chosen: Husk Mysticism, then Elysia for fastest time OR Vill-V.
 
 !!! note
-    Pick whichever you'd like to booli the most! Between the Bull and RPC, HTR can do either just fine, but you can do Bull to delete him with Vector.
+    Pick whichever you'd like to booli the most!
 
 ####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-S2 | Finality | DoA & Bronya Zaychik | 4:46m (6.3) | [https://youtu.be/fOUyqXIQC-M](https://youtu.be/fOUyqXIQC-M)
+S2 | Finality | DoA & Bronya Zaychik | 5:47m (6.6) | [https://youtu.be/MLPf7fZ-Y5Y?si=GGfp0koEa7NMwjni](https://youtu.be/MLPf7fZ-Y5Y?si=GGfp0koEa7NMwjni)
 S0 | Finality | SoE:W & Pristine | 6:58m (6.3) | [https://youtu.be/XtWf6BpGW3A](https://youtu.be/XtWf6BpGW3A)
 
 !!! note 
@@ -3865,30 +3857,30 @@ S0 | Finality | SoE:W & Pristine | 6:58m (6.3) | [https://youtu.be/XtWf6BpGW3A](
 
 Buff | Load
 :----: | :----: 
-Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
-Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
-Time slowed enemies take 8V bonus total dmg for 4s | 5
+Enemies damaged by Weapon Actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+After triggering evasion skill, valk Physical and Elemental DMG +15% for 8s, can be refreshed. | 10
+When valk Combo ATK hits an enemy, the target takes 30% more Total DMG for 15s, can be refreshed. | 15
 
 !!! note
-    Effective for 6.4.
+    Effective for 6.8 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
-Early | Forbidden Seed | Boundless Logos
-Mid | Memory / Rainbow of Absence / Gold Goblet / Mad King's Mask | The Lonely Moon OR Dreamful Gold
-Late | Tin Flask or Key to the Deep | The Lonely Moon OR Dreamful Gold
+Early | Burden | It Will Be Written OR Boundless Logos
+Mid | Mad King's Mask / Forbidden Seed / Feast of Emptiness | Boundless Logos
+Late | Tin Flask or Key to the Deep | Boundless Logos
 
 !!! note
-    After you're done with Mobius1 signets completely or when getting into F6 Shop, you can switch to either The Lonely Moon or Dreamful Gold based on your preference. It will be your Support Skill for the remainder of the run. TLM is recommended, however, for the extra +1 level on Griseo signets.
+    IWBW is for the +1 level on Kevin Signets. If it doesn't help you with F4 Double, take Boundless Logos instead of it.
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
 Early | AE | BR
-Mid | AE/BK | BR
-Late | AE or HB | BR
+Mid | AE | BR/BK
+Late | AE | BR
 
 !!! note 
-    AE and BR are the staple supports for HTR in the early and mid game. AE can later be replaced by BK, and this is strongly recommended in order to help HTR get past Heimdall since she has no attacks that can break his shields. 
+    AE and BR are the staple supports for HTR for the entirety of the run. By F9 or F10 Shop, you can switch BR for BK to help against Heimdall.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -3901,12 +3893,42 @@ Signet | Priority
 **Blessing of Konstruktion**: In Continuation form, Combo ATK pulls nearby enemies. While casting weapon active, small missiles are fired continuously, each dealing 120% ATK of Ice DMG as weapon active damage. Enemies hit by them receive 10% more Total DMG for 15s. Triggering it again refreshes its duration. | No
 
 !!! note
-    HTR only needs 3 Ego signets for the current weather. Genuine Solution and Intellect Core are her starter Ego signets while Vector is strongly recommended due to the Weather being filled with IMG Enemies.
+    HTR only needs 2 Ego signets for this build. Genuine Solution is her starting signet with Intellect Core as a must-get F2 Ego to make the build work. Afterwards, you can pick Vector during the run to make the build stronger.
 
-####<p align="center">Mobius - Signet of Infinity (1st Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
 
 !!! note
-    Ideal Order from F1-F7: 3 Ego Start (Genuine Solution + Intellect Core + Vector) into Mobius' Rodent by F3, finish Mobius 1st Core by F4 Double, grab Dead [X] from F5, go shop F6 and use 3* Remembrance Sigil Abuse to get Hua's Elem Breach and Griseo's Red, and if you can, Black as well. Can also upgrade Dead [X]. Then finish Hua 2nd Core by F7 Double, preferentially with 3* Remembrance Sigil Abuse for +3.
+    Ideal Order from F1-F7: 2 Ego Start (Genuine Solution + Intellect Core) into Kevin's TDM F3, finish Kevin 1st Core by F4 Double, grab Kevin's Flock or missing basic signet (ideally) by F5, go shop F6 and buy both of Kalpas' DMG boosts or one and EITHER Griseo's Red Paint or one of Mobius' signets, can also get Eden's Initial/Max SP, then put both of Kevin's 3* Remembrance Sigils and grab Kevin door F7 to grab Crusader and Flock at +2.
+
+Signet | Priority
+------|:----:
+**Goblet of the Giver**: Ultimate boosts Total DMG by 35% for 7s. | 1st
+**Brand of the Undead**: Ultimate boosts Elemental DMG by 30% for 7s. | 2nd
+**Rochet of the Pilgrim**: Ultimate restores 3 SP per second for 7s. | 3rd
+**Artifact of the Inhibitor**: Ultimate boosts Elemental Breach by 20% for 7s. | 4th
+**Nexus Signet 1: Blade of the Deliverer**: |
+**Crusade of the Deliverer**: After 0.5s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | 1st
+**Flock of the Deliverer**: Final Battle is also considered burst mode. Total DMG increases by 20% in burst mode. | 2nd
+
+!!! note
+    Crusade is highest priority to get ASAP and to +3.
+
+####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
+
+Signet | Priority
+- | :----:
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
+**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
+**Nexus Signet 1: Fight, Struggle and Decimation** |
+**Man, Mask and Contract**: Deals 40% more Total DMG to enemies with a higher HP percentage than yourself. Total DMG dealt by Blood Boil will also increase by another 60%. | 1st
+**Burden, Difficulty and Calamity**: Blood Boil costs 20% of current HP, deals additional 120% ATK of Adaptive DMG for every 100 HP consumed (max: 4320%), and increases Physical and Elemental DMG by 40% for 5s.
+
+!!! note
+    Both DMG boosts are high priority to get and to +3 when no better choices at Shop. Prioritize getting both Enhanceds when you can.
+
+####<p align="center">Mobius - Signet of Infinity (3rd Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -3916,40 +3938,10 @@ Signet | Priority
 **Lodging [C]**: ELF Ultimates and Support Valkyries' support skills have 20% reduced CD. | Filler
 **Nexus Signet 1: Infinite [X]** |
 **Dead [X]**: For every second in Mind Sync, Valkyrie herself, summoned entities, ELFs, and Support Valkyries deal 10% bonus Total DMG. 5 stacks max. 9 stacks max with any summoned entity present. Reset on exiting Mind Sync | 1st
-**Newborn [X]**: Triggering Mind Sync again during Mind Sync no longer resets the duration but extends the duration by 4.0s instead. With any summoned entity present, the duration is extended by 5s additionally. | Optional
 **Unknown [X]**: Triggering Mind Sync again during Mind Sync reduces the CD of ELF Ultimates and Support Valkyries' support skills by 2s. With any summoned entity present, the CDs are reduced by 2s additionally. This effect can only be triggered once per 4s. | Filler
 
 !!! note
     You ideally want only the first three basic priority signets and Dead [X] from Mobius. The others can be picked if you get bad RNG. Newborn [X] is optional in case you want to never allow Mind Sync to reset due to its duration expiring.
-
-####<p align="center">Hua - Signet of Vicissitude (2nd Core)</p>
-
-Signet | Priority
-----| :----:
-**Old Dreams Again**: Elemental Breach increases by 0.6% per second | 1st
-**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks | 2nd
-**Dark Garb No More**: Elemental DMG increases by 0.8% per second | 3rd
-**Nexus Signet 2: Suffering Mass** |
-**Broken Dream**: When possessing Soldier's Remembrance., increase the maximum stack of normal Vicissitude signets by 20 | Optional
-
-!!! note
-    Broken Dream is a gamble to get; however, it's strongly recommended to get it. It's especially going to be a good powerspike if you get it early.
-
-####<p align="center">Griseo - Signet of Stars (3rd Core)</p>
-
-Signet | Priority
-- | :----:
-**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st
-**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | 2nd
-**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 3rd
-**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 4th
-**Nexus Signet 2: Faded Stars** |
-**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 1st
-**Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 2nd
-**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | 3rd
-
-!!! note
-    Red is highest priority to +3. Yellow is also good to +3. Get all 3 of Griseo2's Enhanced signets. Fallen Leaves is also good to consider to +3.
 
 ####<p align="center">Eden - Signet of Gold (4st Core)</p>
 
@@ -3957,82 +3949,89 @@ Signet | Priority
 - | :----:
 **Recitatif of Eden**: Every 10 SP left boosts Total DMG by 3.0%. | 1st
 **Recitatif of Creeks**: Every 10 SP left boosts Physical & Elemental DMG by 2.5%. | 2nd
-**Recitatif of Good Wine**: Restore 1.5 SP per second. | 3rd
+**Recitatif of Fine Jade**: Initial SP and max SP increase by 50. | 3rd
 **Nexus Signet 2: Echo of Gold** |
 **Echo of Withered Soil**: After lasting over 1s, Final Echo boosts SP cap by 50% and restores 1% SP per second until it ends. | Optional 1st
 
 !!! note
-    Try to grab Sp/s whenever you can from Shop, it's strongly recommended in order to have better uptime on spamming Ultimate and keep Eden2 alive.
+    You can try to go for Echo of Withered Soil to further strengthen the DMG bonus you get from Core2.
 
-####<p align="center">Kalpas - Signet of Decimation (Flex (Pick one or the other) - 5th Core)</p>
+####<p align="center">Vill-V - Signet of Helix (5th Core)</p>
 
 Signet | Priority
 - | :----:
-**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
-**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
-**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
-**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
-**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** | Not Necessary
+**Act V: Spider Web**: Using a weapon active boosts Valkyrie ranged Total DMG by 40% for 4.5s. Triggering it again resets the duration. | 1st
+**Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 2nd
+**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 3rd
+**Nexus Signet 2: Intermezzo: Holistic Helix** | 
 
 !!! note
-    For Kalpas signets, look out to get them ONLY from Felis Shop and ideally at +3 using 3* Remembrance Sigil Abuse! Core isn't needed.
+    It's not necessary to get the core, getting these signets is good enough.
 
-####<p align="center">Sakura - Signet of Setsuna (Flex (Pick one or the other) - 5th Core)</p>
+####<p align="center">Griseo - Signet of Stars (Felis Shop Signets)</p>
+
+Signet | Priority
+- | :----:
+**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 20% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st
+**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | 2nd
+**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 3rd
+**Nexus Signet 2: Faded Stars** | Not Necessary
+
+!!! note
+    Red is highest priority to get ASAP from Shop whenever you can.
+
+####<p align="center">Sakura - Signet of Setsuna (Felis Shop Signets)</p>
 
 Signet | Priority
 - | :----:
 **Bountiful Blossom: Botan**: Triggering Ultimate Evasion Skill boosts Total DMG by 40% for 8s. | 1st
 **Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s. | 2nd
-**Bountiful Blossom: Fuji**: Ultimate Evasion Skill has 1 more charge and 10% reduced CD. | 3rd
-**Nexus Signet 2: Setsuna Blade: Shinra Bansho** | Not Necessary
-
-!!! note 
-    HoTR can easily trigger Sakura's 1st Core with the Extra UE Charge signet. If you do this very well into your full-in DPS rotation, Sakura1 can end up dealing ENORMOUS amounts of damage, up to 100m and above.
 
 ### <p align="center">-- Laser Spam Build</p>
 
 !!! note 
-    Updated for 6.4. This is the faster and more comfier build. Easier and stronger, too. But feel free to go with whichever you feel like using!
+    Updated for 6.8 2nd Half. This is the faster and more comfier build. Easier and stronger, too. But feel free to go with whichever you feel like using!
 
 > Boss to be Chosen: Husk Mysticism OR RPC, then Elysia for fastest time OR Vill-V.
 
 !!! note
-    Pick whichever you'd like to booli the most! Between the Bull and RPC, HTR can do either just fine, but you can do Bull to delete him with Vector.
+    Pick whichever you'd like to booli the most!
 
 ####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
-S2 | Finality | DoA & Bronya Zaychik | 4:18m (6.3) | [https://youtu.be/oNUMPhmOpyk](https://youtu.be/oNUMPhmOpyk)
+S2 | Finality | DoA & Bronya Zaychik | 4:24m (6.8 1st Half) | [https://youtu.be/exLtXjkpenA?si=sg-OyLm0GN0vzqem](https://youtu.be/exLtXjkpenA?si=sg-OyLm0GN0vzqem)
 
 !!! note 
-    In downscalability terms, HTR so far is good and strong even at S0 and without her Signature gears.
+    The downscalability that HTR has for this build is pretty impressively strong. Alternative Stig sets are Turg TB, Elysia Pristine, Willows, Ana Schariac.
 
 Buff | Load
 :----: | :----: 
-For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
- Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
- Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
+Enemies damaged by Weapon Actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+After triggering evasion skill, valk Physical and Elemental DMG +15% for 8s, can be refreshed. | 10
+When valk Combo ATK hits an enemy, the target takes 30% more Total DMG for 15s, can be refreshed. | 15
 
 !!! note
-    Effective for 6.4
+    Effective for 6.8 2nd Half
+
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
-Early | Memory | Hometown
-Mid | Veil of Tears / Rainbow of Absence / Mad King's Mask | The Lonely Moon
-Late | Tin Flask or Key to the Deep | The Lonely Moon
+Early | Mad King's Mask | An Old Pal's Legacy
+Mid | Light as a Bodhi Leaf / Forbidden Seed / Feast of Emptiness | Boundless Logos
+Late | Tin Flask or Key to the Deep | Boundless Logos
 
 !!! note
-    For this current cycle, HTR's best start for this build is Hua2, and we use Hometown in order to secure getting the +3 on Hua's priority basic signets. Afterwards in shop, it's switched for The Lonely Moon.
+    Kalpas is currently the best starter Core for HTR. After you're done with it, you switch his Support Skill out for Boundless Logos.
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
 Early | AE | BR
-Mid | AE/BK | BR
-Late | AE or HB | BR
+Mid | AE | BR/BK
+Late | AE | BR
 
 !!! note 
-    AE and BR are the staple supports for HTR in the early and mid game. AE can later be replaced by BK, and this is strongly recommended in order to help HTR get past Heimdall since she has no attacks that can break his shields. 
+    AE and BR are the staple supports for HTR in the early and mid game. BR can be replaced by BK at F9/F10 Shop for dealing with Heimdall.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -4040,62 +4039,17 @@ Signet | Priority
 ------|:----:
 **Blessing of Continuation**: In Continuation form, weapon active's attack time is increased to 5s, during which she recovers 10 Mech Propulsion per second. Casting Combo ATK refreshes weapon active CD. | **Start**
 **Blessing of Konstruktion**: In Continuation form, Combo ATK pulls nearby enemies. While casting weapon active, small missiles are fired continuously, each dealing 120% ATK of Ice DMG as weapon active damage. Enemies hit by them receive 10% more Total DMG for 15s. Triggering it again refreshes its duration. | **Start**
-**Blessing of Vector**: Weapon active and Ultimate deal 40% more Total DMG. In Continuation form, if weapon active, Combo ATK, or Ultimate hits an IMG-type Nihilus Seed whose current phase has below 40% HP, this phase is insta-killed. | 1st
+**Blessing of Vector**: Weapon active and Ultimate deal 40% more Total DMG. In Continuation form, if weapon active, Combo ATK, or Ultimate hits an IMG-type Nihilus Seed whose current phase has below 40% HP, this phase is insta-killed. | Optional 1st
 **Blessing of Genuine Solution**: After casting Ultimate, leave the Mecha as it flies into enemies and self-destructs, dealing 4000% ATK of Ice DMG over a large area as Ultimate damage. In Continuation form, Ultimate CD is reduced by 50%. | No
 **Blessing of Intellect Core**: After casting Ultimate, leave the Mecha as it flies into enemies and creates 3 additional explosions, each dealing 2000% ATK of Ice DMG as Ultimate damage. Recover 30 SP after casting Ultimate. | No
 
 !!! note
-    HTR only needs 3 Ego signets for the current weather. Laser Spam build utilizes Continuation and Konstruktion as her starter Ego signets, while Vector is strongly recommended due to the Weather being filled with IMG Enemies.
+    HTR only needs 2 Ego signets for this build. Konstruktion is the Starter Ego signet with Continuation as your 2nd Ego by F2. Vector can be picked up during the run if you get an Ego door, but otherwise the build doesn't need it; it'll only further strengthen your damage.
 
-####<p align="center">Hua - Signet of Vicissitude (1st Core)</p>
-
-!!! note
-    Ideal Order from F1-F7: 3 Ego Start (Continuation + Konstruktion + Vector) into Hua Elem Breach F3, finish Hua 2nd Core by F4 Double with TDM and Elem DMG, grab Hua's Broken Dream by F5, go shop F6 and buy Aponia's Basic ATK or Ultimate and Griseo's Red and Black, then finish Aponia 2nd Core by F7 Double.
-
-Signet | Priority
-----| :----:
-**Old Dreams Again**: Elemental Breach increases by 0.6% per second | 1st
-**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks | 2nd
-**Dark Garb No More**: Elemental DMG increases by 0.8% per second | 3rd
-**Nexus Signet 2: Suffering Mass** |
-**Broken Dream**: When possessing Soldier's Remembrance., increase the maximum stack of normal Vicissitude signets by 20 | 1st
+####<p align="center">Kalpas - Signet of Decimation (1st Core)</p>
 
 !!! note
-    It is strongly recommended to start this build with all of these 3 Hua signets and Broken Dream, which will guarantee HTR a really strong start for the remainder of the run.
-
-####<p align="center">Aponia - Signet of Discipline (2nd Core)</p>
-
-Signet | Priority
-- | :----:
-**First, No Betrayal**: Exhortation increases by 5 per second and caps at 200. Basic ATK's Total DMG increases by 0.3% of Exhortation. Triggering Ultimate Evasion Skill reduces 50% Exhortation. | 1st
-**Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | 2nd
-**Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 3rd
-**Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
-**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 1st
-**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 2nd
-**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | Filler 3rd
-
-!!! note
-    Basic ATK is good to +3. Breach is only a filler and should only be gotten if you get bad RNG luck as Hua already gives Breach.
-
-####<p align="center">Griseo - Signet of Stars (3rd Core)</p>
-
-Signet | Priority
-- | :----:
-**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st
-**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | 2nd
-**Grey & Empty**: Enemies stay tainted for 5s longer. | 3rd
-**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 4th
-**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 5th
-**Nexus Signet 2: Faded Stars** |
-**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 1st
-**Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 2nd
-**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | Optional 3rd
-
-!!! note
-    Red is highest priority to +3. Yellow is also good to +3. Grey is a good option to consider getting for Yellow. Get all 3 of Griseo2's Enhanced signets. Fallen Leaves is also good to consider to +3.
-
-####<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
+    Ideal Order from F1-F7: 2 Ego Start (Konstruktion + Continuation) into Kalpas TDM by F3, finish Kalpas 1st Core by F4 Double, grab his missing basic signet by F5, go shop F6 and buy Griseo's Red Paint OR 2/1 of Mobius' Signets or 2/1 of Su's signets, then put Kalpas' 3* Remembrance Sigil and take Kalpas door for F7 to get both Enhanceds at +2 levels.
 
 Signet | Priority
 - | :----:
@@ -4103,21 +4057,30 @@ Signet | Priority
 **Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
 **Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
 **Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
-**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
+**Nexus Signet 1: Fight, Struggle and Decimation** |
+**Man, Mask and Contract**: Deals 40% more Total DMG to enemies with a higher HP percentage than yourself. Total DMG dealt by Blood Boil will also increase by another 60%. | 1st
+**Burden, Difficulty and Calamity**: Blood Boil costs 20% of current HP, deals additional 120% ATK of Adaptive DMG for every 100 HP consumed (max: 4320%), and increases Physical and Elemental DMG by 40% for 5s.
 
-####<p align="center">Sakura - Signet of Setsuna (Flex (Pick one or the other) - 5th Core)</p>
+!!! note
+    Both of Kalpas' DMG Boosts are priority to get and upgrade to +3 when possible. Both of his DMG enhanceds are also top priority.
+
+####<p align="center">Su - Signet of Bodhi (2nd Core)</p>
 
 Signet | Priority
 - | :----:
-**Bountiful Blossom: Botan**: Triggering Ultimate Evasion Skill boosts Total DMG by 40% for 8s. | 1st
-**Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s. | 2nd
-**Bountiful Blossom: Fuji**: Ultimate Evasion Skill has 1 more charge and 10% reduced CD. | 3rd
-**Nexus Signet 2: Setsuna Blade: Shinra Bansho** | Not Necessary
+**Motto of Dibba-Cakkhu**: Combo hits are reset at 150 to boost Total DMG taken by all enemies by 35% for 10s. | 1st
+**Motto of Asavakkhaya**: Attacks grant 25 bonus combo hits on hit. CD: 5s. Characters that have fast attacks will deal 30% more Elemental DMG. | 2nd
+**Motto of Pubbe-Nivasanussati**: Combo hits are reset at 150 to boost Total DMG by 55% for 10s. | 3rd
+**Motto of Iddhi-Vidha**: Combo hits are increased to 60 when below 60. CD: 10s. Characters that have fast attacks will deal 30% more Physical DMG. | 4th
+**Nexus Signet 1: Motto of Bodhi** |
+**Maxim of Anitya**: When Karma Wheels hit enemies without a shield or with a broken shield, character gains 50% Physical Breach and 25% Elemental Breach for 10s. | 1st
+**Maxim of Santam**: Karma Wheels deal 100% bonus DMG to shields and 500% ATK of bonus adaptive DMG to unshielded enemies. | 2nd
+**Maxim of Anatman**: The next attack within 8s from an enemy hit by Karma Wheels deals 50% less Total DMG. The enemy will also take 30% more Total DMG for 8s. | Optional 3rd
 
-!!! note 
-    HoTR can easily trigger Sakura's 1st Core with the Extra UE Charge signet. If you do this very well into your full-in DPS rotation, Sakura1 can end up dealing ENORMOUS amounts of damage, up to 100m and above.
+!!! note
+    If you didn't get Newborn [X] from Mobius, then grab Su's Breach. It's stronger overall. The Extra TDM Taken enhanced is also pretty good, but otherwise not needed over the Stronger Karma Wheels.
 
-####<p align="center">Mobius - Signet of Infinity (Flex (Pick one or the other) - 5th Core)</p>
+####<p align="center">Mobius - Signet of Infinity (3rd Core)</p>
 
 Signet | Priority
 ------ | :----:
@@ -4126,6 +4089,55 @@ Signet | Priority
 **Lip Poison [E]:** Total DMG from summoned entities, ELFs, and Support Valkyries increases by 60%. ELFs | 3rd
 **Nexus Signet 1: Infinite [X]** |
 **Dead [X]**: For every second in Mind Sync, Valkyrie herself, summoned entities, ELFs, and Support Valkyries deal 10% bonus Total DMG. 5 stacks max. 9 stacks max with any summoned entity present. Reset on exiting Mind Sync | 1st
+**Unknown [X]**: Triggering Mind Sync again during Mind Sync reduces the CD of ELF Ultimates and Support Valkyries' support skills by 2s. With any summoned entity present, the CDs are reduced by 2s additionally. This effect can only be triggered once per 4s. | Optional 2nd
+
+!!! note
+    Getting Dead [X] is high priority, do it as soon as you can. If RNG doesn't give it to you, take Unknown [X]. Upgrading Dead [X] is also good.
+
+####<p align="center">Pardofelis - Signet of Reverie (4th Core)</p>
+
+Signet | Priority
+--- | :----:
+**Motto of Meow**: Every 100 Shiny Silvers obtained this round boost Total DMG by 1%. | 1st
+**Back-Curled Tail**: Every 100 Shiny Silvers obtained this round boost Physical and Elemental DMG by 0.8%. | 2nd
+**Neighborhood Chatters**: Every 100 Shiny Silvers obtained this round boost max HP by 25 and max SP by 1. | 3rd
+**Shiny & Valuable**: Enemy kills grant bonus Shiny Silvers. Non-boss enemies grant 5 each. Boss enemies grant each (independent effect). | Filler
+**Nexus Signet 1: Empty Dreams, Self, Set, and Joy**: |
+
+####<p align="center">Vill-V - Signet of Helix (5th Core)</p>
+
+Signet | Priority
+- | :----:
+**Act V: Spider Web**: Using a weapon active boosts Valkyrie ranged Total DMG by 40% for 4.5s. Triggering it again resets the duration. | 1st
+**Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 2nd
+**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 3rd
+**Nexus Signet 2: Intermezzo: Holistic Helix** |
+
+!!! note
+    V-V signets are at best entirely optional; they don't buff the entire duration of Wep Active but are otherwise fine to take. I wouldn't really grab them outside of Helix +2 weathers, however.
+
+####<p align="center">Griseo - Signet of Stars (6th Core)</p>
+
+Signet | Priority
+- | :----:
+**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 20% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st
+**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | Optional 2nd
+**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | Optional 3rd
+**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | Optional 4th
+**Nexus Signet 2: Faded Stars** | Optional
+
+!!! note
+    All you really want from Griseo is to grab Red Paint whenever possible. You don't need the core.
+
+####<p align="center">Sakura - Signet of Setsuna (Felis Shop Signets)</p>
+
+Signet | Priority
+- | :----:
+**Bountiful Blossom: Botan**: Triggering Ultimate Evasion Skill boosts Total DMG by 40% for 8s. | 1st
+**Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s. | 2nd
+
+!!! note 
+    You just consider grabbing them from Shop if you don't have anything better.
 
 ***
 ## Herrscher of Void
@@ -4136,52 +4148,49 @@ Quick Search: HoV, Salty Tuna, Sirin
 ### <p align="center">-- Thanos Snap</p>
 
 !!! note
-    Updated for 6.4. Thanos Snap is the strongest build out of the two possible builds for HoV.
+    Updated for 6.8. Thanos Snap is the strongest build out of the two possible builds for HoV.
 
-> Boss to be Chosen: Husk Mysticism, then Elysia (fastest clear/speedrun) or Aponia
+> Boss to be Chosen: RPC, then Elysia (fastest clear/speedrun), Aponia or Vill-V.
 
 !!! note
-    Booli the shit out of Mysticism, that Bull is full of shit.
+    Pick whoever you'd like to booli the most!~ Aponia is easiest if you're going full glasscannon (Kalpas1 without Hua2 or Virtuality to help you). 
 
 ####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-SSS | Finality | DoV & 3-set SirinA | 6:48m (6.3) | [https://youtu.be/n10QRLSA7b4](https://youtu.be/n10QRLSA7b4)
+SSS | Finality | DoV & 3-set SirinA | 5:03 (6.8 1st Half) | [https://youtu.be/nIFMUz1jGes?si=xt6Jt3D7ulHDiKoL](https://youtu.be/nIFMUz1jGes?si=xt6Jt3D7ulHDiKoL)
 SSS | Finality | DoV & 3-set Elysia | 6:33m (6.0 1st Half) | [https://youtu.be/m9ODUGWtI-8](https://youtu.be/m9ODUGWtI-8)
-S3 | Finality | Lv55 DoV & Sirin Ascendant | 8:51m (6.1 2nd Half) | [https://youtu.be/y2K5_xbVVAw](https://youtu.be/y2K5_xbVVAw)
-S3 | Finality | Lv55 DoV & 3-set Elysia | 10:08m (6.0 1st Half) | [https://youtu.be/WkSisfkTyA0](https://youtu.be/WkSisfkTyA0)
 
 !!! note
-    As one of the stronger Herrschers in ER, HoV has a rather interesting and unique downscalability, with 3-set Elysia being her 2nd BiS. If not 3-set, Elysia M or SirinA M is strongly recommended. It's also strongly recommended to have Keys of Void or the Pri-version if you want to use HoV in ER. It won't be fun otherwise.
+    HoV's downscalability is rather mediocre. The minimum rank she wants for comfortably clearing ER is SS0 as well as KoV/DoV. Without her signature weapon, her playability is way too bad and has no permanent Herrscher Mode. SirinA M or Elysia M are also required for the 20% CDR on UE.
 
 Buff | Load
 :----: | :----: 
-Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
-For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
-Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
-Time slowed enemies take 8% bonus total dmg for 4s | 5
+Enemies damaged by Weapon Actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+After triggering evasion skill, valk Physical and Elemental DMG +15% for 8s, can be refreshed. | 10
+Deployed Valkyries who use fists, javelins, scythes or pistols gain 20% Elemental Breach and 50% Physical Breach. | 15
 
 !!! note
-    Updated for 6.4.
+    Updated for 6.8 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
-Early | Memory | Hometown
-Mid | Forbidden Seed / Forget-Me-Not / Pseudo Miracle / Rainbow of Absence | Boundless Logos
-Late | Stained Sakura or Key to the Deep | Boundless Logos
+Early | Mad King's Mask | An Old Pal's Legacy / Falling in Past Light
+Mid | Pseudo Miracle / Forbidden Seed / Forget-Me-Not | Boundless Logos
+Late | Stained Sakura or Tin Flask | Boundless Logos
 
 !!! note
-    Hometown is essential to get a +3 starting level on Hua signets. Afterwards, you swap it out immediately at F6 Shop for Boundless Logos, which will be your staple Support Skill for the remainder of the run.
+    Kalpas is best starter Core for HoV. You can alternatively bring FPL if you're struggling to get F4 clear in time.
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | VC / SA | SS
-Mid | BK | SS
-Late | VC / SA | SS
+Early | SA | BR
+Mid | SA | BR / BK
+Late | SA / SS | BR
 
 !!! note
-    VC's main strength is the 27% Ranged Phys Taken she provides on a 30s CD. SA is only picked if you want to have a perma uptime on full 6% Phys/Elem DMG from the Load Buff, otherwise it'll be 3%. SS is a given. You can bring BK if you want to be extra sure to destroy Heimdall.
+    SA and BR are your staple supports for the entirety of the run. You can bring BK by F9/F10 Shop to deal with Heimdall. SA can also be replaced for SS by the F17 Boss fight, as she provides stronger buff.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -4189,94 +4198,96 @@ Signet | Priority
 ------|:----:
 **Blessing of Innateness**: Reduces CD of Ultimate Evasion Skill, weapon skill and Ultimate by 6s each when summoning Space Core. In Herrscher Form, Basic ATKs directly connect to SEQ 3 for a short duration after triggering Ultimate Evasion. | **Start**
 **Blessing of Coleus**: Physical DMG dealt by Space Core increases by 80%. Regain 30 Herrscher Charge and gain 20% more Total DMG for 5s upon summoning Space Core. Triggering it again resets the duration. In Herrscher Form, Space Core's area of explosion is expanded and can gather surrounding enemies. | **Start**
-**Blessing of Virtuality**: Ultimate Evasion Skill can be triggered even without Ultimate Evasion conditions when there are no enemies along the path of Phase Shuttle. Time-slow area of effect triggered by Ultimate Evasion Skill expands and all enemies in range take 30% more Total DMG for 12s. Triggering it again resets the duration. | 1st
+**Blessing of Virtuality**: Ultimate Evasion Skill can be triggered even without Ultimate Evasion conditions when there are no enemies along the path of Phase Shuttle. Time-slow area of effect triggered by Ultimate Evasion Skill expands and all enemies in range take 30% more Total DMG for 12s. Triggering it again resets the duration. | Optional 1st
 **Blessing of Annihilation**: In Herrscher Form, the 3rd SEQ of Basic ATK includes one blow of Charged ATK: Time Tremor that deals 200% ATK of Physical DMG. | Optional 2nd
 **Blessing of Law**: Aerial explosion triggered after Ultimate ends deal 2000% ATK of Physical DMG. Gain Spatial Silence stacks after summoning Space Core. Triggering aerial explosion will clear all Spatial Silence stacks and deal additional number of Spatial Silence stacks x 150% ATK of Physical DMG while restoring number of Spatial Silence stacks x 5 SP. | No
 
 !!! note
-    Innateness and Coleus are a must for HoV. It's very strongly recommended to bald for F2 Ego Start in order to get your 3rd Ego signet, Virtuality, as it gives a really strong free 40% TDM Taken. Annihilation is optional but only towards the Late Floors as it is largely useless until you have 3 Cores finished.
+    Innateness and Coleus are a must for HoV. If you do get a 3rd Ego door during your run, TAKE IT for Virtuality or Annihilation. Annihilation is the more comfortable choice for speedrunning, otherwise Virtuality is always going to be the best choice as it will allow you to take distance away from every enemy, especially bosses, and not die since this build uses Kalpas1 at low HP and no Hua2 protection.
 
-####<p align="center">Hua - Signet of Vicissitude (1st Core)</p>
-
-!!! note
-    Ideal Order from F1-F7: 3 Ego Start (Innateness + Coleus + Virtuality) into Hua's Phys Breach F3, finish Hua 2nd Core by F4 Double, grab Broken Dream F5 and go shop F6, use 3* Remembrance Sigil Abuse to get Mobius' Lip Poison or Entwined and Griseo's Red Paint or one of Sakura's TDM signets. Swap Hometown for Boundless Logos. Then finish Mobius 1st Core by F7 Double.
-
-Signet | Priority
-----| :----:
-**No One To Share**: Physical Breach increases by 0.6% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 1st
-**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 2nd
-**Days Gone**: Physical DMG increases by 0.8% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 3rd
-**Nexus Signet 2: Suffering Mass** |
-**Broken Dream**: When possessing Soldier's Remembrance., increase the maximum stack of normal Vicissitude signets by 20 | 1st
+####<p align="center">Kalpas - Signet of Decimation (1st Core)</p>
 
 !!! note
-    Finishing 2nd Core and getting Broken Dream will be a massive powerspike for HoV.
-
-####<p align="center">Mobius - Signet of Infinity (2nd Core)</p>
-
-Signet | Priority
------- | :----:
-**Entwined [P]:** :For every summoned entity, ELF, or Support Valkyrie present, enemies take 8% bonus Total DMG (5 stacks max) | 1st
-**Rodent [V]**: For every summoned entity, ELF, or Support Valkyrie present, Valkyrie deals 10% bonus Total DMG (5 stacks max). | 2nd
-**Lip Poison [E]:** Total DMG from summoned entities, ELFs, and Support Valkyries increases by 60%. ELFs | 3rd
-**Lodging [C]:** ELF Ultimates and Support Valkyries' support skills have 20% reduced CD | Optional
-**Nexus Signet 1: Infinite [X]** |
-**Dead [X]**: For every second in Mind Sync, Valkyrie herself, summoned entities, ELFs, and Support Valkyries deal 10% bonus Total DMG. 5 stacks max. 9 stacks max with any summoned entity present. Reset on exiting Mind Sync | 1st
-**Unknown [X]**: Triggering Mind Sync again during Mind Sync reduces the CD of ELF Ultimates and Support Valkyries' support skills by 2s. With any summoned entity present, the CDs are reduced by 2s additionally. This effect can only be triggered once per 4s. | Optional
-
-!!! note
-    Dead [X] is a massive upgrade to HoV's damage, especially for downscaling. It's the highest priority to upgrade to +3.
-
-####<p align="center">Sakura - Signet of Setsuna (3rd Core)</p>
+    Ideal Order from F1-F7: 2 Ego Start (Innateness + Coleus) into Kalpas' TDM by F3, finish Kalpas 1st Core by F4 Double, grab missing Kalpas Basic Signet by F5, go shop F6 and get Griseo's Red Paint as well as 2 of Vill-V's Signets OR one of them and either Mobius or Sakura signets. Roll for a Kalpas door F7 and put Kalpas' 3* Remembrance Sigil, then take the door to get both of his Enhanceds at +2 level.
 
 Signet | Priority
 - | :----:
-**Bountiful Blossom: Botan**: Triggering Ultimate Evasion Skill boosts Total DMG by 40% for 8s. | 1st
-**Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s. | 2nd
-**Bountiful Blossom: Fuji**: Ultimate Evasion Skill has 1 more charge and 10% reduced CD. | 3rd
-**Nexus Signet 1: Setsuna Blade: Sakura ni Maku** |
-**Setsuna Blade: Ino-Shika-Cho**: When Sakura Screen is active, moving around can pause its duration countdown for up to 3.0s. | Optional
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
+**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
+**Nexus Signet 1: Fight, Struggle and Decimation** |
+**Man, Mask and Contract**: Deals 40% more Total DMG to enemies with a higher HP percentage than yourself. Total DMG dealt by Blood Boil will also increase by another 60%. | 1st
+**Burden, Difficulty and Calamity**: Blood Boil costs 20% of current HP, deals additional 120% ATK of Adaptive DMG for every 100 HP consumed (max: 4320%), and increases Physical and Elemental DMG by 40% for 5s.
 
 !!! note
-    It's very recommended to use 3* Remembrance Sigil Abuse to get Sakura's TDM signets at +2. Fuji is very important too, because as long as you have either SirinA M or Elysia M, it enables HoV the ability to Evade-Cheese with her Time Bubble and eliminating the requirement of waiting 1 second during her DPS sequence due to Innateness' CD reductions.
+    Both DMG boosts are high priority to get and to +3 when no better choices at Shop. Prioritize getting both Enhanceds when you can.
 
-####<p align="center">Vill-V - Signet of Helix (4th Core)</p>
+####<p align="center">Vill-V - Signet of Helix (2nd Core)</p>
 
 Signet | Priority
 - | :----:
 **Act V: Spider Web**: Using a weapon active boosts Valkyrie ranged Total DMG by 40% for 4.5s. Triggering it again resets the duration. | 1st
 **Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 2nd
 **Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 3rd
-**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | 4th
-**Nexus Signet 2: Intermezzo: Holistic Helix** |
-**Puppetry: Interlacing Cells**: Extends Global Time Fracture caused by Specail Weapon: No. 4's detonation by 3s. During Global Time Fracture, gain 30% Physical and Elemental Breach. | 1st
-**Drama: Origin of Slumber**: During Gravitational Field, enemies take 20% more Total DMG. During Global Time Fracture caused by detonation, enemies take 30% more Total DMG in addition. | 2nd 
+**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | Optional 4th
+**Nexus Signet 1: Interlude: Reversed Spiral** |
+**Act VII: Half-Closed Door**: Valkyrie deals 30% more Physical DMG. Marvellous Magic creates 2 extra round blades dealing 2 x 400% ATK of Physical DMG. | 1st
+**Act VIII: Adorned Chamber**: Marvellous Magic costs 5 SP to boost its base Physical DMG by 35% and grants 40% Physical Breach for 6s. | 2nd 
 
 !!! note
-    Drama is high priority to +3. Puppetry can remain at +0. 
+    Try to get both Enhanceds as soon as possible, ideally by F11.
 
-####<p align="center">Griseo - Signet of Stars (5th Core)</p>
+####<p align="center">Mobius - Signet of Infinity (3rd Core)</p>
+
+Signet | Priority
+------ | :----:
+**Entwined [P]:** :For every summoned entity, ELF, or Support Valkyrie present, enemies take 8% bonus Total DMG (5 stacks max) | 1st
+**Rodent [V]**: For every summoned entity, ELF, or Support Valkyrie present, Valkyrie deals 10% bonus Total DMG (5 stacks max). | 2nd
+**Lip Poison [E]:** Total DMG from summoned entities, ELFs, and Support Valkyries increases by 60%. ELFs | 3rd
+**Lodging [C]:** ELF Ultimates and Support Valkyries' support skills have 20% reduced CD | Optional 4th
+**Nexus Signet 1: Infinite [X]** |
+**Dead [X]**: For every second in Mind Sync, Valkyrie herself, summoned entities, ELFs, and Support Valkyries deal 10% bonus Total DMG. 5 stacks max. 9 stacks max with any summoned entity present. Reset on exiting Mind Sync | 1st
+**Unknown [X]**: Triggering Mind Sync again during Mind Sync reduces the CD of ELF Ultimates and Support Valkyries' support skills by 2s. With any summoned entity present, the CDs are reduced by 2s additionally. This effect can only be triggered once per 4s. | Optional 2nd
+
+!!! note
+    Dead [X] is a massive upgrade to HoV's damage, especially for downscaling. It's the highest priority to upgrade to +3. Unknown can be VERY DIRTY with HoV for spamming Supports.
+
+####<p align="center">Sakura - Signet of Setsuna (4th Core)</p>
 
 Signet | Priority
 - | :----:
-**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st YES
-**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 2nd
-**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 3rd
-**Nexus Signet 2: Faded Stars** |
-**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | Optional
+**Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s. | 1st
+**Bountiful Blossom: Botan**: Triggering Ultimate Evasion Skill boosts Total DMG by 40% for 8s. | 2nd
+**Bountiful Blossom: Fuji**: Ultimate Evasion Skill has 1 more charge and 10% reduced CD. | 3rd
+**Nexus Signet 1: Setsuna Blade: Sakura ni Maku** |
+**Setsuna Blade: Ino-Shika-Cho**: When Sakura Screen is active, moving around can pause its duration countdown for up to 3.0s. | Optional
 
 !!! note
-    Red & Hot is the absolute first priority to get and to upgrade to +3, followed by Black & Dark. Petals in the Wind is a risky gamble to try and get unless you have no other better doors.
+    Fuji is a must-get at some point, preferentially from Shop, as it enables HoV's infinite Cheese with UE. It also makes 1st Core dirtier.
 
-####<p align="center">Kalpas - Signet of Decimation (Felis Shop Signets)</p>
+####<p align="center">Pardofelis - Signet of Reverie (5th Core)</p>
+
+Signet | Priority
+--- | :----:
+**Motto of Meow**: Every 100 Shiny Silvers obtained this round boost Total DMG by 1%. | 1st
+**Back-Curled Tail**: Every 100 Shiny Silvers obtained this round boost Physical and Elemental DMG by 0.8%. | 2nd
+**Neighborhood Chatters**: Every 100 Shiny Silvers obtained this round boost max HP by 25 and max SP by 1. | 3rd
+**Shiny & Valuable**: Enemy kills grant bonus Shiny Silvers. Non-boss enemies grant 5 each. Boss enemies grant each (independent effect). | Optional 4th
+**Nexus Signet 1: Empty Dreams, Self, Set, and Joy**: |
+
+!!! note
+    If you can manage to finish Pardo1 at all, it's good.
+
+####<p align="center">Griseo - Signet of Stars (Felis Shop Signets)</p>
 
 Signet | Priority
 - | :----:
-**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
-**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 20% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st YES
+**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | Filler
 
 !!! note
-    Between either, choose one. For Kalpas purposes, you'll have to use BR to reduce your HP to below 100, so don't forget that. In regards to Core, Eden 1st Core is more helpful.
+    Red Paint is the absolute highest priority signet to get for HoV. Having it as soon as possible is the best thing for her.
 
 ####<p align="center">Eden - Signet of Gold (Felis Shop Signets)</p>
 
@@ -4286,158 +4297,142 @@ Signet | Priority
 **Recitatif of Creeks**: Every 10 SP left boosts Physical & Elemental DMG by 2.5%. | 2nd
 
 !!! note
-    Between either, choose one. For Kalpas purposes, you'll have to use BR to reduce your HP to below 100, so don't forget that. In regards to Core, Eden 1st Core is more helpful.
+    Simply optional.
 
 ***
 
-### <p align="center">-- Gate of Babylon Build 7D</p>
+### <p align="center">-- (Ultimate) Gate of Babylon Build 7D</p>
 
 !!! note
-    Updated for 6.4. Slower clear build, but in terms of strength, it's vastly superior.
+    Updated for 6.8. This build is Ultimate-based and it's much slower.
 
-> Boss to be Chosen: Husk Mysticism, then Elysia, Aponia or Vill-V
+> Boss to be Chosen: RPC, then Elysia, Aponia or Vill-V
 
 !!! note
-    Hephaestus is only ever taken if you want the fastest clear time for F17. If you aren't looking for that, then by any means, just stick with Husk instead, as it's the safer and more comfortable option.
+    Pick whoever you'd like to booli the most~
 
 ####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-SSS | Finality | DoV & 3-set Sirin Ascendant | 9:13m (6.1 2nd Half) | [https://youtu.be/HWuMK0FEXBE](https://youtu.be/HWuMK0FEXBE)
+SSS | Finality | DoV & 3-set Sirin Ascendant | 7:28m (6.6) | [https://youtu.be/zOY0owgCrqg?si=xKFmPDwe7Dtn0iEE](https://youtu.be/zOY0owgCrqg?si=xKFmPDwe7Dtn0iEE)
 
 !!! note
-    Other than the amazing downscalability that this Valkyrie has in both Ranks and Gears, having either her Non-Pri or Pri signature weapon is a given. She needs it as a bare minimum to be playable in ER. Keep this in mind.
+    This build doesn't exactly need KoV/DoV, however you'll still want it to comfortably get into the SP needed for Ulting. You also want the ranks that refund you Herrscher Charge upon using Ultimate, however. Otherwise, this won't work. HoV's downscalability is not great, needing a minimum rank of SS and a high amount of ATK to do well in general.
 
 Buff | Load
 :----: | :----: 
-Enemies hit by weapon active take 5% bonus total dmg for 5s | 5
-For every 60 hits, enemies take 3% more total dmg, capped at 15%. | 10
-Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
-Time slowed enemies take 8% bonus total dmg for 4s | 5
+Enemies damaged by Weapon Actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+After triggering evasion skill, valk Physical and Elemental DMG +15% for 8s, can be refreshed. | 10
+Deployed Valkyries who use fists, javelins, scythes or pistols gain 20% Elemental Breach and 50% Physical Breach. | 15
 
 !!! note
-    Updated for 6.4.
+    Updated for 6.8 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
-Early | Forbidden Seed | The Lonely Moon
-Mid | Rainbow of Absence / Memory / Mad King's Mask | Boundless Logos
-Late | The First Scale or Key to the Deep | The Lonely Moon
+Early | Burden | It Will Be Written
+Mid | Mad King's Mask / Forbidden Seed / Feast of Emptiness | Boundless Logos
+Late | Tin Flask | Boundless Logos
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | VC | SS
-Mid | VC or BKE | SS
-Late | VC or BR | SS
+Early | SA | BR or VC
+Mid | SA | BR / BK
+Late | SA | BR or VC
 
 !!! note
-    VC is a given for Early. She's also really helpful due to the 27% Ranged DMG Taken, so her buff impact is pretty significant. BK is recommended to put before Heimdall fight. As for BR, you can pretty much swap VC out for her, especially if you get Kalpas.
-
-!!! note
-    BKE is only for the purposes of filling Heimdall's Heavy Trauma Bar, forcefully ending his Red Mode.
+    SA and BR/VC will be your staple supports for the run. You can bring BK for Heimdall, although you shouldn't need her with this build.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
 
 Signet | Priority
 ------|:----:
+**Blessing of Innateness**: Reduces CD of Ultimate Evasion Skill, weapon skill and Ultimate by 6s each when summoning Space Core. In Herrscher Form, Basic ATKs directly connect to SEQ 3 for a short duration after triggering Ultimate Evasion. | **Start**
 **Blessing of Law**: Aerial explosion triggered after Ultimate ends deal 2000% ATK of Physical DMG. Gain Spatial Silence stacks after summoning Space Core. Triggering aerial explosion will clear all Spatial Silence stacks and deal additional number of Spatial Silence stacks x 150% ATK of Physical DMG while restoring number of Spatial Silence stacks x 5 SP. | 1st
 **Blessing of Coleus**: Physical DMG dealt by Space Core increases by 80%. Regain 30 Herrscher Charge and gain 20% more Total DMG for 5s upon summoning Space Core. Triggering it again resets the duration. In Herrscher Form, Space Core's area of explosion is expanded and can gather surrounding enemies. | Optional 2nd
-**Blessing of Annihilation**: In Herrscher Form, the 3rd SEQ of Basic ATK includes one blow of Charged ATK: Time Tremor that deals 200% ATK of Physical DMG. | No
 **Blessing of Virtuality**: Ultimate Evasion Skill can be triggered even without Ultimate Evasion conditions when there are no enemies along the path of Phase Shuttle. Time-slow area of effect triggered by Ultimate Evasion Skill expands and all enemies in range take 30% more Total DMG for 12s. Triggering it again resets the duration. | Optional 3rd
-**Blessing of Innateness**: Reduces CD of Ultimate Evasion Skill, weapon skill and Ultimate by 6s each when summoning Space Core. In Herrscher Form, Basic ATKs directly connect to SEQ 3 for a short duration after triggering Ultimate Evasion. | **Start**
+**Blessing of Annihilation**: In Herrscher Form, the 3rd SEQ of Basic ATK includes one blow of Charged ATK: Time Tremor that deals 200% ATK of Physical DMG. | No
 
 !!! note
-   Ideal course of build up: 2 Ego Start, Entwined [P] by F2, finish Mobius 1st Core by F4 with Rodent [V] and Lip Poison [E], go shop F6, grab Griseo's Red & Black and Sakura's TDM Taken, TDM or Fuji and swap Forbidden Seed to Rainbow of Absence, finish Griseo 2nd Core by F7
+   Innateness is a must, Law is the core of this build. A 3rd Ego door is amazing for Virtuality as it goes really well with this build due to the massive free +40% TDM Taken.
 
-####<p align="center">Mobius - Signet of Infinity (1st Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (1st Core)</p>
 
 !!! note
-    2 Ego Start, Entwined [P] by F2, finish Mobius 1st Core by F4 with Rodent [V] and Lip Poison [E], go shop F5, grab Griseo's Red Paint and Sakura's TDM Taken, TDM or Fuji and swap Forbidden Seed to Rainbow of Absence, get Dead [X] by F6 and finish Griseo 2nd Core by F7.
+    Ideal course of build up: 2 Ego Start (Innateness + Law) into Kevin's TDM F3, finish Kevin 1st Core by F4 Double, F5 for either Ego (Virtuality) OR Kevin's missing basic signet, go shop F6 and put both of Kevin's 3* Remembrance Sigils and buy Griseo's Red and Yellow OR one of them and 2 or 1 of Mobius' signets (OR missing Kevin's basic signet if u took Ego). Then grab Kevin door F7 for Crusade and Flock both at +2.
 
 Signet | Priority
------- | :----:
-**Entwined [P]:** :For every summoned entity, ELF, or Support Valkyrie present, enemies take 8% bonus Total DMG (5 stacks max) | 1st
-**Rodent [V]**: For every summoned entity, ELF, or Support Valkyrie present, Valkyrie deals 10% bonus Total DMG (5 stacks max). | 2nd
-**Lip Poison [E]:** Total DMG from summoned entities, ELFs, and Support Valkyries increases by 60%. ELFs | 3rd
-**Lodging [C]:** ELF Ultimates and Support Valkyries' support skills have 20% reduced CD | Optional
-**Nexus Signet 1: Infinite [X]** |
-**Dead [X]**: For every second in Mind Sync, Valkyrie herself, summoned entities, ELFs, and Support Valkyries deal 10% bonus Total DMG. 5 stacks max. 9 stacks max with any summoned entity present. Reset on exiting Mind Sync | 1st
-**Unknown [X]**: Triggering Mind Sync again during Mind Sync reduces the CD of ELF Ultimates and Support Valkyries' support skills by 2s. With any summoned entity present, the CDs are reduced by 2s additionally. This effect can only be triggered once per 4s. | Optional
+---- | :----:
+**Goblet of the Giver**: Ultimate boosts Total DMG by 35% for 7s. | 1st
+**Pendant of the Watcher**: Ultimate boosts Physical DMG by 30% for 7s. | 2nd
+**Mask of the Predator**: Ultimate boosts Physical Breach by 35% for 7s. | 3rd
+**Rochet of the Pilgrim**: Ultimate restores 3 SP per second for 7s. | 4th
+**Nexus Signet 1: Blade of the Deliverer** |
+**Crusade of the Deliverer**: After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | 1st
+**Flock of the Deliverer**: Final Battle is also considered burst mode. Total DMG increases by 20% in burst mode. | Optional 2nd
 
 !!! note
-    Dead [X] is an absolute must especially with downscaled gears as it makes up for a really significant buff to damage for the remainder of the run once you get it. It's also high priority to upgrade to +3. Lodging and Unknown can be taken when downscaling or when no better options.
+    Crusade is highest priority to get and upgrade to +3 ASAP.
 
-####<p align="center">Griseo - Signet of Stars (2nd Core)</p>
-
-Signet | Priority
-- | :----:
-**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st YES
-**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | 2nd
-**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 3rd
-**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 4th
-**Nexus Signet 2: Faded Stars** |
-**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | 1st
-**Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 2nd
-**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 3rd
-
-!!! note
-    Red is highest priority to +3. Yellow can also be +3, good to consider. A Flame Extinguished is ideal 1st in this build due to ease of proc for finishing with Ultimate and because of the 40% Phys Def reduction, however if you end up missing one of the 3 paints, take one of the other 3 enhanceds according to which ones you have.
-
-####<p align="center">Hua - Signet of Vicissitude (3rd Core)</p>
-
-Signet | Priority
-- | :----:
-**No One to Share**: Physical Breach increases by 0.6% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 1st
-**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 2nd
-**Days Gone**: Physical DMG increases by 0.8% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 3rd
-**Nexus Signet 2: Suffering Mass** |
-**Broken Dream**: With Soldier's Remembrance stacks, the max stacks of all buffs from Normal Signets of Vicissitude increase by 20. Losing all Soldier's Remembrance stacks reduces the max stacks by 10 but restores 1 Soldier's Remembrance stack. Can only be triggered once every battle. | Optional
-
-!!! note
-    Hua here is mainly for the unconditional Breach which you'll want to prioritize to upgrade. It is also the safest way to play HoV thanks to her shield, and especially as Kalpas2 + BR is used for this. Virtuality helps to offset this to some extent however, if you don't manage to get Hua's 2nd core in the run. 
-!!! note
-    Do the Remembrance Sigil Abuse preferably, look out getting Hua's Phys/Elem DMG and Phys Breach to +3.
-
-####<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
+####<p align="center">Kalpas - Signet of Decimation (2nd Core)</p>
 
 Signet | Priority
 - | :----:
 **Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
 **Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
 **Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
-**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | Optional
-**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** |
+**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
+**Nexus Signet 1: Fight, Struggle and Decimation** |
+**Man, Mask and Contract**: Deals 40% more Total DMG to enemies with a higher HP percentage than yourself. Total DMG dealt by Blood Boil will also increase by another 60%. | 1st
+**Burden, Difficulty and Calamity**: Blood Boil costs 20% of current HP, deals additional 120% ATK of Adaptive DMG for every 100 HP consumed (max: 4320%), and increases Physical and Elemental DMG by 40% for 5s.
 
 !!! note
-    You can abuse the trick at Shop for switching one support to BR, use it, switch BR out and put her again, rinse and repeat to bring your HP down to 100 to use Kalpas buffs to the fullest even if you don't get Kalpas 2nd Core. 
+    Both DMG boosts are high priority to get and to +3 when no better choices at Shop. Prioritize getting both Enhanceds when you can.
 
-####<p align="center">Sakura - Signet of Setsuna (5th Core)</p>
+####<p align="center">Mobius - Signet of Infinity (3rd Core)</p>
+
+Signet | Priority
+------ | :----:
+**Rodent [V]**: For every summoned entity, ELF, or Support Valkyrie present, Valkyrie deals 10% bonus Total DMG (5 stacks max). | 1st
+**Entwined [P]:** :For every summoned entity, ELF, or Support Valkyrie present, enemies take 8% bonus Total DMG (5 stacks max) | 2nd
+**Lip Poison [E]:** Total DMG from summoned entities, ELFs, and Support Valkyries increases by 60%. ELFs | 3rd
+**Nexus Signet 1: Infinite [X]** |
+**Dead [X]**: For every second in Mind Sync, Valkyrie herself, summoned entities, ELFs, and Support Valkyries deal 10% bonus Total DMG. 5 stacks max. 9 stacks max with any summoned entity present. Reset on exiting Mind Sync | 1st
+**Unknown [X]**: Triggering Mind Sync again during Mind Sync reduces the CD of ELF Ultimates and Support Valkyries' support skills by 2s. With any summoned entity present, the CDs are reduced by 2s additionally. This effect can only be triggered once per 4s. | Optional
+
+!!! note
+    Dead [X] is an absolute must especially with downscaled gears as it makes up for a really significant buff to damage for the remainder of the run once you get it. It's also high priority to upgrade to +3. Unknown is mostly filler here but is good.
+
+####<p align="center">Pardofelis - Signet of Reverie (4th Core)</p>
+
+Signet | Priority
+--- | :----:
+**Motto of Meow**: Every 100 Shiny Silvers obtained this round boost Total DMG by 1%. | 1st
+**Back-Curled Tail**: Every 100 Shiny Silvers obtained this round boost Physical and Elemental DMG by 0.8%. | 2nd
+**Neighborhood Chatters**: Every 100 Shiny Silvers obtained this round boost max HP by 25 and max SP by 1. | 1st
+**Nexus Signet 1: Empty Dreams, Self, Set, and Joy**: |
+
+####<p align="center">Griseo - Signet of Stars (5th Core Core)</p>
 
 Signet | Priority
 - | :----:
-**Bountiful Blossom: Botan**: Triggering Ultimate Evasion Skill boosts Total DMG by 40% for 8s. | 1st
-**Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s. | 2nd
-**Bountiful Blossom: Fuji**: Ultimate Evasion Skill has 1 more charge and 10% reduced CD. | 3rd
-**Bountiful Blossom: Ume**: Triggering Ultimate Evasion Skill boosts Attack Speed & Move Speed by 40% for 8s. | Optional
-**Nexus Signet 1: Setsuna Blade: Sakura ni Maku** |
+**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 20% bonus Physical and Elemental DMG (cannot stack). Triggering it again resets the duration. | 1st YES
+**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | Optional 2nd
+
+!!! note
+    Red is highest priority to +3. Yellow can also be +3, good to consider. Petals is amazing to get if you can.
+
+####<p align="center">Sakura - Signet of Setsuna (Felis Shop Signets)</p>
+
+Signet | Priority
+- | :----:
+**Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s. | 1st
+**Bountiful Blossom: Botan**: Triggering Ultimate Evasion Skill boosts Total DMG by 40% for 8s. | 2nd
 
 !!! note
     Getting Sakura Core isn't required for this build. Only those signets from Felis shop if you have nothing else better to get.
-
-####<p align="center">Pardofelis - Signet of Reverie (6th Core)</p>
-
-Signet | Priority
-- | :----:
-**Neighborhood Chatters**: Every 100 Shiny Silvers obtained this round boost max HP by 25 and max SP by 1. | 1st
-**Motto of Meow**: Every 100 Shiny Silvers obtained this round boost Total DMG by 1%. | 2nd
-**Back-Curled Tail**: Every 100 Shiny Silvers obtained this round boost Physical and Elemental DMG by 0.8%. | 3rd
-**Nexus Signet 1: Empty Dreams, Self, Set, and Joy**: |
-**Nexus Signet 2: Empty Illusions, Empty Fantasies**: |
-
-!!! note
-    Pardo1 preferred if you have Kalpas and its Max HP. Pardo2 preferred if you don't, or you don't care about it.
 
 ***
 
@@ -4446,53 +4441,53 @@ Quick Search: IO, Snake, Snek, Mobius
 
 ![Mommmy Mobius eat me up and experiment with me pls~](https://user-images.githubusercontent.com/114035701/203185419-1d1ff28c-4648-4812-98af-2150cce7c136.png)
 
-### <p align="center">-- General</p>
+### <p align="center">-- General Build</p>
 
 !!! note
-    Updated for 6.4. Honestly, this is a really fun and genuine surprise that I wasn't expecting to hit this strong. Who would've thought that non-Linnaeus Mobius would be so damn strong nonetheless? Clearly, she doesn't need it, and neither does she gives a fuck about having DMG Reduction trying to weigh her down.
+    Updated for 6.8.
 
-> Boss to be Chosen: RPC, then Vill-V or Aponia
+> Boss to be Chosen: Husk Mysticism, then Vill-V or Aponia
 
 !!! note
-    The choice between Andrius or Husk is difficult. Andrius has a really thick shield for non-fire Valkyries, making the fight harder even for Mobius. Husk on the other hand can be easier despite the type-counter. Vill-V is the best choice easily if you have Miniature [X] available.
+    Please make sure u don't pick RPC. If you do, your run will be doomed. Mobius cannot kill RPC at all.
 
 ####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-S0 | Finality | Basilisk & Linnaeus | 3:52m (6.1 1st Half) | [https://youtu.be/unn867ieZ70](https://youtu.be/unn867ieZ70)
+S0 | Finality | Basilisk & Linnaeus | 5:37m (6.8 1st Half) | [https://youtu.be/DRqF3qU_abI?si=fUxVigmdgB8aEIAX](https://youtu.be/DRqF3qU_abI?si=fUxVigmdgB8aEIAX)
 S0 | Finality | Basilisk & Handel | 5:29m (6.1 1st Half) | [https://youtu.be/5otXPMfRQKU](https://youtu.be/5otXPMfRQKU)
 S0 | Finality | Judah & Handel | 9:05m (6.1 1st Half) | [https://youtu.be/ARcTleTzNYk](https://youtu.be/ARcTleTzNYk)
 
 !!! note
-    Mobius is perfectly fine and really strong without Linnaeus and even on a DMG-Reduction weather.
+    Mobius does well even with downscaled stigmatas like Handel. With lower weapon as well, you should scale difficulty accordingly.
 
 Buff | Load
 :----: | :----: 
-Physical and Elemental dmg increases by 15% for 4s after triggering Ultimate evasion | 10
-Taking more than 300 Elemental dmg from the currrent valkyrie makes enemies take 20% more total dmg for 10 seconds. | 15
-Time slowed enemies take 8% bonus total dmg for 4s | 5
+Enemies damaged by Weapon Actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+After triggering evasion skill, valk Physical and Elemental DMG +15% for 8s, can be refreshed. | 10
+When valk Combo ATK hits an enemy, the target takes 30% more Total DMG for 15s, can be refreshed. | 15
 
 !!! note
-    Updated for 6.4.
+    Updated for 6.8 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
 Early | Forbidden Seed | Boundless Logos
-Mid | Veil of Tears / Rainbow of Absence / Mad King's Mask | Boundless Logos
-Late | The First Scale or Tin Flask | Boundless Logos
+Mid | Burden / Mad King's Mask / Feast of Emptiness | Boundless Logos
+Late | Tin Flask | Boundless Logos
 
 !!! note
-    Boundless Logos is a given. It is not swapped out due to the brutal efficiency in which Mobius can abuse it. However, when it's low on charge by the time you go into Shop, then you can consider swapping it out in order to abuse the 3* Remembrance Sigil gamble.
+    Boundless Logos is a given. It is not swapped out due to the brutal efficiency in which Mobius can abuse it.
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
 Early | AE | BR or LE
-Mid | BK | BR or LE
-Late | AE | BR or LE
+Mid | AE | BR / BK
+Late | AE | BR
 
 !!! note
-    Due to the existing Load Buff granting 10 SP per 60 SP restored, Mobius can make really good use out of BR right away from the start. Once this is gone, however, LE is used instead unless you're otherwise missing damage in which case BR is the best choice to go here. Remember to bring BK for Heimdall fight.
+    AE + BR are your starting supports. Alternatively, you can go with LE over BR for more manageable SP regen on the first 4 floors, however I prefer BR over LE as you'd rather have the damage instead. For Heimdall, bring BK as a must because he's painful to deal with for Mobius.
 
 ####<p align="center">Elysia - Signet of ■■</p>
 
@@ -4510,7 +4505,7 @@ Signet | Priority
 ####<p align="center">Mobius - Signet of Infinity (1st Core)</p>
 
 !!! note
-    Ideal Order from F1-F7: Double Ego Start for Ascension, grab Entwined [P] or Rodent [V] by F3, complete Mobius 1st Core by F4 with Entwined, Rodent, Lip Poison, take either Dead [X] or Unknown [X] or Ravenousness by F5, then go shop, grab Aponia's Ultimate and 70 Initial Load or SP Regen with +2 from 3* Rememb Sigil Abuse. Take Sakura's TDM or TDM Taken or Kalpas TDM, then finish Aponia 2nd Core by F7.
+    Ideal Order from F1-F7: 3 Ego Start (Dark Assault + Ill Fortune + Ascension), grab Entwined [P] or Rodent [V] by F3, complete Mobius 1st Core by F4 with Entwined, Rodent, Lip Poison, take either Dead [X] or Unknown [X] or Ravenousness by F5, then go shop F6 and grab Kevin's SP Regen and one of his DMG signets as well as either Griseos' Red or Yellow OR one of Kalpas or Sakura's signets, then finish Kevin 1st Core by F7 Double.
 
 Signet | Priority
 ------ | :----:
@@ -4525,21 +4520,45 @@ Signet | Priority
 !!! note
     Dead [X]'s impact is mainly from being a ramping up buff, so it's not so much of a problem to not get it early on, meanwhile Unknown [X] is a good choice to take in case you don't manage to get Dead [X]. Also, Dead [X] is really high priority to upgrade to +3.
 
-####<p align="center">Aponia - Signet of Discipline (2nd Core)</p>
+####<p align="center">Kevin - Signet of Deliverance (2nd Core)</p>
+
+Signet | Priority
+---- | :----:
+**Goblet of the Giver**: Ultimate boosts Total DMG by 35% for 7s. | 1st
+**Brand of the Undead**: Ultimate boosts Elemental DMG by 30% for 7s. | 2nd
+**Rochet of the Pilgrim**: Ultimate restores 3 SP per second for 7s. | 3rd
+**Artifact of the Inhibitor**: Ultimate boosts Elemental Breach by 25% for 7s. | 4th
+**Nexus Signet 1: Blade of the Deliverer** |
+**Crusade of the Deliverer**:After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | 1st
+**Echo of the Deliverer**: Duration of Final Battle and all buffs provided by Normal Signets of Deliverance are extended to 9s. | 2nd
+**Flock of the Deliverer**: Final Battle is also considered burst mode. Total DMG increases by 20% in burst mode. | Optional 3rd
+
+!!! note
+    You want all 4 of Kevin's basic signets, especially the Elem Breach, you don't want to neglect it as it's Mobius' only source of Breach. Other than that, you IDEALLY want to use 3* Remembrance Sigil Strat to grab both Crusade and Extension with free +1 or +2 levels, maybe by F11 or before that. Extension is important to have at +2 at least since it will line up with the entire duration of Mobius' ult and her burst window within this timeframe.
+
+####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
 
 Signet | Priority
 - | :----:
-**First, No Betrayal**: Exhortation increases by 5 per second and caps at 200. Basic ATK's Total DMG increases by 0.3% of Exhortation. Triggering Ultimate Evasion Skill reduces 50% Exhortation. | 1st
-**Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 2nd
-**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 3rd
-**Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | 4th
-**Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
-**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | 2nd
-**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 2nd
-**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | 3rd
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
+**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
+**Nexus Signet 1: Fight, Struggle and Decimation** |
+**Man, Mask and Contract**: Deals 40% more Total DMG to enemies with a higher HP percentage than yourself. Total DMG dealt by Blood Boil will also increase by another 60%. | 1st
+**Burden, Difficulty and Calamity**: Blood Boil costs 20% of current HP, deals additional 120% ATK of Adaptive DMG for every 100 HP consumed (max: 4320%), and increases Physical and Elemental DMG by 40% for 5s.
 
 !!! note
-    Both Ultimate and Basic ATK are priority to upgrade to +3. Do play around both Restrictions, make sure to always let the Adaptive DMG hit.
+    Both DMG boosts are high priority to get and to +3 when no better choices at Shop. Prioritize getting both Enhanceds when you can.
+
+####<p align="center">Pardofelis - Signet of Reverie (4th Core)</p>
+
+Signet | Priority
+--- | :----:
+**Motto of Meow**: Every 100 Shiny Silvers obtained this round boost Total DMG by 1%. | 1st
+**Back-Curled Tail**: Every 100 Shiny Silvers obtained this round boost Physical and Elemental DMG by 0.8%. | 2nd
+**Neighborhood Chatters**: Every 100 Shiny Silvers obtained this round boost max HP by 25 and max SP by 1. | 1st
+**Nexus Signet 1: Empty Dreams, Self, Set, and Joy**: |
 
 ####<p align="center">Griseo - Signet of Stars (3rd Core)</p>
 
@@ -4549,27 +4568,11 @@ Signet | Priority
 **Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | 2nd
 **Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 3rd
 **Grey & Empty**: Enemies stay tainted for 5s longer. | 4th
-**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 5th
-**Nexus Signet 2: Faded Stars** |
-**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 1st
-**Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 2nd
-**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | 3rd
+**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | Optional 5th
+**Nexus Signet 2: Faded Stars** | Filler
 
 !!! note
-    Red is absolute highest priority to +3. Yellow is also good to +3. Getting Grey is essential.
-
-####<p align="center">Kalpas - Signet of Decimation (4th Core)</p>
-
-Signet | Priority
-- | :----:
-**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
-**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
-**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 3rd
-**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 4th
-**Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter** | Optional
-
-!!! note
-    Kalpas is best gotten from Felis Shop. Getting core is not necessary.
+    Red is absolute highest priority to +3. Yellow is also good to +3. Getting Grey is essential. Core isn't needed.
 
 ####<p align="center">Sakura - Signet of Setsuna (Felis Shop Signets)</p>
 
@@ -4577,11 +4580,9 @@ Signet | Priority
 - | :----:
 **Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s. | 1st
 **Bountiful Blossom: Botan**: Triggering Ultimate Evasion Skill boosts Total DMG by 40% for 8s. | 2nd
-**Bountiful Blossom: Ayame**: Triggering Ultimate Evasion Skill restores 12.0 bonus SP. | 3rd
-**Nexus Signet 1: Setsuna Blade: Sakura ni Maku** | Optional
 
 !!! note
-    Sakura is best gotten from Felis Shop. Either of her cores are useless for Mobius.
+    Sakura is best gotten from Felis Shop.
 
 ***
 
@@ -8059,131 +8060,263 @@ Signet | Priority
 ***
 
 ## Valkyrie Quicksand
-Quick search: VQ, Susannah, sus2, SuzyQ
+Quick search: VQ, Susannah, Bear
+
+![Susannah](https://github.com/AdoriZahard/hi3er/assets/114035701/29c85dee-ac11-41d6-bb09-aead7a2f3fbf)
+
+### <p align="center">-- Combo Build</p>
 
 !!! note
-	You know, Bear sure is quite a strong B-Rank Valkyrie alright... Wait, wasn't she supposed to be just B-Rank!? How come she's so strong in ER too!?
+    Updated for 6.8. 
 
-	VQ's early game is actually a bit weak, her real strength starts to show right after finishing her first core and by mid floors. Then, she scales rather hard towards the late floors.
-
-### <p align="center">-- Ultimate Build</p>
+>   Boss to be chosen: RPC, then Aponia or Vill-V
 
 !!! note
-	If you're wondering about how the strength of VQ's Ult build compares to her other possible build, the Combo one, the answer is that at SS rank, they're both at equal strength; with Ultimate winning slightly. However, at SSS rank, Combo wins by a very drastically large margin leaving Ult build behind.
+    In case you didn't read the disclaimer... Good luck maintaining your sanity against Mysticism. Seriously.
 
-	Ult build, however, is very braindead and rather comfy. It also is really strong against Heimdall by virtue of Susannah having complete i-frames during her Ultimate, whereas Combo build has tight i-frames that require Susannah to evade in-between in order to not lose Hua stacks (or if without it, she dies easily) against Heimdall's attacks in red mode.
-
-	Other than that, Susannah's gameplay is really simple too. Here it's just have some means of gather (if you don't have a gather ELF, I recommend you to bring SN over BR; however, if you're lacking damage, keep BR), then use Active into Combo (make sure Active hits to fully recharge bar), then farm enough SP for Ultimate and use it, then repeat the whole sequence until enemies die.
-
-> Boss to be Chosen: Couatl, then Elysia (fastest), Vill-V or Aponia.
-
-#### <p align="center">Setup</p>
+####<p align="center">Setup</p>
 
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :----: | :----: | :----: | :----: | :----:
-SS0 | Finality | 65 Lustrous Bloom & Aladdin | 5m (6.4 2nd Half) | [https://www.youtube.com/watch?v=djfNHCkWAZk](https://www.youtube.com/watch?v=djfNHCkWAZk)
+SSS | Finality | Lustrous Bloom & Aladdin | 6:05m (6.8 1st Half) | [https://youtu.be/W2wXi0s1cvw?si=AFrdZ7HkvfejcIYM](https://youtu.be/W2wXi0s1cvw?si=AFrdZ7HkvfejcIYM)
+
+!!! note
+    When it comes to downscalability, Susannah's options are probably rather poor compared to other Valkyries' options. This is mainly due to VQ damage not critting making it so that she can't use very well certain options like Dante M. I might try VQ with copium farmable gears, but don't expect her performance to go too well.
 
 Buff | Load
-:----: | :----:
-10% Total DMG taken for each stack of bleeding (max x3) | 15
-20% Phys DMG taken for 10s after Combo ATK | 15
+:----: | :----: 
+Enemies damaged by Weapon Actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+After triggering evasion skill, valk Physical and Elemental DMG +15% for 8s, can be refreshed. | 10
+When valk Combo ATK hits an enemy, the target takes 30% more Total DMG for 15s, can be refreshed. | 15
+
+!!! note
+    Updated for 6.8 2nd Half.
 
 Time | Remembrance Sigil | FC Support Skill
 :----: | :----: | :----:
-Early | Memory | The Lonely Moon
+Early | Pseudo Miracle | Falling in Past Light
+Mid | Fragile Friend / Mad King's Mask / Feast of Emptiness | Out of Reach
+Late | Faraway Train or Tin Flask | Out of Reach
 
 !!! note
-	Hua is the best start for Susannah in 6.4p2 due to +2 and thanks to the +1 on the first 5 signets you get, easily allowing to get her signets at +3 without using Hometown. TLM helps A LOT in this build as long as you time it right for the waves and against Couatl.
+    This is the best starter core for this build. However, note that in weathers where there's a free Breach buff for Chakram users, the best starter changes to Kosma instead.
 
 Time | Support 1 | Support 2
 :----: | :----: | :----:
-Early | SS | LE
-Mid | SS | BR / BK
-Late | SS | SN
+Early | SA | BR
+Mid | SA | BR / BK
+Late | SA | BR
 
 !!! note
-	You never swap SS out. LE is mandatory for Early game to help with spamming Ult. Then swap LE out for BR at F6 Shop for the remainder of the run. For Heimdall, you can choose to bring BK if you're not confident in dealing with him since VQ doesn't have any way to break his shields. For Couatl, bring SN.
+    SA & BR will be your staple supports for the entirety of the run. By F9/F10 Shop, you can switch out BR for BK to deal with Heimdall; it's recommended if your damage isn't looking nearly as big as mine or if you don't want to deal with the lack of i-frames this build has to be safe against Heimdall's Red Mode.
 
 #### <p align="center">Elysia - Signet of ■■</p>
 
 Signet | Priority
 ------|:----:
-**Blessing of Tambourine**: Decreases Ultimate CD by 55%. When Ultimate gets a Perfect judgment, additionally recover 10 SP and 2 Rhythm. Each Perfect increases Total DMG by 8% when ultimate ends for 30s; this increase can stack 5 times. Triggering it again refreshes its duration. | Start
-**Blessing of Whimsy**: Casting Ultimate increases Rhythm by 8. Ultimate deals an extra 400% ATK of Physical DMG and inflicts 4 Bleed Trauma per hit. | 1st
-**Blessing of Dappled Shade**: Weapon active has an 80% shorter CD, deals an extra 200% ATK of Physical DMG, increases Rhythm by 3, and inflicts 6 Bleed Trauma.  The enemies it hits also take 10% more Bleed DMG for 8s. Triggering it again refreshes its duration. | Filler
-**Blessing of Rarities**: When weapon active hits, the target drops 10 Shiny Silvers, up to 5 drops per floor (independent); the host also deals 15% more Physical DMG for 10s, up to 3 stacks (CD: 1s). Triggering it again refreshes its duration. | Filler
-**Blessing of Luster**: The gems tossed at the end of Combo ATK will leave a gem nebula after exploding. The gem nebula will continuously pull nearby enemies and explode 2 times, dealing 200% x 4 + 500% x 4 ATK of Bleed DMG and inflicting 12 Bleed Trauma. | No
+**Blessing of Dappled Shade**: Weapon active has an 80% shorter CD, deals an extra 200% ATK of Physical DMG, increases Rhythm by 3, and inflicts 6 Bleed Trauma.  The enemies it hits also take 10% more Bleed DMG for 8s. Triggering it again refreshes its duration. | **Start**
+**Blessing of Luster**: The gems tossed at the end of Combo ATK will leave a gem nebula after exploding. The gem nebula will continuously pull nearby enemies and explode 2 times, dealing 200% x 4 + 500% x 4 ATK of Bleed DMG and inflicting 12 Bleed Trauma. | 1st
+**Blessing of Rarities**: When weapon active hits, the target drops 10 Shiny Silvers, up to 5 drops per floor (independent); the host also deals 15% more Physical DMG for 10s, up to 3 stacks (CD: 1s). Triggering it again refreshes its duration. | Optional 2nd
+**Blessing of Tambourine**: Decreases Ultimate CD by 55%. When Ultimate gets a Perfect judgment, additionally recover 10 SP and 2 Rhythm. Each Perfect increases Total DMG by 8% when ultimate ends for 30s; this increase can stack 5 times. Triggering it again refreshes its duration. | No
+**Blessing of Whimsy**: Casting Ultimate increases Rhythm by 8. Ultimate deals an extra 400% ATK of Physical DMG and inflicts 4 Bleed Trauma per hit. | No
 
 !!! note
-	Tambourine + Whimsy are all VQ needs. Make sure to do F2 Ego reset to get Whimsy as it's what makes this build work and nothing else.
+	Dazzling Shade + Luster are the main signets of this build. Luster is a must-get by F2 Ego reset to make the build work, otherwise it has no damage. Rarities is completely optional; it's not necessary, but it's nice to have and will particularly strengthen Pardofelis' signets while also making Pardo2 stronger if you want it over 1st Core.
+
+####<p align="center">Vill-V - Signet of Helix (1st Core)</p>
 
 !!! note
-	Ideal course of build up in 6.4p2: 2 Ego Start (Tambourine + Whimsy) into Hua's TDM by F3, finish Hua 2nd Core by F4 double, grab Broken Dream F5, go shop F6 and use 3* Remembrance Sigil Abuse to ideally grab Griseo's Yellow at +3 and Aponia's Third, then finish Aponia 2nd Core by F7 Double.
-
-#### <p align="center">Hua - Signet of Vicissitude</p>
+    Ideal course of build up: 2 Ego Start (Dazzling Shade + Luster) into Vill-V by F3, finish Vill-V 1st Core by F4 Double, get EITHER Ego door OR grab Vill-V's Round Blades or Breach by F5, go shop F6 and grab 2 or 3 of Kosma's signets (Talons, Wings or the Ultimate one; Shieldbreak also good) and prioritize getting Griseo's Red Paint if it shows up. Alternatives are also Kalpas' DMG boosts. Then grab either V-V or Kosma door for F7 (For Vill-V, put Faraway Train, V-V's 3* Remembrance Sigil, for the free +2 levels on the Enhanceds)
 
 Signet | Priority
-----| :----:
-**Long Trip**: Total DMG increases by 1.0% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 1st
-**Days Gone**: Physical DMG increases by 0.8% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 2nd
-**No One To Share**: Physical Breach increases by 0.6% per second. 40 stacks max. Taking DMG reduces 10 stacks. | 3rd
-**Nexus Signet 2: Suffering Mass** |
-**Broken Dream**: When possessing Soldier's Remembrance., increase the maximum stack of normal Vicissitude signets by 20 | 1st
-
-#### <p align="center">Aponia - Signet of Discipline</p>
-
-Signet | Priority
---- | :----:
-**Third, No Brutality**: Exhortation increases by 5 per second and caps at 200. Valkyrie has bonus SP regen per second equal to 1% of Exhortation. Reaching 160 combo reduces 50% Exhortation. | 1st
-**Fourth, No Insolence**: Exhortation increases by 5 per second and caps at 200. Ultimate's Physical and Elemental DMG increases by 0.3% of of Exhortation. Using weapon skills reduces 50% Exhortation. | 2nd
-**Fifth, No Falsehood**: Valkyrie starts with 70 bonus Exhortation. Whenever Exhortation is reduced, enemies take 25% bonus Total DMG for 5s. Can be refreshed. | 3rd
-**Nexus Signet 2: You Shall Receive Disciplines' Blessing** |
-**You Shall Follow Good**: You Shall Know Your Sins' Total DMG dealt increases 40% and increases Physical and Elemental Breach by 0.25% of Exhortation for 6s upon hitting an enemy. Triggering it again resets the duration. | 1st
-**You Shall Answer Prayers**: Triggering You Shall Know Your Sins causes the Valkyrie to enter Penance for 8s. In Penance, the Valkyrie takes 30% less Total DMG and deals 40% more Physical and Elemental DMG to enemies. Valkyrie deals 800% ATK of Adaptive DMG to attacking enemies when hit; CD: 5s. Triggering it again resets the duration. | 2nd
-**You Shall Punish Evil**: Enemies struck by You Shall Know Your Sins two or more times take 40% more Total DMG. 5 SP is restored when these enemies are hit by You Shall Know Your Sins. | Optional
+- | :----:
+**Act II: Pendulum**: Using a weapon active makes enemies take 20% bonus Total DMG for 4.5s. Triggering it again resets the duration. | 1st
+**Act III: Conflict**: Using a weapon active boosts Valkyrie Total DMG by 20% for 4.5s Triggering it again resets the duration. | 2nd
+**Act I: Magic**: Using a weapon active boosts its Total DMG by 10%. 6 stacks max. Reset at the end of each battle. | 3rd
+**Act IV: Spoon**: Using a weapon active boosts Physical DMG and Elemental DMG from Charge ATK and Combo ATK by 25% for 4.5s Triggering it again resets the duration. | 4th
+**Nexus Signet 1: Interlude: Reversed Spiral** |
+**Act VIII: Adorned Chamber**: Marvellous Magic costs 5 SP to boost its base Physical DMG by 35% and grants 40% Physical Breach for 6s. | 1st
+**Act VII: Half-Closed Door**: Valkyrie deals 30% more Physical DMG. Marvellous Magic creates 2 extra round blades dealing 2 x 400% ATK of Physical DMG. | 2nd
 
 !!! note
-	Ultimate is high priority to +3.
+    I strongly recommend to use 3* Remembrance Sigil Abuse to get free +2 levels on both Enhanceds or at least on Half-Closed Door. 
 
-#### <p align="center">Pardofelis - Signet of Reverie</p>
+####<p align="center">Kosma - Signet of Daybreak (2nd Core)</p>
+
+Signet | Priority
+- | :----:
+**Talons that Desecrate the Sanctuary**: Basic/Combo/Charged ATKs inflict a stack of Rend on hit, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. Stacking CD: 1s. Characters who can inflict Bleed deal 30% more Physical DMG to Bleeding enemies. | 1st
+**Wings that Mask the Sanguine Moon**: Ultimate Evasion Skill inflicts 15 stacks of Rend on all enemies, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. CD: 15s. Characters who can inflict Bleed deal 30% more Total DMG to Bleeding enemies. | 2nd
+**Horns that Rip the Bleak Sky**: Ultimate inflicts 15 stacks of Rend on all enemies, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. CD: 15s. Characters who can inflict Bleed deal 20% more Bleed DMG to Bleeding enemies. | 3rd
+**Eyes that Overlook the Vicious Abyss**: For every stack of Rend the enemy has, the Valkyrie can deal 10% more DMG to its shield and it will also take 0.6% more Total DMG. | 4th
+**Nexus Signet 1: Daybreak, An Undying Light** |
+**Undetermined Judgment**: Restores 5 SP when Evil's Doom hits a shield-broken or unshielded enemy. CD: 5s. The Valkyrie also gains 40% more Physical and Elemental DMG for 10s. | 1st
+**Unwavering Promise**: For every stack of Rend on any enemy, the Valkyrie deals 1.6% more Total DMG, up to a maximum of 40%. | 2nd
+
+!!! note
+    You want both DMG boosts from Kosma's Enhanceds. You also want to grab all these 4 basic signets from Kosma to further boost Susannah's dirty damage. 
+
+####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
+
+Signet | Priority
+- | :----:
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
+**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
+**Nexus Signet 1: Fight, Struggle and Decimation** |
+**Man, Mask and Contract**: Deals 40% more Total DMG to enemies with a higher HP percentage than yourself. Total DMG dealt by Blood Boil will also increase by another 60%. | 1st
+**Burden, Difficulty and Calamity**: Blood Boil costs 20% of current HP, deals additional 120% ATK of Adaptive DMG for every 100 HP consumed (max: 4320%), and increases Physical and Elemental DMG by 40% for 5s.
+
+!!! note
+    Be advised that you can choose not to take Kalpas at all for this build if you don't like it; but if you do, don't forget to bring BK for Heimdall and use Biscuit to heal HP to 1k at least if you want to be on the safe side. Other than that, both his DMG boosts are highest priority to upgrade to +3.
+
+####<p align="center">Pardofelis - Signet of Reverie (4th Core)</p>
 
 Signet | Priority
 --- | :----:
 **Motto of Meow**: Every 100 Shiny Silvers obtained this round boost Total DMG by 1%. | 1st
 **Back-Curled Tail**: Every 100 Shiny Silvers obtained this round boost Physical and Elemental DMG by 0.8%. | 2nd
-**Flexible P&C**: Every 100 Shiny Silvers obtained this round restore 1 HP and 0.1 SP. Taking DMG disables this effect for 5s. | 3rd
-**Shiny & Valuable**: Enemy kills grant bonus Shiny Silvers. Non-boss enemies grant 5 each. Boss enemies grant each (independent effect). | Optional
-**Merchant's Philosophy**: After finishing each floor, the number of currently owned Shiny Silvers grows by 10% for up to 100 (independent effect). | Optional
+**Neighborhood Chatters**: Every 100 Shiny Silvers obtained this round boost max HP by 25 and max SP by 1. | 1st
 **Nexus Signet 1: Empty Dreams, Self, Set, and Joy**: |
 
-#### <p align="center">Griseo - Signet of Stars</p>
+####<p align="center">Griseo - Signet of Stars (5th Core)</p>
 
 Signet | Priority
 ------ | :----:
-**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration | 1st
-**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental MG (cannot stack). Triggering it again resets the duration | 2nd
-**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 3rd
-**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 4th
-**Grey & Empty**: Enemies stay tainted for 5s longer | No
+**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental MG (cannot stack). Triggering it again resets the duration | 1st
+**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 2nd
+**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 3rd
 **Nexus Signet 2: Faded Stars** |
-**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | 1st
-**Fallen Leaves**: When yellow and blue taint triggers Blending along with an AoE ATK dealing 800% ATK of Adaptive DMG; CD: 3s. Also taints yourself green for 15s, increasing Total DMG 20% for each taint in Faded Stars. Triggering it again resets the duration. | 2nd
-**A Flame Extinguished**: When red and yellow taint triggers Blending you become tainted orange for 15s, triggering Time Fracture for 2.5s and reducing enemy Physical Defense 40% and Elemental Resist 15% for 10s; CD: 7s. Triggering it again resets the duration. | Optional
+**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | Optional 1st
 
 !!! note
-    Yellow and Red are highest priority to +3. Black is also good to +3. It's strongly recommended to try and get both Petals and Fallen starting at +2 by a Double Bonus floor using the 3* Remembrance Sigil Abuse.
+    Red is highest priority to +3 and a must-get ASAP if you can. Finishing Core is not necessary but you can choose to do so if you want, especially if you didn't go for Kalpas.
 
-#### <p align="center">Eden - Signet of Gold (Mostly Felis Shop Signets)</p>
+### <p align="center">-- Ultimate Build</p>
+
+!!! note
+    Updated for 6.8. 
+
+>   Boss to be chosen: RPC, then Aponia or Vill-V
+
+####<p align="center">Setup</p>
+
+Rank | Difficulty Done | Recommended Gear | Clear Time | Run
+:----: | :----: | :----: | :----: | :----:
+SS0 | Finality | Lustrous Bloom & Aladdin | 5:48m (6.4) | [https://youtu.be/djfNHCkWAZk?si=EmKCeXaQWZUgds7q](https://youtu.be/djfNHCkWAZk?si=EmKCeXaQWZUgds7q)
+
+!!! note
+    When it comes to downscalability, Susannah's options are probably rather poor compared to other Valkyries' options. This is mainly due to VQ damage not critting making it so that she can't use very well certain options like Dante M. I might try VQ with copium farmable gears, but don't expect her performance to go too well.
+
+Buff | Load
+:----: | :----: 
+Enemies damaged by Weapon Actives take 5% bonus Total DMG for 5s. Triggering it again resets the duration. | 5
+After triggering evasion skill, valk Physical and Elemental DMG +15% for 8s, can be refreshed. | 10
+When valk Combo ATK hits an enemy, the target takes 30% more Total DMG for 15s, can be refreshed. | 15
+
+!!! note
+    Updated for 6.8 2nd Half.
+
+Time | Remembrance Sigil | FC Support Skill
+:----: | :----: | :----:
+Early | Fragile Friend | Out of Reach
+Mid | Mad King's Mask / Burden / Feast of Emptiness | Out of Reach
+Late | Ravenous Gully or Tin Flask | Out of Reach
+
+Time | Support 1 | Support 2
+:----: | :----: | :----:
+Early | SA | BR
+Mid | SA | BR / BK
+Late | SA | BR
+
+!!! note
+    SA & BR will be your staple supports for the entirety of the run. By F9/F10 Shop, you can switch out BR for BK to deal with Heimdall.
+
+#### <p align="center">Elysia - Signet of ■■</p>
+
+Signet | Priority
+------|:----:
+**Blessing of Tambourine**: Decreases Ultimate CD by 55%. When Ultimate gets a Perfect judgment, additionally recover 10 SP and 2 Rhythm. Each Perfect increases Total DMG by 8% when ultimate ends for 30s; this increase can stack 5 times. Triggering it again refreshes its duration. | **Start**
+**Blessing of Whimsy**: Casting Ultimate increases Rhythm by 8. Ultimate deals an extra 400% ATK of Physical DMG and inflicts 4 Bleed Trauma per hit. | 1st
+**Blessing of Dappled Shade**: Weapon active has an 80% shorter CD, deals an extra 200% ATK of Physical DMG, increases Rhythm by 3, and inflicts 6 Bleed Trauma.  The enemies it hits also take 10% more Bleed DMG for 8s. Triggering it again refreshes its duration. | No
+**Blessing of Rarities**: When weapon active hits, the target drops 10 Shiny Silvers, up to 5 drops per floor (independent); the host also deals 15% more Physical DMG for 10s, up to 3 stacks (CD: 1s). Triggering it again refreshes its duration. | No
+**Blessing of Luster**: The gems tossed at the end of Combo ATK will leave a gem nebula after exploding. The gem nebula will continuously pull nearby enemies and explode 2 times, dealing 200% x 4 + 500% x 4 ATK of Bleed DMG and inflicting 12 Bleed Trauma. | No
+
+!!! note
+	Tambourine + Whimsy are all VQ needs. Make sure to do F2 Ego reset to get Whimsy as it's what makes this build work and nothing else.
+
+####<p align="center">Kosma - Signet of Daybreak (1st Core)</p>
+
+!!! note
+    Ideal course of build up: 2 Ego Start (Tambourine + Whimsy) into Kosma F3, finish Kosma 1st Core by F4 Double, grab the missing 4th Basic Signet by F5 ideally, then go shop F6 and buy 2 of Kevin's Signets OR 1 and 2 or 1 of Kalpas' DMG boosts. Alternatives include Griseo's Red and Yellow. Roll for Kosma door if need and take Kosma door for F7 Double to get both of his DMG Enhanceds.
+
+Signet | Priority
+- | :----:
+**Talons that Desecrate the Sanctuary**: Basic/Combo/Charged ATKs inflict a stack of Rend on hit, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. Stacking CD: 1s. Characters who can inflict Bleed deal 30% more Physical DMG to Bleeding enemies. | 1st
+**Horns that Rip the Bleak Sky**: Ultimate inflicts 15 stacks of Rend on all enemies, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. CD: 15s. Characters who can inflict Bleed deal 20% more Bleed DMG to Bleeding enemies. | 2nd
+**Wings that Mask the Sanguine Moon**: Ultimate Evasion Skill inflicts 15 stacks of Rend on all enemies, each stack dealing 25% ATK of Adaptive DMG per second for 10s. 70 stacks max. CD: 15s. Characters who can inflict Bleed deal 30% more Total DMG to Bleeding enemies. | 3rd
+**Eyes that Overlook the Vicious Abyss**: For every stack of Rend the enemy has, the Valkyrie can deal 10% more DMG to its shield and it will also take 0.6% more Total DMG. | 4th
+**Nexus Signet 1: Daybreak, An Undying Light** |
+**Undetermined Judgment**: Restores 5 SP when Evil's Doom hits a shield-broken or unshielded enemy. CD: 5s. The Valkyrie also gains 40% more Physical and Elemental DMG for 10s. | 1st
+**Unwavering Promise**: For every stack of Rend on any enemy, the Valkyrie deals 1.6% more Total DMG, up to a maximum of 40%. | 2nd
+
+!!! note
+    You want both DMG boosts from Kosma's Enhanceds. You also want to grab all these 4 basic signets from Kosma to further boost Susannah's dirty damage. 
+
+####<p align="center">Kevin - Signet of Deliverance (2nd Core)</p>
 
 Signet | Priority
 ---- | :----:
-**Recitatif of Fine Jade**: Initial SP and max SP increase by 30 | 1st
-**Recitatif of Eden**: Every 10 SP left boosts Total DMG by 3.0% | 2nd
-**Recitatif of Creeks**: Every 10 SP left boosts Physical & Elemental DMG by 2.5% | 3rd
-**Nexus Signet 2: Echo of Gold** | Not Necessary
+**Goblet of the Giver**: Ultimate boosts Total DMG by 35% for 7s. | 1st
+**Pendant of the Watcher**: Ultimate boosts Physical DMG by 30% for 7s. | 2nd
+**Mask of the Predator**: Ultimate boosts Physical Breach by 35% for 7s. | 3rd
+**Rochet of the Pilgrim**: Ultimate restores 3 SP per second for 7s. | 4th
+**Nexus Signet 1: Blade of the Deliverer** |
+**Crusade of the Deliverer**:After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | 1st
+**Echo of the Deliverer**: Duration of Final Battle and all buffs provided by Normal Signets of Deliverance are extended to 9s. | Optional 2nd
+**Flock of the Deliverer**: Final Battle is also considered burst mode. Total DMG increases by 20% in burst mode. | Optional 3rd
 
 !!! note
-	You can opt to grab and finish Eden2 if you can, but this would require god-like RNG. Nevertheless a good core to finish due to easily being able to maintain it. Also, the Initial/Max SP signet is very good to grab early if u want so u can have Ult ready sooner.
+    You have to make sure to always active right away after ulting. If you get interrupted, you will miss Crusade's window for the enormous buffs from Kevin.
+
+####<p align="center">Kalpas - Signet of Decimation (3rd Core)</p>
+
+Signet | Priority
+- | :----:
+**Blade, Grave and Scar**: Every 100 HP loss boosts Total DMG by 1.0%. | 1st
+**Bone, Blood and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8%. | 2nd
+**Path, Misfortune and Written Fate**: Max HP increases by 25%. | 3rd
+**Desireless, Mindless and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s. | 4th
+**Nexus Signet 1: Fight, Struggle and Decimation** |
+**Man, Mask and Contract**: Deals 40% more Total DMG to enemies with a higher HP percentage than yourself. Total DMG dealt by Blood Boil will also increase by another 60%. | 1st
+**Burden, Difficulty and Calamity**: Blood Boil costs 20% of current HP, deals additional 120% ATK of Adaptive DMG for every 100 HP consumed (max: 4320%), and increases Physical and Elemental DMG by 40% for 5s.
+
+!!! note
+    You'll want both of his DMG boosts and prioritize upgrading them if possible.
+
+####<p align="center">Pardofelis - Signet of Reverie (4th Core)</p>
+
+Signet | Priority
+--- | :----:
+**Motto of Meow**: Every 100 Shiny Silvers obtained this round boost Total DMG by 1%. | 1st
+**Back-Curled Tail**: Every 100 Shiny Silvers obtained this round boost Physical and Elemental DMG by 0.8%. | 2nd
+**Neighborhood Chatters**: Every 100 Shiny Silvers obtained this round boost max HP by 25 and max SP by 1. | 1st
+**Nexus Signet 1: Empty Dreams, Self, Set, and Joy**: |
+
+####<p align="center">Griseo - Signet of Stars (5th Core)</p>
+
+Signet | Priority
+------ | :----:
+**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental MG (cannot stack). Triggering it again resets the duration | 1st
+**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration. | 2nd
+**Black & Dark**: Every time an enemy is tainted, Valkyries deals 10% bonus Physical and Elemental DMG for 20s. 6 stacks max. | 3rd
+**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration. | 4th
+**Nexus Signet 2: Faded Stars** |
+**Petals in the Wind**: When red and blue taint triggers Blending, enemies within 8m are dealt 1200%/500% ATK of Adaptive DMG; CD: 3s. Also taints yourself purple for 15s, increasing the effect of red, yellow, and blue taint by 40%. Triggering it again resets the duration. | Optional 1st
+
+!!! note
+    Red is highest priority to +3 and a must-get ASAP if you can. Finishing Core is not necessary but you can choose to do so if you want, especially if you didn't go for Kalpas.
 
 ***
 
