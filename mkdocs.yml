@@ -1,18 +1,19 @@
-site_name: 'HI3 ER Signet Guide'
-site_description: 'Signet guide for Honkai Impact 3 Elysian Realm'
+site_name: "HI3 ER Signet Guide"
+site_description: "Signet guide for Honkai Impact 3 Elysian Realm"
+plugins:
+  - include-markdown
 theme:
-  name: 'material'
+  name: "material"
   features:
     - navigation.instant
     - navigation.top
     - toc.integrate
-  palette: 
-
+  palette:
     # Palette toggle for light mode
     - scheme: default
       primary: deep purple
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Switch to dark mode
 
     # Palette toggle for dark mode
@@ -23,11 +24,10 @@ theme:
         name: Switch to light mode
 
 markdown_extensions:
-    - admonition
-    - pymdownx.details
-    - pymdownx.superfences
-    - toc:
-        permalink: "#"
-        title: 'Valkyrie Builds'
-        toc_depth: '2-3'
-        
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: "#"
+      title: "Valkyrie Builds"
+      toc_depth: "2-3"
