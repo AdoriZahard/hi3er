@@ -7160,6 +7160,8 @@ Signet | Priority
 **Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s. | 1st
 **Bountiful Blossom: Botan**: Triggering Ultimate Evasion Skill boosts Total DMG by 40% for 8s. | 2nd
 
+{% include-markdown '/signets/Kevin.md' %} 
+
 ***
 
 ## Starry Impression
